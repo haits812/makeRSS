@@ -44,13 +44,13 @@ jobs:
 
     - name: Run NogizakaBlog
       if: contains(fromJSON('["00","03","06","09","12","15","18","21"]'), steps.hour.outputs.hour)
-      working-directory: makeRSS_NogizakaBlog
+      working-directory: makeRSS_NB
       run: python makeRSS_NogizakaBlog.py
       continue-on-error: true
 
     - name: Run HinataBlog
       if: contains(fromJSON('["00","03","06","09","12","15","18","21"]'), steps.hour.outputs.hour)
-      working-directory: makeRSS_HinataBlog
+      working-directory: makeRSS_HB
       run: python makeRSS_HinataBlog.py
       continue-on-error: true
 
