@@ -5,6 +5,60 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>システムカスタマイズツール「Winaero Tweaker」v1.64、スタート画面からおすすめを削除／［Ask Copilot］メニューの削除、ドライブアイコンのカスタマイズにも対応</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2070868.html</link>
+      <pubDate>2025/12/12 23:22</pubDate>
+      <description>&amp;quot;【Luup／NTTデータ／カミナシ／LINEヤフー】TECH PLAY 生成AI Conference&amp;quot; の登壇資料 https://techplay.jp/event/987968</description>
+    </item>
+    <item>
+      <title>米国のAI投資、ITバブル再来は本当か　データで検証 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN09C1V0Z01C25A2000000/</link>
+      <pubDate>2025/12/13 07:23</pubDate>
+      <description>この記事の3つのポイント 情報システム開発へのAI適用は2026年に上流工程へ広がり、全工程を網羅する 新たなシステムの開発だけでなく、「塩漬け」システムの刷新もAIにより加速しそうだ システムエンジニアに必要なスキルが変わり、「ソースコードを書けるだけ」では不要に 「人月商売」と呼ばれ、多数のシステムエンジニアの手作業に多くを依存している情報システム開発。2026年は、開発の全工程でAI（人工知能）がフル稼働し始める節目の年となる。ここ数年で徐々に登場してきた開発支援のAIツールが、テストやコーディングなどの下流にとどまらず、2026年には要件定義や基本設計などの上流工程にも広がり、全工程を網羅するためだ。 開発支援AIはシステムの新規開発だけでなく、長年塩漬けとなっているレガシーシステムの刷新現場でも活躍が期待されている。既に国内大手システムインテグレーター（SIer）各社が関心を寄せ</description>
+    </item>
+    <item>
+      <title>Google翻訳のテキスト処理にGeminiが導入されてさらに自然な翻訳が可能に＆イヤホンでリアルタイム翻訳を聞けるように</title>
+      <link>https://gigazine.net/news/20251213-google-translate-gemini/</link>
+      <pubDate>2025/12/13 09:08</pubDate>
+      <description>🌟 はじめに: AIエージェント時代のワークフローと「理想と現実のギャップ」 LLMの台頭により、システム開発の現場では「AIエージェント」をどのように業務や自社製品に組み込むかが喫緊の関心事となっています。 一方で、いざプロダクション環境でエージェントを動かそうとすると、既存のツールと要件の間に 「理想と現実のギャップ」 を感じることはないでしょうか？ 「自律的に動くエージェントは魅力的だが、本番環境では挙動を制御したい」 「SuperAgentの挙動が不安定なので挙動を把握したい」 「多数のエージェントタスクの並列処理やHuman-in-the-Loop(HITL)、長時間走るコストの高いタスクの再開処理（checkpoint/resume）がうまく扱えない」 本記事では、こうした課題意識から開発している新しいオーケストレーションエンジン 「Graflow」 の設計について解説します</description>
+    </item>
+    <item>
+      <title>AI規制で割れるトランプ支持層、テック系幹部の暗躍にMAGAは反発 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN121000S5A211C2000000/</link>
+      <pubDate>2025/12/13 09:12</pubDate>
+      <description>スマートフォンで誰もが大量のデータを生み出す時代、その管理に頭を悩ませている人も多いのではないでしょうか。クラウドストレージも便利ですが、月額料金やプライバシーの懸念はつきまといます。そんな中、家庭内に設置するNAS（Network Attached Storage）が再び注目を集めています。 今回紹介するのは、中国深圳発のスタートアップであるZettlabの「Zettlab AI NAS」。その名の通りAI機能を統合した次世代のNASで、「CES 2026 Innovation Awards」や「Red Dot Winner 2025」を受賞しました。今回は4ベイモデル「D4」をテストします。 NAS市場の現状と、Zettlab登場の意義 NASというと、セットアップが難解で専門知識が必要というイメージを持つ人も少なくありません。しかし、Zettlab AI NASは導入がかなり簡単でし</description>
+    </item>
+    <item>
+      <title>実践Claude Code入門 | 技術評論社</title>
+      <link>https://gihyo.jp/book/2026/978-4-297-15354-0</link>
+      <pubDate>2025/12/13 11:04</pubDate>
+      <description>こんにちは！ 今週はDXソリューション事業本部 Devグループ の藤野が担当します。 「1000万件を超える膨大なファイル群から、いかに低コストで、かつ高精度に必要な情報を取り出すか？」 RAGシステムを運用・開発する上で、データ数に伴うコストと精度がネックになります。 弊社では業界特化のRAGシステムを数多く構築しており、その肝になる箇所は、やはり「Retrieval（検索）」にあります。 本記事では、コストを抑えつつ業務で真に使える検索パフォーマンスを実現したRetrievalアーキテクチャについてご紹介します。 TL;DR Azure AI Searchとの比較 Elasticsearch + pgvectorの構成 Elasticsearch pgvector 課題 まとめ We’re Hiring! 今回の記事を書いた燈メンバー🙌 TL;DR Elasticsearch + p</description>
+    </item>
+    <item>
+      <title>ベクトル検索実践入門 | 技術評論社</title>
+      <link>https://gihyo.jp/book/2026/978-4-297-15337-3</link>
+      <pubDate>2025/12/12 14:50</pubDate>
+      <description>この記事は 食べログアドベントカレンダー2025 の13日目の記事です🧑‍🎄🎄 はじめに 2005年3月にサービスを開始した「食べログ」は、2025年3月をもって20周年を迎えました。 20年サービスを続けてこられたのは、ご利用いただいているユーザーの皆様、食べログに掲載していただいている飲食店の皆様のおかげです。 心から感謝を込めてお礼申し上げます。 この20年間で、飲食店を取り巻く状況もインターネット技術も大きく変化しました。 それに伴い、食べログも時代に合わせてアップデートを繰り返し、20年間外食に関するニーズに応えるために成長を続けてきました。 私たち開発者にとっては、変化し続ける「ユーザー」と「飲食店」のニーズに応えるために技術でどう課題を解決するかに向き合った20年間でした。 今回、20年という節目に、食べログの軸となる「お店探し」「口コミ」「予約」「新規サービス」の4つ</description>
+    </item>
+    <item>
+      <title>AIが新人の成長機会を奪うなら、新人は上司の椅子を奪えばいい</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/15/news003.html</link>
+      <pubDate>2025/12/15 09:54</pubDate>
+      <description>English TL;DR # LLMフレンドリーな​ドキュメント提供方​法と​しては、​ローカルに​ダウンロードさせるのが​現時点では​最も​効率が​良い library提供者は、​ドキュメントをnpm等の​packageと​して​publishする​ことを​検討するべき​（例: @foo/docs） Vibe Codingが​盛んな​今日に​おいて、​libraryや​frameworkが​LLMフレンドリーである​ことは​とても​重要 Note: この​ブログでは​主に​JavaScriptエコシステムに​絞って​話を​するので、npm registryに​publishする​話を​書いています。​他の​エコシステムに​ついては​他の​エコシステムなりの​package配布手段が​あるので、​そこに​置き換えて​考えてみてください 2025年の​漢字は​「Coding Agent」と</description>
+    </item>
+    <item>
+      <title>ロート製薬、新卒採用の書類選考を廃止　生成AI普及でES均質化 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUF154CN0V11C25A2000000/</link>
+      <pubDate>2025/12/15 16:49</pubDate>
+      <description>大手声優事務所・81プロデュース（エイティワンプロデュース）は12月15日、音声AI企業の米ElevenLabsと業務提携すると発表した。 所属声優の声を随時、ElevenLabsに登録。各声優の声を、声質やトーンそのままに多言語化し、世界中に作品を届けることで、「声優の活躍領域が世界へと大きく広がる」としている。 81プロデュースに所属する声優の声を、必要に応じて随時、ElevenLabsの技術を使って登録。その音声を基にElevenLabsは、許諾を得たアニメ／ナレーション／番組などのコンテンツを多言語化（最大29カ国語）する。 多言語化されたコンテンツがグローバルに配信されれば、世界中のファンが、元の声優の声のニュアンスを保ったまま各言語で作品を鑑賞でき、「日本語の声優＋多言語の声優＝ハイブリッド声優」という概念が生まれるとしている。 81プロ「声優業界が抱える課題に一石を投じる」</description>
+    </item>
+    <item>
+      <title>藤井聡太名人「今年一番ハマったのはバイブコーディング」　生成AIでツール開発にトライ</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/15/news121.html</link>
+      <pubDate>2025/12/15 20:12</pubDate>
+      <description>こんにちは。サイオステクノロジー武井です。今回は、AIエージェント/MCPサーバー実装ガイドを作成しましたので、そのご案内をしたいと思います。 AIエージェント/MCPサーバー実装ガイドとは？ AIをより便利に活用するための AIエージェント や、その拡張技術である MCP（Model Context Protocol） を体系的に学べる教科書となっております。以下で実施するイベントにて、ダウンロードURLを公開し、皆様にダウンロードいただけるようになります。是非ともご参加ください。 AIエージェント/MCPサーバー実装ガイド 解説セミナー https://tech-lab.connpass.com/event/378331/ ガイドの総ページ数は201ページとなっており、かなりのボリュームとなります。7章の構成となっており、読了頂くことにはもうMCPサーバーについては怖いもんなしという感</description>
+    </item>
+    <item>
       <title>メモリ価格が2カ月で5倍に。PCが欲しいなら今が買い時</title>
       <link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2070615.html</link>
       <pubDate>2025/12/12 08:27</pubDate>
@@ -1836,66 +1890,6 @@
       <link>https://note.com/simplearchitect/n/n13e6da47bd39</link>
       <pubDate>2025/11/18 19:28</pubDate>
       <description>参加者満足度約94%！コンタクトセンター/カスタマーサービス関係者必見のビッグイベント 最新トレンド・テクノロジーとの出会いが、2026年を変える テクマトリックス CRM FORUM 2026</description>
-    </item>
-    <item>
-      <title>「AI科学者」で京大と協力、Google幹部「自然の理解は人間の仕事」 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOSG178J50X11C25A1000000/</link>
-      <pubDate>2025/11/18 16:53</pubDate>
-      <description>sponsored 「聞いてない」が起きるのは情報が多すぎるから――。じゃあ、どうする？ プロジェクト進行中の情報共有漏れ、「えっ、聞いてないけど？」問題をどう防ぐ？ sponsored 本格ダイビングウォッチとしての機能はさらに強化 これぞファーウェイ製スマートウォッチの最高峰！ 「HUAWEI WATCH Ultimate 2」レビュー sponsored 「Zoomtopia」会場でユーザーへインタビュー もはやビジネスの中枢。「ウェブ会議のZoom」から「AIのZoom」へ。 sponsored ネットワーク機器とデバイスを自動で可視化、インシデントや障害の原因調査も容易にする「FortiSwitchNMS（FSWNMS）」 工場内からサイバー攻撃発生、しかし攻撃元が見つからない！ ……どうやったら防げた？ sponsored 【チームワークマネジメント実践講座】イベント直前なのに</description>
-    </item>
-    <item>
-      <title>Google Antigravity</title>
-      <link>https://antigravity.google/</link>
-      <pubDate>2025/11/19 01:49</pubDate>
-      <description>いつもは週報記事しか書きませんが、 9月、10月と会社からサンフランシスコ出張の機会をもらって、 本当に人生の中でも1.2を争うような経験ができたので、 その経験をログとして残しておこうと思いnoteにまとめました。 かなり長文になりますが、 興味ある方は最後まで読んでいただけると幸いです。 ここからは極力時系列にしていますが、 思ったことを書くので文章としてはおかしいところもあります。 許して下さい。 ①出張のきっかけ最初に少し過去の話をすると、 私は2018年10月の7年前にサイバーエージェントに入社しました。 そして、 当時できて間もないサイバーエースに入社と同時に出向し、 サイバーグループの門を叩きます。 そこから6年半、 サイバーエースに籍を置いて、 広告代理事業一筋で業務に向き合ってきました。 これは今も変わらないですが、 今年の4月から、 サイバーエージェントAIオペレーショ</description>
-    </item>
-    <item>
-      <title>Gemini 3 による知性の新時代</title>
-      <link>https://blog.google/intl/ja-jp/company-news/technology/gemini-3/</link>
-      <pubDate>2025/11/19 01:50</pubDate>
-      <description>科学者のように振る舞う最先端の人工知能（AI）を使った科学研究で連携する方針を打ち出した京都大学iPS細胞研究所（CiRA）と米グーグルは18日までに日本経済新聞などの取材に応じた。科学分野のAI活用について、グーグルの担当幹部は「自然現象を理解することは人間の研究者がすべきだ」と話し、AIは科学の問題を解決する道具であるという認識を示した。京大とグーグルは17日、東京都内で開かれたイベントで</description>
-    </item>
-    <item>
-      <title>GoogleからもVS Code派生AIエディタ「Antigravity」　Gemini 3 ProやClaude Sonnet 4.5が無料（ITmedia NEWS） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/db98b29cb50709fdf33cc95cb4db404d91ce1c6f</link>
-      <pubDate>2025/11/19 07:00</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/aad921f628a60dfb5ffdc3a809d268185e0dd5b9/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2064%2F334%2Fms00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>ChatGPTやXを巻き込んだCloudflareの障害が解決　原因は「バグが引き起こしたクラッシュ」</title>
-      <link>https://www.itmedia.co.jp/news/articles/2511/19/news068.html</link>
-      <pubDate>2025/11/19 07:55</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/8837cb88282b98eaf88725d44b8013c8074c5c0b/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2064%2F382%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Google、「Gemini 3」を発表 ～“その場の空気を読む”までに進化した最新・最強のAI／Google検索、Geminiアプリなどにも本日より展開</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2064403.html</link>
-      <pubDate>2025/11/19 08:19</pubDate>
-      <description>「クマが柴犬くわえ…」AIフェイク動画“投稿者”が負う「罪」の重さ　人身被害“過去最悪”の中、広がる不安に“便乗”か？【弁護士解説】 環境省によると今年上半期（4〜8月）のツキノワグマの出没件数は2万792件で、統計がある2009年度以降、初めて2万件を突破した。 同省は17日、10月の全国のクマによる負傷者を含む人的被害が88人に上り、今年4〜10月の合計が196人となったと発表した。過去5年間の同時期で最多で、死亡者数も12人と過去最多を更新した。加えて今月3日にも1人が死亡し、16日にもクマが原因と疑われる死亡事故が起きている。 テレビやネットニュース、SNSでも連日クマ被害が話題となっているが、この状況に乗じて、AIで生成された「現実のものではない映像」が多数拡散される問題も起きている。 「クマが自動車を襲う」虚偽のドラレコ映像も多数 10月25日、宮崎県大崎市の住宅にクマが出没し</description>
-    </item>
-    <item>
-      <title>Microsoft、エクセル・パワポ作成をAIが代行　エージェント強化 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN174UB0X11C25A1000000/</link>
-      <pubDate>2025/11/19 06:14</pubDate>
-      <description>［速報］マイクロソフト、MCP on Windowsをプレビュー公開。AIエージェントがWindowsやアプリの操作、設定などを可能に。Ignite 2025 マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、WindowsによるネイティブなMCP（Model Context Protocol）機能となる「MCP on Windows」のパブリックプレビュー公開を発表しました。 AIエージェントがWindowsを操作可能に MCPとは一般に、生成AIが外部のツールを呼び出して情報を取得したり操作したりする際に使われるプロトコルです。生成AI やAIエージェントがMCPクライアントとなり、情報提供や操作の対象となる側がMCPサーバとなります。 MCP on Windowsは、WindowsネイティブなMCPサーバの実装により、ま</description>
-    </item>
-    <item>
-      <title>「クマ遭遇AI予測マップ」を開発して見えたもの。人流解析のプロが野生動物の世界に挑んだ所感【フォーカス】 レバテックラボ（レバテックLAB）</title>
-      <link>https://levtech.jp/media/article/focus/detail_758/</link>
-      <pubDate>2025/11/19 10:40</pubDate>
-      <description>【フランクフルト=林英樹】ドイツの地方裁判所が米オープンAIによるヒット曲の歌詞の無断学習について著作権侵害との判決を下した。専門家によると、生成AI（人工知能）の学習段階の著作物複製を違法と判断したのは世界初という。欧州において音楽や映像、記事などのコンテンツの権利確認が広がる可能性がある。ドイツ音楽著作権協会は2024年11月、オープンAIの生成AI「チャットGPT」が人気の9曲を学習した</description>
-    </item>
-    <item>
-      <title>Claude の Skills、Prompts、Projects、Subagents、MCP の違いと使い分け - izanami</title>
-      <link>https://izanami.dev/post/2cf1d74a-7999-45e9-bd02-e424f9c97b49</link>
-      <pubDate>2025/11/18 12:44</pubDate>
-      <description>Xにて、あるユーザーが15歳のときにValveへ就職し働きたいといった旨のメールを送った際の「不採用通知メール」が粋だとして、注目を集めている。 あるXユーザーがかつてValveに応募した際の同社からの返信だというメールを紹介。このユーザーは15歳のときにValveへ就職し働きたいといった旨のメールを送ったそうだが、10代の若者へ向けたValveの“不採用通知”が粋であるとして、注目を集めている。 Valveは、ゲームの開発や販売をおこなう企業だ。1998年にValve初作品にしてFPSゲームの金字塔ともいわれる『Half-Life』をリリース。その後も『Left 4 Dead』シリーズや『Portal』シリーズ、『カウンターストライク』シリーズや『Dota 2』など、人気作品を数々手がけている。 またPCゲームプラットフォームSteamを運営元としても知られており、PCゲーム市場ではトッ</description>
     </item>
   </channel>
 </rss>
