@@ -91,9 +91,15 @@ def fetch_and_update_feed(feed):
             new_items.append(new_item)
             existing_links.add(link)
     
+    print(f"{output_file}: 新規 {len(new_items)} items")
+    
+    # 新規がなければスキップ
+    if not new_items:
+        print(f"{output_file}: 更新スキップ")
+        return
+
     # 新規アイテムをCSV末尾に追記（高速）
     append_csv(csv_file, new_items)
-    print(f"{output_file}: 新規 {len(new_items)} items追記")
     
     # XMLは最新300件（CSV末尾300行を逆順で取得）
     xml_items = read_last_n_lines(csv_file, MAX_XML_ITEMS)

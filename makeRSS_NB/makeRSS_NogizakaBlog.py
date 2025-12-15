@@ -96,6 +96,11 @@ for url_and_xml in url_and_xmls:
 
     print(f"{xml_file_name}: 新規アイテム数 {len(new_items)}")
 
+    # 新規がなければスキップ
+    if not new_items:
+        print(f"{xml_file_name}: 更新スキップ")
+        continue
+
     # 新規アイテムをCSV末尾に追記（高速）
     append_csv(csv_file_name, new_items)
     print(f"{xml_file_name}: CSV追記完了")

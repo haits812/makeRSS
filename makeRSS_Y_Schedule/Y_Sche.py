@@ -177,6 +177,11 @@ async def main():
 
     print(f"新規スケジュール数: {len(new_schedules)}")
 
+    # 新規がなければスキップ
+    if not new_schedules:
+        print("新規スケジュールなし、更新スキップ")
+        return
+
     # 新規アイテムをCSV末尾に追記（高速）
     append_csv(csv_file, new_schedules)
     print(f"CSV追記完了: {len(new_schedules)} items added")

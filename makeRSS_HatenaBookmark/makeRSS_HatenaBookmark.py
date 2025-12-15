@@ -105,6 +105,12 @@ def main():
 
     print(f"新規アイテム数: {len(new_items)}")
 
+    # 新規がなければスキップ
+    if not new_items:
+        print("新規アイテムなし、更新スキップ")
+        print("スクリプト終了！")
+        return
+
     # 新規アイテムをCSV末尾に追記（高速）
     append_csv(csv_file, new_items)
     print(f"CSV追記完了: {len(new_items)} items added")
