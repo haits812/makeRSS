@@ -1,0 +1,78 @@
+name: Run RSS Generators
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'  # 毎時0分に実行
+
+env:
+  TZ: Asia/Tokyo
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.MY_SECRET_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    # === 毎時実行するスクリプト ===
+    - name: Run HatenaBookmark
+      working-directory: makeRSS_HatenaBookmark
+      run: python makeRSS_HatenaBookmark.py
+      continue-on-error: true
+
+    - name: Run PRTIMES
+      working-directory: makeRSS_PRTIMES
+      run: python makeRSS_PRTIMES.py
+      continue-on-error: true
+
+    # === 3時間毎に実行するスクリプト (0,3,6,9,12,15,18,21時) ===
+    - name: Get current hour
+      id: hour
+      run: echo "hour=$(date +%H)" >> $GITHUB_OUTPUT
+
+    - name: Run NogizakaBlog
+      if: contains(fromJSON('["00","03","06","09","12","15","18","21"]'), steps.hour.outputs.hour)
+      working-directory: makeRSS_NogizakaBlog
+      run: python makeRSS_NogizakaBlog.py
+      continue-on-error: true
+
+    - name: Run HinataBlog
+      if: contains(fromJSON('["00","03","06","09","12","15","18","21"]'), steps.hour.outputs.hour)
+      working-directory: makeRSS_HinataBlog
+      run: python makeRSS_HinataBlog.py
+      continue-on-error: true
+
+    # === Y_Schedule用の追加セットアップ（Chromiumが必要） ===
+    - name: Install Chromium dependencies
+      if: contains(fromJSON('["00","03","06","09","12","15","18","21"]'), steps.hour.outputs.hour)
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chromium-browser libx11-xcb1 libxrandr2 libpangocairo-1.0-0 libatk1.0-0 libatk-bridge2.0-0 libgtk-3-0
+
+    - name: Run Y_Schedule
+      if: contains(fromJSON('["00","03","06","09","12","15","18","21"]'), steps.hour.outputs.hour)
+      working-directory: makeRSS_Y_Schedule
+      run: python Y_Sche.py
+      timeout-minutes: 10
+      continue-on-error: true
+
+    # === コミット＆プッシュ ===
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Update RSS feeds" || exit 0
+        git push
