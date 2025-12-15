@@ -4,31 +4,42 @@ import requests
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import csv
-import codecs
+from collections import deque
 
 MAX_XML_ITEMS = 300  # XMLに保持する最大アイテム数
+FIELDNAMES = ['title', 'link', 'pubDate']
 
-def load_existing_csv(csv_file):
-    """CSVファイルから既存のアイテムを読み込む"""
-    existing_items = []
+def load_existing_links(csv_file):
+    """CSVからリンクのみ読み込む（重複チェック用・軽量）"""
     existing_links = set()
     if os.path.exists(csv_file):
         with open(csv_file, 'r', encoding='utf-8-sig', newline='') as f:
             reader = csv.DictReader(f)
             for row in reader:
-                existing_items.append(row)
                 existing_links.add(row['link'])
-    return existing_items, existing_links
+    return existing_links
 
-def save_csv(csv_file, items):
-    """全アイテムをCSVに保存（BOM付きUTF-8でExcel対応）"""
+def append_csv(csv_file, items):
+    """新規アイテムをCSV末尾に追記（高速）"""
     if not items:
         return
-    fieldnames = ['title', 'link', 'pubDate']
-    with codecs.open(csv_file, 'w', encoding='utf-8-sig') as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, lineterminator='\n')
-        writer.writeheader()
+    file_exists = os.path.exists(csv_file) and os.path.getsize(csv_file) > 0
+    with open(csv_file, 'a', encoding='utf-8-sig', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        if not file_exists:
+            writer.writeheader()
         writer.writerows(items)
+
+def read_last_n_lines(csv_file, n):
+    """CSVの末尾N行を読み込む（最新N件取得用）"""
+    if not os.path.exists(csv_file):
+        return []
+    
+    with open(csv_file, 'r', encoding='utf-8-sig', newline='') as f:
+        reader = csv.DictReader(f)
+        last_n = deque(reader, maxlen=n)
+    
+    return list(reversed(last_n))
 
 url_and_xmls = [
     {
@@ -51,9 +62,9 @@ for url_and_xml in url_and_xmls:
     csv_file_name = url_and_xml['csv']
     include_phrase = url_and_xml.get('include_phrase', [])
 
-    # 既存のCSVからアイテムを読み込む
-    all_items, existing_links = load_existing_csv(csv_file_name)
-    print(f"{xml_file_name}: 既存アイテム数 {len(all_items)}")
+    # 既存リンクのみ読み込み（軽量）
+    existing_links = load_existing_links(csv_file_name)
+    print(f"{xml_file_name}: 既存リンク数 {len(existing_links)}")
 
     print(f"Fetching URL: {url}")
     response = requests.get(url)
@@ -85,15 +96,12 @@ for url_and_xml in url_and_xmls:
 
     print(f"{xml_file_name}: 新規アイテム数 {len(new_items)}")
 
-    # 新しいアイテムを先頭に追加（CSVは全件保持）
-    all_items = new_items + all_items
+    # 新規アイテムをCSV末尾に追記（高速）
+    append_csv(csv_file_name, new_items)
+    print(f"{xml_file_name}: CSV追記完了")
 
-    # CSVに全件保存
-    save_csv(csv_file_name, all_items)
-    print(f"{xml_file_name}: CSV保存完了 {len(all_items)} items")
-
-    # XMLは最新300件のみ
-    xml_items = all_items[:MAX_XML_ITEMS]
+    # XMLは最新300件（CSV末尾300行を逆順で取得）
+    xml_items = read_last_n_lines(csv_file_name, MAX_XML_ITEMS)
 
     # XML作成
     root = ET.Element("rss", version="2.0")
@@ -113,6 +121,6 @@ for url_and_xml in url_and_xmls:
     pretty_xml = reparsed.toprettyxml(indent="  ")
     with open(xml_file_name, 'w', encoding='utf-8') as f:
         f.write(pretty_xml)
-    print(f"{xml_file_name}: XML保存完了 {len(xml_items)} items (最大{MAX_XML_ITEMS}件)")
+    print(f"{xml_file_name}: XML保存完了 {len(xml_items)} items")
 
 print("Done!")
