@@ -5,19 +5,29 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import csv
 from collections import deque
+from urllib.parse import urlparse, parse_qs
 
 MAX_XML_ITEMS = 300  # XMLに保持する最大アイテム数
 FIELDNAMES = ['title', 'link', 'pubDate']
 
-def load_existing_links(csv_file):
-    """CSVからリンクのみ読み込む（重複チェック用・軽量）"""
-    existing_links = set()
+def extract_article_id(url):
+    """URLから記事IDを抽出（imaパラメータを無視）"""
+    # /diary/detail/104021 の 104021 を取得
+    match = re.search(r'/diary/detail/(\d+)', url)
+    if match:
+        return match.group(1)
+    return url  # マッチしない場合はURL全体を返す
+
+def load_existing_ids(csv_file):
+    """CSVから記事IDのみ読み込む（重複チェック用・軽量）"""
+    existing_ids = set()
     if os.path.exists(csv_file):
         with open(csv_file, 'r', encoding='utf-8-sig', newline='') as f:
             reader = csv.DictReader(f)
             for row in reader:
-                existing_links.add(row['link'])
-    return existing_links
+                article_id = extract_article_id(row['link'])
+                existing_ids.add(article_id)
+    return existing_ids
 
 def append_csv(csv_file, items):
     """新規アイテムをCSV末尾に追記（高速）"""
@@ -62,9 +72,9 @@ for url_and_xml in url_and_xmls:
     csv_file_name = url_and_xml['csv']
     include_phrase = url_and_xml.get('include_phrase', [])
 
-    # 既存リンクのみ読み込み（軽量）
-    existing_links = load_existing_links(csv_file_name)
-    print(f"{xml_file_name}: 既存リンク数 {len(existing_links)}")
+    # 既存記事IDのみ読み込み（軽量）
+    existing_ids = load_existing_ids(csv_file_name)
+    print(f"{xml_file_name}: 既存記事ID数 {len(existing_ids)}")
 
     print(f"Fetching URL: {url}")
     response = requests.get(url)
@@ -85,14 +95,15 @@ for url_and_xml in url_and_xmls:
     for link, title, date in zip(links, titles, dates):
         if not include_phrase or any(phrase in title for phrase in include_phrase):
             full_link = f"https://www.nogizaka46.com{link}"
-            if full_link in existing_links:
+            article_id = extract_article_id(full_link)
+            if article_id in existing_ids:
                 continue
             new_items.append({
                 'title': title,
                 'link': full_link,
                 'pubDate': date
             })
-            existing_links.add(full_link)
+            existing_ids.add(article_id)
 
     print(f"{xml_file_name}: 新規アイテム数 {len(new_items)}")
 
