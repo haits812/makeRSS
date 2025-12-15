@@ -5,6 +5,48 @@
     <description>https://prtimes.jp/index.rdfから特定のキーワードを含む記事を提供します。</description>
     <link>https://prtimes.jp/index.rdf</link>
     <item>
+      <title>動画生成AI「NoLang」、多言語機能を全18言語へ大幅拡充。ボタンひとつでインバウンド向け動画を即時生成し、観光・飲食業界の人手不足解消や集客強化を支援</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000063.000129953.html</link>
+      <description>[Mavericks Inc.]
+日本発の動画生成AIサービス「NoLang（ノーラン）」を提供する株式会社Mavericks（本社：東京都文京区、代表者：奥野 将太）は飲食・宿泊業界や自治体・観光施設などのインバウンド向けの対応を支援するため、動...</description>
+      <pubDate>2025-12-15T11:40:31+09:00</pubDate>
+    </item>
+    <item>
+      <title>保険のDXを手掛ける株式会社フィナンシャル・エージェンシーが、「sonar ATS by HRMOS」を導入</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000267.000055762.html</link>
+      <description>[Thinkings株式会社]
+Thinkings株式会社（シンキングス、本社：東京都中央区、代表取締役社長：瀧澤 暁）は、提供する採用管理システム「sonar ATS by HRMOS(https://hr.sonar-ats.jp/20251215_financialagency)（以下、sonar ATS）」...</description>
+      <pubDate>2025-12-15T12:15:59+09:00</pubDate>
+    </item>
+    <item>
+      <title>【導入事例】札幌市民交流プラザ、AIチャットボット「Tebot」で月400件の問い合わせ対応を自動化</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000016.000112751.html</link>
+      <description>[株式会社アノテテ]
+AIチャットボット「Tebot(ティボット)」の開発・販売事業を行う、株式会社アノテテ(本社：大阪府大阪市、代表取締役：岸本 渉、以下 アノテテ)は、札幌市の複合文化施設「札幌市民交流プラザ」における「Tebot」...</description>
+      <pubDate>2025-12-15T13:45:54+09:00</pubDate>
+    </item>
+    <item>
+      <title>【生成AI×マーケティング】AIの創造性を、企業の成長力へ！国内最大級の生成AIコンテスト「Japan AI Creative Contest（JACC）」を活用した「JACC共創プログラム」を発足</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000202.000019564.html</link>
+      <description>[株式会社FTG Company]
+株式会社FTG Company（本社：東京都目黒区、代表取締役社長：森川誠、以下FTG Company）は、企業が抱えるマーケティング課題を「生成AIクリエイター」と共に解決する「JACC共創プログラム」サービスの提供を開始...</description>
+      <pubDate>2025-12-15T17:25:15+09:00</pubDate>
+    </item>
+    <item>
+      <title>ジール、D&amp;amp;I AWARDにおいて、2年連続「アドバンス企業」に認定</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000520.000016467.html</link>
+      <description>[アバントグループ]
+アバントグループで、デジタルトランスフォーメーション（以下「DX」）推進事業を展開する株式会社ジール（本社：東京都品川区、代表取締役社長：沼田 善之、以下「ジール」）は、ダイバーシティ＆インクルージョ...</description>
+      <pubDate>2025-12-15T16:15:24+09:00</pubDate>
+    </item>
+    <item>
+      <title>市民の記憶を紡ぐ展覧会と、DXによる&amp;quot;どこでも図書館&amp;quot;の進化</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000188.000039058.html</link>
+      <description>[入間市]
+[画像1: https://prcdn.freetls.fastly.net/release_image/39058/188/39058-188-7a738cf725460883a027125e04a0d1ec-470x334.png?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;am...</description>
+      <pubDate>2025-12-15T18:00:00+09:00</pubDate>
+    </item>
+    <item>
       <title>SHIFTの障がい者雇用における生成AI活用の取り組みが、「生成AI大賞2025」において特別賞を受賞</title>
       <link>https://prtimes.jp/main/html/rd/p/000000117.000018724.html</link>
       <description>[SHIFT]
@@ -2090,48 +2132,6 @@ DX基盤構築やデータ可視化を軸に、多くの企業を支援してき
       <description>[ナレッジホールディングスLLMO対策本部]
 株式会社ナレッジホールディングス（本社：東京都港区、代表取締役：道川内知）は、AIによるSNS×MEO×口コミの一元管理システム「AXiY（アクシー）」において、新たにTikTok連携機能を追加したことをお知らせいた...</description>
       <pubDate>2025-11-17T09:45:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>ECサイト向けAIチャット「ZETA TALK」の提供を開始～「ZETA SEARCH」との組み合わせにより高度な検索連携を実現～</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000551.000038104.html</link>
-      <description>[ZETA株式会社]
-CX向上生成AIソリューション「ZETA CXシリーズ」を提供し、顧客体験価値の向上を支援するZETA株式会社(本社：東京都世田谷区、以下ZETA)は、ECサイトにAIチャットを実装する「ZETA TALK」の提供を開始いたしまし...</description>
-      <pubDate>2025-11-17T08:00:00+09:00</pubDate>
-    </item>
-    <item>
-      <title>【タイムテーブル・全登壇者決定】11/19(水)緊急開催「ふるさと納税ポイント規制影響調査」報告会。192自治体調査の全貌解説と新時代の戦略を提言</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000268.000132312.html</link>
-      <description>[一般社団法人自治体DX推進協議会]
-一般社団法人自治体DX推進協議会（所在地：東京都港区、以下「GDX」）は、2025年11月19日（水）に開催するオンラインセミナー「【緊急開催：ポイント規制後のふるさと納税】ふるさと納税、ポイント規制の今こそ、...</description>
-      <pubDate>2025-11-17T08:00:00+09:00</pubDate>
-    </item>
-    <item>
-      <title>【ふるさと納税「ポイント規制」影響調査】9割超が反動減も、9月の駆け込み需要は限定的。6割超が「昨年末以下」と回答。年末商戦に向けた「伸びしろ」を示す調査結果を発表</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000267.000132312.html</link>
-      <description>[一般社団法人自治体DX推進協議会]
-一般社団法人自治体DX推進協議会（所在地：東京都港区、以下GDX）は、2025年10月1日に施行されたふるさと納税制度改正（ポータルサイト独自のポイント付与禁止、以下ポイント規制）を受け、全国の自治体を対象に...</description>
-      <pubDate>2025-11-17T08:00:00+09:00</pubDate>
-    </item>
-    <item>
-      <title>株式会社Mavericksは動画生成AI「NoLang」のテンプレート機能を大幅に拡充。企業における動画活用を強力に推進</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000029.000129953.html</link>
-      <description>[Mavericks Inc.]
-日本発、動画生成AI「NoLang（ノーラン）」を提供する株式会社Mavericks（本社：東京都文京区、代表者：奥野 将太）は、多くの企業が課題とする動画制作の「企画・構成」と「編集」の工程を省力化するため、動画...</description>
-      <pubDate>2025-11-16T12:40:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>【11/19緊急開催: ふるさと納税ポイント規制影響セミナー】「ECの運営力」が鍵となる新時代の戦略を徹底解説。ポータルサイト運用支援のオンサイト社が登壇決定</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000266.000132312.html</link>
-      <description>[一般社団法人自治体DX推進協議会]
-一般社団法人自治体DX推進協議会(所在地:東京都港区、以下GDX)は、2025年11月19日(水)に、ふるさと納税のポイント規制影響に関する緊急調査結果を解説するオンラインセミナー【緊急開催:ポイント規制後のふるさと...</description>
-      <pubDate>2025-11-14T16:40:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>導入社数が60社を突破！株式会社Mavericksが開発する動画生成AI「NoLang」が拓く、企業の新たなコミュニケーション</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000028.000129953.html</link>
-      <description>[Mavericks Inc.]
-日本発の動画生成AI「NoLang（ノーラン）」を提供する株式会社Mavericks（本社：東京都文京区、代表者：奥野 将太）は、この度、「NoLang」の法人向けプラン導入企業数が60社を突破したことをお知らせします。「N...</description>
-      <pubDate>2025-11-15T10:40:02+09:00</pubDate>
     </item>
   </channel>
 </rss>
