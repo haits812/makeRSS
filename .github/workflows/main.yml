@@ -2,7 +2,8 @@ name: Run RSS Generators
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # 毎時0分に実行
+    # JST 09,12,15,18,21時に実行 (UTC 00,03,06,09,12時)
+    - cron: '0 0,3,6,9,12 * * *'
 
 env:
   TZ: Asia/Tokyo
@@ -26,7 +27,7 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
 
-    # === 毎時実行するスクリプト ===
+    # === 全スクリプト実行 (JST 09,12,15,18,21時) ===
     - name: Run HatenaBookmark
       working-directory: makeRSS_HatenaBookmark
       run: python makeRSS_HatenaBookmark.py
@@ -37,32 +38,23 @@ jobs:
       run: python makeRSS_PRTIMES.py
       continue-on-error: true
 
-    # === 3時間毎に実行するスクリプト (0,3,6,9,12,15,18,21時) ===
-    - name: Get current hour
-      id: hour
-      run: echo "hour=$(date +%H)" >> $GITHUB_OUTPUT
-
     - name: Run NogizakaBlog
-      if: contains(fromJSON('["00","03","06","09","12","15","18","21"]'), steps.hour.outputs.hour)
       working-directory: makeRSS_NB
       run: python makeRSS_NogizakaBlog.py
       continue-on-error: true
 
     - name: Run HinataBlog
-      if: contains(fromJSON('["00","03","06","09","12","15","18","21"]'), steps.hour.outputs.hour)
       working-directory: makeRSS_HB
       run: python makeRSS_HinataBlog.py
       continue-on-error: true
 
     # === Y_Schedule用の追加セットアップ（Chromiumが必要） ===
     - name: Install Chromium dependencies
-      if: contains(fromJSON('["00","03","06","09","12","15","18","21"]'), steps.hour.outputs.hour)
       run: |
         sudo apt-get update
         sudo apt-get install -y chromium-browser libx11-xcb1 libxrandr2 libpangocairo-1.0-0 libatk1.0-0 libatk-bridge2.0-0 libgtk-3-0
 
     - name: Run Y_Schedule
-      if: contains(fromJSON('["00","03","06","09","12","15","18","21"]'), steps.hour.outputs.hour)
       working-directory: makeRSS_Y_Schedule
       run: python Y_Sche.py
       timeout-minutes: 10
