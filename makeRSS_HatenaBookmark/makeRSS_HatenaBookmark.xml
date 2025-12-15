@@ -5,6 +5,255 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>メモリ価格が2カ月で5倍に。PCが欲しいなら今が買い時</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2070615.html</link>
+      <pubDate>2025/12/12 08:27</pubDate>
+      <description>2025 アドベントカレンダーの記事です！ 弊社シーエー・アドバンスでは、AIの活用を徹底するように号令がかかっています。 今回は、Local LLM を自宅で動かしてみたので、それについて記事をまとめます。 自宅で、Ollama を使って、LLMを動かしたりしたいと思っている方の参考になれば幸いです。 対象読者 LLMに興味がある、ローカルでLLM動かしたい人 ローカルLLMにどれぐらいお金がかかるか気になる人 OCuLink の性能知りたい人 外付けGPUを検討している人 概要・構成要素 この記事を読むとどのように自宅でLLMを動かせるか雰囲気で理解できるかと思います(私も雰囲気でしか理解していません) まず、構築した環境の概観としては以下のような感じとなっています。 LLM Server と 外付けGPU 構成内容 GMKtec Mini PC NucBox M7 Mini PC R</description>
+    </item>
+    <item>
+      <title>GPT-5.2公開　知的労働で専門家を超える「世界一賢い公開モデル」</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2070669.html</link>
+      <pubDate>2025/12/12 10:00</pubDate>
+      <description>VrPDYNZp1q36Z9AYFLWyANURYwdp3m4M VrPDYNZp1q36Z9AYFLWyANURYwdp3m4M ba1c9524c37d3ca0eceaa3c97864c43d</description>
+    </item>
+    <item>
+      <title>SRE × Dynatrace - AI活用による脆弱性対応の効率化 [DeNA インフラ SRE] | BLOG - DeNA Engineering</title>
+      <link>https://engineering.dena.com/blog/2025/12/itpf3g-dynatrace-security/</link>
+      <pubDate>2025/12/12 12:59</pubDate>
+      <description>この記事は、「NEWT Product Advent Calendar 2025」Day10の記事となります。 「NEWT Product Advent Calendar 2025」10日目は、令和トラベル シニアエンジニアのrodrigoが、アプリエンジニア hossyからバトンをもらい執筆。ぜひ、最後までご覧ください！</description>
+    </item>
+    <item>
+      <title>何もしていないスクラムマスターは何をしているのか｜610</title>
+      <link>https://note.com/610_mto/n/n925b7b4dccce</link>
+      <pubDate>2025/12/12 13:59</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5fb5d93096f31320d1fe7b1e1ccab6109ae63124/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2070%2F784%2F00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>OpenAIが「GPT-5.2」を発表、長文でのコンテキスト推論能力が大幅に向上</title>
+      <link>https://codezine.jp/news/detail/22785</link>
+      <pubDate>2025/12/12 11:05</pubDate>
+      <description>LLM(大規模言語モデル)にプログラムを書かせるバイブコーディングの流行を受け、LLM用の効率的なプログラミング言語「Sui」が開発された。 【画像】フィボナッチ数列を出力するプログラム Suiは、「LLMが100%正確にコードを書ける」ことをコンセプトに作られた、LLMのためのプログラミング言語。名前は漢字の「粋」から取られており、洗練し、無駄を削ぎ落とす美意識に基づいて設計されている。LLMにSuiを覚えさせるためのプロンプトも用意されており、ChatGPTやGeminiなど、主要なチャットボットサービスでSuiによるコーディングを実行可能。また、ブラウザ上で試用可能なWebページも用意されている。 開発者は、時系列解析AIなどを開発するmellonのCTO本田崇人氏。「人間に合わせて作られた言語を、LLMに書かせる必要があるのか？」という問題提起からSuiが生まれたという。 本田氏は</description>
+    </item>
+    <item>
+      <title>AIが書き、人が読む時代、読書がスキルになる - Findy Tech Blog</title>
+      <link>https://tech.findy.co.jp/entry/2025/12/11/170000</link>
+      <pubDate>2025/12/11 17:59</pubDate>
+      <description>アメリカ政府による対中輸出規制にもかかわらず、中国国内ではNVIDIAのAI用高性能GPUが依然として入手可能となっています。ゲーム関連ニュースメディアのGamers Nexusの取材班が実際に香港や深圳、鄭州などを訪れ、密輸業者、仲介人、技術者、エンドユーザーなどGPUブラックマーケットに関わる人たちに直接接触し、その実態を暴いています。 THE NVIDIA AI GPU BLACK MARKET | Investigating Smuggling, Corruption, &amp;amp; Governments - YouTube GPUの密輸自体は、大規模な組織犯罪というよりも、個々人が連携する「アリの行列」のようなネットワークで行われているとのこと。アメリカなどでGPUを入手する「供給者」、アメリカ中を車で回ってRTX 4090などを個別に買い集める「買い付け屋」、個人の荷物としてGPUを1</description>
+    </item>
+    <item>
+      <title>【実践編】6つのステップで見る、AIエージェントと走る開発ライフサイクル</title>
+      <link>https://codezine.jp/article/detail/22595</link>
+      <pubDate>2025/12/12 13:03</pubDate>
+      <description>増え続けるコンテキスト AIコーディング実践環境の構築方法【2025年12月】という記事も書きましたが、AIコーディングツールとして、私は現在Claude Codeをメインで使用しています。 そしてAIコーディングしていて、一番ストレスフルな瞬間…それは何といってもこれ 使用しているコンテキストが一杯になったときに出てくる無慈悲なメッセージ。しばらく待たないといけないのと、コンテキスト圧縮するのでこの後、頭も悪くなる（指示を忘れたりする）のが辛いです。 最近、そんなCompacting Conversation...が出てくるのがやけに増えてきたと感じるようになりました。 そんな中、最近ご恵贈いただいたClaude CodeによるAI駆動開発入門を読むと /contextというコマンドでコンテキストウィンドウの使用量を確認できると書いてあったので試してみました。 69% Oh…God… 使</description>
+    </item>
+    <item>
+      <title>Googleが「Gemini Deep Research エージェント」をリリース＆ベンチマーク「DeepSearchQA」オープンソース化</title>
+      <link>https://gigazine.net/news/20251212-gemini-deep-research/</link>
+      <pubDate>2025/12/12 13:57</pubDate>
+      <description>Google、AIエージェント「Gemini Deep Researchエージェント」発表　「Gemini 3 Pro」搭載で自律的調査機能を強化 米Googleは12月11日（現地時間）、新たなAIエージェント「Gemini Deep Researchエージェント」のリリースを発表した。このエージェントは、開発者向けに新しく導入された「Interactions API」を介して利用可能になる見込みだ。これにより、「Googleの最も高度な自律的な研究機能」を直接アプリケーションに組み込むことが可能になったとしている。開発者は、「Google AI Studio」から取得した「Gemini API」キーを使用して、このエージェントにアクセスできる。 Gemini Deep Researchエージェントは、従来のGeminiのDeep Researchの概念をこれまで以上に強力になるように再</description>
+    </item>
+    <item>
+      <title>中国は5万5000kmに及ぶ分散AIネットワークを構築している</title>
+      <link>https://gigazine.net/news/20251212-china-ai-network/</link>
+      <pubDate>2025/12/12 16:05</pubDate>
+      <description>Why this date? Fetching latest analysis from Gemini... Past Predictions Curious about how the sentiment has changed over time? Explore the full history of our daily AI bubble analysis. View Prediction History Is this real? No, this is a satirical project. We don&amp;#39;t actually know if or when the &amp;quot;AI bubble&amp;quot; will burst. It&amp;#39;s a thought experiment where an AI (Gemini) predicts its own potential industry</description>
+    </item>
+    <item>
+      <title>OpenAI Supply Co.</title>
+      <link>https://supply.openai.com/</link>
+      <pubDate>2025/12/12 14:56</pubDate>
+      <description>やぁ〜ん こんにちは、データサイエンティストをしている服部です。 ABEJAアドベントカレンダー2025の10日目の記事です。 LLMといえばロングコンテキスト大事ですよね（唐突） そんなLLMのロングコンテキストを支える重要技術である「YaRN」を紹介したいと思います。 https://arxiv.org/abs/2309.00071 脳内再生されるあれ 実際になんと読むのが正解なのか知りませんが、私の頭の中ではこれしか流れません。 「やぁ〜ん」 www.youtube.com どないやねん　ヤドン ということで、「やぁ〜ん」っとヤドンを題材にしながらヤドンでも分かるようにYaRNを紹介したいと思います。 脳内再生されるあれ YaRNの正式名称 RoPE 回転による位置情報付与 同じトークン内のベクトルの中でも回転させる量を変えている 回転量が少ない部分 回転量が多い部分 RoPEの全体</description>
+    </item>
+    <item>
+      <title>新ライセンスプロトコル「RSL 1.0」が正式始動：Webの新たな経済圏は「AIのタダ乗り」を終わらせるのか？ | XenoSpectrum</title>
+      <link>https://xenospectrum.com/rsl-1-0-ai-licensing-standard-official-launch-pay-to-scrape/</link>
+      <pubDate>2025/12/11 22:29</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&amp;#39;s agent-sdk), and injects relevant context back into future sessions.</title>
+      <link>https://github.com/thedotmack/claude-mem</link>
+      <pubDate>2025/12/11 23:26</pubDate>
+      <description>iPhoneやiPadからGoogleのGeminiを使うためには、iOS向けの「Google Gemini」アプリを利用する必要があります。Googleは新たに、iOS向けのChromeからGeminiに直接アクセスできるようにすることを発表しました。 Use Gemini in Chrome - Computer - Google Chrome ヘルプ https://support.google.com/chrome/answer/16283624 Google Rolls Out Gemini AI for Chrome on iPhone and iPad - MacRumors https://www.macrumors.com/2025/12/11/google-rolls-out-gemini-ai-for-chrome-ios/ Googleは、ChromeにGemini</description>
+    </item>
+    <item>
+      <title>AIで重要度が増す「動画の真正性」　カメラは登場したがワークフローに課題も　ソニーとアドビに聞く</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/12/news116.html</link>
+      <pubDate>2025/12/12 19:38</pubDate>
+      <description>AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話ポエムAI ※最初に少しだけ この記事で出てくる“AI営業”という言葉は、 「提案書づくりにAIを積極利用している営業の方」 を示す便宜的な呼び名です。 深い意味はなく、読みやすさのためのタグのようなものです。 ■ 1. AIが“自分の理解をほんの少し越えた提案”を生成してしまう問題 AIに技術提案を作らせると、とにかく“それっぽい資料”が一瞬で出てきます。 図は綺麗 文言は丁寧 技術用語も正確 課題整理も無駄がない しかし、営業本人の理解度を微妙に超えたレイヤーで文章が出てくることがあり、 技術者の視点で読むと“ほんの小さな違和感”が生まれます。 運用前提が暗黙的 実装段階の落とし穴に触れていない 技術選定理由が抽象的 スケール時の条件が曖</description>
+    </item>
+    <item>
+      <title>NIIにおける大規模言語モデル構築事業の現在地</title>
+      <link>https://speakerdeck.com/odashi/niiniokeruda-gui-mo-yan-yu-moderugou-zhu-shi-ye-noxian-zai-di</link>
+      <pubDate>2025/12/08 21:46</pubDate>
+      <description>はじめに こんにちは。データシステム部・推薦基盤ブロックのかみけん（上國料）です。 突然ですが、デザインパターンの中で個人的に一番好きなのは Strategy Pattern です。 学生時代、研究で鬼のように使っていました。機械学習の研究では「複数のモデルを同じ条件で比較する」場面が頻繁にあって、モデル A とモデル B、さらに提案手法 C を差し替えながら実験を回すわけです。このとき、各モデルを Strategy として切り出しておくと、実験コードがかなり綺麗に書けました。 if-else が増えてきたら「Strategy で綺麗にできないか？」と考えるのが癖になっていたくらいです。 この記事では、なぜ Strategy パターンが好きなのか思い出しながら、コード例を交えながら語っていきます。 Strategy Pattern とは 「アルゴリズムをオブジェクトとしてカプセル化し、実行</description>
+    </item>
+    <item>
+      <title>ChatGPT、もっとテコ入れしないと厳しい気がする【GPT-5.2】</title>
+      <link>https://www.gizmodo.jp/2025/12/gpt_5_2_released.html</link>
+      <pubDate>2025/12/12 18:46</pubDate>
+      <description>2025年8月時点のOctoverseでは、GitHub上で最も使われる言語は「TypeScript」がPythonを抜いて首位になったが（参考）、Python自体も2025年に前年比49％成長し、AI（人工知能）や科学、教育分野の標準言語の地位を維持している。 この結果について、同氏は「非常に驚いた」としつつ「TIOBE Index」など他の人気指標と異なるデータが出たことを指摘。下記の見解が挙がったという。 同氏は「TypeScriptはPythonによく似た型システムを取り入れた。今JavaScriptを書くなら、TypeScriptを使うのが論理的に正しい。これらの言語は人間に人気がある。今後も人気は続くだろう」と述べている。 ここから、同氏が述べる「人間（開発者）に人気がある」ことの詳細、Pythonの成り立ち、型システムを含む言語の発展へと話がつながっていく。 C言語とシェルス</description>
+    </item>
+    <item>
+      <title>生成AIを利用するだけでなく、投資できる組織へ</title>
+      <link>https://speakerdeck.com/pospome/sheng-cheng-aiwoli-yong-surudakedenaku-tou-zi-dekiruzu-zhi-he</link>
+      <pubDate>2025/12/12 12:47</pubDate>
+      <description>GPT-5.2 is our newest flagship model for enterprise and agentic workloads, designed to deliver higher accuracy, stronger instruction following, and more disciplined execution across complex workflows. Building on GPT-5.1, GPT-5.2 improves token efficiency on medium-to-complex tasks, produces cleaner formatting with less unnecessary verbosity, and shows clear gains in structured reasoning, tool gro</description>
+    </item>
+    <item>
+      <title>Amazonがプライム・ビデオでAI要約動画を導入も滅茶苦茶なナレーションを生成してしまい急遽撤去</title>
+      <link>https://gigazine.net/news/20251212-amazon-fallout-ai-recap/</link>
+      <pubDate>2025/12/12 12:53</pubDate>
+      <description>resonantcomputing.org 先週くらいから話題になっているみたいだが、「共鳴コンピューティング宣言（The Resonant Computing Manifesto）」とは何ぞや？ アテンションを奪うことに長けた中央集権的なプラットフォームが人々のつながりや幸福感を奪っており、テクノロジーが人間性を損なう結果になっている現状への批判がまずある。 クリストファー・アレグザンダーと「無名の質」を引き合いに出しているところにおっとなるが、この文章の著者たちはこの質を「共鳴（resonance）」と呼んでいる。テクノロジーは人間の最良の部分を引き出すべきものという信念のもと、もっと個人やコミュニティの特性を生かしたテクノロジーのあり方、つまりは共鳴的な環境を構築できるはずだと訴えている。 今我々はコンピューティングの未来を選ぶ岐路に立っているという認識のもと、以下の5つの原則を提案</description>
+    </item>
+    <item>
+      <title>GitHub - takeshy/obsidian-gemini-helper: An AI-powered assistant plugin for Obsidian using Google Gemini with File Search RAG capabilities.</title>
+      <link>https://github.com/takeshy/obsidian-gemini-helper</link>
+      <pubDate>2025/12/13 06:18</pubDate>
+      <description>クラスメソッドでは AI 駆動開発を推進するための取り組みを行っており、クラスメソッド社員も実際に日常的に AI を使って開発を行っています。 今回、弊社メンバーが日常的に実践する AI 駆動開発のナレッジや Tips を共有するために、AI駆動開発 Advent Calendar 2025 を開催しています。 本ブログは、本企画の 12 日目の記事になります。 もし AI 駆動開発の最先端を知りたい方は、この 1 ヶ月間、ぜひ本アドベントカレンダーをチェックしてみてください。 はじめに 最近AWS構成図を書く機会が増え、生成AIでドラフト版を作成して多少楽をしたいと思うようになりました。 「〇〇のAWS構成図を描いて」と指示するだけでdraw.ioで編集可能な構成図が生成できたら便利ですよね。 今回はClaudeの一機能であるAgent Skillsを活用して、AWS構成図を生成するため</description>
+    </item>
+    <item>
+      <title>「Excel」のエージェントモード、Web版で一般提供開始 ～日本語にも対応／来年1月にはWindows/Mac版、「Microsoft 365 Personal/Family」にも展開へ</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2069931.html</link>
+      <pubDate>2025/12/10 11:20</pubDate>
+      <description>GoogleやBingといった主要な検索エンジンは、生成AIを活用した要約機能を検索結果ページに組み込むようになった。ユーザーが何かを検索すると、関連するWebページの一覧に加えて、AIが情報を要約したテキストが表示される。こうした機能は便利である一方、ユーザーの考え方や判断にどのような影響を及ぼすのだろうか。 研究では2004人の米国成人を対象に、模擬的な検索結果ページを見せる実験を行った。テーマは加熱殺菌処理をしていない牛乳や水道水へのフッ素添加、人工甘味料、遺伝子組み換え食品という、社会的に議論のある4つの健康関連トピックだ。 参加者はAI要約がある場合とない場合、要約がページ上部にある場合と中央にある場合、また要約が健康上の利益を強調する場合と害を強調する場合という異なる条件に無作為に割り当てられた。 結果、AI要約が存在すると、参加者の態度や行動意図、政策への支持は、その要約が主</description>
+    </item>
+    <item>
+      <title>ラクスル非公開化MBO、グロース市場の在り方を問う｜村上誠典 | スタートアップ経営 | シニフィアン共同代表</title>
+      <link>https://note.com/201707/n/nb1bd71d668cd</link>
+      <pubDate>2025/12/12 19:43</pubDate>
+      <description>はじめに Go 言語はシンプルな言語仕様であることからキャッチアップコストが低く、コンパイラ言語であることから実行速度が速いなどメリットも多いです。また、近年では AI Coding も盛んに行われており、静的型付言語である Go 言語は相性も良さそうです。私の実務経験の長さとしては Go 言語が一番長いこと + 上記の理由でもし新規のプロジェクトのバックエンドリードをする場合は Go 言語を採用したいなと思っています（もちろん要件次第ですが）。しかし、そこでなんとなく採用したいなではなく、ある程度定量的な指標をもって言語選定理由を言えるようになりたいなと考えました。また、AI Coding に Go 言語は適していると考えているが、なんらかのベンチマークを参考にした時にそれは定量的に説明できるのかが気になりました。 そこで、今回は Go 言語を採用する理由を探してみようと思います（目的と</description>
+    </item>
+    <item>
+      <title>DatadogのRust製オブザーバビリティデータパイプラインVectorを本番導入した | CyberAgent Developers Blog</title>
+      <link>https://developers.cyberagent.co.jp/blog/archives/60707/</link>
+      <pubDate>2025/12/11 11:41</pubDate>
+      <description>はじめに 最近GoogleでFile Searchという簡単にRAGが使えるAPIが提供されました。任意のStore名を指定して、ファイルをアップロードすれば、以降はGeminiのAPIでChatする際にtoolにそのStore名を指定するだけでRAGとして使ってくれるというお手軽さ。RAGにすることで、大量のデータをプロンプトに含ませることなく、「朝御飯」や「朝ごはん」などの言葉のゆらぎも考慮して結果に含んでくれるようになります。 上記を実行できるragujuaryというコマンドを実装しました。各種プラットフォーム用のバイナリがダウンロードできます。日本語のマニュアルもありますが、簡単に下記で説明してみます。 事前準備 ragujuaryを使用するには、Google AI StudioでGemini APIキーを取得し、環境変数に設定しておく必要があります。 APIキーはGoogle A</description>
+    </item>
+    <item>
+      <title>何故女子は男子より成績は良いのに学力は劣るのか？｜rei</title>
+      <link>https://note.com/beatangel/n/n3576628c220d</link>
+      <pubDate>2025/12/13 13:53</pubDate>
+      <description>AntigravityでAIの待ち時間を「ゼロ」にしたら、3時間で脳が焼き切れてCursorを解約した話 🚀 待ち時間が「消滅」した日「AIの回答を待っている間、手持ち無沙汰だなぁ……」 そう思ってTwitterを開いたり、スマホでゲームをしたりしていたのが、ほんの数日前までの僕でした。 しかし、Antigravityの「Agent Manager」を使い始めた瞬間、その悩みは過去のものとなりました。 待ち時間が短くなったのではありません。 待ち時間が消滅したのです。 💬 従来のAI：「チャット」という拘束時間これまでのAIツール（ChatGPT、Claude、Cursor）は、基本的に「対話」でした。 質問を投げる カーソルが点滅し、文字が生成されるのをじっと待つ（30秒〜1分） 答えを読んで、次の指示を出す この「2. 待つ時間」が曲者です。 短いようで長く、他の作業を始めるには短</description>
+    </item>
+    <item>
+      <title>第二次大戦期の超難解暗号マシン｢エニグマ｣に現代のAIが挑んでみた</title>
+      <link>https://www.gizmodo.jp/2025/12/ai-defeats-enigma-2q7.html</link>
+      <pubDate>2025/12/13 17:39</pubDate>
+      <description>macOS 26.2 Tahoeでは、Thunderbolt 5搭載のApple Silicon Mac間でDirect Memory Accessを可能にする「RDMA over Thunderbolt」がサポートされMLXを利用した分散AI推論などに利用可能になっています。詳細は以下から。 Appleは現地時間2025年12月12日、Mac向けにミュージックやポッドキャスト、ゲームアプリを強化し、暗い場所でビデオ会話中のユーザーの顔を明るく照らすエッジライト機能を追加した「macOS 26.2 Tahoe (25C56)」を正式にリリースしましたが、このmacOS 26.2 TahoeではThunderboltを利用したMac間でのダイレクトメモリアクセス「RDMA (Remote Direct Memory Access) over Thunderbolt」がサポートされているそうで</description>
+    </item>
+    <item>
+      <title>ローカルAIはNASをどう変える？　Zettlab「D4」使って分かったその利便性と将来性</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/13/news015.html</link>
+      <pubDate>2025/12/13 14:02</pubDate>
+      <description>【連絡先】　内閣府知的財産戦略推進事務局 〒100-8914 東京都千代田区永田町1-6-1 内閣府本府庁舎３階［地図（PDF／48KB）］ TEL.03-3581-0324</description>
+    </item>
+    <item>
+      <title>諸説あるAGIの定義をスタンフォード大などが明確化、「教養ある成人」がモデルケース──GPT-4は27%、GPT-5は約6割に到達と試算 | Ledge.ai</title>
+      <link>https://ledge.ai/articles/agi_definition_stanford_gpt4_27_gpt5_60</link>
+      <pubDate>2025/12/13 09:57</pubDate>
+      <description>「自分のWebサイトを持ちたいけれど、WordPressは管理が大変そう」 「そんなに更新しないから、維持費が気になる」 「でも、デザインにはちょっとこだわりたい」 そんな経営者・フリーランス・クリエイターのために、無料Webテンプレート「EYAN（ええやん）」を作りました。27種類のWebサイトのテンプレートは全て無料！登録不要ですぐにご利用いただけます。</description>
+    </item>
+    <item>
+      <title>Gemini API で画像生成や Deep Research するアプリを n8n で作って民主化しよう！</title>
+      <link>https://zenn.dev/ubie_dev/articles/93f7973778df4c</link>
+      <pubDate>2025/12/14 01:43</pubDate>
+      <description>【大バズリ】NotebookLMスライドをパワポやGIF画像に即変換するCanvas。ん…Canvas！？【コード無料配布】 いや……投稿から1日経ってないのに まじん式v4 のいいね/インプの半数超えてるんだが…。 しかもこれ、 Geminiと30分くらいお喋りしてたら完成しました。 今回は、このアプリのソースコードを無料公開したいと思います！ また、どのようにGeminiと対話したのか？ そのバイブコーディングのテクニックについては、 メンバーシップ限定エリアに記載しますね、さすがに。 【無料公開】自分のGeminiで再現しよう！Gemini（思考モード）でCanvasをオンにして、 以下のプロンプトを送信してみてください。無料GeminiでもOK。 以下のコードをCanvasにそのままプレビューしてください。 --- [ソースコード] ソースコード（Xで公開したこちら）import</description>
+    </item>
+    <item>
+      <title>AIは数学者になれるか　数学界に衝撃、証明検証ソフトLean登場：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASTD333PNTD3DIFI004M.html</link>
+      <pubDate>2025/12/14 10:38</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? この記事はLIFULL Advent Calendar 2025の記事です。（何か変なこと書いてたら私の責任です！！） 10月からLIFULL株式会社に入社して早速参加させてもらってます！ はじめに Streamlitが便利なので使ってもらいたいなと思って記事を書きます。 早速ですが、いくつかこの記事用にStreamlitで作ったアプリを紹介します！ こんな感じで表示されるはずです。 ↑は https://prettymapp.streamlit.app/ をforkして、PLATEAUデータ（高さ情報）をAPI経由で取得して既存のマッ</description>
+    </item>
+    <item>
+      <title>n8n &amp;amp;#8211; 乱立するAIツール中でPoCを成功させるために考えたこと・実際に取り組んだこと | メルカリエンジニアリング</title>
+      <link>https://engineering.mercari.com/blog/entry/20251213-862c05648c/</link>
+      <pubDate>2025/12/14 13:41</pubDate>
+      <description>あいひん @BABYLONBU5TER 国税庁はAIを活用した税務調査を導入。2025年6月までの1年間で個人に対する所得税調査の追徴税額が1431億円となり、2009年以降で過去最高を更新。 💵申告漏れ所得金額の最も高い業種 キャバクラ：4164万円 眼科医：3894万円 ホステス・ホスト：2698万円 経営コンサル：2734万円 太陽光発電：2142万円 pic.x.com/2reGWG4CfU 2025-12-12 07:36:31 いぐぞー@書籍執筆中 ✈️ 旅するプログラマー @igz0 普通の人「AIをいい感じに使ったらビジネスチャンスなんじゃね……？？」 ↓ 普通の人「……(ToDoアプリを量産する)」 国税庁の超絶エリート「これは使える……！！💡」 ↓ 国税庁「脱税している人をAIで見つける仕組みを作りました。過去最多の追徴課税です」 ちゃんと勉強はしておくもんだよな。</description>
+    </item>
+    <item>
+      <title>Claude Codeで仕様書駆動開発！3つのツール比較（OpenSpec / spec-kit / cc-sdd）</title>
+      <link>https://zenn.dev/gmomedia/articles/8ccf71e50858de</link>
+      <pubDate>2025/12/14 12:08</pubDate>
+      <description>大規模言語モデル(LLM)は我々のワークスタイルを根底から変革する可能性を秘めたブレイクスルーであり、様々な分野で活用が試みられています。しかしながら、極めて強力なツールというものは可能性と危険性の両面を伴うものであり、LLMについても同じことが言えます。さらに、LLMはあまりにも汎用性が高く、「いつどのように使用すべきか」という疑問は残されたままとなっています。Oxide Computer Companyの共同創業者兼CTOであるBryan Cantrill氏は自社のブログにて、LLMの使用方針に関する投稿を行っています。 576 - Using LLMs at Oxide / RFD / Oxide https://rfd.shared.oxide.computer/rfd/0576 Cantrill氏は、Oxide社でのLLMの使用は、以下の価値観に沿うべきである、と述べています。</description>
+    </item>
+    <item>
+      <title>日本の英語力96位から動かず　AI評価で可視化された「読めるが話せない」の正体 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/86074</link>
+      <pubDate>2025/12/14 09:25</pubDate>
+      <description>この記事は CADDi Tech/Product Advent Calendar 2025 14日目の記事です。 Executive Summary 生成 AI アプリで評価プロセス改善 PoC をした 評価制度をアセット化し、生成 AI ツールを組み合わせることによって、評価プロセスを支援した 「メンバーの思考の整理」「メンバーからマネージャーへのコミュニケーションの改善」というポジティブな効果が得られた （画像は実際のシステム、入力されているテキストは架空の人物・チーム・業務） はじめに キャディのエンジニアリングマネージャーの橋本です。 突然ですが、この記事を読んでくださっている皆さんにひとつ聞きたいことがあります。あなたの会社にある評価プロセス、たとえば目標設定、月次振り返り、期末の自己評価、評価フィードバックなどは、あなたの仕事にとってポジティブに働いているでしょうか？ 評価プロ</description>
+    </item>
+    <item>
+      <title>GoogleChromeに開発者ツール用のMCPサーバーが登場</title>
+      <link>https://codezine.jp/news/detail/22791</link>
+      <pubDate>2025/12/14 07:21</pubDate>
+      <description>コーディングエージェント、特に頭のよいモデルを使っていると、大量の情報を流し込まれて脳が焼かれることありませんか？ ちょっと参考資料を渡して「これを元に設計を開始したい」と言い出すと、 「五次元異空間ミョーミョンでピョマるだけですね」 「ではラングリングの有効期間は2秒間でかまいませんか？」 「これだから平成のひとは！」 とかいきなり言われて「は？なに？？？」みたいになりがちです。 ざくっと設計壁打ちしたかったから、参考資料（これも絶対のものではない）を渡しただけなのに、参考資料を絶対のものとしてずっと先まで全部「勝手に確定された」というのはかなりのストレスになります。しかも、それらの情報を組み立てるためにやたらコンテキスト消費をして、時間がかかってしまいます。 今回はこれを防ぐためのプロトコルを開発してみました。五次元異空間は不要です。 # Protocol: マイクロコミット合意プロト</description>
+    </item>
+    <item>
+      <title>GitHub - zoicware/RemoveWindowsAI: Force Remove Copilot, Recall and More in Windows 11</title>
+      <link>https://github.com/zoicware/RemoveWindowsAI</link>
+      <pubDate>2025/12/13 17:24</pubDate>
+      <description>はじめに こんにちは。 株式会社サイバーセキュリティクラウド SIDfm 開発部門の大谷です。 当社では積極的に AI 活用を進めており、脆弱性管理システム「SIDfm」の開発でも、Gemini や GitHub Copilot を日常的に利用しています。 本記事では、GitHub Copilot Chat をより使いやすくするための設定ファイル .instructions.md などについて、実例を交えながら紹介します。 Point リポジトリの内容を.instructions.mdに書きましょう。 役割や会話スタイルは.agent.mdに書きましょう。 複数リポジトリの共通内容はUser Data下に書きましょう。 Reason .instructions.mdとは AIに与える「指示」をまとめた設定ファイルです。 以前はcopilot-instructions.mdが用いられていまし</description>
+    </item>
+    <item>
+      <title>Microsoft Foundry マルチエージェントにGitHub MCPを使わせる - Insight Edge Tech Blog</title>
+      <link>https://techblog.insightedge.jp/entry/azure-ai-agent-mcp</link>
+      <pubDate>2025/12/14 12:33</pubDate>
+      <description>参照元 I Reverse Engineered ChatGPT&amp;#39;s Memory System, and Here&amp;#39;s What I Found! - Manthan Gupta ChatGPT Memory Architecture: Four-Layer Context System Prioritizes Speed Over RAG and Vector Databases RAGを使わないメモリシステムという衝撃 Hacker Newsで500ポイント以上を獲得し、AI開発者界隈で話題になっているのが、Manthan Guptasさんによる「ChatGPTの記憶システム」のリバースエンジニアリング調査です。 調査で明らかになったのは、ChatGPTが ベクトルデータベースもRAG（Retrieval-Augmented Generation）も使っていない という驚きの事実。多</description>
+    </item>
+    <item>
+      <title>【特集】 メモリ価格が2.8倍に爆上げ。SSDも合わせて高騰中。それでも今買ったほうがいい理由とは？</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2071150.html</link>
+      <pubDate>2025/12/15 07:13</pubDate>
+      <description>最難関の国家資格を持つ医師たちも生成AIの力に頼り始めた。医師の4人に1人は診療中に活用しているとの調査結果もあり、カルテ作成や診断補助など使い道は幅広く、医療の効率化につながる。日本人の病気の特徴を学び精度に磨きをかける研究が進めば、患者はよりよい治療を受けられる。医療現場を変える生成AIの可能性と課題を追った。「60代男性、自己免疫性肝炎。79キログラム。推奨されるステロイドの初期用量を教</description>
+    </item>
+    <item>
+      <title>生成AIを使ってGoogleフォーム×Slackツールの自動リマインドツールを作った話 | 令和トラベル Engineering Blog</title>
+      <link>https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20251215</link>
+      <pubDate>2025/12/15 10:09</pubDate>
+      <description>こんにちは、スーホです。 今回は私のちっぽけな人生をベースにですが、お金と人生について書きたいと思います。 はじめに僕は以下のポストの通り、32歳で1億円の金融資産を築きました。 給料入って金融資産1億達成。目の前に札束がある訳ではないので現実味がないが、金融資産1億を目指して半ばプライベートを捨てて本業、副業、資産運用に取り組んできたので、スマホ上の数字だけでも達成感がある。32歳、まだまだこれからだがとりあえず人生の大きな目標をクリアした。あざした。 pic.twitter.com/c110uK5Zp2 — スーホ (@sukhswhitehorse) November 24, 2023 新卒で入社した総合商社時代から、休む間もなくハードに働き、余暇時間も資産運用やベンチャー事業投資などに没頭した結果、色々ラッキーもあって1億円の金融資産を築くことができました。 多くの人から「若くして</description>
+    </item>
+    <item>
+      <title>Ryzen AI MAX+ 395搭載の高性能ミニPC「Minisforum MS-S1 MAX」購入！　Proxmox VEで10Gbps LANが見えなくなるトラブル？？【イニシャルB】</title>
+      <link>https://internet.watch.impress.co.jp/docs/column/shimizu/2069342.html</link>
+      <pubDate>2025/12/15 08:12</pubDate>
+      <description>こんにちは、CTO室データソリューションチームでマネージャーをしている 開（hiracky16） です。 この記事は、ファインディエンジニア #1 Advent Calendar 2025の14日目の記事です。 adventar.org 先日、チームで半日ほど時間をとってワークショップ（オフサイトミーティング）を実施しました。今回は、そのプロセスの中で「生成AI（Gemini）をファシリテーター兼、壁打ち役として参加させる」という試みを行った話と、そこで決まった私たちの新しいミッション・ビジョンについて書きたいと思います。 データソリューションチームについて紹介 我々のチーム、データソリューションチームについて少し紹介すると現在は職能で言うとデータエンジニアのみが所属するチームで、現チーム体制になって約1年半が経過しました。横断組織でもあるため特定の事業の仕事に取り組むのではなく全事業のデ</description>
+    </item>
+    <item>
+      <title>【アドベントカレンダー2025】【NotebookLM × Gemini】仕様書からテスト項目書を自動生成する「専門家AI」の育て方 -ぐるなび組織間連携の事例- - ぐるなびをちょっと良くするエンジニアブログ</title>
+      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251215-1/</link>
+      <pubDate>2025/12/15 12:06</pubDate>
+      <description>◼️ はじめに ◼️ Honoとは ◼️ Cloudflareとは ◼️ 今回作成するアプリのアーキテクチャに関して 各サービスの役割 ◼️ プロジェクト作成 Honoを使用するためのプロジェクト作成 各リソースを作成 型定義のインストール D1テーブル作成 ◼️ 実装 Bindings型定義 アクティビティ登録APIを作成 テストデータ登録 チャットAPI作成 セッション初期化 メッセージ送信 チャットUI ◼️ 動作確認 今後の改善箇所 ◼️ まとめ ■最後に ◼️ 参考 ◼️ はじめに 株式会社iimonでエンジニアをしている「あめちゃん」です！ 本記事はiimon Advent Calendar 2025の15日目の記事となります！ 12月は社内のエンジニアでアドベントカレンダーに記事を投稿するという一大イベントが発生してる最中です。 僕も何か良い題材がないかなぁと色々考えていまし</description>
+    </item>
+    <item>
+      <title>dbt開発の定型作業とレグレッションテストを効率化するAIエージェントのツールを作った話 - Oisix ra daichi Creator&amp;#39;s Blog（オイシックス・ラ・大地クリエイターズブログ）</title>
+      <link>https://creators.oisixradaichi.co.jp/entry/2025/12/15/104458</link>
+      <pubDate>2025/12/15 10:49</pubDate>
+      <description>ITエンジニアのスキルアップを サポートする 開発書から資格書まで さまざまなジャンルの 技術書籍が読み放題！ プログラミング言語 Python、C++、C、C#、 Java、JavaScript、他 サーバ・クラウド サービス AWS、Azure、GCP コンテナ開発 Docker、Kubernetes、他 情報処理資格 基本情報技術者、 AWS認定資格、 Cisco技術者認定資格、 LPI認定資格 他 AI・人工知能 生成AI、機械学習、 深層学習、人工知能、 画像認識、自然言語処理 ネットワーク・ セキュリティ TCP/IP、暗号化技術、 仮想化、システム構成、 データ設計</description>
+    </item>
+    <item>
+      <title>ドキュメントをnpm packageとしてpublishしよう | blog</title>
+      <link>https://ryoppippi.com/blog/2025-12-14-publish-docs-on-npm-ja</link>
+      <pubDate>2025/12/15 09:47</pubDate>
+      <description>(画像はHPVワクチン薬害訴訟弁護団のホームページhttps://www.hpv-yakugai.net/より) 【2025年12月11日　HPVワクチン薬害訴訟傍聴記録】 日本のマスコミが決して報じないこの裁判の実態を、以前から記録・公開しています。 今回の大阪地裁で傍聴記録は12回目です。 これまでの法廷で、鹿児島大学病院による悪質な医療の実態が既に暴かれています。 前回の福岡地裁での記録はこちらです。 https://note.com/tanuk_ichi/n/n54f69a84625f 自分は多数の子宮頸がんの患者さんに関して、告知や治療やお看取りを行ってきた産婦人科専門医（医学博士）です。 これまでの傍聴記録のまとめが以下のnote記事です。 【必読】鹿児島大学病院脳神経内科に学ぶ、&amp;quot;HPVワクチン後遺症&amp;quot;の作り方https://note.com/tanuk_ichi/n/n0b</description>
+    </item>
+    <item>
+      <title>既存の2D半導体から大幅な性能向上が期待できる「3Dチップ」の製造に成功</title>
+      <link>https://gigazine.net/news/20251215-3d-chip/</link>
+      <pubDate>2025/12/15 12:45</pubDate>
+      <description>Nano Banana Proで作成した当連載登場モデルの明日来子さん。2024年1月に1枚の画像から始まった彼女は、ついに自由に服もポーズも登場場所も変えられるようになった（筆者作成） 今回のテーマは、2025年の画像・動画生成AIまとめです。2023年に誰でも利用可能な形で登場した画像AI、動画AIは、ついに長年の課題だった“一貫性の壁”を突破しました。シーンや状況を変えても、登場人物の顔や服装に連続性を保ったまま、表現を変えたり、別の服装にしたり、角度を変えたりといったことが容易にできるようになってきました。8月に発表されたグーグルの「Nano Banana」、それをさらに上回る性能の11月の「Nano Banana Pro」が最大級の驚きでした。画像AIではバイトダンス「Seedream」、アリババ「Qwen-Image-Edit-2509」などが、動画AIではOpenAI「Sor</description>
+    </item>
+    <item>
+      <title>AWSでElastic Cloudを利用する 2025年12月版（構築編） - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2025/12/15/120000</link>
+      <pubDate>2025/12/15 15:35</pubDate>
+      <description>「macOS Tahoe 26.2」が2025年12月12日(金)にリリースされました。このバージョンではThunderbolt 5ポートを介してMac同士を低遅延接続する機能が追加されており、AIクラスターの構築に役立つことがアピールされています。 macOS Tahoe 26.2 Release Notes | Apple Developer Documentation https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt MacはUnified Memoryと呼ばれるメモリ技術を採用しており、SoCに内蔵されたメモリをCPUとGPUで共有しています。これにより、GPUに大量のメモリを割り当てて大型のAIモデルを高速実行する</description>
+    </item>
+    <item>
       <title>Building agents with the ADK and the new Interactions API- Google Developers Blog</title>
       <link>https://developers.googleblog.com/building-agents-with-the-adk-and-the-new-interactions-api/</link>
       <pubDate>2025/12/12 09:41</pubDate>
@@ -1647,288 +1896,6 @@
       <link>https://izanami.dev/post/2cf1d74a-7999-45e9-bd02-e424f9c97b49</link>
       <pubDate>2025/11/18 12:44</pubDate>
       <description>Xにて、あるユーザーが15歳のときにValveへ就職し働きたいといった旨のメールを送った際の「不採用通知メール」が粋だとして、注目を集めている。 あるXユーザーがかつてValveに応募した際の同社からの返信だというメールを紹介。このユーザーは15歳のときにValveへ就職し働きたいといった旨のメールを送ったそうだが、10代の若者へ向けたValveの“不採用通知”が粋であるとして、注目を集めている。 Valveは、ゲームの開発や販売をおこなう企業だ。1998年にValve初作品にしてFPSゲームの金字塔ともいわれる『Half-Life』をリリース。その後も『Left 4 Dead』シリーズや『Portal』シリーズ、『カウンターストライク』シリーズや『Dota 2』など、人気作品を数々手がけている。 またPCゲームプラットフォームSteamを運営元としても知られており、PCゲーム市場ではトッ</description>
-    </item>
-    <item>
-      <title>代理店統括のシリコンバレー出張ログ｜貫場友介｜サイバーエース統括兼CAIO@プロダクトマーケティング・人財育成・生成AIの3本柱</title>
-      <link>https://note.com/nukiba_yusuke/n/n503e99e1d00a</link>
-      <pubDate>2025/11/18 22:02</pubDate>
-      <description>11月18日午後8時48分ごろから、Xをはじめとした各種Webサービスが利用しにくい状態になった。影響範囲が広いことから「インターネットが壊れた」との声も聞かれる。原因はCDN（コンテンツ・デリバリー・ネットワーク）と呼ばれるサービス「Cloudflare」での障害。耳慣れない言葉だが、普段使うWebサービスにおいてどのような役目を果たしているサービスなのか。 CDNとは、ユーザーがWebサイトにアクセスした際に発生する、Webサイト側の負荷を分散するための技術の一つ。通常、Webサイトへのアクセスは本体となるサーバが処理するが、複数の別サーバを配置することで処理を分散。Webページの表示速度などを向上する。常に大量のアクセスがあるECサイトやニュースサイトといったサービスでよく活用されているため、今回のような障害が起こった際には、さまざまなサービスにアクセスしにくい状態につながることもあ</description>
-    </item>
-    <item>
-      <title>【悲報】iPhone Airのデザイナー、Appleを退職 - すまほん!!</title>
-      <link>https://smhn.info/202511-apple-iphone-air</link>
-      <pubDate>2025/11/18 14:24</pubDate>
-      <description>Google Antigravity - Build the new way</description>
-    </item>
-    <item>
-      <title>【Excel神機能】関数の知識もう不要…？COPILOT関数・エージェント機能の“超時短術”</title>
-      <link>https://www.sbbit.jp/article/cont1/175197</link>
-      <pubDate>2025/11/18 21:51</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/aedfc02324d88d5a178c3ac402c38888fa13b113/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2064%2F371%2Fg00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Microsoft Azure、15.7TbpsのDDoS攻撃を受ける</title>
-      <link>https://ascii.jp/elem/000/004/352/4352724/</link>
-      <pubDate>2025/11/18 17:18</pubDate>
-      <description>最近、頑張っても、どれだけ自分の時間をぶち込んでも成果が出ず辛い状態を過ごしていた。しかし、つい最近光が見えることになる事件があったので、そのことをシェアしてみたい 「何も成果がありませんでした」という辛さ　私は趣味で自分用 AI のアプリを書いていたことで、AI の仕事がメインタスクになったのだが、いろいろなことがあって、文字通り私のアウトカムはほとんどゼロだ。正直毎日寝る直前まで頑張っていて、土曜日は勉強か、遅れている場合は仕事に充てている。日曜にしてない理由は、それをやるとマジで壊れるから。自分のPRのレビューが帰ってきたら遅くても速攻で反応している。でも、まるで成果が無い。しかも何カ月も。本当に周りの私にチャンスを与えてくれたり期待してくれた人に本当に申し訳ない気分だ。では、私が AI の事を周りに比べてわかってないか？というとそうでもない。周りの人はクッソ優秀だが、この AI の</description>
-    </item>
-    <item>
-      <title>Google Antigravity</title>
-      <link>https://antigravity.google/blog/introducing-google-antigravity</link>
-      <pubDate>2025/11/19 02:08</pubDate>
-      <description>Google and Alphabet CEO スンダー ピチャイからのメッセージ約 2 年前、これまで会社として取り組んできた中で最も科学的であり、プロダクトの一つである Gemini 時代が始まりました。それ以来、皆さんにこれほどご活用いただいていることに、喜びを感じています。AI による概要の月間利用者は現在、 20 億人に達し、Gemini アプリの月間ユーザー数は 6 億 5,000 万人を超え、Google Cloud のお客様の 70 %以上が Google の AI を活用しています。また、1,300 万人の開発者が Google の生成モデルを基盤に開発を進めていま。これらは私たちが目の当たりにしているインパクトのほんの一端に過ぎません。 最先端のインフラから世界トップクラスの研究、モデル、ツール、そして世界中の何十億もの人々に届く製品に至るまで、AI イノベーションに対</description>
-    </item>
-    <item>
-      <title>Microsoft 365 Copilot、Word、Excel、パワポなどAIエージェント本格搭載</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2064334.html</link>
-      <pubDate>2025/11/19 06:08</pubDate>
-      <description>マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、AIエージェントの包括的な管理を可能にする「Microsoft Agent 365」を発表しました。 Microsoft Agent 365は、AIエージェントがマイクロソフト製かサードパーティ製かオープンソースにより作られたものであるかに関わらず、あらゆるAIエージェントをセキュアに保つために観測、保護、管理するためのツールとして、Microsoft 365管理センターで利用可能になる予定です。 アクセス制御 エージェントを管理下に置き、必要なリソースのみへのアクセス制限を行う。また、リスクベースの条件付きアクセスポリシーにより、エージェントによる侵害を防止する。 可視化 エージェント、人物、データのつながりを探り、リアルタイムにエージェントの行動やパフォーマンスを監視するこ</description>
-    </item>
-    <item>
-      <title>グーグルが「Gemini 3」発表、推論能力を極めた最新モデル</title>
-      <link>https://k-tai.watch.impress.co.jp/docs/news/2064382.html</link>
-      <pubDate>2025/11/19 04:00</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d47055ab4e90ba8945ff7724417123d476cbaba3/height=288;version=1;width=512/https%3A%2F%2Fnewsatcl-pctr.c.yimg.jp%2Ft%2Famd-img%2F20251119-00000030-zdn_n-000-1-view.jpg%3Fexp%3D10800');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>「クマが柴犬くわえ…」AIフェイク動画“投稿者”が負う「罪」の重さ　人身被害“過去最悪”の中、広がる不安に“便乗”か？【弁護士解説】 | 弁護士JPニュース</title>
-      <link>https://www.ben54.jp/news/2890</link>
-      <pubDate>2025/11/18 11:38</pubDate>
-      <description>CDNサービスを手掛ける米Cloudflareは11月18日午後7時28分（協定世界時、以下同。日本時間では19日午前4時28分）、同日正午ごろに発生した障害が解決したと発表した。「ネットワーク全体でエラーやレイテンシの増加は確認されていない」としている。 顧客に対し、この障害中に無効化したCloudflareサービスを再度有効化しても安全だと説明した。 同社のデーン・クネヒトCTO（最高技術責任者）はXへのポストで、障害の根本的な原因は、「ボット対策機能を支えるサービス内の潜在的なバグにより、私たちが行ったルーチンの設定変更後にサービスがクラッシュしたことだった」とし、サイバー攻撃ではなかったと明言した。 詳細は数時間後に公式ブログで説明するという。 「Cloudflareに依存するサイト、ビジネス、組織は、私たちが利用可能であることを期待しており、私たちが引き起こした影響についてお詫び</description>
-    </item>
-    <item>
-      <title>［速報］マイクロソフト、MCP on Windowsをプレビュー公開。AIエージェントがWindowsやアプリの操作、設定などを可能に。Ignite 2025</title>
-      <link>https://www.publickey1.jp/blog/25/mcp_on_windowsaiwindowsignite_2025.html</link>
-      <pubDate>2025/11/19 08:18</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/02670e0707b7bb6b451248928e52fc74b1a092e6/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F403%2Fimage1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>GoogleからもVS Code派生AIエディタ「Antigravity」　Gemini 3 ProやClaude Sonnet 4.5が無料</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2511/19/news067.html</link>
-      <pubDate>2025/11/19 08:00</pubDate>
-      <description>米Googleは11月18日（現地時間）、次世代AIモデル「Gemini 3」を発表した。最先端の推論能力を持つモデルで、“空気を読む能力”が飛躍的に向上しているのが特徴という。同日からGoogle検索のAIモードなどでGemini 3の提供を始める。 GoogleはGemini 3について「創造的なアイデアにある小さな手掛かりも察知し、困難な問題が複雑に絡み合った要素を解きほぐすといった、深みとニュアンスを理解するよう設計されている」と説明。利用者からのリクエストの背景にある文脈と意図を把握する能力が飛躍的に向上しているという。「AIが単にテキストや画像を読み取るだけでなく、その場の空気を読むまでに進化したことは、まさに驚異的だ」（同社）</description>
-    </item>
-    <item>
-      <title>いすゞ自動車、米新興と自動運転でGO　広域でAI走行に道 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC17BKB0X11C25A1000000/</link>
-      <pubDate>2025/11/18 18:07</pubDate>
-      <description>データプロダクトとは データプロダクトとは 「データそのものを価値として提供するプロダクト」 の総称です。 通常のアプリケーションや社内のデータ基盤とは異なり、データそのものがユーザー価値や売上の源泉になる点が最大の特徴です。 データが直接的な価値になるということで、データ職としてはやりがいがある一方で、通常のデータ基盤開発よりも高い品質が求められます。 私が開発しているデータパイプラインも、生成されたデータそのものが価値になり、顧客の業務に直接組み込まれる性質のものでした。 事業の成長に伴って、新しい仕様が次々に追加され、データパイプラインが複雑化した状態で、変更が高頻度化し、インシデントやヒヤリハットが増えてきました。 この状況を打破すべく、社内で 「安定稼働プロジェクト」 を発足しました。 安定稼働プロジェクト 安定稼働プロジェクトのゴールは、 年末までにインシデント・ヒヤリハットの</description>
-    </item>
-    <item>
-      <title>ChatGPTやXで接続トラブル、クラウドフレアのネットワーク障害が影響</title>
-      <link>https://www.bloomberg.co.jp/news/articles/2025-11-18/T5X9ANKK3NY800</link>
-      <pubDate>2025/11/18 22:55</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9410f77a51cb3c0b2eb053657e9da755c6a3948e/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2064%2F390%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>メルカリ・ハヤカワ五味が感じた生成AI推進を阻む三つの壁「個人で世界を変えようとしなくていい」 - エンジニアtype | 転職type</title>
-      <link>https://type.jp/et/feature/29721/</link>
-      <pubDate>2025/11/18 13:15</pubDate>
-      <description>近年はWi-Fiの信号を利用して対象の行動を検出するWi-Fiセンシングが注目されており、2025年9月26日に公開されたWi-Fi規格の「IEEE 802.11bf」ではWi-Fiセンシングが規格化されました。そんな中、20年以上にわたりIT業界で働いてきたフランシスコ・パーチェ氏が、自宅のWi-Fiを機械学習を使わずにモーションセンサーに変えるシステム「ESPectre」を開発しました。 How I Turned My WI-FI Into A Motion Sensor | Francesco Pace | Medium https://medium.com/@francesco.pace/how-i-turned-my-wi-fi-into-a-motion-sensor-61a631a9b4ec GitHub - francescopace/espectre: ESPectre</description>
-    </item>
-    <item>
-      <title>［速報］マイクロソフト、あらゆるAIエージェントを包括的に管理する「Microsoft Agent 365」発表。Ignite 2025</title>
-      <link>https://www.publickey1.jp/blog/25/aimicrosoft_agent_365ignite_2025.html</link>
-      <pubDate>2025/11/19 06:07</pubDate>
-      <description>最近、頑張っても、どれだけ自分の時間をぶち込んでも成果が出ず辛い状態を過ごしていた。しかし、つい最近光が見えることになる事件があったので、そのことをシェアしてみたい 「何も成果がありませんでした」という辛さ　私は趣味で自分用 AI のアプリを書いていたことで、AI の仕事がメインタスクになったのだが、いろいろなことがあって、文字通り私のアウトカムはほとんどゼロだ。正直毎日寝る直前まで頑張っていて、土曜日は勉強か、遅れている場合は仕事に充てている。日曜にしてない理由は、それをやるとマジで壊れるから。自分のPRのレビューが帰ってきたら遅くても速攻で反応している。でも、まるで成果が無い。しかも何カ月も。本当に周りの私にチャンスを与えてくれたり期待してくれた人に本当に申し訳ない気分だ。では、私が AI の事を周りに比べてわかってないか？というとそうでもない。周りの人はクッソ優秀だが、この AI の</description>
-    </item>
-    <item>
-      <title>自宅のWi-Fiを機械学習なしでモーションセンサーに変えてHome Assistantに統合できる「ESPectre」</title>
-      <link>https://gigazine.net/news/20251118-turned-wi-fi-motion-sensor/</link>
-      <pubDate>2025/11/18 14:03</pubDate>
-      <description>対話型人工知能（AI）「ChatGPT」やソーシャルメディアの「X（旧ツイッター）」で18日、ユーザーがアクセスできなくなる障害が発生した。ウェブセキュリティー企業のクラウドフレアが世界的なネットワーク障害の復旧を進めるなかで起きた。 クラウドフレアは、自社サイト上で「複数の顧客に影響を及ぼす可能性のある問題」を調査していると発表した。同社はカスタマーサポートポータルでも不具合を抱えており、同日早くには一部地域で定期メンテナンスを予定していたという。 障害発生から約1時間後、クラウドフレアは「サービスの回復が見られる」と説明。一方で、「復旧作業を続ける間は、通常より高いエラー率が続く可能性がある」と顧客に注意を呼びかけた。 クラウドフレアのソフトウエアは世界中で数十万社が利用している。企業のウェブサイトと利用者の間で緩衝役となり、過剰なトラフィックによる攻撃からサイトを防御する仕組みを提供</description>
-    </item>
-    <item>
-      <title>インターネットが壊れた？　XもChatGPTも使えない　原因の「クラウドフレア」とは</title>
-      <link>https://www.itmedia.co.jp/news/articles/2511/18/news131.html</link>
-      <pubDate>2025/11/19 00:03</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c15673a38c05095ffa879f125e322612bd6622b1/height=288;version=1;width=512/https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2Fgemini-3_model-blog_meta-dark.width-1300.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>グーグル「Gemini 3」を公開　AIモード検索にも導入　Gemini Agent登場</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2064371.html</link>
-      <pubDate>2025/11/19 01:14</pubDate>
-      <description>Google Antigravity - Build the new way</description>
-    </item>
-    <item>
-      <title>英国の盲目インフルエンサー　AIを駆使して東京観光 - YouTube</title>
-      <link>https://www.youtube.com/watch?v=EFkggLmw-I4</link>
-      <pubDate>2025/11/14 19:50</pubDate>
-      <description>ドイツの音楽著作権管理団体であるGEMAが、ChatGPTの運営元であるOpenAIを相手取りミュンヘン第一地方裁判所へ提起した訴訟において、GEMAが求めていた差止、情報開示、および損害賠償の請求を実質的に認める広範な勝訴判決を下した。初めてのOpenAIの敗訴ということでも重要であるが、さらにこの判決は生成AIの学習(トレーニング)と出力の双方において著作権の侵害性を認める極めて重大な判断を示しており、地裁判決と言えども影響を軽くみるべきではないのだろう。 この訴訟は大量のデータスクレイピングという抽象的なものを対象とするのではなく、GEMA側が選択したドイツ国民がよく知っている9つの楽曲に絞って単純なプロンプト入力によって出力として歌詞が現れるかを訴訟の客体としており、これまでの米国でよく見られたふんわりとしたAIモデルのトレーニングにおける間接的な侵害を争うものとは大分様相が異なる</description>
-    </item>
-    <item>
-      <title>松任谷由実さん、自身の「AI音声」でアルバム発売　名義は「Yumi AraI」</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2511/18/news076.html</link>
-      <pubDate>2025/11/18 16:09</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6f75f0f2e05243e1dcdaa3750a3ae90d931d881b/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F246%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>A new era of intelligence with Gemini 3</title>
-      <link>https://blog.google/products/gemini/gemini-3/</link>
-      <pubDate>2025/11/19 01:41</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9410f77a51cb3c0b2eb053657e9da755c6a3948e/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2064%2F390%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>RAGをゼロから実装して仕組みを学ぶ【2025年版】</title>
-      <link>https://zenn.dev/knowledgesense/articles/2619c6e5918d08</link>
-      <pubDate>2025/11/18 11:46</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/742f1be9145c97e90dba71448d4f8c68b7836ff5/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2064%2F084%2FH00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>AIを使う人は自分のパフォーマンスを過大評価する傾向があるとの研究結果、AIリテラシーが高い人ほど過信しがち</title>
-      <link>https://gigazine.net/news/20251118-people-use-ai-overestimate-abilities/</link>
-      <pubDate>2025/11/18 12:39</pubDate>
-      <description>これからはじめるClaude Code入門 シンプルなTODOアプリを⁠⁠、Claude Codeを使って5分で作って30分で公開する 「Claude Code」は、CLI上で動くLLMによるAI開発支援ツールです。本連載は全4回を予定しています。これからClaude Codeを初めて触ってみる初級から中級のエンジニア向けに、概要と歴史的な背景の説明、料金プラン等の紹介、インストールとセットアップのやり方を解説し、最後にClaude Codeを使った新しい開発スタイルをハンズオンで体験します。なお本連載は2025年12月5日刊行予定の『Claude CodeによるAI駆動開発入門』から一部、抜粋・編集してお届けします。 第3回目は、Claude Codeにプロンプトを指示して、たったの5分でシンプルなTODOアプリケーションを作ってみます。その後、アプリケーションをGitHub Pages</description>
-    </item>
-    <item>
-      <title>生成AIで時間が減った業務、1位は「テストコード生成」、増えた業務は？</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2511/18/news057.html</link>
-      <pubDate>2025/11/18 14:36</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6f75f0f2e05243e1dcdaa3750a3ae90d931d881b/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F246%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Cloudflareで大規模障害。XやChatGPTなどが影響</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2064390.html</link>
-      <pubDate>2025/11/18 23:13</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c3d64367ae12a745ad8334ea50cbe6232dee219c/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F377%2Fimage1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>GitHub - p-e-w/heretic: Fully automatic censorship removal for language models</title>
-      <link>https://github.com/p-e-w/heretic</link>
-      <pubDate>2025/11/18 07:54</pubDate>
-      <description>どうしても呼んでくれない。 なんか方法ないかなあ</description>
-    </item>
-    <item>
-      <title>【西川和久の不定期コラム】 3年前のPCでも、安い中古のGeForce RTX 3060(12GB)積めばAIが遊べるゾ！</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2064084.html</link>
-      <pubDate>2025/11/18 12:04</pubDate>
-      <description>Xにて、あるユーザーが15歳のときにValveへ就職し働きたいといった旨のメールを送った際の「不採用通知メール」が粋だとして、注目を集めている。 あるXユーザーがかつてValveに応募した際の同社からの返信だというメールを紹介。このユーザーは15歳のときにValveへ就職し働きたいといった旨のメールを送ったそうだが、10代の若者へ向けたValveの“不採用通知”が粋であるとして、注目を集めている。 Valveは、ゲームの開発や販売をおこなう企業だ。1998年にValve初作品にしてFPSゲームの金字塔ともいわれる『Half-Life』をリリース。その後も『Left 4 Dead』シリーズや『Portal』シリーズ、『カウンターストライク』シリーズや『Dota 2』など、人気作品を数々手がけている。 またPCゲームプラットフォームSteamを運営元としても知られており、PCゲーム市場ではトッ</description>
-    </item>
-    <item>
-      <title>P・マッカートニーさん、AI著作権法改正に「無音」の新曲で抗議</title>
-      <link>https://www.afpbb.com/articles/-/3609436</link>
-      <pubDate>2025/11/18 16:26</pubDate>
-      <description>現代では誰もが簡単にチャットAIや検索エンジンのAIツールを利用し、さまざまな疑問の答えを得られるようになりましたが、AIの回答が間違っていることも多い点に注意が必要です。しかし、中にはAIの回答をうのみにしてしまい、SNSなどで専門家を相手にとんちんかんなことを言ってしまう人もいます。新たな研究では、AIを使う人は自分自身のパフォーマンスを過大評価しがちであり、特にAIリテラシーが高い人ほどその傾向が顕著だということが示されました。 AI makes you smarter but none the wiser: The disconnect between performance and metacognition - ScienceDirect https://www.sciencedirect.com/science/article/pii/S0747563225002262 AI</description>
-    </item>
-    <item>
-      <title>Verifiability</title>
-      <link>https://karpathy.bearblog.dev/verifiability/</link>
-      <pubDate>2025/11/18 06:30</pubDate>
-      <description>YAPC::Asiaの頃はすべて参加してきたけど、YAPC::Japanになってからはタイミングがあわず参加できていなかったので、10年ぶりの参加。 久しぶりの参加だし、発表もできたらうれしいな、と思ってプロポーザルを出したら通ったので、発表してきた。 発表内容 「なぜインフラコードのモジュール化は難しいのか - アプリケーションコードとの本質的な違いから考える」というタイトルで発表した。 インフラコードのモジュール化について、アプリケーションコードと比較しながら、なぜ難しいのか、どう向き合うべきか、といったあたりを整理してみた内容。 インフラコードは「状態を記述」するのに対して、アプリケーションコードは「処理を記述」する、という本質的な違いがあって、そこからモジュール化設計のアプローチも変わってくる、という話。 会場は結構席が埋まってたと思う。質問もいくつかいただけてよかったし、その後話</description>
-    </item>
-    <item>
-      <title>「NotebookLM」と同等の機能をローカル環境で使える「Open Notebook」（ZDNET Japan） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/75396870a564269ce76d99e69a51e6b50366ba47</link>
-      <pubDate>2025/11/18 11:59</pubDate>
-      <description>英ロックバンド「ビートルズ」の元メンバー、ポール・マッカートニーさん（2015年7月4日撮影）。（c）Sophia Juliane Lydolph/SCANPIX/AFP 【11月18日 AFP】英ロックバンド「ビートルズ」の元メンバー、ポール・マッカートニーさんが来月、無音の楽曲をリリースすることがこのほど分かった。ハイテク企業による楽曲利用を事実上認めることになる著作権法改正案への抗議の一環。 2月にリリースされた無音アルバム「Is This What We Want?」への追加トラックとして発表される楽曲のタイトルは「Bonus Track」。ハンス・ジマーさんやケイト・ブッシュさん、アニー・レノックスさん、デーモン・アルバーンさん、ジャミロクワイら計1000人以上のミュージシャンが参加したプロジェクト。 AI（人工知能）が音楽産業に及ぼす影響に警鐘を鳴らすこのプロジェクトの参加ミュ</description>
-    </item>
-    <item>
-      <title>「Cloudflare」のグローバルネットワークに障害 ～Google、X、AWS、OpenAIなど影響多数／広範囲にわたり500エラーが発生、現在も復旧作業が継続中</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2064377.html</link>
-      <pubDate>2025/11/18 22:21</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/6f75f0f2e05243e1dcdaa3750a3ae90d931d881b/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F246%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>米メタ社員“孤立”嘆く「会議でも中国語が飛び交う」、シリコンバレーの裏で進む言語と技術の逆転 | 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア</title>
-      <link>https://36kr.jp/443834/</link>
-      <pubDate>2025/11/14 16:47</pubDate>
-      <description>はじめに製造業でローカルLLMの導入が話題になっています。 「ChatGPTは便利だけど、機密情報を扱えない」 「社内にサーバーを置けば、安全に生成AIが使えるらしい」 「最近のローカルLLMは性能が高いと聞いた」 こういった期待を持って、ITベンダーに相談する。担当者は丁寧にヒアリングしてくれます。立派な提案書も届きます。そして見積もり。金額は300万円から1,500万円、期間は3ヶ月から半年。 数ヶ月経って契約が成立し、プロジェクトが進みます。要件定義、環境構築。そして2〜3ヶ月後、ようやく検証環境が完成します。 検討開始から半年が経過。ようやく現場の担当者が触ってみる。 「あれ、このUI、使いにくいな...」 「既存の業務フローに合わない」 「思ったより効果が出ない」 でも、既に300万円を払った後です。 問題は、ITベンダーのPoCが悪いわけではありません。問題は、「触る」のが遅す</description>
-    </item>
-    <item>
-      <title>【コラム】日本はアニメーターを守れ、AIが創造力を侵食－トーベック</title>
-      <link>https://www.bloomberg.co.jp/news/articles/2025-11-17/T5U39TT96OSL00</link>
-      <pubDate>2025/11/17 18:13</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/12161f28758e545e92582a9f2902bcf479552d9b/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2063%2F747%2Fvisual_studio_code.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>OpenAIの新AIブラウザー「ChatGPT Atlas」は安全か？専門家が警告するリスクとは</title>
-      <link>https://japan.cnet.com/article/35240574/</link>
-      <pubDate>2025/11/17 17:04</pubDate>
-      <description>四半世紀前に創業したDeNAは現在、第2の創業と位置づけ、AIにオールインすることを宣言、AIを軸にしたさまざまな戦略を進める中、安心・安全なAI活用を支えるべく、データガバナンスに取り組んでいる。 「一人ひとりに 想像を超えるDelightを」というミッションに基づき、ゲームをはじめ、ライブコミュニティ、スポーツ・まちづくり、ヘルスケア・メディカルなど、さまざまな事業を展開するディー・エヌ・エー（DeNA）。同社は現在、経営資源の全てをAIに投資する「AIオールイン」を推進している。 同社の安心・安全なAI活用を実現していくうえで重要な役割を担うのがデータ基盤部だ。「ゲームエンタメ」「ライブコミュニティ」「ヘルスケア・メディカル」「スポーツ・バックオフィス」という事業分野ごとに4つのグループがある「ストリームアラインドチーム」と、プラットフォームグループによる「イネイブリング・プラットフ</description>
-    </item>
-    <item>
-      <title>「補給」や「戦力回復」がわからない、牟田口廉也のような親がいる</title>
-      <link>https://blog.tinect.jp/?p=90493</link>
-      <pubDate>2025/11/18 08:04</pubDate>
-      <description>VS Codeの最新版で「Planエージェント」機能が利用可能に。仕様や実装計画の作成をCopilotが支援 無償のコードエディタ「Visual Studio Code」（以下、VS Code）の最新版として今月（2025年11月）にリリースされた「VS Code October 2025 (version 1.106)」で、仕様や実装計画の作成をCopilotが支援してくれる「Planエージェント」機能が搭載されたことが明らかになりました。 Learn more about these features in our latest release notes: https://t.co/EqDziRxrxB — Visual Studio Code (@code) November 12, 2025 Planエージェントは、先月（2025年10月）に開催されたGitHub Univers</description>
-    </item>
-    <item>
-      <title>シンプルなTODOアプリを、Claude Codeを使って5分で作って30分で公開する | gihyo.jp</title>
-      <link>https://gihyo.jp/article/2025/11/get-started-claude-code-03</link>
-      <pubDate>2025/11/18 14:40</pubDate>
-      <description>本記事では、RAGの基本的な仕組みを理解するために、Pythonを使ってゼロからRAGを実装する手順をざっくり解説します。 株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。 この記事は何 この記事では、非エンジニアでも、手元のPCで「RAG」を動かせるというところまで解説したいと思います。 こんな感じでRAGを構築できます。入門から解説します 最近、非エンジニアでも、RAGに興味を持つ方が増えました。 ただ、一方で、RAGの「基本」についての記事は、だいぶ減っています。このままだと、「RAGに詳しい人だけが、さらに詳しくなっていく」という状態になってしまいます。 そこで今回は、入門者向けに、「やってみた」形式で、RAG技術のざっくり解説をしていきます。なるべく簡単に行きます↓ そもそもRAGとは？ RA</description>
-    </item>
-    <item>
-      <title>Googleが気象予報モデルの「WeatherNext 2」を発表、1時間単位での高解像度予測が可能な最も高度で効率的なAIモデル</title>
-      <link>https://gigazine.net/news/20251118-google-weathernext-2/</link>
-      <pubDate>2025/11/18 11:59</pubDate>
-      <description>をAIに調べさせた 日本の二次創作文化と強い同一化：反AI感情の文化的背景 日本の二次創作（ファンアート）文化や「絵師」コミュニティには、AIへの嫌悪感が過激化しやすい土壌となる文化的・心理的背景があります。まず指摘できるのは、創作物への強い愛着と同一化です。漫画・アニメの創作コミュニティでは、自分の描いたキャラクターや画風を「我が子」のように大切に思う傾向が強く、他者に真似されたり無断利用されることに対して極めて敏感です ￼。この心理は、長年問題視されてきた無断転載・無断加工への嫌悪とも連続しています。元々、日本のイラスト界隈ではネット上で作品を無断転載されたり、他人の絵を加工される行為に強い拒否反応があり、著作権意識が高いクリエイターが多いことで知られます。生成AIは、インターネット上から膨大な画像を無差別にスクレイピングして学習する特性上、クリエイターにとっては「無断転載の塊」のよう</description>
-    </item>
-    <item>
-      <title>依頼したPC操作を代行してくれる「Copilot Actions」が「Copilot on Windows」に／旅行写真の整理、ダウンロードフォルダーの掃除といったローカルファイル処理に対応</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2064246.html</link>
-      <pubDate>2025/11/18 17:52</pubDate>
-      <description>本記事では、RAGの基本的な仕組みを理解するために、Pythonを使ってゼロからRAGを実装する手順をざっくり解説します。 株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。 この記事は何 この記事では、非エンジニアでも、手元のPCで「RAG」を動かせるというところまで解説したいと思います。 こんな感じでRAGを構築できます。入門から解説します 最近、非エンジニアでも、RAGに興味を持つ方が増えました。 ただ、一方で、RAGの「基本」についての記事は、だいぶ減っています。このままだと、「RAGに詳しい人だけが、さらに詳しくなっていく」という状態になってしまいます。 そこで今回は、入門者向けに、「やってみた」形式で、RAG技術のざっくり解説をしていきます。なるべく簡単に行きます↓ そもそもRAGとは？ RA</description>
-    </item>
-    <item>
-      <title>【プロンプト公開】AIデザインツール「Layermate」の特長を紹介　Goodpatchデザイナーによる活用事例も｜Goodpatch Blog グッドパッチブログ</title>
-      <link>https://goodpatch.com/blog/2025-11-layermate</link>
-      <pubDate>2025/11/14 00:20</pubDate>
-      <description>堀井雄二氏がこれまでのゲーム開発を振り返る。韓国で行われた「ドラゴンクエスト」の講演をレポート［G-STAR 2025］ 編集部：御月亜希 韓国・釜山で11月13日に開幕したゲームショウG-STAR 2025では，さまざまな登壇者によるカンファレンスG-CON 2025が併催されている。その2日目となる14日には，「ドラゴンクエスト」シリーズの生みの親として知られる堀井雄二氏の講演「The Creation and Legacy of Dragon Quest」（「ドラゴンクエスト」創造とレガシー）が行われた。 堀井氏は，11月3日に「旭日小綬章」を受賞して，大きな話題になったばかり。しかも，韓国で講演するのは今回が初めてということで，会場には多くの来場者が集まった。多くはドラゴンクエストファンであり，「ドラゴンクエストが好きな人？」という質問には，大半が手を上げていた。 堀井氏が，これま</description>
-    </item>
-    <item>
-      <title>ReAct 論文と共に読み解く strands-agents/sdk-python の実装</title>
-      <link>https://zenn.dev/aws_japan/articles/2025-11-17-react-strands-agents</link>
-      <pubDate>2025/11/18 07:02</pubDate>
-      <description>【シリコンバレー=清水孝輔】米紙ニューヨーク・タイムズは17日、米アマゾン・ドット・コム創業者のジェフ・ベゾス氏が私財を投じて人工知能（AI）新興企業を立ち上げたと報じた。資金調達額は62億ドル（約9600億円）にのぼるという。自ら共同経営トップに就任し、競争が激しいAI分野に参入する。ベゾス氏が共同トップに就いたのはプロジェクト・プロメテウスと呼ぶ新興企業だ。具体的な設立時期は明らかになって</description>
-    </item>
-    <item>
-      <title>【朗報】ありがとう公取委!? iPhoneのSiri起動ボタンで他社AIを起動可能になる、日本限定神アプデ実施へ - すまほん!!</title>
-      <link>https://smhn.info/202511-iphone-siri-gemini</link>
-      <pubDate>2025/11/18 10:38</pubDate>
-      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
-    </item>
-    <item>
-      <title>「NotebookLM」と同等の機能をローカル環境で使える「Open Notebook」</title>
-      <link>https://japan.zdnet.com/article/35240588/</link>
-      <pubDate>2025/11/18 12:02</pubDate>
-      <description>をAIに調べさせた 日本の二次創作文化と強い同一化：反AI感情の文化的背景 日本の二次創作（ファンアート）文化や「絵師」コミュニティには、AIへの嫌悪感が過激化しやすい土壌となる文化的・心理的背景があります。まず指摘できるのは、創作物への強い愛着と同一化です。漫画・アニメの創作コミュニティでは、自分の描いたキャラクターや画風を「我が子」のように大切に思う傾向が強く、他者に真似されたり無断利用されることに対して極めて敏感です ￼。この心理は、長年問題視されてきた無断転載・無断加工への嫌悪とも連続しています。元々、日本のイラスト界隈ではネット上で作品を無断転載されたり、他人の絵を加工される行為に強い拒否反応があり、著作権意識が高いクリエイターが多いことで知られます。生成AIは、インターネット上から膨大な画像を無差別にスクレイピングして学習する特性上、クリエイターにとっては「無断転載の塊」のよう</description>
     </item>
   </channel>
 </rss>
