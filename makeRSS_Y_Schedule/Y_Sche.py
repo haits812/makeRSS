@@ -13,14 +13,14 @@ from urllib.parse import urlparse, parse_qs
 import traceback
 import csv
 
-MAX_XML_ITEMS = 500  # XMLに保持する最大アイテム数
+MAX_XML_ITEMS = 300  # XMLに保持する最大アイテム数
 
 def load_existing_csv(csv_file):
     """CSVファイルから既存のスケジュールを読み込む"""
     existing_items = []
     existing_keys = set()
     if os.path.exists(csv_file):
-        with open(csv_file, 'r', encoding='utf-8', newline='') as f:
+        with open(csv_file, 'r', encoding='utf-8-sig', newline='') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 existing_items.append(row)
@@ -70,7 +70,7 @@ def save_csv(csv_file, items):
     if not items:
         return
     fieldnames = ['pubDate', 'title', 'link', 'category', 'start_time']
-    with open(csv_file, 'w', encoding='utf-8', newline='') as f:
+    with open(csv_file, 'w', encoding='utf-8-sig', newline='') as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(items)
