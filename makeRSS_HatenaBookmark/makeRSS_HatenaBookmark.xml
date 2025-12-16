@@ -5,6 +5,78 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Claude Code に draw.io の図を描かせるコツ</title>
+      <link>https://zenn.dev/genda_jp/articles/2025-12-12-drawio-tips-claude-code</link>
+      <pubDate>2025/12/14 02:40</pubDate>
+      <description>Top &amp;gt; 学術＆研究 &amp;gt; 諸説あるAGIの定義をスタンフォード大などが明確化、「教養ある成人」がモデルケース──GPT-4は27%、GPT-5は約6割に到達と試算</description>
+    </item>
+    <item>
+      <title>【序論】なぜ今、監視は「再発見」されるのか</title>
+      <link>https://thinkit.co.jp/article/38701</link>
+      <pubDate>2025/12/14 13:06</pubDate>
+      <description>【大バズリ】NotebookLMスライドをパワポやGIF画像に即変換するCanvas。ん…Canvas！？【コード無料配布】 いや……投稿から1日経ってないのに まじん式v4 のいいね/インプの半数超えてるんだが…。 しかもこれ、 Geminiと30分くらいお喋りしてたら完成しました。 今回は、このアプリのソースコードを無料公開したいと思います！ また、どのようにGeminiと対話したのか？ そのバイブコーディングのテクニックについては、 メンバーシップ限定エリアに記載しますね、さすがに。 【無料公開】自分のGeminiで再現しよう！Gemini（思考モード）でCanvasをオンにして、 以下のプロンプトを送信してみてください。無料GeminiでもOK。 以下のコードをCanvasにそのままプレビューしてください。 --- [ソースコード] ソースコード（Xで公開したこちら）import</description>
+    </item>
+    <item>
+      <title>Just image Transformer: ピクセル空間で実画像を予測するフローマッチングモデル</title>
+      <link>https://zenn.dev/platina/articles/jit-pixel-space-x-pred</link>
+      <pubDate>2025/12/14 19:13</pubDate>
+      <description>「Space Jam」はバスケットボールを主題にしたアメリカのアニメーション映画です。「Space Jam」が公開された1996年は折しもインターネットが一般に普及しだした時期にあたり、「Space Jam」もウェブサイトを開設していたことが、当時を懐古する人々の話題に上ることがあります。そんな往年のウェブサイトを、対話型生成AI「Claude」を用いて再現しようという試みが、ソーシャルニュースサイトのHacker Newsで話題になっています。 I failed to recreate the 1996 Space Jam Website with Claude | j0nah.com https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude エンジニアのJonah Glover氏は、「Sp</description>
+    </item>
+    <item>
+      <title>“AIミニスパコン”に大興奮。ヘビー級ローカルLLMもさくさく動く｢夢のマシン｣</title>
+      <link>https://www.gizmodo.jp/2025/12/asus_ascent_gx10_handson.html</link>
+      <pubDate>2025/12/14 21:27</pubDate>
+      <description>L4（全プロセスの自動化）を実現するためには、従来の開発スタイルの限界を理解し、「Spec駆動開発」へとシフトする必要があります。 3. Spec駆動開発」とは Spec駆動開発とは、仕様書（Spec）を単なる「人間が読むためのドキュメント」としてではなく、「AIがコードを生成するための構造化されたコンテキスト」として再定義する開発手法です。 従来、ドキュメントは開発の「副産物」や「後付け」になりがちでしたが、この手法ではドキュメントこそがコードを生み出す「源泉（Single Source of Truth）」となります。 Spec駆動開発がもたらす3つの「副次的効果」 この手法のメリットは、開発プロセスの自動化そのものよりも、開発プロセス自体に「健全な強制力」が働く点にあります。 1. ドキュメントの鮮度と網羅性の維持 これまでは、コード変更後にドキュメントを更新し忘れる「ドキュメントの</description>
+    </item>
+    <item>
+      <title>OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI</title>
+      <link>https://simonwillison.net/2025/Dec/12/openai-skills/</link>
+      <pubDate>2025/12/13 12:45</pubDate>
+      <description>●この記事のポイント ・OpenAIやグーグルの高性能AIが注目される一方、著作権クリアと実務特化で企業利用を急拡大させるアドビが、生成AIビジネスの“隠れた勝者”として浮上している。 ・Fireflyは権利クリア済みデータで学習し、CMや広告に安心して使える強みを持つ。さらにSoraやVeoなど他社AIを自社ワークフローに取り込み、制作工程の中心地を握りつつある。 ・無料利用に依存する競合と異なり、アドビは企業ユーザーの高い支払い能力を背景に収益化でも優位。実務・権利フェーズに入った生成AI市場で、最も合理的な勝ち筋を確立している。 いま、世界のテクノロジー企業は生成AIをめぐり「技術力競争」に沸いている。OpenAIの動画生成AI「Sora」、グーグルの「Veo 3.1」、さらにはRunwayやファーウェイの最新モデルまで、映像表現のリアリティは日に日に進化し、人間の制作物との境界は、</description>
+    </item>
+    <item>
+      <title>「なんて？」藤井聡太六冠の“今年ハマったもの”に一同キョトン…早口で語る一部始終に全員が置いていかれる「やべー日本語がわからねぇ」（ABEMA TIMES） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/a0c1049548005459128268babb8fb361b6ae518e</link>
+      <pubDate>2025/12/14 21:44</pubDate>
+      <description>こんにちは、スーホです。 今回は私のちっぽけな人生をベースにですが、お金と人生について書きたいと思います。 はじめに僕は以下のポストの通り、32歳で1億円の金融資産を築きました。 給料入って金融資産1億達成。目の前に札束がある訳ではないので現実味がないが、金融資産1億を目指して半ばプライベートを捨てて本業、副業、資産運用に取り組んできたので、スマホ上の数字だけでも達成感がある。32歳、まだまだこれからだがとりあえず人生の大きな目標をクリアした。あざした。 pic.twitter.com/c110uK5Zp2 — スーホ (@sukhswhitehorse) November 24, 2023 新卒で入社した総合商社時代から、休む間もなくハードに働き、余暇時間も資産運用やベンチャー事業投資などに没頭した結果、色々ラッキーもあって1億円の金融資産を築くことができました。 多くの人から「若くして</description>
+    </item>
+    <item>
+      <title>Netflixのワーナー買収とOpenAIディズニーの提携　「巨大垂直統合」の時代【西田宗千佳のイマトミライ】</title>
+      <link>https://www.watch.impress.co.jp/docs/series/nishida/2071146.html</link>
+      <pubDate>2025/12/15 08:33</pubDate>
+      <description>AIが新人の成長機会を奪うなら、新人は上司の椅子を奪えばいい：27卒以降は“つらたん”というけれど AIの進化により、新人の初歩的な仕事や修行の場が奪われ始めた。では、これからの新人は、どうやって基礎力を身に付ければいいのだろうか。その答えもAIが持っていた――。 AI（人工知能）がホワイトカラーの仕事を効率化しています。Googleの最新AI「Gemini 3」は、正確な日本語が書かれたプレゼンテーション資料を簡単に作れる、と大きな話題になりました。 面倒な仕事を代替してくれるのは、うれしい変化のはず。でも、「自分の仕事が奪われていくのでは……この先、飯を食えるんだろうか」と不安になっているホワイトカラーは、筆者だけじゃないと思います。 特に、若い皆さんの不安は相当のものでしょう。AIが進化し続ける時代をどう生き抜けばいいのか、考えてみます。 「若手の修行機会」をAIが奪っている エンジ</description>
+    </item>
+    <item>
+      <title>画像生成AIの歴史を変えたNano Banana　“一貫性の壁”が突破された2025年を振り返る (1/5)</title>
+      <link>https://ascii.jp/elem/000/004/359/4359755/</link>
+      <pubDate>2025/12/15 08:33</pubDate>
+      <description>1000人超の生徒を擁する私立の札幌第一高等学校が、校内ネットワークを刷新した。10Gbpsの光回線に加えて、Wi-Fi 6（IEEE 802.11ax）準拠の無線LANアクセスポイント（以下、AP）を導入したのが骨子だ。通信速度の向上に加えて、教室だけではなく校庭などさまざまな場所でのネットワーク接続を実現した。刷新の背景には、同校が直面していた“ある課題”があった。 ネットワークのせいで教員が残業？　「Wi-Fi 6」無線LAN導入の訳 1958年創立の札幌第一高等学校は、英会話サービスや動画サイトなどのオンラインサービスを教育活動で利用している。同校の従来のネットワークには、通信速度や通信可能エリアに制約があったことから、オンラインサービスの利用に支障が生じていた。従来のAPはチャネル設計の制約から増設が困難であり、2015年の新校舎完成時から2教室に1台ずつのAP設置にとどまってい</description>
+    </item>
+    <item>
+      <title>パナソニックHD、鳴り物入りのAIサービス難航　新規事業育成に課題 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUF0268J0S5A201C2000000/</link>
+      <pubDate>2025/12/15 07:34</pubDate>
+      <description>デバッグはコードを書くときの2倍は難しい。 したがってその定義に従うならば、コードをできる限り複雑に書けば、 そのコードをデバッグできるほど自分は賢くないことになる。 この言葉は、ブライアン・W・カーニハンとデニス・M・リッチーによる古典的な著作『The C Programming Language』の中で述べられたものです。書かれたコードに対して、デバッグ作業は難しいものです（ここでは、コーディングの2倍難しいとしています）。つまり、自分の限界とも言えるほど複雑なコードを書けば、そのコードをデバッグすることは不可能になる、という意味です。 これは他人の書いたコードでも同様です。Googleのレビューガイドラインによれば、 コードを一行ずつ 見るのが大切とされています。コードには開発者の意図があり、なぜそのように書かれたのかを理解しなければならないからです。 しかし、AI駆動開発の時代にな</description>
+    </item>
+    <item>
+      <title>国産ＡＩに日本の自律性確保を…官民一体の基盤モデル開発［読売新聞社提言］</title>
+      <link>https://www.yomiuri.co.jp/national/20251215-GYT1T00443/</link>
+      <pubDate>2025/12/16 05:40</pubDate>
+      <description>「ChatGPTに相談してみたけど、結局仕事では使えないな。」 そんなモヤモヤを感じたこと、きっと一度はあると思います。 リサーチをお願いすると、どこかで見たような一般論になる。 企画の壁打ちを頼んでも、「まぁそうなんだけど…それなら自分で考えたほうが早いな」という感想で終わってしまう。 「やっぱりAIはまだまだだな」 「結局、人間が頭を使わないとダメか」 と思いがちです。 でも、これに関しては僕は、ほとんどの場合「AIに渡している前提情報（コンテキスト）と材料（ナレッジ）が薄すぎるだけ」だと感じています。 「コンテキスト」と「ナレッジ」多くの人は質問の中身そのものより、「質問の前に何を渡すか（コンテキストとナレッジ）」の設計で損をしている状態です。 このnoteの連載では、「ChatGPTを最強のビジネスパートナー化する方法」を、約40本の記事で“教科書”のように体系立ててまとめていく予</description>
+    </item>
+    <item>
+      <title>ビジネス品質向上に欠かせない「テスト設計」の工数をAIで大幅に短縮――完全自動型E2Eテスト設計システム開発の舞台裏</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/09/news001.html</link>
+      <pubDate>2025/12/15 22:49</pubDate>
+      <description>はじめに これは「フィヨルドブートキャンプ Advent Calendar 2025」の15日目の記事です。 fjord-calendar.jp 昨日の記事は id:unikounio さんの「【Obsidian】Thinoで思考の整理を楽しもう」と、 id:hiroblogdesu さんの「フィヨルドブートキャンプに入会して丸2年が経ったのでモチベについて語らせてください」でした。 今回はメンターである僕、伊藤淳一がふだんの業務で生成AIをどんなふうに使っているのかを紹介したいと思います。 また、記事の後半ではフィヨルドブートキャンプ生に向けて、プログラミング初学者が生成AIを利用する際の注意点についても書いてみます。 【もくじ】 はじめに どんな生成AIを使っているのか どんなときに使うのか 自分でコードを書いてもいいが、ちょっと面倒なとき 自分で調べてもいいが、時間がかかりそうなとき</description>
+    </item>
+    <item>
+      <title>実はマルチモーダルだった。ブラウザの組み込みAI🧠でWebの未来を感じてみよう #jsfes #gemini</title>
+      <link>https://speakerdeck.com/n0bisuke2/burauzanozu-miip-miai-dewebnowei-lai-wogan-zitemiyou-number-jsfes</link>
+      <pubDate>2025/12/16 10:04</pubDate>
+      <description>はじめに こんにちは、アジャイル開発チームの伊藤です。今日もたくさんのアドベントカレンダー記事が公開されている中、この記事を開いていただきありがとうございます。 この記事は、Insight Edge Advent Calendar 2025 16日目の記事です。 今回はコンテキストエンジニアリングについて、三つのことを語りたいと思います。 1つ目は「コンテキストエンジニアリングは対人コミュニケーションの場面に当てはめることができる」ということです。 あわせて「対人コミュニケーションをコンテキストエンジニアリングで考えると、相手に伝えるべき情報についての理解が深まる」という点について例とともに説明します。 そして最後に「コンテキストエンジニアリングはエンジニアに限らず全ての人に有用な汎用的スキルになるのではないか」という野望(?)に触れさせてください。 目次 コンテキストエンジニアリングとは</description>
+    </item>
+    <item>
       <title>Nano Banana ProでKaggle解法を図解する</title>
       <link>https://zenn.dev/kuto5046/articles/5cdcd1b274abc8</link>
       <pubDate>2025/12/12 17:52</pubDate>
@@ -1803,87 +1875,6 @@
       <link>https://note.com/issei_y/n/n1cf77dc72a72</link>
       <pubDate>2025/11/17 13:03</pubDate>
       <description>どうしても呼んでくれない。 なんか方法ないかなあ</description>
-    </item>
-    <item>
-      <title>「povo AI」にGPT-5、履歴機能を追加</title>
-      <link>https://povo.jp/important_news/newsrelease/20251119_02/</link>
-      <pubDate>2025/11/19 17:22</pubDate>
-      <description>AnthropicはAI主体の大規模サイバー諜報（ちょうほう）活動に関する報告を公表した。AIが主要な作業工程を担ったサイバー攻撃として初めて確認されており、AI活用の進展が攻撃者側にも広がっている現状が浮き彫りとなった。 「Claude Code」悪用の大規模サイバー諜報活動をAnthropicが初確認　Anthropicは2025年9月中旬に不審な挙動を検出したことを契機に調査を開始した。解析の結果、極めて高度な手法での諜報活動が展開されていたことが判明した。攻撃者は同社のコーディングアシスタント「Claude Code」を悪用し、約30の世界的組織への侵入を試みたことが確認されており、攻撃者は中国政府系グループだと高い確度で判断されている。標的には大手テクノロジー企業や金融機関、化学産業関連企業、政府機関が含まれ、一部では侵入が成功していたとされている。 今回のケースは、攻撃者がAI</description>
-    </item>
-    <item>
-      <title>povo AIが「GPT-5」に対応へ、履歴機能も</title>
-      <link>https://k-tai.watch.impress.co.jp/docs/news/2064687.html</link>
-      <pubDate>2025/11/19 17:57</pubDate>
-      <description>2回目の削除要請について、Xユーザーからは「にじボイス側は無断学習してたのか、わざと似せたのか、たまたまなのかを明らかにするべき」「学習データの出どころをごまかすからこういうことになる」など、にじボイスが利用した学習データに言及する声の他、「声が似てるだけで削除要請ってどういうこと？」「『削除要請』の連発ではなく合意形成に努力してほしい」など、日俳連の動きに疑問を呈する声も見られた。 関連記事 伊藤忠、日俳連と「公式音声データベース」を立ち上げ　声の“不正利用”防止、AI音声ビジネス推進へ 伊藤忠商事は、傘下の伊藤忠テクノソリューションズと、俳優や声優の権利保護活動などを行う日本俳優連合と協力し、公式音声データベース「J-VOX-PRO（仮称）」を立ち上げると発表した。声の不正利用対策や、AI音声ビジネスの推進などを支援する。 「権利侵害はない」のに“声が酷似”？　AI音声「にじボイス」、</description>
-    </item>
-    <item>
-      <title>AIエディタ「Google Antigravity」は、Googleが3600億円で買収した元Windsurfチームが開発。開発者はエージェントのマネージャになる</title>
-      <link>https://www.publickey1.jp/blog/25/aigoogle_antigravitygoogle3600windsurf.html</link>
-      <pubDate>2025/11/20 01:03</pubDate>
-      <description>検証結果 ここからは、成績の振るわなかった順に各モデルの回答を見ていきます。 それぞれの回答に対し、正解（⭕️）、間違い/ハルシネーション（❌）、部分正解（🔺）を判定しました。 Grok 4.1 Grok 4.1の実際の回答画面 このチラシは「スーパー玉出」の週末チラシ（2025年11月21日〜27日）で、 木曜日（11月27日）限定のお買い得商品は、チラシの下段緑色の枠で囲まれている部分です。 11月27日（木）限定 お買い得商品一覧 肉類 ❌ 米国産牛肩ロースすき焼き用 100g → 380円（税込410円） ❌ 若鶏もも肉 100g → 68円（税込73円） ❌ 豚ロースしゃぶしゃぶ用 100g → 98円（税込105円） ❌ 豚小間切れ 100g → 88円（税込95円） 加工肉・ハムなど ❌ カントリーマアム チョコまみれ 各種 → 218円（税込235円） ❌ ポテトチップス</description>
-    </item>
-    <item>
-      <title>VSCode派生IDE「Google Antigravity」が、AI駆動開発の新しいパラダイムを切り拓いている - Qiita</title>
-      <link>https://qiita.com/rf_p/items/60be12914338447543d3</link>
-      <pubDate>2025/11/20 05:21</pubDate>
-      <description>はじめに Google が 2025-11-18（米国時間）に発表した AI エディタ、「Antigravity」を使って、実際に「AI チャットアプリ」を開発してみました。 本記事では、拡張機能である Antigravity Browser Extension を利用した体験も踏まえて簡潔にまとめています。 Chrome拡張機能を利用したUI修正のデモ動画 Antigravity とは何か Antigravity は、Google が 2025-11-18（米国時間）に発表した AI エージェントファーストの開発プラットフォームです。 主な特徴 エージェントファースト開発体験: 開発者が高レベルの&amp;quot;指示&amp;quot;を出すと、AI エージェントが自律的に計画を立て、コードを記述し、実行し、動作を検証する一連のプロセスを自動で実行します。エディタ・端末・ブラウザをまたいでタスクを実行できるのが特徴です</description>
-    </item>
-    <item>
-      <title>「ＡＩ生成画は著作物」、無断複製の疑いで男を書類送検へ…千葉県警が全国初の摘発</title>
-      <link>https://www.yomiuri.co.jp/national/20251120-OYT1T50016/</link>
-      <pubDate>2025/11/20 08:07</pubDate>
-      <description>米半導体大手エヌビディアは１９日、第４・四半期（１１─２０２６年１月）の売上高が６５０億ドル（プラスマイナス２％）になるという見通しを示し、市場予想を上回った。２０２４年６月、台北で撮影（２０２５年　ロイター/Ann Wang） ［１９日　ロイター］ - 米半導体大手エヌビディア(NVDA.O), opens new tabは１９日、第４・四半期（１１─２０２６年１月）の売上高が６５０億ドル（プラスマイナス２％）になるという見通しを示し、市場予想を上回った。人工知能（ＡＩ）バブルを巡る懸念が広がる中、クラウドプロバイダーからのＡＩ半導体への需要が急増すると見込んだ。</description>
-    </item>
-    <item>
-      <title>Cloudflareが大規模障害の原因を発表、XやChatGPTなどインターネット全体に影響を及ぼした障害はサイバー攻撃ではなくシステムの問題</title>
-      <link>https://gigazine.net/news/20251119-cloudflare-outage-cdn/</link>
-      <pubDate>2025/11/19 14:22</pubDate>
-      <description>ソフトウエア大手のマイクロソフトと半導体設計大手のエヌビディアは、人工知能（AI）開発企業アンソロピックに最大150億ドル（約2兆3300億円）を出資する方針だと明らかにした。マイクロソフトとエヌビディアは同じくAIを開発するオープンAIにも多額の資金を投じ、支援している。 3社による18日の発表によると、アンソロピックはマイクロソフトのクラウドサービス「アジュール」から300億ドル相当のコンピューティング能力を購入することも約束した。 クラウド事業者や半導体メーカーがAI開発企業に出資し、その資金が再び自社サービスの利用に還元される構図が増加している。こうした「循環型AI取引」に対し、投資家の間ではバブル懸念も広がっている。 18日の米株式市場でマイクロソフトは2.7%安、エヌビディアは28%安で引けた。 今回の提携で、アンソロピックはマイクロソフトとの関係をさらに強化する。マイクロソフ</description>
-    </item>
-    <item>
-      <title>Web とは何か | blog.jxck.io</title>
-      <link>https://blog.jxck.io/entries/2025-11-19/web.html</link>
-      <pubDate>2025/11/19 23:20</pubDate>
-      <description>「AI疲れをふっとばせ。エンジニアのAI疲れ治療法」の登壇資料 https://techlife-asahi.connpass.com/event/369534/</description>
-    </item>
-    <item>
-      <title>Googleが発表したAIエディタ、Antigravityを触ってみた。~指示・実装・動作確認~ - Qiita</title>
-      <link>https://qiita.com/yokko_mystery/items/bb5615ebcd385a597c41</link>
-      <pubDate>2025/11/19 17:28</pubDate>
-      <description>検証結果 ここからは、成績の振るわなかった順に各モデルの回答を見ていきます。 それぞれの回答に対し、正解（⭕️）、間違い/ハルシネーション（❌）、部分正解（🔺）を判定しました。 Grok 4.1 Grok 4.1の実際の回答画面 このチラシは「スーパー玉出」の週末チラシ（2025年11月21日〜27日）で、 木曜日（11月27日）限定のお買い得商品は、チラシの下段緑色の枠で囲まれている部分です。 11月27日（木）限定 お買い得商品一覧 肉類 ❌ 米国産牛肩ロースすき焼き用 100g → 380円（税込410円） ❌ 若鶏もも肉 100g → 68円（税込73円） ❌ 豚ロースしゃぶしゃぶ用 100g → 98円（税込105円） ❌ 豚小間切れ 100g → 88円（税込95円） 加工肉・ハムなど ❌ カントリーマアム チョコまみれ 各種 → 218円（税込235円） ❌ ポテトチップス</description>
-    </item>
-    <item>
-      <title>マイクロソフトとエヌビディア､最大150億ドルをアンソロピックに投資</title>
-      <link>https://www.bloomberg.co.jp/news/articles/2025-11-18/T5XIPJT96OSH00</link>
-      <pubDate>2025/11/19 08:50</pubDate>
-      <description>こんにちは。LayerX AI Workforce事業部でR&amp;amp;Dチームのリサーチエンジニアの矢野目です。 こちらはLayerX AI エージェントブログリレー49日目の記事です。前回の記事はKenta WatanabeさんのAIエージェントを開発するPdMがやることをプロンプトを書きながら考えるでした。 今回の記事では、AIワークフローの自動生成技術開発の取り組みについてお話しします。 AIワークフローを構築する際、「どのような処理ステップを組み合わせるか」「各ステップでどんなプロンプトを使うか」といった設計に多くの時間がかかります。特に、お客様のドメイン知識が必要なタスクでは、試行錯誤を繰り返しながら精度を高めていく必要があり、これが大きな課題となっています。 そこで我々Applied R&amp;amp;Dチームでは、プロンプトとワークフロー構造を同時に自動生成する手法に取り組んでいます。 本稿では、</description>
-    </item>
-    <item>
-      <title>AIとソフトウェアテスト　信頼できるシステムを構築するために - インプレスブックス</title>
-      <link>https://book.impress.co.jp/books/1123101045</link>
-      <pubDate>2025/11/17 00:53</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/12161f28758e545e92582a9f2902bcf479552d9b/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2063%2F747%2Fvisual_studio_code.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>10日でつくる全社会議 ― 未来を聴き合うフィッシュボウルができるまで - Insight Edge Tech Blog</title>
-      <link>https://techblog.insightedge.jp/entry/company-all-hands-fishbowl</link>
-      <pubDate>2025/11/17 09:08</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/96d5100f3c06cdee7b3924fabb07909908850665/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2063%2F923%2Flibreoffice.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>シミュレーションコンペで銅メダル2つを獲得してkaggle Expertになった方法</title>
-      <link>https://zenn.dev/epicai_techblog/articles/a80959e01d62fd</link>
-      <pubDate>2025/11/18 06:10</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9410f77a51cb3c0b2eb053657e9da755c6a3948e/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2064%2F390%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
     </item>
   </channel>
 </rss>
