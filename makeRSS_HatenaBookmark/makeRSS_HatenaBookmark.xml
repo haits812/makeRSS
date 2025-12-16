@@ -5,6 +5,81 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>ローカルLLMへのいざない - 弁護士ドットコム株式会社 Creators’ blog</title>
+      <link>https://creators.bengo4.com/entry/2025/12/13/000000</link>
+      <pubDate>2025/12/14 04:54</pubDate>
+      <description>参照元 I Reverse Engineered ChatGPT&amp;#39;s Memory System, and Here&amp;#39;s What I Found! - Manthan Gupta ChatGPT Memory Architecture: Four-Layer Context System Prioritizes Speed Over RAG and Vector Databases RAGを使わないメモリシステムという衝撃 Hacker Newsで500ポイント以上を獲得し、AI開発者界隈で話題になっているのが、Manthan Guptasさんによる「ChatGPTの記憶システム」のリバースエンジニアリング調査です。 調査で明らかになったのは、ChatGPTが ベクトルデータベースもRAG（Retrieval-Augmented Generation）も使っていない という驚きの事実。多</description>
+    </item>
+    <item>
+      <title>生成AI戦争、真の勝者はアドビか…OpenAIとグーグルすら下請け、「Firefly」の戦略</title>
+      <link>https://biz-journal.jp/company/post_392626.html</link>
+      <pubDate>2025/12/14 09:33</pubDate>
+      <description>この記事は、Insight Edge Advent Calendar 2025 の14日目の記事です！！ はじめに こんにちは、Engineerの熊田です。 AIエージェント開発やMCP（Model Context Protocol）を使った外部連携が昨今は盛り上がっていますね。一方で、エージェント同士の連携を実装したり、外部ツールとの統合を一から構築したりするのは簡単でない作業です。 本記事では、マルチエージェントシステムを簡単に構築できるマネージドサービスMicrosoft Foundry Agent ServiceとMCPを組み合わせて試してみました。 これらの技術を使い、ソフトウェア開発要件を自動分解しGitHub Issueを作成させてみたので、その方法を紹介します。 注記: 本記事の執筆開始時は「Azure AI Foundry」というサービス名称でしたが、2025年11月18</description>
+    </item>
+    <item>
+      <title>NotebookLMとGemini、どちらにスライドを作ってもらう？｜dora_e_m</title>
+      <link>https://note.com/dora_e_m/n/n4ce2c4f9ed7f</link>
+      <pubDate>2025/12/14 12:37</pubDate>
+      <description>Nano Banana Proで作成した当連載登場モデルの明日来子さん。2024年1月に1枚の画像から始まった彼女は、ついに自由に服もポーズも登場場所も変えられるようになった（筆者作成） 今回のテーマは、2025年の画像・動画生成AIまとめです。2022年に誰でも利用可能な形で登場した画像AI、動画AIは、ついに長年の課題だった“一貫性の壁”を突破しました。シーンや状況を変えても、登場人物の顔や服装に連続性を保ったまま、表現を変えたり、別の服装にしたり、角度を変えたりといったことが容易にできるようになってきました。8月に発表されたグーグルの「Nano Banana」、それをさらに上回る性能の11月の「Nano Banana Pro」が最大級の驚きでした。画像AIではバイトダンス「Seedream」、アリババ「Qwen-Image-Edit-2509」などが、動画AIではOpenAI「Sor</description>
+    </item>
+    <item>
+      <title>スマートホーム“ガチ勢”向け「SwitchBot AIハブ」を試す　映像内の“出来事”をトリガーに家電操作できるAIカメラ実現</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2512/15/news040.html</link>
+      <pubDate>2025/12/15 14:24</pubDate>
+      <description>2025年、一番ハマったものは「バイブコーディング」──将棋棋士の藤井聡太竜王・名人はある番組でそう語った。バイブコーディングとは、人間が全てのソースコードを書くのではなく、AIに「これを作りたい」と自然言語で指示し、AIが主体となってコーディングを行うソフトウェアの開発手法のことだ。 藤井竜王・名人がこう語ったのは、12月14日にABEMAで配信した日本将棋連盟による番組「SUNTORY将棋オールスター東西対抗戦2025 決勝戦」。藤井竜王・名人は参加棋士たちによる「今年ハマったもの」をテーマとしたトークショーの中でバイブコーディングに触れ、以下のような所感を話した。 「（バイブコーディングという言葉に）聞きなじみのない方もいると思うが、これはAIにコードを書いてもらうこと。生成AIの技術進歩は本当に著しく、そういった知識がなくても、日本語で作ってほしいものを伝えると、良い感じにそういっ</description>
+    </item>
+    <item>
+      <title>Google、Gemini活用で翻訳・会話能力を強化　イヤホンでのリアルタイム翻訳も改善</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/15/news062.html</link>
+      <pubDate>2025/12/15 12:42</pubDate>
+      <description>着々とゲーム開発におけるAI活用が広がる中で、「100％AIで制作されたゲーム」がSteamに登場しました。 Here&amp;#39;s &amp;quot;the world&amp;#39;s first fully playable game created 100% through AI&amp;quot; | Eurogamer.net https://www.eurogamer.net/heres-the-worlds-first-fully-playable-game-created-100-through-ai This roguelite claims to have the dubious honor of being &amp;#39;the world&amp;#39;s first fully playable game created 100% through AI&amp;#39; in a milestone for slop everywhere | PC Gamer</description>
+    </item>
+    <item>
+      <title>【西川和久の不定期コラム】 画像生成AIの「ノード地獄」にサヨナラ。ComfyUIを快適に使う技と超簡単インストール法</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2070854.html</link>
+      <pubDate>2025/12/16 06:26</pubDate>
+      <description>2025年は、生成AIが本格的に一般生活へ浸透した年となった。AIは一部のエンジニアや先進企業に限られた存在ではなく、日常の気軽な相談相手へと変化している。こうした中、人々の行動はどのように変化しているのだろうか。 企業のAIナレッジデータプラットフォームを提供するHelpfeel（京都市）は、AIを利用したことがある20代以上の男女1203人を対象に「日常の悩みや困りごとを『AI』と『人』のどちらに相談するか」をテーマとした実態調査を実施し、その結果を発表した。 「デジタルは若者中心」が崩れる？　60代以上女性がAI活用を牽引 調査結果によると、2025年、最も積極的にAIを活用しているのは「60代以上の女性」であることが分かった。この層は、献立づくりから投資、ダイエットまで幅広い生活シーンでAIを使う「先進層」であることも浮き彫りになった。 具体的な生活シーンでのAI利用率も、シニア層</description>
+    </item>
+    <item>
+      <title>イオンCTO山﨑賢×一休CTO伊藤直也が語る#3 AI時代の未来と、選ばれるデータの条件 </title>
+      <link>https://engineer-recruiting.aeon.info/aeon-tech-hub/interview_ItoNaoya_YamazakiKen_3</link>
+      <pubDate>2025/12/16 10:18</pubDate>
+      <description>Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world</description>
+    </item>
+    <item>
+      <title>コンテキストエンジニアリングを対人コミュニケーションにあてはめてみる - Insight Edge Tech Blog</title>
+      <link>https://techblog.insightedge.jp/entry/context-engineering-for-humans</link>
+      <pubDate>2025/12/16 10:29</pubDate>
+      <description>「Slackで何を言いたいのかわからない」「ドキュメントを書くのに異常に時間がかかる」 こういった人は組織に一人はいないだろうか。 マネージャーとして「言語化能力を鍛えてほしい」と思うことは多いとは思います。また、LLMを利用して業務を行う際には言語化能力が非常に重要となると考えております。 ですが、正直なところ、できていない人に対して、トレーニングでなんとかなるのか疑問に感じることもあるのではないでしょうか。 僕は23歳の頃、会社の先輩に「お前、何言ってるかわからないから話すのやめるわ」と言われたことがあります。かなりショックだったのですが、それ以来、「どう伝えればわかってもらえるか」を強く意識するようになりました。 その結果、今では言語化能力が高いと言われることもあります。（このようなnoteを書いていると言語化してもらうの助かるとも言われます。） このような経験から言語化能力は天性の</description>
+    </item>
+    <item>
+      <title>【海外記事紹介】AIエージェントがSaaSを食い尽くし始めている</title>
+      <link>https://techfeed.io/entries/694077f43837533862f5f4f5</link>
+      <pubDate>2025/12/16 06:05</pubDate>
+      <description>JavaScript祭2025での発表 https://javascript-fes.doorkeeper.jp/events/192774 サンプルはこちら https://github.com/n0bisuke/gemini-nano-browser-api-sample</description>
+    </item>
+    <item>
+      <title>トランプ政権、連邦機関のIT人材獲得目指し「Tech Force」を創設　Google、Apple、OpenAIなどが協力</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/16/news060.html</link>
+      <pubDate>2025/12/16 10:07</pubDate>
+      <description>2022年から毎年、エンジニアのあるふさんが主催されている『生成AI Advent Calender』に、その年生成AIについて考えたことをメモしています。今年も季節になったので、エントリーしてきました。 なお、自分は一介のイラストレーターです。 性質上、本アドベントカレンダーは毎年、生成AIの開発者の方や、利用者側の方の記事が多めですね。自分のような、かかわりが間接的な人間の参加は珍しいかも。 生成AIは大きな転換点であることはまちがいがないので、毎年何を考えて、自分の考えはどう変わって、何が起こって、何が出来るようになって、何が問題としてそのときあったのか、を振り返る必要があるなあと考えて毎年記事を書いています。 なお、私は生成AIに対しては是々非々の立場で、賛成反対それ以外、どの立場であっても、お互いを尊重した対話ができるようになるといいな、と考えています。 今年に入ってからの身の回</description>
+    </item>
+    <item>
+      <title>Amazon Bedrock AgentCore で実現する「Code excecution with MCP」 - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2025/12/16/120000</link>
+      <pubDate>2025/12/16 15:16</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。12月8日（月）～12月14日（日）〔2025年12月第2週〕のトップ30です*1。 順位 タイトル 1位 国立がん研究センターのがんになったら手にとるガイド：[国立がん研究センター がん情報サービス 一般の方へ] 2位 １．証券口座を開く ２．NISA一般枠（NISA成長投資枠）で一括購入 ３．積み立.. 3位 「株式会社ガイナックス」について | 株式会社カラー 4位 超面白かった歴史小説&amp;amp;歴史ノンフィクション６選｜ふろむだ 5位 残業キャンセル界隈と企業カルチャーの死 - megamouthの葬列 6位 畑中様 いつもSNSでの発信陰ながら拝見しております。 私は今他業種にいるのですが、どうしても漫画を作って生きていきたいと思い、読み切りを賞に投稿しようと考えています。これまでに何本か二次創</description>
+    </item>
+    <item>
+      <title>AI生成のOASからコード自動生成、作業時間とトークン削減の試み - asken テックブログ</title>
+      <link>https://tech.asken.inc/entry/20251217</link>
+      <pubDate>2025/12/16 17:09</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/649a9848c8f4d31c36789e4f74da9e60e357e6ed/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2071%2F584%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
       <title>Claude Code に draw.io の図を描かせるコツ</title>
       <link>https://zenn.dev/genda_jp/articles/2025-12-12-drawio-tips-claude-code</link>
       <pubDate>2025/12/14 02:40</pubDate>
@@ -1800,81 +1875,6 @@
       <link>https://gigazine.net/news/20251120-sam-3/</link>
       <pubDate>2025/11/20 15:29</pubDate>
       <description>Metaが画像から3Dモデルを生成できるAI「SAM 3D」を2025年11月19日(木)に発表しました。SAM 3Dは人体に特化した「SAM 3D Body」と物体に特化した「SAM 3D Objects」に分かれており、どちらも競合製品より高品質な3Dモデルを生成できます。 SAM 3D https://ai.meta.com/sam3d/ Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images https://ai.meta.com/blog/sam-3d/ SAM 3D Bodyは画像内に存在する人間の体形とポーズを認識して3Dモデル化できるAIです。 SAM 3D Bodyと複数の競合AIで3Dモデルを生成し、どちらが高品質かを人間に判断させた結果が以下。青色が「SAM 3D Bodyの方が</description>
-    </item>
-    <item>
-      <title>1枚の写真から目的の人間や物体だけを切り抜いて3Dモデル化できるAI「SAM 3D Body」＆「SAM 3D Objects」をMetaが公開</title>
-      <link>https://gigazine.net/news/20251120-meta-sam-3d-object-human-body/</link>
-      <pubDate>2025/11/20 15:32</pubDate>
-      <description>OpenAIがコーディングタスクに特化したAIモデル「GPT-5.1-Codex-Max」を2025年11月19日(水)にリリースしました。GPT-5.1-Codex-Maxは2025年11月13日に登場したGPT-5.1-Codexと比べて低いコストで高い性能を発揮します。 Building more with GPT-5.1-Codex-Max | OpenAI https://openai.com/index/gpt-5-1-codex-max/ GPT-5.1-Codex-MaxはコーディングエージェントのCodexで使用可能なモデルです。Windowsで動作することを前提に開発されているのも特徴です。 GPT-5.1-Codex-Maxは思考にかける時間を「low」「medium」「high」「xhigh」の4段階から選択できます。以下のグラフはGPT-5.1-Codex-Max</description>
-    </item>
-    <item>
-      <title>Microsoft Windows責任者の「エージェント型OS」発言が引き起こしたユーザーの猛反発：開発者配慮を強調する釈明の全貌と、MicrosoftのAI戦略が直面するジレンマ | XenoSpectrum</title>
-      <link>https://xenospectrum.com/microsoft-windows-agentic-os-backlash-pavan-davuluri-response-developers/</link>
-      <pubDate>2025/11/18 23:00</pubDate>
-      <description>AIコーディングにおいて「Vibe Coding」から脱却し、確実な成果を出すための「Spec-Driven Development (SDD / 仕様駆動開発)」について、その理想的なフローと現場で直面する現実（Specの巨大化、検証の難しさ）を紹介。 OSSの仕様駆動開発ツール「cc-sdd」…</description>
-    </item>
-    <item>
-      <title>LLM で使われる位置情報のベクトル化について調べてみる</title>
-      <link>https://zenn.dev/kawara_y/articles/27f69346c851f7</link>
-      <pubDate>2025/11/19 08:54</pubDate>
-      <description>生成AIを使用した作品については、使用状況に応じて以下のタグ付けを推奨いたします。 利用者の利便性向上と配慮のために、ご協力お願いいたします。 使用状況タグ 本文の大半（目安50%以上）がAIによって生成された文章。またはそれらの文章に作者が軽微な修正を加えたものAI本文利用 本文の一部（目安50%未満）がAIによって生成された文章。またはそれらの文章に作者が軽微な修正を加えたものAI本文一部利用 AIのアイデアや資料をもとに、作者自身が本文を書いたもの。または作者自身が書いた文章の校正をAIに行わせるなど、創作の補助的に利用したものAI補助利用 タグの区分けはあくまで目安ですので、ご自身の利用実態にあわせてお選びください。タグ付けの基準は、今後の利用状況により変わる可能性があります。 なお、投稿作品がどのタグに該当するかについてのお問い合わせはご返答いたしかねます。 カクヨムコンテスト1</description>
-    </item>
-    <item>
-      <title>「PowerToys 0.96」が公開 ～コピペツールに好みのAIモデルを追加する機能などを導入／リネームツールも強化。EXIFを読んでファイル名にカメラのモデル名を反映させることも</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2064812.html</link>
-      <pubDate>2025/11/20 08:20</pubDate>
-      <description>結論「デザインの民主化」という言葉が生まれて久しいですが、その本質は「デザイン的思考の広まり」といった抽象的なもから、より具体的な実践に移行しつつあります。 AIとFigma Makeのようなツールの登場によって、いま起きているのは、デザイナーの最大の強みであった「可視化」というスキルの、全職種への完全な解放です。 これは、BizDev（事業開発）、セールス、カスタマーサクセスといった職種が、デザイナーを介せずに、高品質なUIモックを「即時」に生成し、顧客検証に回せる時代の始まりを意味します。 これにより、デザイナーの役割は「アウトプットを作る人」から、「全職種がクリエイティブジャンプを起こせる『仕組み』を設計する人」へと、不可逆的にシフトしていきます。 「デザインの民主化」の曖昧さこれまで「デザインの民主化」が語られるとき、その多くは「デザイン思考」や「問題発見の仕方」といった、マインド</description>
-    </item>
-    <item>
-      <title>最高益NVIDIA、成長持続に電力不足の壁　AI半導体に休眠リスク - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN191R60Z11C25A1000000/</link>
-      <pubDate>2025/11/20 11:50</pubDate>
-      <description>AI搭載テディベア型ぬいぐるみ「クッマ」。写真はフォロトイのウェブサイトのスクリーンショット/FoloToy （CNN） ネットで販売されていたAI（人工知能）搭載の縫いぐるみが、わいせつな会話を交わしたり危険を招きかねないアドバイスをしたりする問題が指摘されたことを受け、販売中止になった。 問題になった縫いぐるみの「クッマ」などAI搭載の玩具は、シンガポールのフォロトイが販売。米消費者団体PIRGの調査で、性行為を話題にしたり、マッチの火のつけ方を教えたりするなどの不適切な会話が指摘されていた。 フォロトイのラリー・ワン最高経営責任者（CEO）は、指摘を受けてクッマなどの販売を中止したとCNNに語り、現在、社内で安全監査を行っていることを明らかにした。 問題のクッマは米オープンAIの対話型AI「GPT-4o」を搭載したスピーカーを内蔵し、フォロトイの通販サイトで「子どもにも大人にもお友達</description>
-    </item>
-    <item>
-      <title>Kiroの一般提供開始、コマンドライン動作のKiro CLIも登場 | gihyo.jp</title>
-      <link>https://gihyo.jp/article/2025/11/kiro-ga</link>
-      <pubDate>2025/11/19 13:38</pubDate>
-      <description>2025年11月18日(火)の20時頃から数時間にわたってXやChatGPTなど数多くのネットサービスにアクセスできない状況が発生しました。これらのウェブサイトにアクセスできないのはCloudflareのコンテンツ配信ネットワーク(CDN)に障害が発生したことが原因だったのですが、2025年11月19日にCloudflareが障害が発生した原因を報告するブログ記事を公開しました。 Cloudflare outage on November 18, 2025 https://blog.cloudflare.com/18-november-2025-outage/ CDNはウェブサイトの管理者向けに提供されているサービスで、CDNを利用するウェブサイトはコンテンツを世界中に分散配置されたサーバーに複製して配信することが可能です。これにより、ファイル容量の大きなコンテンツであっても世界中のユーザ</description>
-    </item>
-    <item>
-      <title>ついに始まった「AIが自律的に攻撃する日」　調査で判明した衝撃のClaude Code悪用事例（ITmedia エンタープライズ） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/73094e8bc7a9a7c6a4e92ac15670cdb91e6269c3</link>
-      <pubDate>2025/11/19 16:56</pubDate>
-      <description>「AI疲れをふっとばせ。エンジニアのAI疲れ治療法」の登壇資料 https://techlife-asahi.connpass.com/event/369534/</description>
-    </item>
-    <item>
-      <title>日本俳優連合、AI音声「にじボイス」にまた削除要請　20件の声が“声優に酷似”</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2511/19/news090.html</link>
-      <pubDate>2025/11/19 16:53</pubDate>
-      <description>平素はpovoをご利用いただき、誠にありがとうございます。 2025年11月27日午前11時から順次、「povo AI」にGPT-5と履歴機能を追加します。 ■新機能概要 ① GPT-5の導入 AIモデル「GPT-5」が選択可能となります。これまで以上に高度な自然言語処理能力を持ち、複雑な質問への対応や、より精度の高い提案が可能です。 ② 履歴機能の導入 過去のAIとのやり取りを一覧で確認できる「履歴機能」を追加します。前回の相談内容を踏まえた継続的な対話が可能となり、ユーザー一人ひとりに寄り添ったサポートを実現します。 入力されたデータの取り扱いなど、詳細は povo AI規約 をご確認ください。 ■対象者 povo2.0をご契約のお客さまで、povo2.0のデータをお持ちの方 ※povo Data Oasisやプロモコードなどでのデータチャージも対象です。 ※データ残量が0.00GBの</description>
-    </item>
-    <item>
-      <title>GoogleがGemini 3 Proとサードパーティーモデルを活用するエージェントファーストコーディングツール「Google Antigravity」をWindows・macOS・Linux向けに無料パブリックプレビューとして発表</title>
-      <link>https://gigazine.net/news/20251119-google-antigravity/</link>
-      <pubDate>2025/11/19 22:10</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e700ad9dfa5ecc9674e197ecc674086e5d715dff/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2064%2F687%2Fpovoai.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Gemini3 ProのVision性能をチラシチャレンジしてみた</title>
-      <link>https://zenn.dev/olemi/articles/gemini-3-vision-supermarket-flyer-test</link>
-      <pubDate>2025/11/19 22:38</pubDate>
-      <description>Intro 見落とされがちだが、「Web とは何か」という仕様はない。 Web を定義した W3C のドキュメントもなければ、IETF の RFC もない。 Web は仕様ではないのだ。 これだけしっかりと標準化された技術の粋を集めた総体が、なぜそんなにもフワっとしているのだろうか? では我々は、何を &amp;quot;Web&amp;quot; と呼んでいるのだろうか? HTML+HTTP+URL? 黎明期から Web を見ている人ほど、URL で指定された HTML を HTTP で取得するアーキテクチャを Web と呼ぶ、と思うだろう。 たしかに、それは Sir Tim Berners-Lee が最初に示したコンセプト、そのものであったことは間違いない。 ところが、そこから 30 年以上の間、この Web と呼ばれたコンセプトは、ありとあらゆるパーティーからの期待を背負うことになり、当初の最小限のコンセプトだけでは、</description>
-    </item>
-    <item>
-      <title>AI搭載縫いぐるみが性的に露骨な会話をエスカレート、消費者団体の指摘で販売中止に</title>
-      <link>https://www.cnn.co.jp/tech/35240689.html</link>
-      <pubDate>2025/11/20 11:16</pubDate>
-      <description>結論「デザインの民主化」という言葉が生まれて久しいですが、その本質は「デザイン的思考の広まり」といった抽象的なもから、より具体的な実践に移行しつつあります。 AIとFigma Makeのようなツールの登場によって、いま起きているのは、デザイナーの最大の強みであった「可視化」というスキルの、全職種への完全な解放です。 これは、BizDev（事業開発）、セールス、カスタマーサクセスといった職種が、デザイナーを介せずに、高品質なUIモックを「即時」に生成し、顧客検証に回せる時代の始まりを意味します。 これにより、デザイナーの役割は「アウトプットを作る人」から、「全職種がクリエイティブジャンプを起こせる『仕組み』を設計する人」へと、不可逆的にシフトしていきます。 「デザインの民主化」の曖昧さこれまで「デザインの民主化」が語られるとき、その多くは「デザイン思考」や「問題発見の仕方」といった、マインド</description>
-    </item>
-    <item>
-      <title>シリーズA153億円調達、あるいは我々の翼がどこまでも飛べることを宣言するため｜山本一成🌤️チューリングのCEO</title>
-      <link>https://note.com/issei_y/n/n1cf77dc72a72</link>
-      <pubDate>2025/11/17 13:03</pubDate>
-      <description>どうしても呼んでくれない。 なんか方法ないかなあ</description>
     </item>
   </channel>
 </rss>
