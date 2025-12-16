@@ -5,6 +5,111 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Nano Banana ProでKaggle解法を図解する</title>
+      <link>https://zenn.dev/kuto5046/articles/5cdcd1b274abc8</link>
+      <pubDate>2025/12/12 17:52</pubDate>
+      <description>「自分のWebサイトを持ちたいけれど、WordPressは管理が大変そう」 「そんなに更新しないから、維持費が気になる」 「でも、デザインにはちょっとこだわりたい」 そんな経営者・フリーランス・クリエイターのために、無料Webテンプレート「EYAN（ええやん）」を作りました。27種類のWebサイトのテンプレートは全て無料！登録不要ですぐにご利用いただけます。</description>
+    </item>
+    <item>
+      <title>AIに向けて書くか人間のために書くか、それが問題だ。 - 世界のねじを巻くブログ</title>
+      <link>https://www.nejimakiblog.com/entry/write-blog-for-ai-human-problem-crawler</link>
+      <pubDate>2025/12/14 21:45</pubDate>
+      <description>参加者満足度約94%！コンタクトセンター/カスタマーサービス関係者必見のビッグイベント 最新トレンド・テクノロジーとの出会いが、2026年を変える テクマトリックス CRM FORUM 2026</description>
+    </item>
+    <item>
+      <title>ChatGPTで論⽂は読めるのか</title>
+      <link>https://speakerdeck.com/spatial_ai_network/chatgpt-paper-reading</link>
+      <pubDate>2025/12/14 18:57</pubDate>
+      <description>1. はじめに こんにちは、松尾研究所でデータサイエンティストをしている力岡です。本記事は、松尾研究所 Advent Calendar 2025 の記事になります。 GPT や Gemini などの LLM を活用した AI エージェントは急速に普及し、複数ツールを組み合わせた複雑なタスクも自律的に実行できるようになりました。その一方で、「なぜエージェントが失敗したのか分からない」「推論コストが想定以上に膨らむ」「複数エージェントを連携させる際のボトルネックが特定できない」といった、これまでにない運用上の課題が浮き彫りになっています。 こうした高度なエージェントシステムは、従来の LLMOps だけで管理することが難しくなりつつあります。本記事では、その解決策として注目される AgentOps を取り上げ、その概念から実践方法までを詳しく解説します。 2.AgentOps とは 2.1 A</description>
+    </item>
+    <item>
+      <title>【在野研究】非アカデミアでin silico創薬論文執筆までの道のり</title>
+      <link>https://zenn.dev/labcode/articles/49bb4bd1a8eae3</link>
+      <pubDate>2025/12/15 00:10</pubDate>
+      <description>Nano Banana Proで作成した当連載登場モデルの明日来子さん。2024年1月に1枚の画像から始まった彼女は、ついに自由に服もポーズも登場場所も変えられるようになった（筆者作成） 今回のテーマは、2025年の画像・動画生成AIまとめです。2022年に誰でも利用可能な形で登場した画像AI、動画AIは、ついに長年の課題だった“一貫性の壁”を突破しました。シーンや状況を変えても、登場人物の顔や服装に連続性を保ったまま、表現を変えたり、別の服装にしたり、角度を変えたりといったことが容易にできるようになってきました。8月に発表されたグーグルの「Nano Banana」、それをさらに上回る性能の11月の「Nano Banana Pro」が最大級の驚きでした。画像AIではバイトダンス「Seedream」、アリババ「Qwen-Image-Edit-2509」などが、動画AIではOpenAI「Sor</description>
+    </item>
+    <item>
+      <title>AI駆動開発時代のコードレビュー</title>
+      <link>https://zenn.dev/coderabbit_jp/articles/76689d18930ef4</link>
+      <pubDate>2025/12/14 12:01</pubDate>
+      <description>これまでのように平面上へパーツを敷き詰めた半導体ではなく、パーツの層を縦に積み上げた「3Dチップ」が開発されました。これにより、従来の「2Dチップ」と比較してスループットが4倍向上するなど大幅な改善が見られたとのことです。 Researchers unveil groundbreaking 3D chip to accelerate AI | Stanford Report https://news.stanford.edu/stories/2025/12/monolithic-3d-chip-foundry-breakthrough-ai First truly 3D chip fabbed at US foundry, features carbon nanotube transistors and RAM on a single die — future devices could</description>
+    </item>
+    <item>
+      <title>NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成</title>
+      <link>https://zenn.dev/hirokita117/articles/24c42f407dc9b9</link>
+      <pubDate>2025/12/15 11:51</pubDate>
+      <description>こんにちは、Elastic認定資格３種(※)を保持しているノムラです。 ※Elastic社の公式認定資格（Elastic Certified Engineer / Elastic Certified Analyst / Elastic Certified Observability Engineer） この記事は、Elastic Stack (Elasticsearch) Advent Calendar 2025 の15日目の記事です。 qiita.com 昨年公開した以下の記事の2025年版になります。 AWSでElastic Cloudを利用する 2024年版（構築編） - Taste of Tech Topics 昨年の記事執筆時点から、構築手順や設定方法、UIなどに変更が加えられており、以前の記事では最新環境に対応しづらくなってきました。 そこで本記事では、2024年版と同様に A</description>
+    </item>
+    <item>
+      <title>AIエージェント/MCPサーバー実装ガイドを作成しました | SIOS Tech Lab</title>
+      <link>https://tech-lab.sios.jp/archives/50769</link>
+      <pubDate>2025/12/15 19:07</pubDate>
+      <description>GoogleのNotebookLMに、また新たなアップデートが届きました。 ユーザー個人のニーズに合わせて専属アシスタントのように機能するこの多才なAIツール。今回の更新は、ずばり「視覚学習派（ビジュアル・ラーナー）」に向けたものです。 PDF、ウェブサイト、動画など、あなたが学習や整理のために読み込ませたソース資料。これらを、文字通り「一目でわかる」インフォグラフィックに変換できるようになったのです。</description>
+    </item>
+    <item>
+      <title>LG製テレビにMicrosoft Copilotが勝手に追加されて削除不可能に</title>
+      <link>https://gigazine.net/news/20251215-microsoft-copilot-lg-tv/</link>
+      <pubDate>2025/12/15 12:27</pubDate>
+      <description>もちろん、従来モデルで評価されていた便利なヘルスケア機能も引き続き搭載されている。脈拍喪失の検出機能をはじめ、血中酸素濃度の測定、皮膚温度の計測、そして心電図アプリなど、これまでのPixel Watchが培ってきた安心感のある機能群はそのまましっかりと継承されている。 ハードウェア面での大きな新機能として注目されるのは、Apple Watch Ultra 3と同様に搭載された衛星通信機能だ。ただし、Googleはこの機能を緊急時のみの使用に制限していることに加え、現時点では日本国内での提供について公式なアナウンスを行っていない。残念ながら今回の試用期間中にこの機能を試すことはできなかったが、もし日本でも利用可能になれば、電波の届かない山岳地帯での登山など、アクティビティーの際に非常に心強い機能となるはずだ。 「腕を上げるだけ」で完結する、AIアシスタントとの新たな付き合い方 さて、ここから</description>
+    </item>
+    <item>
+      <title>巨大ラジエーターで熱管理！ NVIDIA GB200/300搭載NVL72ラックがもたらす次世代AIインフラの全貌 (1/3)</title>
+      <link>https://ascii.jp/elem/000/004/359/4359756/</link>
+      <pubDate>2025/12/15 15:45</pubDate>
+      <description>米Googleは12月12日（現地時間）、Geminiの機能を活用した音声通話と翻訳関連の複数の新機能を発表した。ライブ音声エージェントの能力を向上させる新しいオーディオモデルのリリース、「Google翻訳」のテキスト翻訳機能の改善、イヤホンを使ったリアルタイムの音声間翻訳の提供、言語学習ツールの拡張だ。 Gemini 2.5 Flash Native Audio ライブ音声エージェント（リアルタイムで応答するAI）向けにアップデートした「Gemini 2.5 Flash Native Audio」をリリースした。このモデルは、複雑なワークフローの処理やユーザーの指示のナビゲート、より自然な会話を行う能力が向上しているという。複数ターンの会話品質が大幅に向上し、以前の会話の文脈をより効果的に取得できるため、よりまとまりのある会話を実現できるとしている。 同日から、「Google AI St</description>
+    </item>
+    <item>
+      <title>Railsにマージされた最新PRを毎日自動要約するサイトを作った</title>
+      <link>https://zenn.dev/gatechnologies/articles/f72a00c771874a</link>
+      <pubDate>2025/12/15 21:00</pubDate>
+      <description>ロート製薬は12月15日、新卒採用で実施していたエントリーシートによる書類選考を廃止すると発表した。2027年4月入社向けの採用から適用予定で、代わりに人事担当者との15分間の対話による選考方法「Entry Meet（エントリーミート）採用」を導入する。エントリーシート廃止の背景にあったのは、“生成AIによる効率化”の影響だ。 ロート製薬では、新卒採用の初期段階でエントリーシートによる書類選考を実施してきた。しかし生成AIの普及によって、その内容が均質化。「従来の方法では一人一人の本質的な個性を十分に捉えきれないと感じていた」とロート製薬は語っている。 「応募の手軽さが高まるほどエントリー数は増えるが、一方で企業は効率的な選考手法を追求することになる。学生も多くの企業に応募せざるを得ない状況となり、負担が増大するだけでなく、短期間で多数の選考に臨む構造上、十分な企業理解が難しくなる場合もあ</description>
+    </item>
+    <item>
+      <title>1行もコードを書かずにGeminiだけでUnityの大富豪ゲームを作って公開した話</title>
+      <link>https://zenn.dev/tomotomobile/articles/b5cf31891b77e2</link>
+      <pubDate>2025/12/15 21:04</pubDate>
+      <description>OpenAIは12月12日、公式Xで最新AIモデル「GPT-5.2」の提供開始を発表した。44職種の知的労働タスクで人間の専門家を70.9%上回る性能を実現し、AI業界に再び衝撃が走っている。 Googleの「Gemini 3」に対抗し、社内で「Code Red（緊急事態）」を宣言した直後の発表となり、これだけの速さで対応してきたということも含めて、AI覇権競争はまだまだ続くことを予見させる内容となっている。 ココがポイントOpenAI（@OpenAI） ベンチマーク「GDPval」で人間より勝るか引き分けの割合が70.9％となり、GPT-5世代の38.8％から大きく伸びた 出典：ITmedia AI＋　2025/12/12(金) 先端AIの開発で米グーグルに追い上げられており、機能改良を急いでいる 出典：日本経済新聞　2025/12/12(金) チャットの実際の問い合わせをもとにした内部</description>
+    </item>
+    <item>
+      <title>アマゾン、Kindle本の内容を「ネタバレなし」でAIに質問可能に　作家は拒否できず</title>
+      <link>https://japan.cnet.com/article/35241670/</link>
+      <pubDate>2025/12/15 20:59</pubDate>
+      <description>Google、AI搭載Webブラウザがユーザーの操作から目的を自動で推測、アプリを動的生成して提示する実験的ブラウザ「Disco」を発表 旅行の計画を立てようとしてWebブラウザで目的地の観光名所やホテルを何か所も検索していると、Webブラウザがユーザーの意図を理解してAIで自動的にその旅行の計画立案用アプリを動的に生成。新しいタブとしてユーザーに提示することで、ユーザーはたくさんのタブを開いて情報を集めなくてもよくなる。 GoogleでAI関連の実験的製品を開発するGoogle Labsが、そんな新機能を備えた実験的なブラウザ「Disco」を発表しました。 DiscoはGoogleの最新AIモデルであるGeminiを統合したWebブラウザです。 Discoには上記の画面のようにGeminiとチャットする欄があり、ユーザーはGoogleの検索キーワードを入力する代わりに、ここに知りたいこと</description>
+    </item>
+    <item>
+      <title>ChatGPTに渡すべきは「質問」ではなく「コンテキスト」と「ナレッジ」｜ひつじ</title>
+      <link>https://note.com/hituji1234/n/n1974d879f1e3</link>
+      <pubDate>2025/12/15 23:29</pubDate>
+      <description>前回、前々回と、「NotebookLMを使ってスライドを生成しYAMLでデザインをコントロールする」という方法について書きましたが、今日はその番外編としてデザインがいい感じになった生成スライドにアニメーションを加える方法について書いてみようと思います。 前々回できたものがいい感じだったのでこれを動かしてみたくなったというのがそもそもの発端です。 これが、こんな感じで動くようになりました。この記事ではこの製作プロセスをご紹介していきます。 NotebookLMで生成できるのは画像状態のPDF目下、ユーザ目線で一番ネックになっているのがここですね。Google SlideやPowerPointで編集できればいいのに。。と。自分のようにアニメーション設定をしたい人にとっても、まずは画像状態のスライドをpptx化するところから始めなくてはです。 やりたいことをまとめると NotebookLMでYA</description>
+    </item>
+    <item>
+      <title>ベテランプログラマは生成AIをどう活用しているのか？そして初学者は生成AIをどう活用すべきか？ - give IT a try</title>
+      <link>https://blog.jnito.com/entry/2025/12/15/073604</link>
+      <pubDate>2025/12/16 07:16</pubDate>
+      <description>【読売新聞】　読売新聞社は１５日、生成ＡＩ（人工知能）の利用環境の整備に向けて、「『信頼できる生成ＡＩ』との共生に関する提言」をまとめた。国産ＡＩの開発などで国の自律性を向上させるとともに、速やかに問題に対応できる体制の整備や雇用対</description>
+    </item>
+    <item>
+      <title>日常のAI相談、実は「60代女性」が積極的　人への相談と“使い分け”傾向も</title>
+      <link>https://www.itmedia.co.jp/business/articles/2512/16/news019.html</link>
+      <pubDate>2025/12/16 08:22</pubDate>
+      <description>「もっと成果を出さなきゃ」「スキルを増やさなきゃ」。そんな焦りに押され、やることを積み重ねていないでしょうか？けれど、本当に働き方を変えるのは“足し算”ではなく、“引き算”かもしれません。この企画では、エンジニアたちがあえてやめたことと、その後に訪れた変化をたどります。ムダをそぎ落とした先に残る、本当に大切な仕事や自分らしい働き方とは。誰かの“やらない選択”が、あなたの次の一歩を軽くし、前向きに進むヒントになりますように。 こんにちは。神谷（@_yukamiya）です。現在は株式会社サイバーエージェントにて、新設されたばかりのAIドリブン推進室にてマネージャーとして所属する傍ら、小学生から保育園児まで3人の子育てをしています。また仕事とプライベートの中間に属するPodcast『momit.fm』のホストをはじめとしたサイドプロジェクトも複数持っています。 周囲からは「いったいどうやって両立</description>
+    </item>
+    <item>
+      <title>藤井聡太竜王・名人が今年ハマった「バイブコーディング」とは？ #将棋情報局</title>
+      <link>https://book.mynavi.jp/shogi/detail/id=149382</link>
+      <pubDate>2025/12/16 08:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b6893d5dbf70d98be04ac9e30fdae71c4a57843f/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2067%2F933%2F02.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>言語化が下手な人は5つのタイプに分けられる｜すてぃお</title>
+      <link>https://note.com/suthio/n/n2555d51f8f1b</link>
+      <pubDate>2025/12/16 09:54</pubDate>
+      <description>株式会社一休CTO伊藤直也さんとイオンCTO山﨑の対談企画。現在・過去・未来編の全3編のうち未来編では、AI時代のエンジニア・組織・プロダクトの在り方を探ります。AIを手段として使いこなすこと以上に、正しいデータを集めてAIに選ばれる形に整備することが価値になると二人は語ります。</description>
+    </item>
+    <item>
       <title>｢AIと違って人間は責任取れるから」とか言ってる奴､自惚れすぎだろ</title>
       <link>https://anond.hatelabo.jp/20251214182609</link>
       <pubDate>2025/12/14 18:30</pubDate>
@@ -1778,117 +1883,6 @@
       <description>&lt;/p&gt;
           &lt;p class="entrylist-contents-thumb"&gt;
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9410f77a51cb3c0b2eb053657e9da755c6a3948e/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2064%2F390%2F1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>【徹底解説】Google「Gemini 3」登場。圧倒的な進化と実際の使い心地を徹底レビュー｜ChatGPT研究所</title>
-      <link>https://chatgpt-lab.com/n/ne35c561efac3</link>
-      <pubDate>2025/11/19 09:39</pubDate>
-      <description>令和最新ごっこ遊びゲーム“文字だけRPG”が登場！ 「なりきりチャット」や「TRPG」など無限の展開を楽しめるキャラ遊びをデジタルゲーム化した『サーガ＆シーカー』発表「粗削り、だから面白い」がコンセプトのゲーム開発スタジオ『ダグドリア スタジオ』は、キャラクター同士の会話で物語が進んでいく“文字だけRPG”『サーガ＆シーカー』を発表いたしました。 ©西村博之『サーガ＆シーカー』は、文章生成AIの技術を用いた「物語錬成ゲーム」。「なりきりチャット」や「TRPG」などのキャラクター遊びを、最新技術によってデジタルゲーム化しました。従来のアドベンチャーゲームような選択式ではなく、やりたいことを“自由に書き込む”だけでキャラクターが動き出し、物語が進んでいく「令和最新のごっこ遊び」です。 タイトル公開トレーラー映像はこちら：https://youtu.be/Lqo47QDhDV0 正式リリースに先</description>
-    </item>
-    <item>
-      <title>個人から巡るAI疲れと組織としてできること - AI疲れをふっとばせ。エンジニアのAI疲れ治療法 ショートセッション -</title>
-      <link>https://speakerdeck.com/kikuchikakeru/ge-ren-karaxun-ruaipi-retozu-zhi-tositedekirukoto-aipi-rewohututobase-enzinianoaipi-rezhi-liao-fa-siyotosetusiyon</link>
-      <pubDate>2025/11/19 22:17</pubDate>
-      <description>こんにちは。LayerX AI Workforce事業部でR&amp;amp;Dチームのリサーチエンジニアの矢野目です。 こちらはLayerX AI エージェントブログリレー49日目の記事です。前回の記事はKenta WatanabeさんのAIエージェントを開発するPdMがやることをプロンプトを書きながら考えるでした。 今回の記事では、AIワークフローの自動生成技術開発の取り組みについてお話しします。 AIワークフローを構築する際、「どのような処理ステップを組み合わせるか」「各ステップでどんなプロンプトを使うか」といった設計に多くの時間がかかります。特に、お客様のドメイン知識が必要なタスクでは、試行錯誤を繰り返しながら精度を高めていく必要があり、これが大きな課題となっています。 そこで我々Applied R&amp;amp;Dチームでは、プロンプトとワークフロー構造を同時に自動生成する手法に取り組んでいます。 本稿では、</description>
-    </item>
-    <item>
-      <title>【重要】AI生成作品を対象とした出版申請及びコンテストにおける禁止行為の追加について（2025/11/18） | アルファポリス - 電網浮遊都市 -</title>
-      <link>https://www.alphapolis.co.jp/pages/topic_20251118</link>
-      <pubDate>2025/11/18 16:03</pubDate>
-      <description>Google Antigravity - Build the new way</description>
-    </item>
-    <item>
-      <title>レジュメ作成の救世主！AIがあなたのプロジェクト経験の作成をサポートします【新機能リリース＆キャンペーン】｜転職ドラフトREPORT</title>
-      <link>https://job-draft.jp/articles/641</link>
-      <pubDate>2025/11/17 11:00</pubDate>
-      <description>NEW! 2025.11.18 働き方 メルカリ生成AI 生成AIの進化の波が押し寄せる中、「うちも導入しよう」と旗を掲げたはいいものの、実際に現場で使われず形骸化してしまうーーそんな課題に直面しているリーダーは少なくないだろう。既存の組織の在り方にフィットしなかったり、目的があいまいだったりと、AI活用が“スローガン止まり”になってしまうケースも多そうだ。 そんな中、「AI-Native Company」への組織変革を目指すメルカリに、ハヤカワ五味さんが生成AI推進担当としてジョインして1年強。先日Xでこんなポストをしているのを見かけた。 「生成AI×組織開発」について、直近でかなり具体的に考えをまとめているのでどこかで話したいなーと思っています。機会ください！ https://t.co/spP0JUixfR — ハヤカワ五味｜生成AI×組織開発 (@hayakawagomi) Sept</description>
-    </item>
-    <item>
-      <title>What is Open Notebook? | Open Notebook</title>
-      <link>https://www.open-notebook.ai/</link>
-      <pubDate>2025/11/18 15:51</pubDate>
-      <description>マイクロソフトは日本時間11月19日未明に開幕した年次インベント「Microsoft Iginte 2025」で、AIエージェントの包括的な管理を可能にする「Microsoft Agent 365」を発表しました。 Microsoft Agent 365は、AIエージェントがマイクロソフト製かサードパーティ製かオープンソースにより作られたものであるかに関わらず、あらゆるAIエージェントをセキュアに保つために観測、保護、管理するためのツールとして、Microsoft 365管理センターで利用可能になる予定です。 アクセス制御 エージェントを管理下に置き、必要なリソースのみへのアクセス制限を行う。また、リスクベースの条件付きアクセスポリシーにより、エージェントによる侵害を防止する。 可視化 エージェント、人物、データのつながりを探り、リアルタイムにエージェントの行動やパフォーマンスを監視するこ</description>
-    </item>
-    <item>
-      <title>小説投稿サイトで“AI作品”対策相次ぐ　note運営サイトは「AI作品を自動判定する仕組み」開発中</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2511/18/news121.html</link>
-      <pubDate>2025/11/19 01:47</pubDate>
-      <description>Adobeは、18日朝に発生した「Illustrator」「InDesign」「PremierePro」などの製品が起動しない不具合が、11月19日午前9時10分までに復旧したと、カスタマーサポートの公式Xで発表した。障害発生から約1日かかった。 障害はMac向け製品で発生。利用者からは「仕事にならない」などと悲鳴が上がった。Adobeは一時的な障害回避策として、「ネットワーク接続を切った状態にした上でアプリを再起動する」などの方法を案内していた。 関連記事 Adobeの大規模障害、依然復旧せず　被害範囲は“Macのみ”か　「ネットを切ってアプリを再起動して」 11月18日朝から続く、Adobe製品の大規模障害。公式からの復旧報告は同日午後6時時点では確認できず、依然障害が続いている。 イラレなどAdobe製品が起動しない不具合、「解決に向けて調査中」 カスタマーサポートには問い合わせが殺</description>
-    </item>
-    <item>
-      <title>AIが「問い合わせ対応」や「セキュリティチェック」を代行　「天才くんfor情シス」をSHIFTが提供開始</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2511/19/news051.html</link>
-      <pubDate>2025/11/19 16:02</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fb3770b224be5ac31718e51d4423f8de66fc39f1/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F243%2Fantigravity.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>LLMで業務ワークフローを自動生成・最適化する! 〜ワークフロー自動生成・最適化の取り組みについて〜 - LayerX エンジニアブログ</title>
-      <link>https://tech.layerx.co.jp/entry/2025/11/19/133143</link>
-      <pubDate>2025/11/19 17:00</pubDate>
-      <description>生成AIを使用した作品については、使用状況に応じて以下のタグ付けを推奨いたします。 利用者の利便性向上と配慮のために、ご協力お願いいたします。 使用状況タグ 本文の大半（目安50%以上）がAIによって生成された文章。またはそれらの文章に作者が軽微な修正を加えたものAI本文利用 本文の一部（目安50%未満）がAIによって生成された文章。またはそれらの文章に作者が軽微な修正を加えたものAI本文一部利用 AIのアイデアや資料をもとに、作者自身が本文を書いたもの。または作者自身が書いた文章の校正をAIに行わせるなど、創作の補助的に利用したものAI補助利用 タグの区分けはあくまで目安ですので、ご自身の利用実態にあわせてお選びください。タグ付けの基準は、今後の利用状況により変わる可能性があります。 なお、投稿作品がどのタグに該当するかについてのお問い合わせはご返答いたしかねます。 カクヨムコンテスト1</description>
-    </item>
-    <item>
-      <title>日本最大のスタートアップ・セカンダリー──General AtlanticとSmartHRのパートナーシップ | Coral Capital</title>
-      <link>https://coralcap.co/2025/11/japans-largest-startup-secondary/</link>
-      <pubDate>2025/11/18 10:29</pubDate>
-      <description>クラウド専業インテグレーターのサーバーワークスは2025年11月5日、ITエンジニアの生成AI（人工知能）による働き方とスキルの変化に関する調査結果を公表した。調査は2025年9月29日～10月6日にインターネット調査で実施し、全国に住む20歳以上の企業に勤めるITエンジニア264人を対象としている。 生成AIによる業務変化を8割超が実感 生成AI導入後の業務変化について、「大きく変化した」が31.4％、「やや変化した」が51.9％となり、回答者の8割超が変化を感じていると回答した。 求められるスキルも8割超が変化を実感 求められるスキルの変化では「とても感じている」が26.1％、「やや感じている」が57.6％となり、ここでも8割超が変化を感じている。 生成AI時代に重要だと思うスキルは、「AIツールの活用スキル」（24.6％）が最多で、「論理的思考力」（14.4％）「プロンプトエンジニア</description>
-    </item>
-    <item>
-      <title>MicrosoftとNVIDIA、Anthropicが戦略的提携　AzureにClaude採用など</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2064428.html</link>
-      <pubDate>2025/11/19 11:13</pubDate>
-      <description>はじめに Google社で提供するNotebookLMが人気ですが こちらはクラウドで稼働するため機密文章を扱う際、セキュリティの問題が立ちはだかります。 そういうったセキュリティ問題を解決するため、ローカルで扱えるNotebookが公開されました 今回はそれを試しにつかってみました。 テストで利用する機密データ(サンプル) 今回テストで使うサンプルデータは下記とします 🧪 サンプル①：個人識別情報（PII）を含むドキュメント # 【社員個別情報 管理ファイル】（社外秘・架空） --- ## ■ 社員ID：EMP-2024-1182 - **氏名**：玖羅間（くらま） リョウ＝ゼルト - **生年月日**：1993/08/21 - **住所**：東京都虚空区無影町 9-17-3 オーロラ荘 404 - **電話番号**：090-9999-1138 - **メール**：ryo.zelt@e</description>
-    </item>
-    <item>
-      <title>「Adobe製品が起動しない」大規模障害、ようやく復旧　発生から約1日</title>
-      <link>https://www.itmedia.co.jp/news/articles/2511/19/news073.html</link>
-      <pubDate>2025/11/19 10:22</pubDate>
-      <description>GoogleがAIモデル「Gemini 3」を2025年11月18日(火)にリリースしました。Gemini 3は各種ベンチマークでGPT-5.1やGrok 4.1といった競合モデルを上回るスコアを記録しており、すでに無料で利用可能となっています。 Gemini 3: News and announcements https://blog.google/products/gemini/gemini-3-collection/ Gemini 3: Introducing the latest Gemini AI model from Google https://blog.google/products/gemini/gemini-3/#note-from-ceo GoogleはGemini 3シリーズの最初の製品として「Gemini 3 Pro」をリリースしています。「Gemini 3 Pr</description>
-    </item>
-    <item>
-      <title>「Windows 11のAIエージェントがマルウェアをインストールする可能性がある」とMicrosoftが警告</title>
-      <link>https://gigazine.net/news/20251119-ai-agent-workspace-windows-warning/</link>
-      <pubDate>2025/11/19 11:43</pubDate>
-      <description>GoogleがGemini 3と同時にAntigravityという新たなAI コーディングエディタを発表しました。 Google AntigravityGoogle Antigravity - Build the new wayGoogle Antigravity内部技術としては、Google製のChromiumとV8エンジンを内蔵したElectronというフレームワーク上で動くマイクロソフトのVS Codeフォークである Windsurfの内部のCodeiumエンジンのライセンスを取得したGoogleの独自アプリです（1周した！）。 ただし、表層の実装は魔改造Windsurf寄りでありつつも、プロダクト設計はKiroに近い方向へ振れており、AIエージェントを中心に据えたタスク指向・アーティファクト管理といった独自の抽象レイヤーが全面に押し出されています。 Antigravity の設計で</description>
-    </item>
-    <item>
-      <title>「Google Antigravity」の無償プレビューが開始、AIエージェント中心の新しい開発環境／発表されたばかりの「Gemini 3」も利用可能、制限緩和のおまけつき</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2064243.html</link>
-      <pubDate>2025/11/19 15:07</pubDate>
-      <description>Ubuntu Weekly Recipe 第888回【はじめてのUbuntu刊行記念】 あなたのUbuntuはどこから⁠⁠、どこへ？ 2008年1月から開始した本連載も、今回で第888回を迎えることとなりました。これもひとえに常日頃から本連載をご贔屓にしていただいている読者の皆さまのおかげです。ありがとうございます！ さて今回は近日発売される『はじめてのUbuntu』の宣伝も兼ねて、初心者がUbuntuを始める上でどこからスタートすべきなのか、どんな本を手に取ると良いのか考えてみましょう。 図1 この記事が公開されるころには全国の書店にも並んでいるはず。待ちきれない人は電子版もどうぞ 祝連載888回＆『はじめてのUbuntu』が出版されます！ Ubuntu Weeky Recipeは「Ubuntu」の便利な活用方法をお伝えする週刊の連載です。最近は時流に載ってAI関連の記事が多いものの、U</description>
-    </item>
-    <item>
-      <title>【重要】作品投稿に生成AIを利用している方へ、推奨タグ利用のお願い - カクヨムからのお知らせ</title>
-      <link>https://kakuyomu.jp/info/entry/geneai_tag</link>
-      <pubDate>2025/11/19 17:52</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/fb3770b224be5ac31718e51d4423f8de66fc39f1/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F243%2Fantigravity.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>第888回　【はじめてのUbuntu刊行記念】 あなたのUbuntuはどこから、どこへ？ | gihyo.jp</title>
-      <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0888</link>
-      <pubDate>2025/11/19 14:45</pubDate>
-      <description>GoogleがGemini 3と同時にAntigravityという新たなAI コーディングエディタを発表しました。 Google AntigravityGoogle Antigravity - Build the new wayGoogle Antigravity内部技術としては、Google製のChromiumとV8エンジンを内蔵したElectronというフレームワーク上で動くマイクロソフトのVS Codeフォークである Windsurfの内部のCodeiumエンジンのライセンスを取得したGoogleの独自アプリです（1周した！）。 ただし、表層の実装は魔改造Windsurf寄りでありつつも、プロダクト設計はKiroに近い方向へ振れており、AIエージェントを中心に据えたタスク指向・アーティファクト管理といった独自の抽象レイヤーが全面に押し出されています。 Antigravity の設計で</description>
-    </item>
-    <item>
-      <title>Claude CodeにおけるClaude SkillsとSubAgentsの使い分けと併用を理解する</title>
-      <link>https://zenn.dev/nogu66/articles/claude-code-think-abount-skills-and-subagent</link>
-      <pubDate>2025/11/19 08:36</pubDate>
-      <description>【フランクフルト=林英樹】ドイツの地方裁判所が米オープンAIによるヒット曲の歌詞の無断学習について著作権侵害との判決を下した。専門家によると、生成AI（人工知能）の学習段階の著作物複製を違法と判断したのは世界初という。欧州において音楽や映像、記事などのコンテンツの権利確認が広がる可能性がある。ドイツ音楽著作権協会は2024年11月、オープンAIの生成AI「チャットGPT」が人気の9曲を学習した</description>
-    </item>
-    <item>
-      <title>仕様駆動開発の理想と現実、そして向き合い方</title>
-      <link>https://speakerdeck.com/gotalab555/shi-yang-qu-dong-kai-fa-noli-xiang-toxian-shi-sositexiang-kihe-ifang</link>
-      <pubDate>2025/11/19 13:18</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/877d7ed41071668cc122b797bbfe70be22bbb09e/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2064%2F364%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
   </channel>
