@@ -5,6 +5,33 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>AI agents are starting to eat SaaS</title>
+      <link>https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/</link>
+      <pubDate>2025/12/15 14:34</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。12月8日（月）～12月14日（日）〔2025年12月第2週〕のトップ30です*1。 順位 タイトル 1位 国立がん研究センターのがんになったら手にとるガイド：[国立がん研究センター がん情報サービス 一般の方へ] 2位 １．証券口座を開く ２．NISA一般枠（NISA成長投資枠）で一括購入 ３．積み立.. 3位 「株式会社ガイナックス」について | 株式会社カラー 4位 超面白かった歴史小説&amp;amp;歴史ノンフィクション６選｜ふろむだ 5位 残業キャンセル界隈と企業カルチャーの死 - megamouthの葬列 6位 畑中様 いつもSNSでの発信陰ながら拝見しております。 私は今他業種にいるのですが、どうしても漫画を作って生きていきたいと思い、読み切りを賞に投稿しようと考えています。これまでに何本か二次創</description>
+    </item>
+    <item>
+      <title>【Gemini × NotebookLM】 スライド作成から案内文まで、AIと社内説明会の準備を進めてみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/gemini-notebooklm-ai-prepdocuments/</link>
+      <pubDate>2025/12/16 10:28</pubDate>
+      <description>オリジナルの公開場所: https://www.nocobase.com/ja/blog/6-best-open-source-ai-tools-to-build-dashboards 序論 昨年、私たちはコアアプリ向けダッシュボードツールのまとめを公開し、データ可視化に取り組むチームが直面しがちな課題について紹介しました。当時取り上げたのは、使い勝手の良い成熟した商用ツールが中心でしたが、ライセンス形態やデプロイ方法、拡張性にはどうしても制約があります。その後読者の方々と話す中で、より低コストで、自由度が高く、しかもセルフホストにも対応できるオープンソースの選択肢を求める声が多いことが分かりました。 💡おすすめ記事：開発者向けノーコード／ローコードの技術判断ガイド（2026） この一年で、オープンソースコミュニティの可視化系ツールは大きく進化しました。自然言語での検索、チャートの自動生</description>
+    </item>
+    <item>
+      <title>AIエージェントは本当に戦力になるのか　“AI部下”育成術をSakana AI研究者に聞いた</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2512/10/news108.html</link>
+      <pubDate>2025/12/17 09:16</pubDate>
+      <description>米OpenAIは12月16日（現地時間）、画像生成AIの新版「ChatGPT Images 1.5」をリリースしたと発表した。画像生成速度が最大4倍高速化するなどの改善が行われた。 ChatGPT Images 1.5は、OpenAIの新しい主力画像生成モデルによって提供されており、ゼロからの画像作成でも写真編集でも、思い描いた通りの出力を得られることを目指しているという。APIでも提供が開始されている。 強化・改善点は多岐にわたり、特にモデルの指示追従性と編集能力が大幅に向上した。アップロードされた画像に対して編集を依頼する際、ユーザーの意図にこれまで以上に忠実に従い、ライティング、構図、人物の見た目といった要素を一貫して維持しながら、要求された部分のみを正確に変更できるようになったとしている。これにより、より実用的な写真編集や、信憑性の高いバーチャル試着やヘアスタイルシミュレーション、</description>
+    </item>
+    <item>
+      <title>いろんな音が混ざった動画や音声から目的の音だけを分離できるAI「SAM Audio」をMetaが公開</title>
+      <link>https://gigazine.net/news/20251217-meta-sam-audio-ai/</link>
+      <pubDate>2025/12/17 12:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d5c2aca4a3985fac37aae0486e5aa438821043e6/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2071%2F905%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
       <title>書籍『わが投資術』のネットキャッシュ比率の汎用性の検証</title>
       <link>https://zenn.dev/morim34/articles/ff991f32187d96</link>
       <pubDate>2025/12/16 10:45</pubDate>
@@ -1842,30 +1869,6 @@
       <link>https://www.itmedia.co.jp/news/articles/2511/20/news125.html</link>
       <pubDate>2025/11/21 03:02</pubDate>
       <description>今回ご紹介するのは、日本に留学中の学生が投稿したもので、 日本の街中をサイクリングしながら撮影した映像が収められています。 看板などを見る限り大阪市内のようです。 日本有数の大都市であるとは言え、 基本的には日本でよく見られる都市部の光景だと思われます。 しかし、映像に映る街の清潔さや平和な雰囲気が、 もはや非現実的にすら見えるということから、 AIであることを疑う外国人も散見されました。 他にも各国から様々な反応が寄せられていましたので、 その一部をご紹介します。 「こんな場所が実在するのか…」 日本の神社の異世界感が尋常じゃないと話題に @yi_.mu #japan #school #lifestyle ♬ sonido original - Lexn🧛🏽 ■　これ、AIで作ったものなのか、 それとも本物なのか見分けがつかないんだが。　+158　アメリカ ■　これはAIで作られた映</description>
-    </item>
-    <item>
-      <title>ありとあらゆるものに不要なAIがつくようになったのを「イルカの復活」と呼んでる→令和最新版の「お前を消す方法」を求める声が続出</title>
-      <link>https://togetter.com/li/2630124</link>
-      <pubDate>2025/11/21 08:55</pubDate>
-      <description>「海外配信プラットフォーマーが巨額の制作費で直接、（アニメスタジオに）制作を依頼する事例が増えている」。アニメプロデューサーの平沢直氏はこう指摘する。海外の動画配信大手は世界各国で収益を上げられるため、多額の制作費もいとわず映像や品質にこだわる。アニメ作品では1話30分が1億円を超える作品もある。配信大手の高い要求水準に応え、多額の制作費を受け取る数少ない日本企業がCG（コンピューターグラフィ</description>
-    </item>
-    <item>
-      <title>Googleの画像生成AI「Gemini 3 Pro Image(Nano Banana Pro)」が登場、Geminiの推論機能を応用して言語対応や情報整理能力が強化</title>
-      <link>https://gigazine.net/news/20251121-google-gemini-3-pro-image-nano-banana-pro/</link>
-      <pubDate>2025/11/21 11:39</pubDate>
-      <description>生成AIの登場によって、AIは「使う」だけの存在から「実装し、活かす」段階に入りました。いま、エンジニアにはAIツールを活用する力に加え、その仕組みを理解し、自らの手でプロダクトに組み込むスキルが求められています。 本特集では、AI時代のいま必要性が高まるPythonの基礎から生成AI・機械学習の理解、実装まで、基本から段階的に身につけられる講座を厳選して紹介します。 オンライン学習プラットフォーム「Udemy」が11月28日まで実施する恒例のブラックフライデーセールと11月30日・12月1日のサイバーセールでは、対象講座が1講座1,300円からと通常よりももっとお得に、講座を購入できます！ぜひこの機会に、「いま学ぶべきAI活用・実装スキル」を身につけてください。 AI時代に価値を発揮する技術を今こそ学ぼう！ 最新講座も定番講座も長時間の大作講座もお買い得 Udemyでブラックフライデー・</description>
-    </item>
-    <item>
-      <title>Googleの画像生成AIが進化　「Nano Banana Pro」登場　言語・編集能力を大幅強化、4Kにも対応</title>
-      <link>https://www.itmedia.co.jp/news/articles/2511/21/news070.html</link>
-      <pubDate>2025/11/21 02:11</pubDate>
-      <description>Google DeepMindは11月20日、最新の画像生成AIモデル「Nano Banana Pro（Gemini 3 Pro Image）」を発表した。8月26日にリリースされた「Nano Banana（Gemini 2.5 Flash Image）」の上位版にあたり、同社の最新AI基盤モデル「Gemini 3 Pro」の高度な推論能力と現実のデータを組み合わせ、精緻な情報表現ができるようになった。 なかでも最大の特徴は、文脈を理解したビジュアル生成能力の劇的な向上だ。 Google検索の膨大な知識ベースと連携できるため、レシピを画像化したり、天気やスポーツの試合結果などリアルタイムの情報を反映したインフォグラフィックを作成したりできるようになった。従来モデルでは苦手とされていた「画像内のテキスト描写」も大幅に改善され、短いキャッチコピーから長文の段落まで、正確かつ読みやすい文字を画像</description>
-    </item>
-    <item>
-      <title>熱狂と即決を引き出す！〜AIとつくる探索フェーズのプロダクトデザイン 〜 - freee Developers Hub</title>
-      <link>https://developers.freee.co.jp/entry/product-design-created-with-AI</link>
-      <pubDate>2025/11/21 09:21</pubDate>
-      <description>pytest と「最初にテストを書く」という考え方を活用することで、機械学習の実験コードに再現性と設計の明示性を確保する手法を、主にテストを書くのが億劫だなと感じている研究者・機械学習エンジニアに向けて紹介します ■ 堅牢.py #1 https://kenro.connpass.com/eve…</description>
     </item>
   </channel>
 </rss>
