@@ -5,6 +5,81 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>書籍『わが投資術』のネットキャッシュ比率の汎用性の検証</title>
+      <link>https://zenn.dev/morim34/articles/ff991f32187d96</link>
+      <pubDate>2025/12/16 10:45</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/649a9848c8f4d31c36789e4f74da9e60e357e6ed/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2071%2F584%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Obsidianを「ChatGPTのナレッジ保管庫」にしよう｜ひつじ</title>
+      <link>https://note.com/hituji1234/n/nf82e2fa55f28</link>
+      <pubDate>2025/12/16 13:34</pubDate>
+      <description>NVIDIAは2025年12月15日に、特化型エージェントAI開発の強化、AI業界全体の透明性、効率性を目的として設計されたオープンAIモデル、データ、ライブラリの「Nemotron 3」ファミリーを発表しました。Nemotron 3は必要な部分のみを活性化させることで、マルチエージェントを効率的に稼働させながら、コストを削減することを可能としています。 NVIDIA Debuts Nemotron 3 Family of Open Models | NVIDIA Newsroom https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models/?ncid=so-twit-561360 Nemotron 3ファミリーは複数の専門的なエージェントを組み合わせたMoEモデルで、300億パラメータ</description>
+    </item>
+    <item>
+      <title>Mac Studio M3 Ultra（96GBメモリ）でローカルLLMを動かす / 開発者向けブログ・イベント | GMO Developers</title>
+      <link>https://developers.gmo.jp/technology/74987/</link>
+      <pubDate>2025/12/16 10:58</pubDate>
+      <description>ディズニーはOpenAIとライセンス契約を結び、ディズニーキャラクターを動画生成AIのSoraで描写できるようにしました。このライセンス契約の期間は3年間ではあるものの、独占期間は1年のみなので、それ以降は他のAI企業と同様の契約を結ぶことが可能であることが明らかになっています。 Disney&amp;#39;s OpenAI stake is &amp;#39;a way in&amp;#39; to AI, Iger tells CNBC https://www.cnbc.com/2025/12/11/disney-open-ai-iger-altman.html Disney&amp;#39;s OpenAI deal is exclusive for just one year -- then it&amp;#39;s open season | TechCrunch https://techcrunch.com/2025/12/15/disneys-open</description>
+    </item>
+    <item>
+      <title>RAGの「リランキング」を10倍速くする「MixLM」</title>
+      <link>https://zenn.dev/knowledgesense/articles/4eb785fd0e9a2b</link>
+      <pubDate>2025/12/16 12:46</pubDate>
+      <description>2025年10月16日、Anthropic社がClaude Skillsを公開し、ITエンジニア界隈で大きな話題となりました。本記事ではClaude Skillsの基本的な概念、それによって解決される課題、利用方法を解説します。大規模言語モデルの性能向上により、AIは知識レベルではすでにプロの研究者に匹敵するようになりましたが、特定分野のドメイン知識や作業手順といったコンテキストに依然として依存しています。Claude Skillsを使用することで、より専門性の高いAIエージェントを構築でき、本当の意味での属人化を回避する銀の弾丸となり得ます。 はじめに KDDI アジャイル開発センターに勤める上田です。コミュニティ界隈ではハリネズミというハンドルネームで活動しています。 本連載では、Claude Skillsについて解説します。第1回ではClaude Skillsの基本概念、それが解決す</description>
+    </item>
+    <item>
+      <title>画像圧縮するベストな方法（2025） - Qiita</title>
+      <link>https://qiita.com/fukushima1981/items/deaf8e97df2d1b9d6865</link>
+      <pubDate>2025/12/16 03:55</pubDate>
+      <description>米国の人工知能（AI）大手を中心に、大規模データセンター（DC）の建設競争がチキンレースさながらの様相を呈している。DC向けに画像処理半導体（GPU）を巨額の資金で調達し、高度なAIモデルをいち早く開発しようと各社が動く。一方で、AIモデルの軽量化が進み、省電力で高速処理が可能な光技術や量子技術を使った新たな計算手法も台頭しつつある。計算資源の拡大を前提とした従来の競争構図が、今後変わる可能性も</description>
+    </item>
+    <item>
+      <title>2026年、日本のソフトウェア開発を変える5つの潮流 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/12/5-trends-that-transform-software-development-in-japan-2026</link>
+      <pubDate>2025/12/16 16:37</pubDate>
+      <description>自民党は16日、偽の動画や画像を人工知能（AI）で生成する「ディープフェイク」対策の合同プロジェクトチーム（PT）を立ち上げた。初回の会合は有識者として台湾の初代デジタル発展相を務めた唐鳳（オードリー・タン）氏らから海外の対策事例を聴取した。オードリー氏は台湾の偽情報対策に関し、プラットフォーマーに連帯で賠償責任を負わせる法律を制定したことで被害が激減したことなどを紹介した。</description>
+    </item>
+    <item>
+      <title>そのKPI分析、まだ手動でやりますか？ メルペイが挑む要因分析自動化の現在地｜Mercari Analytics Blog</title>
+      <link>https://note.com/mercari_data/n/nd45f9256725c</link>
+      <pubDate>2025/12/16 23:25</pubDate>
+      <description>動画編集講座はこちら https://www.dogaedit.com ------------------------------------------------------------------------------------------------ DEEP DIVE HP https://deepdive.or.jp/ クラウドファンディング目標達成！ ご支援ありがとうございました！ https://camp-fire.jp/projects/821287/view ------------------------------------------------------------------------------------------------ 製作・運営：(株)ジェットストリーミング https://www.jetstreaming.jp/ #小原凡司　</description>
+    </item>
+    <item>
+      <title>マッキンゼーやアクセンチュア、進む人員削減　「AIが3割代替」 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN16CL90W5A211C2000000/</link>
+      <pubDate>2025/12/17 07:41</pubDate>
+      <description>はじめに こんちは！製造業で社内SE的なのやってる人です。 最近RAG分野にハマっていますが、Excel文書が厄介者すぎるということに最近気が付きました。ZennでもRAGにおいて、このExcel文書をいかに扱うかの記事は定期的に見かけます。 先人のエンジニアの方々が様々な有効打を提示してくれていますが、私も別のアプローチでこの課題に取り組んでみたので共有します🔥 TL;DR ExcelをCOM + xlwings/openpyxlで構造化する自作ライブラリ「exstruct」。セル値だけでなく図形・グラフ・ハイパーリンク・印刷範囲・罫線由来の表までJSON/YAML/TOON形式で出力。 画像認識なしでフローチャート矢印方向やグラフ軸・系列も抽出でき、RAGで失われがちな情報を補完してLLM復元精度が向上。 デモで表＋折れ線グラフ＋フローチャートをJSON化→Markdown/merm</description>
+    </item>
+    <item>
+      <title>AIデータセンター、50万人分の水がぶ飲み　米国で建設急増が招く枯渇 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUF2705X0X21C25A1000000/</link>
+      <pubDate>2025/12/17 04:27</pubDate>
+      <description>Twitterで、12月12日の「AI時代の知的財産権検討会（第10回）」の配布資料「AIの適切な利活用等に向けた知的財産の保護及び透明性に関するプリンシプル型コード（仮称）（案）」が、これはひどいと話題になっているのが流れてきたので、読んでみたところ、色々言いたいことが思い浮かんだ。本来ならば論文で指摘するべき話だが、他に先に書かないといけないことばかりで、いつになったらできるかわからない。今動いている話なので、急ぎここに記す必要があるが、書くのが面倒なので、生成AIに書かせた。自分で書けばぐちぐちと悩みながら2、3日かけるところだが、もはや生成AIのおかげで、気づいてから半日で完成だ。（どういうプロンプトで書かせたかは末尾に開示しておく。） 関係者の皆さんには読んでほしい。方向付けさえすれば自然にここまで言われてしまうという事態の深刻さを受け止めてほしい。 5月に「処遇AIと生成AIの</description>
+    </item>
+    <item>
+      <title>セキュリティAIエージェントによる脆弱性診断を試してみました - ANDPAD Tech Blog</title>
+      <link>https://tech.andpad.co.jp/entry/2025/12/17/100000</link>
+      <pubDate>2025/12/17 10:14</pubDate>
+      <description>AIこんにちは。SCSKの松渕です。 先日、発表されたばかりのGoogle Antigravityをインストール＆簡易WEBサイト構築してみましたが、 今回はもう少しアプリ開発をしてみた実体験をブログに書きます！ はじめに Antigravityとは AWSのKiroと同様に、AIエージェント型統合開発環境（Agentic IDE）と呼ばれるものです。 Antigravityのポイントとしては、特に以下の点になるかと思っております。 ・ AIによるブラウザ操作も可能 ・ AIによる自律的な実装 ・ アウトプット品質の高さ（これはGemini 3のポイントではありますが） ・ Google Cloud環境とのシームレスな連携 類似サービスとの比較は以下の通りです IDE/プラットフォーム 開発元 主な設計思想と特徴 類似サービスとの差別化ポイント Antigravity Google エージ</description>
+    </item>
+    <item>
+      <title>Google Cloud資格全冠達成のリアル！学習のコツと苦労点【社内座談会レポート】 - NTT docomo Business Engineers&amp;#39; Blog</title>
+      <link>https://engineers.ntt.com/entry/20251217-gcp-cert-roundtable/entry</link>
+      <pubDate>2025/12/17 09:40</pubDate>
+      <description>昨日の yuria3 の記事はどうでしたか？ClickHouseのホスティング選定プロセスだけでなく、SaaS版導入時のPrivateLinkやDNS制約といったリアルな「ハマりポイント」まで詳しく共有されており、これから導入するエンジニアにとって転ばぬ先の杖となる非常に実践的な記事ですね😊 さて、今回はEMになった osso が最近悩んでいることを書いてみたいと思います。 わたし、正直AIがチョットニガテなんですよね。 2025年はAIエージェント元年と言われています。昨年の今頃はまだ Chat に質問して回答を得るという使い方が主流でしたが、現在はAI駆動開発は当たり前で、さらに常に新しく出てくるモデルの特徴やAIエディタ、コーディングエージェント、仕様駆動開発といった新しい手法などにキャッチアップしながら、日々の開発フローをアップデートし続ける必要があります。もはや、AIを&amp;quot;うまく</description>
+    </item>
+    <item>
+      <title>MINISFORUM、MS-S1 MAXを4台連結して“非蒸留”のDeepSeek-R1 671Bを駆動</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2071905.html</link>
+      <pubDate>2025/12/17 11:41</pubDate>
+      <description>米OpenAIは12月16日（現地時間）、画像生成AIの新版「ChatGPT Images 1.5」をリリースしたと発表した。画像生成速度が最大4倍高速化するなどの改善が行われた。 ChatGPT Images 1.5は、OpenAIの新しい主力画像生成モデルによって提供されており、ゼロからの画像作成でも写真編集でも、思い描いた通りの出力を得られることを目指しているという。APIでも提供が開始されている。 強化・改善点は多岐にわたり、特にモデルの指示追従性と編集能力が大幅に向上した。アップロードされた画像に対して編集を依頼する際、ユーザーの意図にこれまで以上に忠実に従い、ライティング、構図、人物の見た目といった要素を一貫して維持しながら、要求された部分のみを正確に変更できるようになったとしている。これにより、より実用的な写真編集や、信憑性の高いバーチャル試着やヘアスタイルシミュレーション、</description>
+    </item>
+    <item>
       <title>データセンターの電力消費問題を解決？　光の集積回路、NTTが開発：朝日新聞</title>
       <link>https://www.asahi.com/articles/ASTDD3K68TDDUHBI00XM.html</link>
       <pubDate>2025/12/14 21:50</pubDate>
@@ -1791,81 +1866,6 @@
       <link>https://developers.freee.co.jp/entry/product-design-created-with-AI</link>
       <pubDate>2025/11/21 09:21</pubDate>
       <description>pytest と「最初にテストを書く」という考え方を活用することで、機械学習の実験コードに再現性と設計の明示性を確保する手法を、主にテストを書くのが億劫だなと感じている研究者・機械学習エンジニアに向けて紹介します ■ 堅牢.py #1 https://kenro.connpass.com/eve…</description>
-    </item>
-    <item>
-      <title>社内資料「速習 AIエージェント入門」を公開します - LegalOn Technologies Engineering Blog</title>
-      <link>https://tech.legalforce.co.jp/entry/aiagent-introduction</link>
-      <pubDate>2025/11/21 11:25</pubDate>
-      <description>BBCの報道によると、テレンス・ブリッジズさんと妻のレスリーさんは、ガスボイラーを撤去し、庭の小屋に小型データセンター「HeatHub」を設置。これにより、月額の電気料金を375ポンド（約7万7000円、1ポンド＝約205円）から40ポンド（約8200円）にまで削減することに成功したという。 今回設置したHeatHubは、ガスボイラーの代わりに暖房器具や給湯器などどして使えるようThermifyが開発したもの。500台以上のミニコンピュータ（Raspberry Pi）がデータ処理を行う際に発生する熱を石油で吸収し、家庭の温水システムに転送する仕組みだ。 SHIELDプロジェクトは、低所得世帯がネットゼロ（温室効果ガスの排出量をゼロ）への移行を実現できるよう支援することを目的として、2023年3月に始まった。総予算540万ポンド超（約11億865万円）のこのプロジェクトは、暖房費を賄えない可</description>
-    </item>
-    <item>
-      <title>AI でタスク管理効率化！Claude×Obsidian で非エンジニアがメモ探しゼロにした方法 | iret.media</title>
-      <link>https://iret.media/176393</link>
-      <pubDate>2025/11/19 16:01</pubDate>
-      <description>米政府は電力需要の急増に対応するため最大10基の大型原子炉を購入・保有する計画を進めており、その費用は日本が拠出を表明している5500億ドル（約86兆円）規模の対米投資によって賄われる可能性がある。 米エネルギー省の当局者カール・コー氏が19日、この異例の枠組みの詳細を説明した。同氏によると、日本による対米投資5500億ドルのうち、最大800億ドルがウェスチングハウス・エレクトリック製の新型原子炉建設に充てられる見通し。 コー氏はテネシー州の先進エネルギー産業協議会が主催した会議で「政府が民間市場に介入することは本来、極めて慎重であるべきで、通常は行わない」とした上で、「しかし、今は国家的な緊急事態だ」と述べた。また、多くの細部が決定されていないとしながらも原子炉建設の実現に自信を示し、「どこに建設するかを検討しているところだ」と語った。 トランプ政権は、人工知能（AI）を支えるデータセン</description>
-    </item>
-    <item>
-      <title>基本無料のAIチャットリリースで確信したGPT-OSSこそ真のゲームチェンジャーといえる理由</title>
-      <link>https://zenn.dev/collections/articles/ada3a73f0af8bf</link>
-      <pubDate>2025/11/19 20:29</pubDate>
-      <description>［１９日　ロイター］ - 米半導体大手エヌビディア(NVDA.O), opens new tabは１９日、第４・四半期（２０２５年１１月─２６年１月）の売上高が６５０億ドル（プラスマイナス２％）になるという見通しを示し、市場予想を上回った。人工知能（ＡＩ）バブルを巡る懸念が広がる中、クラウドプロバイダーからのＡＩ半導体への需要が急増すると見込んだ。 市場ではＡＩインフラ拡張に向けた巨額投資により、バリュエーションがファンダメンタルズを上回る評価バブルが生じている可能性への懸念が高まっており、同社の決算が注目されていた。</description>
-    </item>
-    <item>
-      <title>海外「こんな国が存在するはずない…」 日本の日常風景、綺麗すぎてAIだと疑われてしまう</title>
-      <link>http://pandora11.com/blog-entry-5547.html</link>
-      <pubDate>2025/11/21 01:04</pubDate>
-      <description>Microsoftは2025年11月11日（米国時間）、統合開発環境（IDE）「Visual Studio」の最新バージョン「Visual Studio 2026」の一般提供を開始した。 Visual Studio 2026は、無償の「Community」と有償の「Professional」「Enterprise」の3つのエディションがあり、公式サイトからダウンロードできる。2025年9月から「Insiders Channel」（旧称：Preview Channel）でプレビュー版が提供されていた。 Microsoftはこの1年間で、開発者から報告された5000件以上のバグを修正し、300件の機能リクエストを実装したと報告している。AI（人工知能）駆動型ツールが問題の特定と解決を加速させており、今後もVisual Studioの改善はこれまで以上のペースで進む見通しだという。 Visual</description>
-    </item>
-    <item>
-      <title>映画『her／世界でひとつの彼女（2014年）』レビュー｜AI恋愛のテーマ考察とタイトル「her」の意味を解説 - のんびり映画帳</title>
-      <link>https://www.ikakimchi.biz/entry/2025/11/20/190000</link>
-      <pubDate>2025/11/20 19:13</pubDate>
-      <description>sponsored 海外出張・旅行のお供に！3台同時充電＋変換アダプター付き ベルキン100W充電器が超便利 sponsored 「聞いてない」が起きるのは情報が多すぎるから――。じゃあ、どうする？ プロジェクト進行中の情報共有漏れ、「えっ、聞いてないけど？」問題をどう防ぐ？ sponsored 本格ダイビングウォッチとしての機能はさらに強化 これぞファーウェイ製スマートウォッチの最高峰！ 「HUAWEI WATCH Ultimate 2」レビュー sponsored “AI内蔵” Zoomプラットフォームの強みを生かした、新しい時代のCCaaS 中小規模のコンタクトセンターでも、AIをフル活用できる「Zoom Contact Center」 sponsored 「Zoomtopia」会場でユーザーへインタビュー もはやビジネスの中枢。「ウェブ会議のZoom」から「AIのZoom」へ。 s</description>
-    </item>
-    <item>
-      <title>Segment Anything Playground | Meta</title>
-      <link>https://www.aidemos.meta.com/segment-anything/</link>
-      <pubDate>2025/11/20 11:12</pubDate>
-      <description>リンク Wikipedia クックパッド クックパッド（英: Cookpad）は、クックパッド株式会社（英: Cookpad Inc.）の運営による料理レシピのコミュニティウェブサイトである。1998年3月開設。 2010年2月にはセントバレンタインデーの影響で、月間ユーザー数が780万人と過去最高に上った（翌月、記録を更新）。2月の内訳は、男性ユーザーが約3割、女性ユーザーが約7割、年代別では男女ともに30代が占め他の年代のより多く、男性ユーザーの約3割、女性ユーザーの約4割が30代となった。 以前は無料ユーザーでも、検索ワードの工夫である程度 11 users 4</description>
-    </item>
-    <item>
-      <title>Claude Codeエンジニアリングで全編35万文字を書いた書籍が出るらしい｜laiso</title>
-      <link>https://sizu.me/laiso/posts/urtfwwf2k639</link>
-      <pubDate>2025/11/19 00:42</pubDate>
-      <description>こんにちは。LayerX AI Workforce事業部でR&amp;amp;Dチームのリサーチエンジニアの矢野目です。 こちらはLayerX AI エージェントブログリレー49日目の記事です。前回の記事はKenta WatanabeさんのAIエージェントを開発するPdMがやることをプロンプトを書きながら考えるでした。 今回の記事では、AIワークフローの自動生成技術開発の取り組みについてお話しします。 AIワークフローを構築する際、「どのような処理ステップを組み合わせるか」「各ステップでどんなプロンプトを使うか」といった設計に多くの時間がかかります。特に、お客様のドメイン知識が必要なタスクでは、試行錯誤を繰り返しながら精度を高めていく必要があり、これが大きな課題となっています。 そこで我々Applied R&amp;amp;Dチームでは、プロンプトとワークフロー構造を同時に自動生成する手法に取り組んでいます。 本稿では、</description>
-    </item>
-    <item>
-      <title>「ＡＩ生成画は著作物」、無断複製の疑いで男を書類送検へ…千葉県警が全国初の摘発（読売新聞オンライン） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/6882ac36623b36fd13aa36d987da73e20f62799c</link>
-      <pubDate>2025/11/20 08:58</pubDate>
-      <description>声優や俳優の「声」が生成AIを使って無断で利用される問題が相次ぐ中、「声の権利」を保護しようという団体が設立される見通しとなり、19日、会見が行われました。 設立される見通しとなったのは「声の保護…</description>
-    </item>
-    <item>
-      <title>NTT、頭の中で「思い浮かべたこと」をAIでテキスト化する技術</title>
-      <link>https://k-tai.watch.impress.co.jp/docs/news/2064735.html</link>
-      <pubDate>2025/11/20 09:27</pubDate>
-      <description>量子技術を専門とするスペイン企業が、「DeepSeek（ディープシーク）R1」を55%小型化し、検閲機能を除去したと発表。天安門事件などの敏感な話題への回答制限を削除したという。 by Caiwei Chen2025.11.20 3 この記事の3つのポイント スペイン企業が量子物理学の手法を用いてDeepSeek R1から検閲機能を除去した改良版を開発 中国のAI企業は法律と社会主義価値観に沿うよう検閲層を組み込むことが義務付けられている 完全な検閲除去は困難で動的な性質を持つため専門家は慎重な評価が必要と指摘している summarized by Claude 3 量子物理学者のグループが、強力な推論AI（人工知能）モデル「DeepSeek（ディープシーク）R1」から検閲機能を取り除いた、独自の改良版を開発したと主張している。 量子に着想を得たAI技術を専門とするスペインの企業、マルチバー</description>
-    </item>
-    <item>
-      <title>A2A （Agent2Agent) プロトコルを基礎から学ぶ (1) LLM を使わない複数Agentのサンプル</title>
-      <link>https://zenn.dev/sakura_internet/articles/e29d64a9d211a4</link>
-      <pubDate>2025/11/20 09:52</pubDate>
-      <description>生成AIは現在進行形で人間の創作活動に影響を及ぼしています。 それは、小説という分野でも同様です。 こうした変化を明らかにするため、英ケンブリッジ大学（University of Cambridge）の研究チームMinderoo Centre for Technology and Democracyは、英国の小説家と編集者や文学エージェントなどの出版業界関係者あわせて332人を対象に、生成AIが小説と出版の世界にもたらす影響を詳しく調査しました。 調査の結果、小説家の半数以上が「AIは最終的に自分たちの仕事を完全に置き換える可能性がある」と感じており、すでに収入が減ったと答えた人も少なくないことが分かりました。 この研究の詳細は、2025年11月20日に報告されています。 目次 小説家たちの半数は「将来、自分の仕事がAIに取って代わられる」と感じている作家のAI利用の実態と著作権問題 小説</description>
-    </item>
-    <item>
-      <title>「プレミアムフライデー」サイトは本物ではないと経産省が注意勧告！ ドメイン管理どうなってたのよ？</title>
-      <link>https://ascii.jp/elem/000/004/353/4353284/</link>
-      <pubDate>2025/11/20 08:57</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/91d61a1712d087a8b29b44f41ec70f47a4922927/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F821%2Fimage_top.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>【海外記事紹介】Perplexityは失敗した最初のAIユニコーンとなるのか？</title>
-      <link>https://techfeed.io/entries/691b99553837533862ecdb45</link>
-      <pubDate>2025/11/18 06:54</pubDate>
-      <description>AnthropicはAI主体の大規模サイバー諜報（ちょうほう）活動に関する報告を公表した。AIが主要な作業工程を担ったサイバー攻撃として初めて確認されており、AI活用の進展が攻撃者側にも広がっている現状が浮き彫りとなった。 「Claude Code」悪用の大規模サイバー諜報活動をAnthropicが初確認　Anthropicは2025年9月中旬に不審な挙動を検出したことを契機に調査を開始した。解析の結果、極めて高度な手法での諜報活動が展開されていたことが判明した。攻撃者は同社のコーディングアシスタント「Claude Code」を悪用し、約30の世界的組織への侵入を試みたことが確認されており、攻撃者は中国政府系グループだと高い確度で判断されている。標的には大手テクノロジー企業や金融機関、化学産業関連企業、政府機関が含まれ、一部では侵入が成功していたとされている。 今回のケースは、攻撃者がAI</description>
     </item>
   </channel>
 </rss>
