@@ -5,6 +5,48 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>【10年前】イーロン・マスクとサム・アルトマンがOpenAI設立</title>
+      <link>https://www.gizmodo.jp/2025/12/openai_origin.html</link>
+      <pubDate>2025/12/16 23:15</pubDate>
+      <description>こんにちは。Ai Workforce事業部 FDEグループ エンジニアのkoseiと申します。 この記事はLayerX Tech Advent Calendar 2025 16日目の記事です。 本日は私たちの事業部が開発しているプロダクト「Ai Workforce」が扱うような長いドキュメントを構造化する方法として少し試していることについてお話しできればと思います。 背景 Ai Workforceではこれまで、エンタープライズのお客様にドキュメントワークを中心とした業務を効率化するユースケースを幅広く扱ってきました。 例えば、契約書のような200P以上に及ぶ長大なドキュメント同士の比較や、見積書からの全ての商品情報の抽出・分類など、様々な種類のドキュメントやユースケースを扱っています。 多くのドキュメント、特に文章量が多いドキュメントや、扱う問題が複雑になる場合に共通して、ユースケース実現</description>
+    </item>
+    <item>
+      <title>AntigravityとGemini 3でアプリ開発したら、めちゃくちゃ効率的だった話</title>
+      <link>https://blog.usize-tech.com/antigravity-gemini3-app-development/</link>
+      <pubDate>2025/12/17 08:53</pubDate>
+      <description>【ニューヨーク=谷本克之】人工知能（AI）の開発や運用に使うデータセンターの建設が米国で急増し、サーバーの冷却に使う水の大量消費への懸念が広がっている。米データセンターの年間水使用量は日本で50万人分の生活水に相当する660億リットルと9年で3倍となり、増え続けている。建設地では住民が地下水枯渇と干ばつにおびえている。巨大産業団地の半分がデータセンターに米西部ネバダ州の砂漠に位置するタホ・リ</description>
+    </item>
+    <item>
+      <title>AIチョットニガテなわたしが考える、AI時代のPdL・EMの在り方 - freee Developers Hub</title>
+      <link>https://developers.freee.co.jp/entry/pdl-em-role-in-ai-age</link>
+      <pubDate>2025/12/17 09:03</pubDate>
+      <description>こんにちは、アンドパッドセキュリティチームの小野寺です。この記事は ANDPAD Advent Calendar 2025 17 日目の記事です。 現在、セキュリティチームでは脆弱性診断の内製化に取り組んでいます。今回はセキュリティAIエージェントを活用して、Webアプリケーションに対する脆弱性診断を試験的に実施したお話をしたいと思います。 アンドパッドにおける脆弱性診断 アンドパッドはこれまで脆弱性診断の内製化は行っておらず、セキュリティベンダーに依頼して診断を実施していました。 しかし、アンドパッドが成長を続けていく中で、以下の課題が生じています。 マルチプロダクトを展開しており、年々プロダクト数が増えることによるコスト増加 セキュリティベンダーとのスケジュール調整が必要なため、タイムリーな診断実施が難しい こうした課題を解決するため、脆弱性診断の内製化に取り組み始めています。 もちろ</description>
+    </item>
+    <item>
+      <title>OpenAI、「ChatGPT Images 1.5」公開　生成速度4倍で「Nano Banana」に対抗</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/17/news069.html</link>
+      <pubDate>2025/12/17 10:27</pubDate>
+      <description>この記事は、NTT docomo Business Advent Calendar 2025 17日目の記事です。 はじめに 本記事は、コミュニケーション＆アプリケーションサービス部でビジネスdアプリの開発を担当している 立木・富田・西谷 の共同執筆です。 私たちは、ビジネスdアプリという、ビジネスパーソンの仕事や生活に役立つポータルアプリを開発しています。 ビジネスdアプリチームでは、モバイルアプリ・フロントエンド・バックエンドなどの開発とデザインの一部を社員で内製しており、以下の記事で以前記載したようにGoogle Cloudのサーバーレスサービスをフル活用しています。 サーバレスをフル活用したビジネスｄアプリのアーキテクチャ（前編） サーバレスをフル活用したビジネスｄアプリのアーキテクチャ（後編） このため、私たちのチームではGoogle Cloudのプロフェッショナルレベルの資格を</description>
+    </item>
+    <item>
+      <title>コミット数2倍でもレビュー品質を維持！AI時代のコードレビューフロー再設計</title>
+      <link>https://developers.cyberagent.co.jp/blog/archives/60882/</link>
+      <pubDate>2025/12/17 11:41</pubDate>
+      <description>Metaが音声分離AI「SAM Audio」を公開しました。SAM Audioには音声や動画を入力可能で、「文章で指示して特定の音を抜き出す」「動画内の『音声を発している被写体』を指定して音声を抜き出す」「動画内の特定のタイミングで鳴っている音を指定して抜き出す」といった操作が可能です。 SAM Audio https://ai.meta.com/samaudio/ Introducing SAM Audio: The First Unified Multimodal Model for Audio Separation | AI at Meta - YouTube SAM Audioは音声だけでなく動画も入力することが可能です。音楽セッションを記録した動画からギターの音だけを抜き出したい場合は、テキストで「guitar」と指示します。 これで動画内のギターの音だけを分離できます。 動画内</description>
+    </item>
+    <item>
+      <title>GPT-5.2登場　知識は2025年8月まで刷新、最高性能の“代償”とは</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/17/news024.html</link>
+      <pubDate>2025/12/17 07:55</pubDate>
+      <description>ブラウザーの拡張機能の中に、生成AIとの会話内容などを取得し、外部へ共有しているものがあることが発覚した。設定で止める手段はなく、削除が必要だ。該当拡張を入れている利用者は、2025年7月以降の会話が外部に渡った可能性を前提に対応すべきだ。 ChromeとEdgeの拡張機能が、生成AIとの会話内容を収集し第三者に販売最新の警告を発したのは、Koiだ。同社はつい最近、ユーザーのチャット内容を収集して第三者に販売していた、ChromeとEdgeの拡張機能を突き止めた。Koiは「医療に関する質問、財務の詳細、企業の専有コード、個人的な悩みごと、そのすべてが『マーケティング分析目的』で売られていたのです」と説明している。 対象の生成AIは8種類、ほぼすべての主要AIにリスクが及ぶ影響を受ける生成AIはChatGPTとGeminiだけではない。これらの拡張機能は特定のサービスをえこひいきしない。ブラ</description>
+    </item>
+    <item>
+      <title>Mozillaの新CEOがこれからのFirefoxを語る、「最高のブラウザ」を最優先しつつAIの統合も</title>
+      <link>https://gigazine.net/news/20251217-mozilla-new-ceo-talk-about-firefox/</link>
+      <pubDate>2025/12/17 16:00</pubDate>
+      <description>三宅香帆 『「好き」を言語化する技術：推しの素晴らしさを語りたいのに「やばい！」しかでてこない』 を読みました。 無内容でした。お勧めしません。 なぜ無内容なのかは説明できません。 無内容は無内容です。 本稿からやんわりと感じ取ってください。 この人の本が評価される理由が、僕には心底理解できませんでした。 世間はどうやら無意識のうちに、主張の論旨だけを見るようになっていて、それが自分の考えと近ければ、内容の検証など要らないという思考に陥っているのではないでしょうか。 誠にけしかりません、勝つまでは。 本稿で言いたいのは、著者の日本語力の低さです。 はっきり言って、文が崩壊しています。 これが京大文学部卒、文章を生業とする人物の、10作目、そしてベストセラーになった書籍だとは。 コンテクストがひとつも腹落ちしません。 というわけで、実際に文章を引用して指摘しようと思い、メモを取り始めたのです</description>
+    </item>
+    <item>
       <title>AI agents are starting to eat SaaS</title>
       <link>https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/</link>
       <pubDate>2025/12/15 14:34</pubDate>
@@ -1827,48 +1869,6 @@
       <link>https://www.itmedia.co.jp/news/articles/2511/21/news041.html</link>
       <pubDate>2025/11/21 09:46</pubDate>
       <description>ょ～子 @YokoMizuzokusei これめちゃくちゃわかる 要らないくせに挙動だけ重たくなるから不便この上ない。 必要な時だけAIにアクセスできるようにさせて欲しい。ずっとこっちの様子監視してる過保護ババアくらい重たいんじゃ。 x.com/kaityo256/stat… 2025-11-20 17:47:46 ありまる @ari_oshi 個人的にはExcelの右クリックメニューにコパイロットが入ってるのがまーーじで邪魔すぎて毎日舌打ちしてる GoogleもポップアップでAIの案内いらん。必要な時に自分で使うので x.com/kaityo256/stat… 2025-11-21 01:09:41</description>
-    </item>
-    <item>
-      <title>凄すぎてもはや意味不明！画像生成AIの到達点「Nano Banana Pro」ついに公開</title>
-      <link>https://ascii.jp/elem/000/004/353/4353732/</link>
-      <pubDate>2025/11/21 08:03</pubDate>
-      <description>米Adobeは11月20日（現地時間）、Googleの最新画像生成モデル「Nano Banana Pro」（Gemini 3 Pro Image）を、「Firefly」および「Photoshop」に導入したと発表した。同日より各アプリケーション内で利用可能となる。 Nano Banana Proでは、Gemini 3 Proの強力な推論性能、世界に関する知識などを用いることで、より正確でコンテキストに富んだビジュアルの生成を実現。Google検索のナレッジベースを活用することで事実に基づいた正確なビジュアルの生成、画像内への違和感のないテキスト描画、翻訳テキストを用いたローカライズ機能などが特徴。編集品質も向上しており、テキストプロンプトで画像内の特定部分のみを微調整できるほか、アスペクト比の変更、解像度の向上、さらにはカメラアングルやライティングの変更も行える。 FireflyのWebア</description>
-    </item>
-    <item>
-      <title>[堅牢.py #1] テストを書かない研究者に送る、最初にテストを書く実験コード入門 / Let&amp;#39;s start your ML project by writing tests</title>
-      <link>https://speakerdeck.com/shunk031/lets-start-your-ml-project-by-writing-tests</link>
-      <pubDate>2025/11/21 03:18</pubDate>
-      <description>米Googleは11月20日（現地時間）、新たなAI画像生成モデル「Nano Banana Pro」（Gemini 3 Pro Image）を発表した。同社の最新基盤モデル「Gemini 3 Pro」をベースにしており、キャラクターなどの一貫性を維持しながら、自然言語による指示で細部を修正できる編集機能など画像処理能力を大幅に強化した。</description>
-    </item>
-    <item>
-      <title>PLEX TechCon 2025 レポート - PLEX Product Team Blog</title>
-      <link>https://product.plex.co.jp/entry/plex-tech-con-2025</link>
-      <pubDate>2025/11/21 10:17</pubDate>
-      <description>生成AIの登場によって、AIは「使う」だけの存在から「実装し、活かす」段階に入りました。いま、エンジニアにはAIツールを活用する力に加え、その仕組みを理解し、自らの手でプロダクトに組み込むスキルが求められています。 本特集では、AI時代のいま必要性が高まるPythonの基礎から生成AI・機械学習の理解、実装まで、基本から段階的に身につけられる講座を厳選して紹介します。 オンライン学習プラットフォーム「Udemy」が11月28日まで実施する恒例のブラックフライデーセールと11月30日・12月1日のサイバーセールでは、対象講座が1講座1,300円からと通常よりももっとお得に、講座を購入できます！ぜひこの機会に、「いま学ぶべきAI活用・実装スキル」を身につけてください。 AI時代に価値を発揮する技術を今こそ学ぼう！ 最新講座も定番講座も長時間の大作講座もお買い得 Udemyでブラックフライデー・</description>
-    </item>
-    <item>
-      <title>【メモ】「大喜利」や「ラジオ番組に投稿（ハガキ職人）」って海外でもあるの？との疑問をAIに訊いた回答。 - INVISIBLE Dojo.　ーQUIET &amp;amp; COLORFUL PLACE-</title>
-      <link>https://m-dojo.hatenadiary.com/entry/2025/11/21/131242</link>
-      <pubDate>2025/11/21 13:17</pubDate>
-      <description>Googleが画像生成AIのGemini 3 Pro Image(Nano Banana Pro)を2025年11月20日に発表しました。Gemini 3 Proをベースに構築されたNano Banana Proは、Gemini 2.5 Flash Image(Nano Banana)よりも優れた情報視覚化を実現しているとのことです。 Nano Banana Pro: Gemini 3 Pro Image model from Google DeepMind https://blog.google/technology/ai/nano-banana-pro/ Nano Banana Pro: Gemini 3 Pro Image model from Google DeepMind https://blog.google/technology/ai/nano-banana-pro/ Goo</description>
-    </item>
-    <item>
-      <title>『この時間帯はこの作業をする』を「Google カレンダー」に登録可能に／タスクに開始時間と終了時間を設定して『タイムブロッキング』的な使い方ができる</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2064969.html</link>
-      <pubDate>2025/11/20 17:57</pubDate>
-      <description>テキストのプロンプトから楽曲を生成するAIプラットフォームのSunoは米国時間11月19日、2億5000万ドル（約393億円。1ドル＝157円換算）を調達し、評価額が24億5000万ドル（約3847億円）に達したと発表した。Sunoで生成された楽曲がチャート入りする事例が増える一方、主要レコード会社が同社を著作権侵害で訴えるなど、音楽業界を揺るがしている。 Sunoは声明で、今回の2億5000万ドル（約393億円）の調達はMenlo Venturesが主導し、エヌビディアのベンチャー部門であるNVentures、そしてAI音楽への投資を増やす音楽マネジメント会社のHallwood Mediaなどが参加したと述べた。 Sunoは、今回の資金でユーザー向けツールの開発をさらに進めるとし、2023年のサービス開始以来、約1億人が同プラットフォームで音楽を制作したとしている。 同社は、自社の技術が</description>
-    </item>
-    <item>
-      <title>「Visual Studio 2026」正式リリース　5000件以上のバグを修正、大幅な性能向上でAI活用を支援</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2511/20/news045.html</link>
-      <pubDate>2025/11/20 11:24</pubDate>
-      <description>A playground for interactive media</description>
-    </item>
-    <item>
-      <title>グーグル「Nano Banana Pro」、アドビがさっそく採用　「Photoshop」などで呼び出せるように</title>
-      <link>https://www.itmedia.co.jp/news/articles/2511/20/news125.html</link>
-      <pubDate>2025/11/21 03:02</pubDate>
-      <description>今回ご紹介するのは、日本に留学中の学生が投稿したもので、 日本の街中をサイクリングしながら撮影した映像が収められています。 看板などを見る限り大阪市内のようです。 日本有数の大都市であるとは言え、 基本的には日本でよく見られる都市部の光景だと思われます。 しかし、映像に映る街の清潔さや平和な雰囲気が、 もはや非現実的にすら見えるということから、 AIであることを疑う外国人も散見されました。 他にも各国から様々な反応が寄せられていましたので、 その一部をご紹介します。 「こんな場所が実在するのか…」 日本の神社の異世界感が尋常じゃないと話題に @yi_.mu #japan #school #lifestyle ♬ sonido original - Lexn🧛🏽 ■　これ、AIで作ったものなのか、 それとも本物なのか見分けがつかないんだが。　+158　アメリカ ■　これはAIで作られた映</description>
     </item>
   </channel>
 </rss>
