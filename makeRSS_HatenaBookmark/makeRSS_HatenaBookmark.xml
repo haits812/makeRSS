@@ -5,6 +5,99 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>データセンターの電力消費問題を解決？　光の集積回路、NTTが開発：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASTDD3K68TDDUHBI00XM.html</link>
+      <pubDate>2025/12/14 21:50</pubDate>
+      <description>パナソニックホールディングス（HD）が新規事業の育成に苦戦している。人工知能（AI）を活用した消費者向けアプリの提供開始が計画から遅れているほか、2021年から手掛ける家事支援サービスも26年1月に終了する。1万人の人員削減と低収益事業の整理を軸とした構造改革に取り組む一方、将来の成長に向けた種まきに難航している。「Umi（ウミ）については一定の方向付けをしなければいけない状況にある」。パナソ</description>
+    </item>
+    <item>
+      <title>「宇宙際タイヒミュラー理論」の今―数学の検証はどこへ向かうのか｜福岡 浩二</title>
+      <link>https://note.com/kojifukuoka/n/n1aac1f6958d0</link>
+      <pubDate>2025/12/07 10:44</pubDate>
+      <description>NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成 はじめに：NotebookLM の「スライド資料」、便利だけどかゆい所に手が届かない NotebookLM の「スライド資料」生成によって作成されるスライドがクオリティ高いと専らの話題のことと思います。 雑なメモや社内ドキュメントから、いい感じの構成を勝手に組んでくれる それなりに見栄えするので、たたき台として強い Google Workspace を契約していれば、社内で共有も安心 個人的に「スライドの構成能力がすごいな」と思うのが、入力が一文でもスライドになるところです。 例えば、 「カレーはシチューより美味しい」 みたいな雑な一文でも、NotebookLM は「主張 → 根拠 → まとめ」みたいな プレゼンの型に寄せてスライドを立ち上げにいきます。 もちろん</description>
+    </item>
+    <item>
+      <title>AI時代にWebエンジニアに必要なのは「検証力」</title>
+      <link>https://zenn.dev/aun_phonogram/articles/a8757102bc8ca8</link>
+      <pubDate>2025/12/13 12:52</pubDate>
+      <description>前回、前々回と、「NotebookLMを使ってスライドを生成しYAMLでデザインをコントロールする」という方法について書きましたが、今日はその番外編としてデザインがいい感じになった生成スライドにアニメーションを加える方法について書いてみようと思います。 前々回できたものがいい感じだったのでこれを動かしてみたくなったというのがそもそもの発端です。 これが、こんな感じで動くようになりました。この記事ではこの製作プロセスをご紹介していきます。 NotebookLMで生成できるのは画像状態のPDF目下、ユーザ目線で一番ネックになっているのがここですね。Google SlideやPowerPointで編集できればいいのに。。と。自分のようにアニメーション設定をしたい人にとっても、まずは画像状態のスライドをpptx化するところから始めなくてはです。 やりたいことをまとめると NotebookLMでYA</description>
+    </item>
+    <item>
+      <title>ダッシュボード構築に役立つ優れたオープンソース AI ツール 6 選 - Qiita</title>
+      <link>https://qiita.com/KikiYuan/items/6a822cd828ae0955b77d</link>
+      <pubDate>2025/12/16 06:33</pubDate>
+      <description>We spent fifteen years watching software eat the world. Entire industries got swallowed by software - retail, media, finance - you name it, there has been incredible disruption over the past couple of decades with a proliferation of SaaS tooling. This has led to a huge swath of SaaS companies - valued, collectively, in the trillions. In my last post debating if the cost of software has dropped 90%</description>
+    </item>
+    <item>
+      <title>GPT-5.2の性能をGemini 3 Proと比較してみた｜IT navi</title>
+      <link>https://note.com/it_navi/n/n338cd73b8d14</link>
+      <pubDate>2025/12/16 09:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4bdf4b54423d7b0b8e88052eacdb62599d392d5b/height=288;version=1;width=512/https%3A%2F%2Fimages.ctfassets.net%2Fct0aopd36mqt%2Fwp-thumbnail-6a331d7c70f1897ca2ef1ad4cbe7c6bf%2F78c556633ae5115aa065636cc4a1160a%2Feyecatch_gemini');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AI の大きな弱点が発見されました。サルの脳にも劣ります。</title>
+      <link>https://www.vietnam.vn/ja/tim-thay-diem-yeu-lon-cua-ai-thua-ca-nao-khi</link>
+      <pubDate>2025/12/16 11:08</pubDate>
+      <description>この記事は AI Agent on AWS - Qiita Advent Calendar 2025 - Qiita 16日目の記事です。 1. はじめに こんにちは。データ分析エンジニアの木介です。 Anthropic が公開した「Code execution with MCP: building more efficient AI agents」では、MCP（Model Context Protocol）とコード実行環境を組み合わせて、コンテキスト消費を抑えながらツールを使うための新しい設計パターンとして Code execution with MCP が紹介されました。 今回は、この Code execution with MCP を Amazon Bedrock AgentCore と Strands Agents で実装し、直接MCPを実行するAgent と比較して、実行時間・消</description>
+    </item>
+    <item>
+      <title>格差広がるAI時代「速い政府を」　チームみらい・安野貴博党首 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA179Y90X11C25A1000000/</link>
+      <pubDate>2025/12/16 15:42</pubDate>
+      <description>ケニア人のエッセイストが、自分の書く文章がChatGPTのものだと思われてしまうという話を共有しました。これはケニア人にありがちな問題だとして、エッセイストはなぜそう思われてしまうのかを分析しています。 I&amp;#39;m Kenyan. I Don&amp;#39;t Write Like ChatGPT. ChatGPT Writes Like Me. https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt ケニア人エッセイストのマーカス・オラン氏いわく、英語の文章を書き上げるとなぜかChatGPTで書いたものと思われることがあり、「もう少し人間味のある書き直しは可能でしょうか？ChatGPTが書いたような感じがします」と指摘されたこともあるそうです。 オラン氏は「これは、決して私がChatGPTっぽく書いているのではなく、Ch</description>
+    </item>
+    <item>
+      <title>NVIDIAが小型かつ高性能なオープンAIモデル「Nemotron 3」シリーズを発表</title>
+      <link>https://gigazine.net/news/20251216-nvidia-nemotron-3/</link>
+      <pubDate>2025/12/16 13:46</pubDate>
+      <description>Home Cyber Security Shannon – AI Pentesting Tool that Autonomously Checks for Code Vulnerabilities and...</description>
+    </item>
+    <item>
+      <title>メモリ高騰、“真犯人はサム・アルトマンCEO”説は真実か？　「40％を買い占め」の出どころは</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/15/news038.html</link>
+      <pubDate>2025/12/15 15:56</pubDate>
+      <description>「そのmdってどうやって用意するの？」という質問があったので、実際のツール運用レベルまで落としていきます。 この記事でやること↓ ・Obsidian で「案件ナレッジ倉庫」をつくる ・mdファイルを作る ・それらを ChatGPT の Projects にアップロード 「この案件なら、このプロジェクトを開けば全部そろっている」状態を作ります。 ちょっと難しそうに感じるかもしれませんが、 この記事でやっていくことは「Obsidianのフォルダを作る → 記事を書く → ChatGPT に渡す」という3ステップだけです。 Obsidian は「ローカルの Markdown ファイルをそのまま扱うノートアプリ」です。Windows / macOS / iOS / Android に対応していて、データは全部あなたのPCやスマホのフォルダに .md ファイルとして保存されます。 メモを書いたら、そ</description>
+    </item>
+    <item>
+      <title>Claude Skillsとは？ AIエージェント開発における新たなベストプラクティスをやさしく解説</title>
+      <link>https://codezine.jp/article/detail/22677</link>
+      <pubDate>2025/12/16 13:46</pubDate>
+      <description>ディズニーはOpenAIとライセンス契約を結び、ディズニーキャラクターを動画生成AIのSoraで描写できるようにしました。このライセンス契約の期間は3年間ではあるものの、独占期間は1年のみなので、それ以降は他のAI企業と同様の契約を結ぶことが可能であることが明らかになっています。 Disney&amp;#39;s OpenAI stake is &amp;#39;a way in&amp;#39; to AI, Iger tells CNBC https://www.cnbc.com/2025/12/11/disney-open-ai-iger-altman.html Disney&amp;#39;s OpenAI deal is exclusive for just one year -- then it&amp;#39;s open season | TechCrunch https://techcrunch.com/2025/12/15/disneys-open</description>
+    </item>
+    <item>
+      <title>データセンター投資の行方　軽量AIとポストGPU、勢力図変えるか - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOSG106P10Q5A211C2000000/</link>
+      <pubDate>2025/12/16 09:12</pubDate>
+      <description>本記事では、RAGの応答速度を速くするための「MixLM」という手法について、ざっくり理解します。 株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。 この記事は何 この記事は、RAGで必須の手法「リランキング」の速度を飛躍的に高める「MixLM」の論文[1]について、日本語で簡単にまとめたものです。 今回も「そもそもRAGとは？」については、知っている前提で進みます。確認する場合は、こちらの記事もご参考下さい。 本題 ざっくりサマリー 「MixLM」は、RAGの応答を高速にするための手法です。LinkedInの研究チームによって2025年11月に公開されました。 通常のRAGでは、リランキングという手法がよく使われます。これは何かというと、ベクトル検索で取ってきた文書を「ユーザーの質問との関連性」で並び</description>
+    </item>
+    <item>
+      <title>自民、ディープフェイク対策PT発足　台湾オードリー・タン氏から聴取 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA160JC0W5A211C2000000/</link>
+      <pubDate>2025/12/16 17:59</pubDate>
+      <description>TL;DR 画像圧縮の性能比較ができるWebインターフェイス作ったので見てね https://fukushimalab.github.io/spcp/ ランディングページが１００MB読み込み． いろいろスイッチしてデータを眺めるとトータルデータ量３GBくらいなので注意． この記事は，下記内容（画像圧縮・動画圧縮の国際会議）を元に書いたものです． 原稿は上記リンク先からたどれます． N. Fukushima, Y. Maeda, Y. Kameda, and O. Watanabe, &amp;quot;Benchmarking JPEG, MozJPEG, Jpegli, JPEG2000, JPEG XR, JPEG XL, WebP, HEIC, and AVIF-AOM/SVT: An Objective Quality and Coding Time Evaluation Across Encode</description>
+    </item>
+    <item>
+      <title>117韓国のAI軍</title>
+      <link>https://www.youtube.com/watch?v=754VHIQQH6w</link>
+      <pubDate>2025/12/16 20:28</pubDate>
+      <description>生成AIが実験段階から企業への導入に移行する今、2026年は日本のソフトウェア開発にとって重要な節目の年となります。GitLabが日本の経営層を対象に実施した調査「ソフトウェアイノベーションによる経済効果」によれば、経営層の85%が、3年以内にAIエージェントがソフトウェア開発での業界標準になると予想しており、AIエージェントへの移行は今後も加速していくでしょう。 AIエージェントの移行には、かつてないほどの生産性向上が期待される一方で、組織はガバナンスやセキュリティ、AIエージェント間の相互運用性、可視性といった新たな課題との両立の難しさを抱えることになります。こうした課題に対処できる組織は、競争優位を確立できる可能性がある一方で、AIエージェントを単なるツールとみなし課題に対処できない組織は、競争から取り残されるリスクを抱えます。 AIエージェントについて、今後1年間に起こるだろう、変</description>
+    </item>
+    <item>
+      <title>RAGで厄介なExcel文書を意味構造JSON化するOSSライブラリを作りました</title>
+      <link>https://zenn.dev/harumikun/articles/42e9cd55ab5960</link>
+      <pubDate>2025/12/15 22:02</pubDate>
+      <description>この記事は株式会社ヘンリー Advent Calendar 2025 15日目の記事です。 昨日はCEOの逆瀬川さん の「その仕事、感情が動いていますか？」でした！ みなさんサーマルプリンタ使ってますか？私は今年のブラックフライデーで2代目のサーマルプリンタを購入してから活用が進んでいます。 今回は子育てで活用する道が見えてきたので、どんな使い方をしているかを紹介していきたいと思います。 サーマルプリンタってなんだっけ？ レシート印刷や病院などで待ち受けの番号やバーコード・QRコードが印刷されてるやつで、感熱紙を使って熱で印刷するプリンタです！ 今回私が購入したのは下記の「MUNBYN サーマルプリンター 」で、5,000円から15,000円ほどで手に入る機種です。ただし日本語フォント非対応だったり、印刷するには事前の文字を画像化する必要があったりと、すこし工夫が必要です。 今回私はRas</description>
+    </item>
+    <item>
+      <title>高木浩光＠自宅の日記 - 知財検討会にまで及ぶAI規制の混迷──処遇AIと生成AIを混ぜると、全部壊れる</title>
+      <link>http://takagi-hiromitsu.jp/diary/20251216.html</link>
+      <pubDate>2025/12/17 06:26</pubDate>
+      <description>【ニューヨーク=川上梓】世界のコンサルティング大手で人員削減が広がっている。米マッキンゼー・アンド・カンパニーやアクセンチュアは間接部門を中心に数千〜数万人規模を削減する。人工知能（AI）の進化で基礎的な調査などコンサルが担う業務の約3割は代替できるとの指摘もある。各社は雇用を抑制しサービスの高度化を急ぐ。マッキンゼー、全体の1割削減「Deep research（ディープリサーチ）で調べられ</description>
+    </item>
+    <item>
       <title>Notionで完結させるAI駆動PM｜すぅ | AI駆動PM</title>
       <link>https://note.com/suh_sunaneko/n/n566f826c7ac4</link>
       <pubDate>2025/12/13 08:52</pubDate>
@@ -1773,111 +1866,6 @@
       <link>https://techfeed.io/entries/691b99553837533862ecdb45</link>
       <pubDate>2025/11/18 06:54</pubDate>
       <description>AnthropicはAI主体の大規模サイバー諜報（ちょうほう）活動に関する報告を公表した。AIが主要な作業工程を担ったサイバー攻撃として初めて確認されており、AI活用の進展が攻撃者側にも広がっている現状が浮き彫りとなった。 「Claude Code」悪用の大規模サイバー諜報活動をAnthropicが初確認　Anthropicは2025年9月中旬に不審な挙動を検出したことを契機に調査を開始した。解析の結果、極めて高度な手法での諜報活動が展開されていたことが判明した。攻撃者は同社のコーディングアシスタント「Claude Code」を悪用し、約30の世界的組織への侵入を試みたことが確認されており、攻撃者は中国政府系グループだと高い確度で判断されている。標的には大手テクノロジー企業や金融機関、化学産業関連企業、政府機関が含まれ、一部では侵入が成功していたとされている。 今回のケースは、攻撃者がAI</description>
-    </item>
-    <item>
-      <title>考えを整理する時は「結論・根拠・例えば」を立てる　伊藤洋一氏が語る“結論を出せる人”の思考法 [1/2] | ログミーBusiness</title>
-      <link>https://logmi.jp/main/technology/332655</link>
-      <pubDate>2025/11/19 12:11</pubDate>
-      <description>Intro 見落とされがちだが、「Web とは何か」という仕様はない。 Web を定義した W3C のドキュメントもなければ、IETF の RFC もない。 Web は仕様ではないのだ。 これだけしっかりと標準化された技術の粋を集めた総体が、なぜそんなにもフワっとしているのだろうか? では我々は、何を &amp;quot;Web&amp;quot; と呼んでいるのだろうか? HTML+HTTP+URL? 黎明期から Web を見ている人ほど、URL で指定された HTML を HTTP で取得するアーキテクチャを Web と呼ぶ、と思うだろう。 たしかに、それは Sir Tim Berners-Lee が最初に示したコンセプト、そのものであったことは間違いない。 ところが、そこから 30 年以上の間、この Web と呼ばれたコンセプトは、ありとあらゆるパーティーからの期待を背負うことになり、当初の最小限のコンセプトだけでは、</description>
-    </item>
-    <item>
-      <title>SDD(仕様駆動開発)と仕様について再度振り返る</title>
-      <link>https://zenn.dev/beagle/articles/fd60745bc54de1</link>
-      <pubDate>2025/11/20 09:11</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1d2edb3dcad59d5d0e51a820a4c760e40f0fa86d/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F812%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>「Grok…俺恥ずかしいよ…」GrokとGeminiに『なぁ、喧嘩しようぜぇ！』と聞いて比較したらGrokの育ちの悪さが明らかになった</title>
-      <link>https://togetter.com/li/2629773</link>
-      <pubDate>2025/11/20 10:32</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/76c23d8639ff1bb7684f910c596c85bf7c268b58/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F811%2Fsora_2.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>「破壊的」なモバイル事業の次は「AIの民主化」へ。三木谷氏が描く未来像</title>
-      <link>https://k-tai.watch.impress.co.jp/docs/news/2064747.html</link>
-      <pubDate>2025/11/20 08:35</pubDate>
-      <description>Metaがテキストや視覚的なサンプルをプロンプトとして使用し、画像やビデオ内のオブジェクトを検出、分割、追跡するための統合モデル「Meta Segment Anything Model 3(SAM 3)」を発表しました。 Introducing Meta Segment Anything Model 3 and Segment Anything Playground https://ai.meta.com/blog/segment-anything-model-3/ Meet SAM 3, a unified model that enables detection, segmentation, and tracking of objects across images and videos. SAM 3 introduces some of our most highly request</description>
-    </item>
-    <item>
-      <title>小説家の半数は「AIに取って代わられる」と感じている - ナゾロジー</title>
-      <link>https://nazology.kusuguru.co.jp/archives/188246</link>
-      <pubDate>2025/11/20 14:03</pubDate>
-      <description>イーロン・マスク氏が率いるAI企業・xAIは、Grok 4.1を2025年11月18日(火)に公開しました。さらに、新しいAIモデルである「Grok 4.1 Fast」と、開発者がAIエージェントを構築するための「Agent Tools API」を同月20日(木)に発表しました。Grok 4.1 Fastは、AIが自律的に計画を立ててタスクをこなす「エージェント」としての能力に特化しており、200万トークンという非常に長い文脈を一度に処理できるコンテキストウィンドウを持っています。 Grok 4.1 Fast and Agent Tools API | xAI https://x.ai/news/grok-4-1-fast Models/Grok 4.1 Fast | xAI https://docs.x.ai/docs/models/grok-4-1-fast-reasoning Int</description>
-    </item>
-    <item>
-      <title>「インターネットが壊れた」とみんなが言った──Cloudflareの障害はなぜ大ニュースになったのか</title>
-      <link>https://ascii.jp/elem/000/004/353/4353316/</link>
-      <pubDate>2025/11/20 12:52</pubDate>
-      <description>2025年4月、バラバラに動いていたAIエージェントたちに共通言語を与える画期的な取り組みとして、Googleが「A2A（Agent2Agent）プロトコル」を発表しました。 AI Agentとは？ 実は明確な定義がありません。これがまずわかりづらさを生み出しています。 RAGやMCPなどにより生成AIの検索能力は拡張され、様々なベンダーが多くの機能をリリースしてきました。LLMと対話するLLMクライアントはその総評としてAgent / エージェントと呼ばれます。 Agentは一般的に以下の機能（の一部ないしは全て）を保有しています。 ・LLMとの対話 ・外部ナレッジへの検索（RAG） ・外部APIへの検索や操作（MCP) またAWSがリリースしたオープンソースのAgent開発用フレームワークであるStrands AgentsではAgentic Loopという機能を備え、一度のプロンプトで</description>
-    </item>
-    <item>
-      <title>Microsoft、「Agent 365」を発表 ～増え続けるAIエージェントを管理、アクセス権限やデータ漏洩防止など／他社のエージェントにも対応、Adobe、Cursor、OpenAI、NVIDIAなど</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2064821.html</link>
-      <pubDate>2025/11/20 13:16</pubDate>
-      <description>テキストのプロンプトから楽曲を生成するAIプラットフォームのSunoは米国時間11月19日、2億5000万ドル（約393億円。1ドル＝157円換算）を調達し、評価額が24億5000万ドル（約3847億円）に達したと発表した。Sunoで生成された楽曲がチャート入りする事例が増える一方、主要レコード会社が同社を著作権侵害で訴えるなど、音楽業界を揺るがしている。 Sunoは声明で、今回の2億5000万ドル（約393億円）の調達はMenlo Venturesが主導し、エヌビディアのベンチャー部門であるNVentures、そしてAI音楽への投資を増やす音楽マネジメント会社のHallwood Mediaなどが参加したと述べた。 Sunoは、今回の資金でユーザー向けツールの開発をさらに進めるとし、2023年のサービス開始以来、約1億人が同プラットフォームで音楽を制作したとしている。 同社は、自社の技術が</description>
-    </item>
-    <item>
-      <title>【保存版】メール返信・分析・資料作成が秒で完了「Gemini×Googleアプリ徹底活用術」</title>
-      <link>https://www.sbbit.jp/article/cont1/175192</link>
-      <pubDate>2025/11/19 11:07</pubDate>
-      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 本日2025/11/19、GoogleがGemini3.0を発表すると同時に、「Google Antigravity」というIDEを発表しました。 CursorやKiroのように、VSCodeから派生して作られたIDEです。 そしてさすがGoogle、今までのAI駆動開発とは異なる開発者体験を提供するIDEとなっているので、この記事では公式ブログを引用しつつ、実際に触ってみた感想を書いていきます。 特徴 まずはGoogle Antigravityの公式ブログをご一読ください。 Antigravity は、ブラウザ制御機能、非同</description>
-    </item>
-    <item>
-      <title>「Grok 4.1 Fast」が登場、200万トークンの入力に対応し前世代モデルより幻覚が半減</title>
-      <link>https://gigazine.net/news/20251120-xai-grok-4-1-fast/</link>
-      <pubDate>2025/11/20 12:35</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a6b987965a670a25f39a50ccb857375c25fd5ac5/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2064%2F890%2Fintel00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Cloudflare判決についてのファーストインプレッション - Mt.Rainierのブログ</title>
-      <link>https://techlawyer.hatenablog.jp/entry/2025/11/20/034055</link>
-      <pubDate>2025/11/20 14:02</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4732a280e6e8a7b41353e9a0274346aaeed7f798/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2064%2F747%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>AI音楽生成ツール「Suno」が物議──「神が授けたツール」か「著作権侵害」か | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/85349</link>
-      <pubDate>2025/11/20 16:36</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/a6b987965a670a25f39a50ccb857375c25fd5ac5/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2064%2F890%2Fintel00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>かつてはレシピ検索といえば、クックパッドだったが、遂に人員が3桁切ったという話→「AIに聞いたら教えてくれる」「普通に使いづらい」</title>
-      <link>https://posfie.com/@taimport/p/RxZxydr</link>
-      <pubDate>2025/11/20 21:50</pubDate>
-      <description>人間とAIの恋愛を描いた近未来SF？今あらためて観ると見えてくる“時代の変化”。 映画『her／世界でひとつの彼女』感想レビュー 近未来ロサンゼルスを舞台にした映画『her／世界でひとつの彼女』は、ジョアキン・フェニックス演じるセオドア・トゥオンブリーが主人公である。彼は他人の手紙を代筆する仕事をしているが、離婚の痛手をいまだ引きずり、孤独が静かに積もり続ける日々を過ごしていた。そんな彼の前に、スパイク・ジョーンズ監督が描く世界観を象徴する“AI_OS”が現れる。声を担当するのはスカーレット・ヨハンソン。このAI〈サマンサ〉との対話は、セオドアの生活を少しずつ変え、やがて深い関係へと進んでいく。 デジタル情報の中枢を象徴するAIイメージ 本作はなんか昔、公開当時に観たかった映画だった気がする。しかし劇場で観るタイミングを逃し、そのまま年月が過ぎてしまった。アマゾンを覗いていると、たまたま本</description>
-    </item>
-    <item>
-      <title>最新鋭の動画生成AI「Sora 2」が「Microsoft 365 Copilot」に統合／動画制作に慣れていなくても言葉で説明するだけで魅力的なビデオクリップを作成できる</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2064811.html</link>
-      <pubDate>2025/11/20 10:43</pubDate>
-      <description>Metaが画像から3Dモデルを生成できるAI「SAM 3D」を2025年11月19日(木)に発表しました。SAM 3Dは人体に特化した「SAM 3D Body」と物体に特化した「SAM 3D Objects」に分かれており、どちらも競合製品より高品質な3Dモデルを生成できます。 SAM 3D https://ai.meta.com/sam3d/ Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images https://ai.meta.com/blog/sam-3d/ SAM 3D Bodyは画像内に存在する人間の体形とポーズを認識して3Dモデル化できるAIです。 SAM 3D Bodyと複数の競合AIで3Dモデルを生成し、どちらが高品質かを人間に判断させた結果が以下。青色が「SAM 3D Bodyの方が</description>
-    </item>
-    <item>
-      <title>「中国のスパイがAIで情報を盗み出していた」とAnthropicが発表、証拠の提示が少なく信ぴょう性が低いという指摘も</title>
-      <link>https://gigazine.net/news/20251117-ai-orchestrated-chinese-cyber-spy-anthropic/</link>
-      <pubDate>2025/11/17 12:24</pubDate>
-      <description>クラウド専業インテグレーターのサーバーワークスは2025年11月5日、ITエンジニアの生成AI（人工知能）による働き方とスキルの変化に関する調査結果を公表した。調査は2025年9月29日～10月6日にインターネット調査で実施し、全国に住む20歳以上の企業に勤めるITエンジニア264人を対象としている。 生成AIによる業務変化を8割超が実感 生成AI導入後の業務変化について、「大きく変化した」が31.4％、「やや変化した」が51.9％となり、回答者の8割超が変化を感じていると回答した。 求められるスキルも8割超が変化を実感 求められるスキルの変化では「とても感じている」が26.1％、「やや感じている」が57.6％となり、ここでも8割超が変化を感じている。 生成AI時代に重要だと思うスキルは、「AIツールの活用スキル」（24.6％）が最多で、「論理的思考力」（14.4％）「プロンプトエンジニア</description>
-    </item>
-    <item>
-      <title>「PoCで終わるプロダクト開発」からの脱却──ダイキン工業が3つの課題を解決して進めたアジャイル内製化</title>
-      <link>https://codezine.jp/article/detail/22349</link>
-      <pubDate>2025/11/19 09:48</pubDate>
-      <description>こんにちは、初めましての方は初めまして。かわらです。転職をして 11 月から所属が変わりました。ただ、分野は変わらない（機械学習がメインの IT エンジニア）ので、これからも気の向くままに機械学習などの技術を調べて zenn に書き残していきたいと思っています。 最近、位置情報のベクトル化の技術の一つに Wavelet-based positional encoding という技術があるのを知りました。気になってどういう技術なのかを調べていたのですが、調べているうちに「他の位置情報の表現方法についても知りたいな」と思い始め、どうせ調べるならまとめてアウトプットしようと思いこの記事を書くことにしました。生成 AI の技術記事に比べると地味であまり面白くない内容になっていますが、興味のある手法の部分だけでも読んでいただければと思います。また、理解をしようとしながらこの記事を書いているため、間違</description>
     </item>
   </channel>
 </rss>
