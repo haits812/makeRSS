@@ -5,6 +5,39 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>LLMを用いて長文ドキュメントを速く・安く・安全に構造化する試み - LayerX エンジニアブログ</title>
+      <link>https://tech.layerx.co.jp/entry/2025/12/16/194317</link>
+      <pubDate>2025/12/17 00:43</pubDate>
+      <description>はじめに こんちは！製造業で社内SE的なのやってる人です。 最近RAG分野にハマっていますが、Excel文書が厄介者すぎるということに最近気が付きました。ZennでもRAGにおいて、このExcel文書をいかに扱うかの記事は定期的に見かけます。 先人のエンジニアの方々が様々な有効打を提示してくれていますが、私も別のアプローチでこの課題に取り組んでみたので共有します🔥 TL;DR ExcelをCOM + xlwings/openpyxlで構造化する自作ライブラリ「exstruct」。セル値だけでなく図形・グラフ・ハイパーリンク・印刷範囲・罫線由来の表までJSON/YAML/TOON形式で出力。 画像認識なしでフローチャート矢印方向やグラフ軸・系列も抽出でき、RAGで失われがちな情報を補完してLLM復元精度が向上。 デモで表＋折れ線グラフ＋フローチャートをJSON化→Markdown/merm</description>
+    </item>
+    <item>
+      <title>ネットにあふれるAIの駄作「slop」が2025年の英単語に　辞典のメリアム・ウェブスター</title>
+      <link>https://japan.cnet.com/article/35241687/</link>
+      <pubDate>2025/12/16 12:57</pubDate>
+      <description>【ニューヨーク=川上梓】世界のコンサルティング大手で人員削減が広がっている。米マッキンゼー・アンド・カンパニーやアクセンチュアは間接部門を中心に数千〜数万人規模を削減する。人工知能（AI）の進化で基礎的な調査などコンサルが担う業務の約3割は代替できるとの指摘もある。各社は雇用を抑制しサービスの高度化を急ぐ。マッキンゼー、全体の1割削減「Deep research（ディープリサーチ）で調べられ</description>
+    </item>
+    <item>
+      <title>SpaceX・OpenAI・Anthropicの超大型IPOに備えよ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOCB160LZ0W5A211C2000000/</link>
+      <pubDate>2025/12/17 07:08</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d5c2aca4a3985fac37aae0486e5aa438821043e6/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2071%2F905%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>このChrome「拡張機能」を今すぐ削除せよ、生成AIとの会話を収集し第三者に販売（Forbes JAPAN） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/6c1b738873ef22fe28431d9b07a462f4915ee325</link>
+      <pubDate>2025/12/17 12:49</pubDate>
+      <description>ブラウザーの拡張機能の中に、生成AIとの会話内容などを取得し、外部へ共有しているものがあることが発覚した。設定で止める手段はなく、削除が必要だ。該当拡張を入れている利用者は、2025年7月以降の会話が外部に渡った可能性を前提に対応すべきだ。 ChromeとEdgeの拡張機能が、生成AIとの会話内容を収集し第三者に販売最新の警告を発したのは、Koiだ。同社はつい最近、ユーザーのチャット内容を収集して第三者に販売していた、ChromeとEdgeの拡張機能を突き止めた。Koiは「医療に関する質問、財務の詳細、企業の専有コード、個人的な悩みごと、そのすべてが『マーケティング分析目的』で売られていたのです」と説明している。 対象の生成AIは8種類、ほぼすべての主要AIにリスクが及ぶ影響を受ける生成AIはChatGPTとGeminiだけではない。これらの拡張機能は特定のサービスをえこひいきしない。ブラ</description>
+    </item>
+    <item>
+      <title>太字で見る 三宅香帆の言語化能力｜AIと大喜利する</title>
+      <link>https://note.com/kyunkyun_p_d/n/n9cc45ed3d74b</link>
+      <pubDate>2025/12/17 14:18</pubDate>
+      <description>GPT-5.2登場　知識は2025年8月まで刷新、最高性能の“代償”とは：Deep Insider Brief ― 技術の“今”にひと言コメント OpenAIの最新モデル「GPT-5.2」が登場し、学習データの範囲が「2024年9月まで」から「2025年8月まで」にアップデートされた。最高性能を実現した一方でAPI価格は上昇しているので、筆者の視点から、その背景と現実的な使い分けの考え方を掘り下げる。 連載目次 GitHub CopilotやCursorのモデル選択画面に並ぶ現行モデルについては、これまでこのBrief（概説）連載の中で、できるだけ同じ書き方、同じ粒度で紹介してきた。ここ1カ月ほどは、週に何個も新しい言語モデルが登場する状況が続いており、正直なところ「もう把握し切れない」と感じて、少し疲れを感じている人も少なくないだろう。そんな中で、また新たなモデルが加わった。 そうした状</description>
+    </item>
+    <item>
       <title>【10年前】イーロン・マスクとサム・アルトマンがOpenAI設立</title>
       <link>https://www.gizmodo.jp/2025/12/openai_origin.html</link>
       <pubDate>2025/12/16 23:15</pubDate>
@@ -1839,36 +1872,6 @@
       <link>https://hatenanews.com/articles/2025/11/21/103000</link>
       <pubDate>2025/11/21 11:00</pubDate>
       <description>こんにちは。LegalOn Technologiesでソフトウェアエンジニアをしている浅野（@takuya_b / @takuya_a）です。最近は検索推薦というよりはAIエンジニアっぽいことをしています。 このたび、社内の全プロダクトマネージャー・デザイナー・エンジニア・EM向けに「速習 AIエージェント入門」というタイトルで、AIエージェント開発の社内セミナーを担当しました。その発表で使用したスライドを、弊社のSpeaker Deckに公開しましたので共有します。 昨年、弊社のブログ「社内資料「プロダクトマネージャーのための検索推薦システム入門」を公開します」の中で検索推薦技術の入門講座のスライドを公開しましたが、そのAIエージェント版とも言えるものになっています。 speakerdeck.com この記事では、AIエージェントの社内セミナーを開催することになった経緯や、その内容につい</description>
-    </item>
-    <item>
-      <title>【保存版】Google Antigravity 完全攻略ガイド｜次世代 &amp;quot;エージェント型&amp;quot; IDEのすべてを使い倒すチートシート - Qiita</title>
-      <link>https://qiita.com/akira_papa_AI/items/0acf2679e4ce9f7fb153</link>
-      <pubDate>2025/11/20 16:19</pubDate>
-      <description>A playground for interactive media</description>
-    </item>
-    <item>
-      <title>finalventの嘘ナラティブ「高市首相の戦術的ディエスカレーション」</title>
-      <link>https://anond.hatelabo.jp/20251120193422</link>
-      <pubDate>2025/11/20 23:58</pubDate>
-      <description>Microsoftは2025年11月11日（米国時間）、統合開発環境（IDE）「Visual Studio」の最新バージョン「Visual Studio 2026」の一般提供を開始した。 Visual Studio 2026は、無償の「Community」と有償の「Professional」「Enterprise」の3つのエディションがあり、公式サイトからダウンロードできる。2025年9月から「Insiders Channel」（旧称：Preview Channel）でプレビュー版が提供されていた。 Microsoftはこの1年間で、開発者から報告された5000件以上のバグを修正し、300件の機能リクエストを実装したと報告している。AI（人工知能）駆動型ツールが問題の特定と解決を加速させており、今後もVisual Studioの改善はこれまで以上のペースで進む見通しだという。 Visual</description>
-    </item>
-    <item>
-      <title>凄すぎてもはや意味不明！画像生成AIの到達点「Nano Banana Pro」ついに公開（アスキー） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/c7585332d3412a7862f134f6dc54d95c766c827d</link>
-      <pubDate>2025/11/21 08:12</pubDate>
-      <description>pytest と「最初にテストを書く」という考え方を活用することで、機械学習の実験コードに再現性と設計の明示性を確保する手法を、主にテストを書くのが億劫だなと感じている研究者・機械学習エンジニアに向けて紹介します ■ 堅牢.py #1 https://kenro.connpass.com/eve…</description>
-    </item>
-    <item>
-      <title>鉄鋼マンがアニメスタジオ革命　受注単価2倍でさらばブラック職場 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC2917D0Z20C25A8000000/</link>
-      <pubDate>2025/11/21 09:52</pubDate>
-      <description>【自己紹介】 スモールプロダクト戦略チーム エクスペリエンスデザイナー　niko 2021年入社。お菓子メーカーのマーケターからエクスペリエンスデザイナー（XD）として入社。新規事業や新領域の探索〜ソリューション作成・提示まで担当。（notプロダクトデザイン出身者） スモールプロダクト戦略チーム プロダクトマネージャー mayuki 2017年入社。カスタマーサポートに5年間従事、現在はプロダクトマネージャーとして会計プロダクトのweb/mobile開発を担当。 「探索」フェーズのプロダクト開発、どうやって進めよう？ こんにちは、私達はfreeeのプロダクト開発チームで企画を担当しているniko（XD）&amp;amp;mayuki（PdM）です。 これを見ている皆さんは、どんな仕事をされている方でしょうか？プロダクト開発に携わるプロダクトマネージャー、デザイナーやリサーチャー、企画も行うエンジニア、それ</description>
-    </item>
-    <item>
-      <title>個人宅に“企業のデータセンター”設置、廃熱を暖房として活用　英国で実証実験</title>
-      <link>https://www.itmedia.co.jp/news/articles/2511/21/news041.html</link>
-      <pubDate>2025/11/21 09:46</pubDate>
-      <description>ょ～子 @YokoMizuzokusei これめちゃくちゃわかる 要らないくせに挙動だけ重たくなるから不便この上ない。 必要な時だけAIにアクセスできるようにさせて欲しい。ずっとこっちの様子監視してる過保護ババアくらい重たいんじゃ。 x.com/kaityo256/stat… 2025-11-20 17:47:46 ありまる @ari_oshi 個人的にはExcelの右クリックメニューにコパイロットが入ってるのがまーーじで邪魔すぎて毎日舌打ちしてる GoogleもポップアップでAIの案内いらん。必要な時に自分で使うので x.com/kaityo256/stat… 2025-11-21 01:09:41</description>
     </item>
   </channel>
 </rss>
