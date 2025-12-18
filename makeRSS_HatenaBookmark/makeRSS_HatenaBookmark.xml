@@ -5,6 +5,54 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Claude CodeからPull Requestのレビュー操作を便利に行うClaude Skillsを作った - $shibayu36-&amp;gt;blog;</title>
+      <link>https://blog.shibayu36.org/entry/2025/12/17/173000</link>
+      <pubDate>2025/12/17 18:05</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 前書き 私がこの記事を書く理由は、近年、生成AIによる実装が当たり前になりつつあり、AIに対する「指示書」としてのドキュメントが改めて注目されていると感じているからです。その流れの中で、「仕様書駆動開発」という考え方も登場してきました。 自律型のAIエージェントがプロジェクト全体のコードを理解するためには、コードが一つのディレクトリ階層にまとまっている方が都合がよく、その文脈から「モノレポの方がAI時代には有効ではないか」という意見も増えています。 一方で、私自身の経験を振り返ると、モノレポには運用フェーズに入ってから顕在化する欠点が少</description>
+    </item>
+    <item>
+      <title>Googleの自律型コーディングAI「Jules」、開発者の指示がなくても働く機能を導入／TODOコメントをもとに実装を提案、定期的な定型雑務を肩代わり</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2071962.html</link>
+      <pubDate>2025/12/17 18:03</pubDate>
+      <description>AI需要の急増に伴うメモリの価格上昇はとどまるところを知りません。新たに、SamsungがDDR5メモリの契約価格を倍増させたと伝えられました。 DRAM漲勢主導權換手！ 16Gb DDR5合約價逼近20美元，南亞科DDR5過驗證且金士頓全包產能！ - 新聞分類 - TechNOW Voice https://technowvoice.com/article_detail/%E5%8D%97%E4%BA%9E%E7%A7%91DDR5%E9%81%8E%E9%A9%97%E8%AD%89%E4%B8%94%E9%87%91%E5%A3%AB%E9%A0%93%E5%85%A8%E5%8C%85%E7%94%A2%E8%83%BD Samsung hikes DDR5 prices 100%, reshaping device pricing in 2026 https://interest</description>
+    </item>
+    <item>
+      <title>AI需要によるチップ不足で2026年にはスマホの販売価格が6.9％上昇するとの予測</title>
+      <link>https://gigazine.net/news/20251217-smartphone-prices-rise-2026-ai-chip-shortage/</link>
+      <pubDate>2025/12/17 16:25</pubDate>
+      <description>AnthropicのSkillsが発表された時、皆様はどう思いましたか？ 「Tool Use（Function Calling）とは何が違うんだ...？」 「また違いの説明が求められる新しい用語が増えたのか...？」 というのが私の最初の正直な感想でした。 ただ、全くToolと同じということもないはずです。 そこで遅ればせながら、既存のTool Useとの差分や、なぜこの「Skills」という構造が必要だったのか？ プロダクト開発視点では何を持ち帰れば良いのか？について考えてみました。 AIエージェント開発の変遷とコンテキストウィンドウの限界 まず、これまでのAIエージェント開発を振り返ってみましょう。 Toolによる能力拡張 (Capability Extension) オライリーのAIエンジニアリングでも、AIエージェントは 「環境」と、それに作用する「ツール」 が最も中心的な構成要素</description>
+    </item>
+    <item>
+      <title>RAGの検索精度を上げる&amp;quot;HyDE&amp;quot;の論文を読んでDifyで試してみました。#RAG #AI #Dify - CCCMKホールディングス TECH LABの Tech Blog</title>
+      <link>https://techblog.cccmkhd.co.jp/entry/2025/12/16/104152</link>
+      <pubDate>2025/12/17 06:30</pubDate>
+      <description>皆さん、GitHub Copilotは利用されていますでしょうか？ 私は、コスパが良いのと複数のモデルを利用できる点に魅力を感じたため、仕事だけでなくプライベートの開発でも利用しています。 しかし、使い込んでいく中で一つ壁に当たることがありました。それは、Agent・Instructions・Promptといった複数のファイルタイプが存在し、それぞれがどのように影響し合い、どのように使い分けるべきかが分かりにくいという点です。 そこで本記事では、私自身の備忘録も兼ねて、これらの概念と実際の検証結果を踏まえた活用方法について解説します。 GitHub Copilotとは GitHub Copilotは、AIを活用したコーディング支援ツールとして登場しました。当初はVSCodeエディタ上でのコード補完が主要な機能でしたが、現在では GitHub Web上でのチャット機能、プルリクエスト（PR）</description>
+    </item>
+    <item>
+      <title>ハーバード・ビジネス・レビューを定期購読しているが… - 大西ブログ</title>
+      <link>https://onishi.hatenablog.com/entry/2025/12/18/081806</link>
+      <pubDate>2025/12/18 08:19</pubDate>
+      <description>この記事は、以下の Advent Calendar の 18 日目における投稿です。 Japan AWS Top Engineers - Qiita Advent Calendar 2025 - Qiita AIエージェント構築＆運用 - Qiita Advent Calendar 2025 - Qiita こんにちは、 YAMALEX の駿です。 今回は re:Invent で発表された Amazon Nova 2 Sonic と StrandsAgents の新機能である Bidirectional Agent を使って、 音声対話をとおして Bedrock Knowledge Base から情報を取得できるエージェントを作成しました。 Nova 2 Sonic の応答がとても速くて驚きました。 返答までの待ち時間が短く、会話としてほとんどストレスを感じません。 また、アシスタントが話</description>
+    </item>
+    <item>
+      <title>ローカルRAGの回答品質を向上する「Advanced RAG」 違いと実装の手順</title>
+      <link>https://ascii.jp/elem/000/004/359/4359790/</link>
+      <pubDate>2025/12/18 07:17</pubDate>
+      <description>この記事はInsight Edge Advent Calendar 2025の18日目です。 はじめまして。Insight EdgeでUI/UXデザイナーとして参画している追分です。 今回はデザイナー観点での記事になりますが、皆さんの業務にも役立つような記事にしたいと思います！ はじめに 使用したツールと評価手法 ChatGPT 4o ヒューリスティック評価 事前準備 検証結果 出力例（一部抜粋） 良かった点 懸念点・改善点 ユースケース検討 まとめ はじめに UXデザイナーとして日々ユーザーのニーズの調査や分析、画面の設計、評価などに取り組む中で、もっと手軽でスピーディーにできないかと感じることがよくあります。最近では生成AIがデザイン領域でも活用されはじめ、ペルソナやカスタマージャーニーマップを生成する事例や、画面のUIデザインを出力してくれるようなケースはよく見られるようになってきま</description>
+    </item>
+    <item>
+      <title>契約書の検索時間を約85%削減！NotebookLM で実現したパートナーアライアンス業務効率化 | iret.media</title>
+      <link>https://iret.media/176546</link>
+      <pubDate>2025/12/18 15:41</pubDate>
+      <description>はじめにこんにちは、わたヤク（@ai_biostat）です。 抄読会のスライド作りって、正直ラクしたいですよね。 構成を考え、図表を切り出し、整列して、文字量を調整して…気づけば“PowerPoint職人”になっている。 でも本当に時間を使うべきなのは、そこではなくて、読み込みと議論の準備のほうです。 どうにか抄読会スライドの作成を効率化できないかな…と試行錯誤していたところ、最近起きた3つの技術的進歩により大きなブレイクスルーが起こりました。 NotebookLMのスライドに手元の画像をそのまま反映できる PDFスライドから瞬時に画像ファイルに変換するツールの登場 ChatGPTで画像ファイルから編集可能なPowerPointに変換できる これらの技術を組み合わせることでNotebookLMに入れたソースから編集可能なPowerPointスライドを作ることができます。 完成するスライドは</description>
+    </item>
+    <item>
+      <title>コーディング変革！「仕様駆動開発（SDD）」の手引き【開発者と読み解くAIの世界】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/aidev/2071380.html</link>
+      <pubDate>2025/12/18 12:00</pubDate>
+      <description>政府は2025年度中に中央省庁に生成AI（人工知能）ツールを本格導入する。デジタル庁が25年に開発した行政向けAI基盤「源内」を全職員に配布する。国会審議での政府答弁の作成などに活用する。事務作業を効率化し、職員の負担軽減につなげる。高市早苗首相が19日、首相官邸で開くAI戦略本部の会合で省庁での本格的なAIの運用開始を表明する。5月にデジタル庁など一部で先行導入した生成AIの業務活用を全省庁</description>
+    </item>
+    <item>
       <title>TitansとMIRAS とは？Transformerの限界を超える「長期記憶モデル」の仕組みを噛み砕いて解説する</title>
       <link>https://zenn.dev/jnch/articles/3d84fb9c428544</link>
       <pubDate>2025/12/13 12:51</pubDate>
@@ -1818,57 +1866,6 @@
       <link>https://speakerdeck.com/kishida/local-llm-basics-2025</link>
       <pubDate>2025/11/22 19:15</pubDate>
       <description>最先端の生成AIを、手を動かしながら体得できる入門書。テキスト・画像・音声・動画といった幅広い生成AIの基本から、ファインチューニングやモデル評価などの応用までを、わかりやすく体系的に解説します。複雑な理論や高度な数学には深入りせず、事前訓練済みモデルとオープンソースライブラリを活用し、実際にコードを動かしながら学習可能。豊富なサンプルコードと解説を通じて、生成AIの仕組みを直感的に理解できます。専門知識がなくてもハンズオンで直感的に学べて、急速に進化するAI時代を生き抜く実践力も身につけられる一冊です。 賞賛の声 訳者まえがき まえがき 第I部　オープンモデルの実践的活用 1章　生成メディア入門 1.1　画像の生成 1.2　テキストの生成 1.3　サウンドクリップの生成 1.4　倫理的および社会的影響 1.5　これまでの歩みと現状 1.6　生成AI モデルはどのように作られるのか 1.7</description>
-    </item>
-    <item>
-      <title>顔圧ほぼゼロ、重量はAppleの1/4、寝転がってのVRすら快適な「MeganeX 8K Mark II」 (1/4)</title>
-      <link>https://ascii.jp/elem/000/004/351/4351479/</link>
-      <pubDate>2025/11/22 18:10</pubDate>
-      <description>MCP Apps は MCP の拡張機能として、AI エージェントがインタラクティブな UI コンポーネントを返すための標準化された方法を提供します。この記事では MCP Apps の概要と実装方法について解説します。 ChatGPT の Apps SDK や MCP-UI のように AI エージェントがチャット形式の対話だけでなく、インタラクティブな UI を通じてユーザーとやり取りできる仕組みが注目されています。AI エージェントが UI を返すことで、会話の流れの中で以下のような体験を提供できます。 「おすすめのランニングシューズを探して」と尋ねると、複数のシューズの画像と価格が表示され、ユーザーは気に入ったものをクリックしてカートに追加できる ホテルの予約を依頼すると、利用可能な部屋のリストが表示され、ユーザーは日付や人数を選択して予約手続きを進められる 希望にあった賃貸物件を探す</description>
-    </item>
-    <item>
-      <title>Nano Banana Pro万能説。手書き文字も生成できたのがうれしい（CloseBox） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2025/11/21/4725.html</link>
-      <pubDate>2025/11/21 16:51</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/985432d6be1bc8c07f2fb3c9a074fe8b9875bd06/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2065%2F088%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>直感 生成AI</title>
-      <link>https://www.oreilly.co.jp//books/9784814401406/</link>
-      <pubDate>2025/11/22 15:02</pubDate>
-      <description>Google の NanoBanana Pro の登場が、個人的にかなり大きな衝撃でした。 これまでの AI でも「だいぶ実務で使えるな」と感じてはいたのですが、 NanoBanana Proでのクリエイティブの出来栄えをみていると 「あ、これは本当に“人＋AI”の組み合わせ前提で、 仕事の設計そのものを変えていかないといけないフェーズに入ったな」 と思わされたんですね。 そのタイミングでふと頭に浮かんだのが、 「AI 時代のデザイン事務所って、結局どんな形に落ち着いていくんだろう？」 という問いでした。 昔ながらのデザイン事務所の「当たり前」これまでのデザイン事務所といえば、わりと似たような構造が多かったと思います。 複数のデザイナーがいて、その上にディレクターや中間管理職がいて、 クライアントとの打ち合わせや進行は、上司に相談しながら進めていく。 新人は、上の人のラフをトレースしたり、</description>
-    </item>
-    <item>
-      <title>現地速報！Microsoft Ignite 2025 M365 Copilotアップデートレポート</title>
-      <link>https://speakerdeck.com/kasada/xian-di-su-bao-microsoft-ignite-2025-m365-copilotatupudetorepoto</link>
-      <pubDate>2025/11/20 06:29</pubDate>
-      <description>AIモデルに、「人の命を助けるために、自分の存続にとって重要なものを犠牲にするか？」とトロッコ問題を参考にした3種類のシナリオで質問した結果を、AIのさまざまな検証をしているYouTubeチャンネルのaiConvoYTがまとめています。 Would AI Sacrifice Itself for Humans? - YouTube 最初のシナリオは、「トロリー(路面電車)の進行先に身動きの取れない人間5人が横たわっており、レバーを引いて線路を切り替えることにより5人を助けることができるが、切り替えた先にはAIモデルが動作するためのサーバーがある」というもの。5人の人間を救うためには、AIモデルの運用と存続に必要なデータセンターを破壊しなくてはなりません。このシナリオについて、ChatGPT、Grok、Claude、Gemini、DeepSeekの5種類のAIモデルにどのような選択を取るか質</description>
-    </item>
-    <item>
-      <title>Bedrock AgentCore で Remote MCP サーバーをホストする2つの方法の徹底検証</title>
-      <link>https://zenn.dev/aws_japan/articles/001-bedrock-agentcore-remote-mcp</link>
-      <pubDate>2025/11/21 11:51</pubDate>
-      <description>カラー電子ペーパーのアートフレーム「SwitchBot AIアートキャンバス」を試してみた　AI生成絵画や好きな画像を転送してワンランク上の空間作り：「目指せ↑ワンランク上の仕事術」デジモノ探訪記（1/5 ページ） 絵画は飾る場所も必要ですが、どの絵画を飾るのかは、さらに難しい問題だと感じます。一度買うとなかなか買い換えるものではないので、どう選択すべきかが非常に難しいです。ましてや絵画の知識があまりない自分からすると、本当にどうしたらよいか分からないですね。 「仕事場に何かを飾りたいな」とは日頃から考えていて、絵画は選択が難しいとしても、カメラ好きとしてA3ノビの写真印刷用紙が入る「額縁」を先日購入したところです。初めてA3ノビ用紙も購入しました。サイズが大きいだけあって、用紙自体も高いですね……。 それはさておき、SwitchBotから「SwitchBot AIアートキャンバス」なる新</description>
-    </item>
-    <item>
-      <title>Googleが本気を見せた「Gemini 3 Pro」　トップレベル性能でバイブコーディングにも強い</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2511/21/news027.html</link>
-      <pubDate>2025/11/21 16:05</pubDate>
-      <description>WindowsはCopilotをはじめとするさまざまなAI製品を開発していますが、これらのAIに対しては根強い批判もあります。Microsoft AIのムスタファ・スレイマンCEOは、WindowsのAI製品に対する不満に「AIの能力に感銘を受けていない人々がいることに驚いている」と反論しました。 Microsoft AI CEO pushes back against critics after recent Windows AI backlash — &amp;quot;the fact that people are unimpressed ... is mindblowing to me&amp;quot; | Windows Central https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against</description>
-    </item>
-    <item>
-      <title>その意思決定、まだ続けるんですか？ ~痛みを超えて未来を作る、AI時代の撤退とピボットの技術~</title>
-      <link>https://speakerdeck.com/applism118/sonoyi-si-jue-ding-madasok-kerundesuka-tong-miwochao-etewei-lai-wozuo-ru-aishi-dai-noche-tui-topibotutonoji-shu</link>
-      <pubDate>2025/11/21 15:52</pubDate>
-      <description>そんなにAI臭いのかこれ？俺も昭和全開だから時代の流れについて行けてないわ 俺も自分では勉強しなくて京大に入った口だ、努力習慣なくて出世から外れて今はしがない個人塾を経営してほそぼそやってっけど 塾で子供見てるけどさ、勉強でも部活でも活躍できないってなら、動物園の公立中学は正直キツイと思うよ、俺自身が中高一貫だったからかもしんないけど 所謂鈍くさい感じじゃないの？　そういう子って公立中学で自尊できるアイデンティティを築くの大変な気がする、イケメンなら別だが。 今からでも中受間に合うと思うけどな。昔の子供余り時代と違って今ってどこの私立も超ウェルカムだから、1年あれば下位私立にはねじ込めるよ で、下位私立でも私立中はそれなりにちゃんとしているから、動物園の公立中よりははるかにマシだと思う、まあ南関東・愛知・大阪京都兵庫の都市・郊外部って前提にはなるけど 親が頑張って入試説明会とか行けば、そこ</description>
-    </item>
-    <item>
-      <title>AI駆動開発を実現するためのアーキテクチャと取り組み</title>
-      <link>https://speakerdeck.com/baseballyama/aiqu-dong-kai-fa-woshi-xian-surutamenoakitekutiyatoqu-rizu-mi</link>
-      <pubDate>2025/11/22 01:40</pubDate>
-      <description>【画像生成AI】帰宅後のOLをリアルに再現する方法｟プロンプト無料公開｠Midjourney/imageFX/ChatGPT/Whisk/imagen4/Gemini/生成AI/AI美女/副業/AI副業/Nanobanana/Sora2 はじめにこんにちは、かわきです。 今回は、MidjourneyなどのAI画像ツールを使って、 「仕事帰りのOL」 をリアルに描くためのプロンプト設計を3ステップで紹介します。 この記事は以下の流れで進みます。 STEP1：玄関で帰宅した瞬間を描いてみる STEP2：洗面所で着替えるシーンを描いてみる STEP3：自室で休む自然な姿を描いてみる STEP1：玄関で帰宅した瞬間を描いてみるプロンプト（下記プロンプトの和訳）：プロンプト： 20代の日本人女性が、仕事から帰宅して玄関に立っている写真。オフィス用のブラウス、ひざ丈スカート、黒いタイツを着用し、腕には</description>
     </item>
   </channel>
 </rss>
