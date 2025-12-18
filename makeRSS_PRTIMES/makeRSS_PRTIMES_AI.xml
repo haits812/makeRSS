@@ -5,6 +5,34 @@
     <description>https://prtimes.jp/index.rdfから特定のキーワードを含む記事を提供します。</description>
     <link>https://prtimes.jp/index.rdf</link>
     <item>
+      <title>『自己との対話　社会学者、じぶんのAIと戦う』（吉見俊哉・著）、集英社新書から12月17日（水）に発売。</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000818.000011454.html</link>
+      <description>[株式会社集英社]
+生成AIが爆発的な進化を続けるなか、人間の存在意義や学問・教育の意味が問われつつある。長年大学教育の現場に携わっている社会学者・吉見俊哉は、自らの著作・論文をすべてAIに学習させ、「AI吉見くん」を制作...</description>
+      <pubDate>2025-12-18T06:40:02+09:00</pubDate>
+    </item>
+    <item>
+      <title>SocioFuture、次世代ITサービス開発拠点を台場に開設</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000035.000143201.html</link>
+      <description>[SocioFuture株式会社]
+金融・行政・健康の3分野で生活インフラカンパニーを目指すSocioFuture株式会社（東京都港区、代表取締役 社長執行員 菅原 彰彦、以下「当社」）は、近年の金融DX案件の拡大とAI・クラウド技術を活用した新規ITサ...</description>
+      <pubDate>2025-12-18T07:40:01+09:00</pubDate>
+    </item>
+    <item>
+      <title>【新コンテンツ公開】DXしたはずが、現場は疲弊…。組織の隠れ課題を可視化する「バックオフィスのゾンビ業務診断」</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000153.000023145.html</link>
+      <description>[プロトスター株式会社]
+[画像: https://prcdn.freetls.fastly.net/release_image/23145/153/23145-153-d27d37fd158ca0f720916bba2893d441-1200x630.png?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;am...</description>
+      <pubDate>2025-12-18T08:10:02+09:00</pubDate>
+    </item>
+    <item>
+      <title>【バイテック生成AIオンラインスクール】学習成果を「証明」できる新制度！「スキル証明課題」を提供開始</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000018.000164574.html</link>
+      <description>[リブレクス]
+株式会社Librex（リブレクス）（本社：東京都渋谷区、代表取締役：塩田 稜、バイテック生成AIオンラインスクール運営）は、受講生の学習成果を可視化・証明する新制度として、「スキル証明課題」の提供を2025年12...</description>
+      <pubDate>2025-12-18T09:40:30+09:00</pubDate>
+    </item>
+    <item>
       <title>【ソフトウェア開発におけるUXの取り組み状況調査】UXの取り組み状況は二極化、生成AIの活用もUX課題の解決策に</title>
       <link>https://prtimes.jp/main/html/rd/p/000000118.000018724.html</link>
       <description>[SHIFT]
@@ -2107,36 +2135,6 @@ AI賃料査定システムを提供するスマサテ株式会社（本社：東
       <description>[ホットリンク]
 SNSマーケティング支援サービスを提供する株式会社ホットリンク（本社：東京都千代田区、証券コード：3680、代表取締役グループCEO：檜野安弘、以下ホットリンク）は、生成AIツールの活用状況に関する社内定点調...</description>
       <pubDate>2025-11-18T12:45:03+09:00</pubDate>
-    </item>
-    <item>
-      <title>GMOインターネットの「GMO GPUクラウド」GPUクラウド国際評価レポート「ClusterMAX(TM)2.0」で「Silver」を獲得</title>
-      <link>https://prtimes.jp/main/html/rd/p/000005122.000000136.html</link>
-      <description>[GMOインターネットグループ]
-　GMOインターネットグループの、GMOインターネット株式会社（代表取締役 社長執行役員：伊藤 正　以下、GMOインターネット）が提供する生成AI向けGPUクラウドサービス「GMO GPUクラウド」は、米国SemiAnalysis社...</description>
-      <pubDate>2025-11-18T13:45:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>AI inside、長崎県の医療DX実地検証プロジェクトに技術採用― 業務自動化・地域医療の質向上を支援</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000198.000024457.html</link>
-      <description>[AI inside 株式会社（AI inside Inc.）]
-[画像: https://prcdn.freetls.fastly.net/release_image/24457/198/24457-198-a9cfa0d784be5d348cdbe00ed8d5acf4-2400x1260.png?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;a...</description>
-      <pubDate>2025-11-18T11:00:00+09:00</pubDate>
-    </item>
-    <item>
-      <title>ベッドからの「転落予兆」「起き上がり」「端座位」の検知により　転落インシデントを防ぐエッジAI型(*1)ナースコールシステム</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000016.000027770.html</link>
-      <description>[SmartGate]
-　株式会社スマートゲート（本社：東京都、代表取締役：花谷 行雄）は、厚生労働省の「これからはじめる看護DX事例紹介」(*2)(2025.04)に掲載された見守りシステム（ウェアセーフ v1）に、姿勢検知・転落予兆検知...</description>
-      <pubDate>2025-11-18T12:15:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>生成AIを活用したDE＆I推進ツール「karafuru AI（カラフルAI）」とAdeccoの1on1トレーニングの連携による新たな研修プログラムを提供開始</title>
-      <link>https://prtimes.jp/main/html/rd/p/000001029.000001264.html</link>
-      <description>[アデコ]
-NTTビジネスソリューションズ株式会社
-アデコ株式会社
-NTTビジネスソリューションズ株式会社（本社：大阪市北区、代表取締役社長：木上秀則、以下「NTTビジネスソリューションズ」）と、人財サービスのグローバ...</description>
-      <pubDate>2025-11-18T12:40:03+09:00</pubDate>
     </item>
   </channel>
 </rss>

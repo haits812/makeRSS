@@ -5,6 +5,99 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Claude Code CLIがMacのホームディレクトリを丸ごと削除してしまった事例</title>
+      <link>https://gigazine.net/news/20251216-claude-code-cli-mac-deleted/</link>
+      <pubDate>2025/12/16 12:01</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4bdf4b54423d7b0b8e88052eacdb62599d392d5b/height=288;version=1;width=512/https%3A%2F%2Fimages.ctfassets.net%2Fct0aopd36mqt%2Fwp-thumbnail-6a331d7c70f1897ca2ef1ad4cbe7c6bf%2F78c556633ae5115aa065636cc4a1160a%2Feyecatch_gemini');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ディズニーとOpenAIのライセンス契約は1年間のみ独占契約なので1年後には他のAI企業も契約可能</title>
+      <link>https://gigazine.net/news/20251216-disney-openai-deal-exclusive-one-year/</link>
+      <pubDate>2025/12/16 12:00</pubDate>
+      <description>この記事を読むべき人 Claude Code をカスタマイズしようとして、こんな経験はありませんか？ 「このルール、CLAUDE.md に書く？Skills に書く？」と手が止まる Commands を作ったのに、結局 Skills との違いがわからない Subagents の存在は知っているけど、いつ使うか判断できない そして最近、Rules という機能まで登場しましたね。「また増えた...これどこに書くの？」 公式ドキュメントを読んでも、概念の使い分けがピンとこない。そんな人のために、RPGゲームで例えてみました。 冒険の始まり - あなたはプレイヤー あなたはモンスターを倒すRPGをプレイしています。 画面の中には主人公のキャラクターがいます。あなたはプレイヤーとして、この主人公に指示を出してゲームを進めます。 Claude Code で言うと： あなた（プレイヤー） = ユーザー</description>
+    </item>
+    <item>
+      <title>OpenAI、2026年1月15日をもって「ChatGPT for macOS」の音声機能を廃止。</title>
+      <link>https://applech2.com/archives/20251216-chatgpt-for-macos-voice-retirement-2026.html</link>
+      <pubDate>2025/12/16 17:44</pubDate>
+      <description>生成AIを使って巧妙な偽の画像や動画などを作る「ディープフェイク」への規制をめぐり、自民党の作業チームは法規制のあり方などの検討を進めたうえで、来月にも政府に提言を行うことを確認しました。 16日…</description>
+    </item>
+    <item>
+      <title>Anthropic、AIエージェント開発における”スキル”重視の新設計思想を提示──「IQ300数学の天才から経験豊富な税務専門家へ」、スキル中心アーキテクチャの全体像を解説 | Ledge.ai</title>
+      <link>https://ledge.ai/articles/anthropic_ai_agents_build_skills_paradigm</link>
+      <pubDate>2025/12/16 15:41</pubDate>
+      <description>はじめに こんちは！製造業で社内SE的なのやってる人です。 最近RAG分野にハマっていますが、Excel文書が厄介者すぎるということに最近気が付きました。ZennでもRAGにおいて、このExcel文書をいかに扱うかの記事は定期的に見かけます。 先人のエンジニアの方々が様々な有効打を提示してくれていますが、私も別のアプローチでこの課題に取り組んでみたので共有します🔥 TL;DR ExcelをCOM + xlwings/openpyxlで構造化する自作ライブラリ「exstruct」。セル値だけでなく図形・グラフ・ハイパーリンク・印刷範囲・罫線由来の表までJSON/YAML/TOON形式で出力。 画像認識なしでフローチャート矢印方向やグラフ軸・系列も抽出でき、RAGで失われがちな情報を補完してLLM復元精度が向上。 デモで表＋折れ線グラフ＋フローチャートをJSON化→Markdown/merm</description>
+    </item>
+    <item>
+      <title>SAM Audio</title>
+      <link>https://ai.meta.com/samaudio/</link>
+      <pubDate>2025/12/17 11:28</pubDate>
+      <description>GPT-5.2登場　知識は2025年8月まで刷新、最高性能の“代償”とは：Deep Insider Brief ― 技術の“今”にひと言コメント OpenAIの最新モデル「GPT-5.2」が登場し、学習データの範囲が「2024年9月まで」から「2025年8月まで」にアップデートされた。最高性能を実現した一方でAPI価格は上昇しているので、筆者の視点から、その背景と現実的な使い分けの考え方を掘り下げる。 連載目次 GitHub CopilotやCursorのモデル選択画面に並ぶ現行モデルについては、これまでこのBrief（概説）連載の中で、できるだけ同じ書き方、同じ粒度で紹介してきた。ここ1カ月ほどは、週に何個も新しい言語モデルが登場する状況が続いており、正直なところ「もう把握し切れない」と感じて、少し疲れを感じている人も少なくないだろう。そんな中で、また新たなモデルが加わった。 そうした状</description>
+    </item>
+    <item>
+      <title>大阪万博の「ヌルヌル」で見せたかった光景は“即今”、落合陽一氏が「パビリオン」を振り返る ～「人間の精神がトランスフォームするようなものを作りたかった」／AIと物理世界が溶け合った境地とは？ 特別講演レポート【AIフェスティバル 2025】【特集・集中企画】</title>
+      <link>https://forest.watch.impress.co.jp/docs/special/2070929.html</link>
+      <pubDate>2025/12/17 09:30</pubDate>
+      <description>はじめに Pydantic はとても便利である。だがこれを過信してドメインモデルの中心に据えると、責務の境界が曖昧になり、設計はたいてい溶ける。戦略なく溶け固まった巨大なコードベースは、ソフトウェアの迅速かつ安全な進化を困難にするだけでなく、LLM-based な AI の推論の安定性も低下させる。 LLM-based な AI エージェントは、構造が論理的に明示されたコード（型・境界・不変条件）ほど扱いやすい傾向がある。型定義には datetime と書いてあるのに、実態はバリデータで文字列を無理やり変換して受け入れるような「嘘」があると、コードだけを読む AI は挙動を正しく予測できない。 Pydantic がカバーしてくれる値検証と変換の責務は、静的型安全性 と Always-Valid なドメイン を志向すればするほど、自然とドメインから剥がれていく。 この話は「Pydantic</description>
+    </item>
+    <item>
+      <title>AI駆動開発ツールは、Cursorで決まりだと思う理由｜たにぐち まこと＠ともすた</title>
+      <link>https://note.com/tomosta/n/n5e808dc06a2e</link>
+      <pubDate>2025/12/17 13:34</pubDate>
+      <description>セキュリティ企業・Koi Securityの研究チームが、「AIプラットフォーム上でやり取りされる会話データを不正に収集するブラウザ拡張」に関する調査データを発表しました。調査では、ChromeとEdgeで取得できる数百万人規模のユーザーを抱えている拡張機能が、ユーザーのAIチャット内容をひそかに傍受して営利目的で販売していることが明らかになりました。 8 Million Users&amp;#39; AI Conversations Sold for Profit by &amp;quot;Privacy&amp;quot; Extensions | Koi Blog https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection Koi Securityの研究チームは、ブラウザ拡張がAIチャットプラットフォーム上の会話を読み取ること</description>
+    </item>
+    <item>
+      <title>サムスンがDDR5メモリの価格を100％以上引き上げ</title>
+      <link>https://gigazine.net/news/20251217-samsung-ddr5-memory/</link>
+      <pubDate>2025/12/17 17:53</pubDate>
+      <description>NEW! 2025.12.17 働き方 岩瀬義昌EMマネジメントチーム マネジャーになった途端、プレイヤー時代に培ってきた経験や自信が通用しなくなったーーそんな感覚に陥っている人はいないだろうか。 忙しさは増しているのに、成果が出ている実感がない。多くのタスクをこなしているはずなのに、達成感が得られない。その違和感はじわじわと心身を削り、やがて「自分は役に立っていないのでは」という錯覚を引き起こす。 そうなる前に知っておいてほしいのが、エネルギー管理の重要性だ。 タスク管理でも時間管理でもなく、自身の「エネルギー」というリソースの使い方こそが、マネジャーには欠かせないと、書籍『エンジニアリングリーダー 　技術組織を育てるリーダーシップとセルフマネジメント』（オライリー・ジャパン）では語られている。 今回は同書の訳者であり、エンジニアリングマネジャーとして長く現場に立ってきた岩瀬義昌さんに、</description>
+    </item>
+    <item>
+      <title>Anthropic SkillsからAIプロダクト開発者が学べること：Skillsは&amp;quot;業務マニュアル付きの道具箱&amp;quot;</title>
+      <link>https://zenn.dev/r_kaga/articles/810cc2e8326ca5</link>
+      <pubDate>2025/12/17 20:21</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/bb7fa90f0560ce998dc547eb8a0d099197c779ea/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2071%2F962%2Fjule.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Googleマップの「Gemini」新機能を試す--まるで助手席の友人？ 便利さに驚く</title>
+      <link>https://japan.cnet.com/article/35241696/</link>
+      <pubDate>2025/12/16 12:57</pubDate>
+      <description>市場調査企業のCounterpoint Researchが2025年12月16日(火)に公開した報告書の中で、AI需要によるメモリチップ不足が2026年にスマートフォンの販売価格の上昇を引き起こす可能性が高いと指摘しました。 2026 Smartphone Shipment Forecasts Revised Down as Memory Shortage Drives BoM Costs Up https://counterpointresearch.com/en/insights/2026-smartphone-shipment-forecasts-revised-down-as-memory-shortage-drives-bom-costs-up Smartphone prices to rise in 2026 due to AI-fueled chip shortage htt</description>
+    </item>
+    <item>
+      <title>GitHub Copilotにおける Agent / Instructions / Prompt の整理と活用方法</title>
+      <link>https://zenn.dev/thinkingsinc/articles/cd59e1ffc4f842</link>
+      <pubDate>2025/12/17 18:33</pubDate>
+      <description>OpenAIは2025年12月17日に、新しい画像生成モデル「GPT Image 1.5」を搭載した新バージョンの「ChatGPT Images」をリリースしました。この新モデルは、ゼロからの画像生成だけでなく、既存の写真の編集においてもユーザーの意図をより確実に反映できるよう設計されています。 The new ChatGPT Images is here | OpenAI https://openai.com/index/new-chatgpt-images-is-here/ OpenAI’s new flagship image generator AI is here | The Verge https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-</description>
+    </item>
+    <item>
+      <title>Amazon、OpenAIに1兆5000億円投資へ協議　米報道 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN1744S0X11C25A2000000/</link>
+      <pubDate>2025/12/17 16:44</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/094e3f65928edbe227d8b31f3619b4fbece32284/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2072%2F116%2F1217.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>子どもの性的ディープフェイク被害　加害者の半数は同じ学校の生徒 | 毎日新聞</title>
+      <link>https://mainichi.jp/articles/20251217/k00/00m/040/272000c</link>
+      <pubDate>2025/12/18 06:24</pubDate>
+      <description>「非エンジニアのClaude Code完全攻略」シリーズ第4回です。 今回はSkillsフォルダを使って、「学習するAI」を作る方法を解説します。 同じ質問を何度もしなくて済むようになります。 安心してください。Skillsファイルも、Claude Codeに作ってもらえます。 この記事でわかることSkillsとは何か Claude CodeにSkillsを作ってもらう方法 どんなSkillsを作ったか 自動参照の設定方法 Skillsとは？Skillsは、AIに覚えてほしい知識・ノウハウをまとめたファイルです。 プロジェクトの.claude/skills/フォルダに置きます。 my-project/ ├── CLAUDE.md ├── .claude/ │ └── skills/ │ ├── README.md │ ├── design-system.md │ ├── test-guid</description>
+    </item>
+    <item>
+      <title>Findy AI+の開発・運用を支えるMCP活用事例 ― AI Engineering Summit Tokyo 2025登壇レポート - Findy Tech Blog</title>
+      <link>https://tech.findy.co.jp/entry/2025/12/18/090000</link>
+      <pubDate>2025/12/18 09:07</pubDate>
+      <description>ヨルナ @Sage_Yothi @matsuzawa_s AIだろうがOCRだろうが、機械的な一括処理でフォントバラバラは100%ありえないので、手打ちしています。 訂正部分をコピペ挿入しているとなりやすい 2025-12-17 19:24:07</description>
+    </item>
+    <item>
       <title>LLMを用いて長文ドキュメントを速く・安く・安全に構造化する試み - LayerX エンジニアブログ</title>
       <link>https://tech.layerx.co.jp/entry/2025/12/16/194317</link>
       <pubDate>2025/12/17 00:43</pubDate>
@@ -1782,96 +1875,6 @@
       <link>https://forest.watch.impress.co.jp/docs/news/2065448.html</link>
       <pubDate>2025/11/21 16:41</pubDate>
       <description>株式会社Algomaticは、AIを活用した音声生成プラットフォーム『にじボイス』の提供を、2026年2月4日（水）を持ちまして終了することをお知らせいたします。日頃より『にじボイス』をご利用いただい...</description>
-    </item>
-    <item>
-      <title>仏頂面で「両手をポケット」だったはずが...AI動画で中国外務省「ダンシング局長」爆誕（J-CASTニュース） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/b031aaaf95569e270bff103cbbff5534aaf48690</link>
-      <pubDate>2025/11/20 19:35</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/748cae1bc7f3907dacda5954615e08a90e922942/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F808%2Fopen_ai.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Pythonのリアクティブノートmarimoの誕生秘話｜Atsushi Shibata</title>
-      <link>https://note.com/shibats/n/n08d11f09b4e4</link>
-      <pubDate>2025/11/21 10:23</pubDate>
-      <description>AIモデルに、「人の命を助けるために、自分の存続にとって重要なものを犠牲にするか？」とトロッコ問題を参考にした3種類のシナリオで質問した結果を、AIのさまざまな検証をしているYouTubeチャンネルのaiConvoYTがまとめています。 Would AI Sacrifice Itself for Humans? - YouTube 最初のシナリオは、「トロリー(路面電車)の進行先に身動きの取れない人間5人が横たわっており、レバーを引いて線路を切り替えることにより5人を助けることができるが、切り替えた先にはAIモデルが動作するためのサーバーがある」というもの。5人の人間を救うためには、AIモデルの運用と存続に必要なデータセンターを破壊しなくてはなりません。このシナリオについて、ChatGPT、Grok、Claude、Gemini、DeepSeekの5種類のAIモデルにどのような選択を取るか質</description>
-    </item>
-    <item>
-      <title>大規模言語モデルへの攻撃において「詩」が有効であるとの研究結果</title>
-      <link>https://gigazine.net/news/20251121-adversarial-poetry-llm-jailbreak/</link>
-      <pubDate>2015/06/16 22:46</pubDate>
-      <description>グローバルリーガルテック 企業における Google Security Operations と Security Command Center Enterpriseを活用したセキュリティ監視</description>
-    </item>
-    <item>
-      <title>AI音声「にじボイス」、“権利侵害はない”のにサービス終了へ　日俳連から「声優に酷似」と指摘受け</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2511/21/news121.html</link>
-      <pubDate>2025/11/21 16:57</pubDate>
-      <description>株式会社Algomaticは、AIを活用した音声生成プラットフォーム『にじボイス』の提供を、2026年2月4日（水）を持ちまして終了することをお知らせいたします。日頃より『にじボイス』をご利用いただい...</description>
-    </item>
-    <item>
-      <title>OpenAI、「ChatGPT for Teachers」を発表 ～2027年6月まで米国で無償提供／教育現場の日常業務に耐えうるセキュリティとコンプライアンスを備えた「ChatGPT」</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2064808.html</link>
-      <pubDate>2025/11/20 19:37</pubDate>
-      <description>今回ご紹介するのは、日本に留学中の学生が投稿したもので、 日本の街中をサイクリングしながら撮影した映像が収められています。 看板などを見る限り大阪市内のようです。 日本有数の大都市であるとは言え、 基本的には日本でよく見られる都市部の光景だと思われます。 しかし、映像に映る街の清潔さや平和な雰囲気が、 もはや非現実的にすら見えるということから、 AIであることを疑う外国人も散見されました。 他にも各国から様々な反応が寄せられていましたので、 その一部をご紹介します。 「こんな場所が実在するのか…」 日本の神社の異世界感が尋常じゃないと話題に @yi_.mu #japan #school #lifestyle ♬ sonido original - Lexn🧛🏽 ■　これ、AIで作ったものなのか、 それとも本物なのか見分けがつかないんだが。　+158　アメリカ ■　これはAIで作られた映</description>
-    </item>
-    <item>
-      <title>AIエンジニアリング、始めませんか？ ～基盤モデルという巨人の肩に乗って～</title>
-      <link>https://zenn.dev/r_kaga/articles/74673cb9333007</link>
-      <pubDate>2025/11/20 18:23</pubDate>
-      <description>局長協議で中国撮影の動画が拡散。AI加工で「おもちゃ」にされている（写真はシャンハイ・デイリーのXから） 中国外務省の局長の振る舞いが波紋を広げる中、中国出身のオーストラリア人インフルエンサー・悉尼奶爸（Sydney Daddy）さんによるAI加工動画がSNSで話題を集めている。 【動画】これが中華衣装の「ダンシング局長」だ ■ポケットに手を突っ込んだまま歩く中国・劉氏の動画が拡散 話題となっている動画の元ネタは、2025年11月18日に行われた外務省の金井正彰アジア大洋州局長と、中国外務省の劉勁松アジア局長の協議後に撮影された動画だった。 中国の薛剣（せつけん）駐大阪総領事による過激なX投稿を発端に日中間の緊張感が高まる中、金井局長は劉局長に対し、薛氏による投稿について改めて抗議。適切な対応を取るよう強く求めたという。 中国では、協議後の様子として、ポケットに手を突っ込んだまま歩く劉氏に</description>
-    </item>
-    <item>
-      <title>『にじボイス』サービス終了に関するお知らせ </title>
-      <link>https://algomatic.jp/news/notice_nijivoice_20251121</link>
-      <pubDate>2025/11/21 17:41</pubDate>
-      <description>DMMグループでAI関連サービスを開発するAlgomatic（東京都港区）は11月21日、AI音声サービス「にじボイス」のサービスを2026年2月4日に終了すると発表した。にじボイスを巡っては、俳優や声優の権利保護活動などを行う日本俳優連合（日俳連）が、2度にわたり「組合員の声に酷似している」として、ボイスの削除を要請していた。 日俳連は7日、にじボイスに対して、一部音声が組合員の声に酷似しているとして33件分の削除を要請。これを受け、Algomaticは「法的な権利侵害は確認されなかった」とする一方、「声の権利を尊重するプラットフォームとして、関係者に懸念を生じさせること自体が本意ではない」として、自主的に音声を取り下げたとしていた。しかし日俳連は19日にも、にじボイスに対して追加で20件分の削除要請を出していた。 2度目の削除要請についてAlgomaticは、「こちらについても法的な権</description>
-    </item>
-    <item>
-      <title>サム・アルトマン実践！小さなノート術で思考が変わる - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習</title>
-      <link>https://studyhacker.net/small-notebook-benefits</link>
-      <pubDate>2025/11/20 13:39</pubDate>
-      <description>Microsoftは2025年11月11日（米国時間）、統合開発環境（IDE）「Visual Studio」の最新バージョン「Visual Studio 2026」の一般提供を開始した。 Visual Studio 2026は、無償の「Community」と有償の「Professional」「Enterprise」の3つのエディションがあり、公式サイトからダウンロードできる。2025年9月から「Insiders Channel」（旧称：Preview Channel）でプレビュー版が提供されていた。 Microsoftはこの1年間で、開発者から報告された5000件以上のバグを修正し、300件の機能リクエストを実装したと報告している。AI（人工知能）駆動型ツールが問題の特定と解決を加速させており、今後もVisual Studioの改善はこれまで以上のペースで進む見通しだという。 Visual</description>
-    </item>
-    <item>
-      <title>【徹底解説】Nano Banana Pro登場。Gemini 3ベースの画像生成モデルの実力と実際の使い心地をレビュー｜ChatGPT研究所</title>
-      <link>https://chatgpt-lab.com/n/nec455e165bb6</link>
-      <pubDate>2025/11/21 10:31</pubDate>
-      <description>Googleが画像生成AIのGemini 3 Pro Image(Nano Banana Pro)を2025年11月20日に発表しました。Gemini 3 Proをベースに構築されたNano Banana Proは、Gemini 2.5 Flash Image(Nano Banana)よりも優れた情報視覚化を実現しているとのことです。 Nano Banana Pro: Gemini 3 Pro Image model from Google DeepMind https://blog.google/technology/ai/nano-banana-pro/ Nano Banana Pro: Gemini 3 Pro Image model from Google DeepMind https://blog.google/technology/ai/nano-banana-pro/ Goo</description>
-    </item>
-    <item>
-      <title>各AIモデルに「自分のデータセンターを犠牲に人命を助けるか？」と質問した結果とは？</title>
-      <link>https://gigazine.net/news/20251121-ai-sacrifice/</link>
-      <pubDate>2025/11/21 12:51</pubDate>
-      <description>いま、日本の漫画がどういう経路をたどって外国語に翻訳されているかはいまいち知らないんだけど、たしかこと少年ジャンプにおいては、現在の連載誌がそのまま、大急ぎで公式英訳されてるはずだ。 2018年からそうだったか animationbusiness.info 「少年ジャンプ」の人気作が、日本のリリースと同時に海外では無料で読むことができる。そんな大胆なプロジェクトが、この12月から始まる。米国の日本マンガ出版社Viz Mediaは少年ジャンプの英語版「Weekly Shonen Jump」を全面刷新し、2018年12月17日より新たに「Shonen Jump」をスタートすると発表した。 「Weekly Shonen Jump」は年間26ドルで毎週最新のマンガを読めるのを特長としていたが、「Shonen Jump」では連載作品の最新エピソードの直近3話分を無料で読むことができる。しかもアップは</description>
-    </item>
-    <item>
-      <title>速習 AIエージェント入門</title>
-      <link>https://speakerdeck.com/legalontechnologies/aiagent-introduction</link>
-      <pubDate>2025/11/21 13:53</pubDate>
-      <description>最近、Pythonの開発環境「marimo」のことをよく聞くようになりました。ノートブックの一種で、変数を変更すると即座に反映される「リアクティブ」な実行環境です。Jupyterとは異なった開発体験を与えてくれて、利用者の多くは「なんか使いやすい」と感じていると思います。私もちょっと触ってみたら、JupyterやColabのようにセルの実行順序に左右されないので「たしかに手になじむわ」という感想を持ちました。ファイルが.ipynbではなく.pyになるのもいいですね。 今回は、一体誰がmarimoを開発していて、なにを目指しているのかをについて、調べてみたことをまとめて見たいと思います。 作者のAkshay 氏がすごすぎるmarimoはAkshay氏、Dylan氏の二人で開発をしています。このうち、よく表に出てくるAkshay氏の経歴がなかなかにすごいので最初に紹介します。 Akshay氏は</description>
-    </item>
-    <item>
-      <title>L・トーバルズ氏、バイブコーディングに楽観的な見解--ただし保守性には「最悪」</title>
-      <link>https://japan.zdnet.com/article/35240680/</link>
-      <pubDate>2025/11/20 15:55</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/40fcaeee64719c0a07b14f760a1005675567be4c/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2064%2F969%2F000.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>OpenAI、デロイトが会計監査を担当　AI新興のガバナンスに警戒の目 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN20DOL0Q5A121C2000000/</link>
-      <pubDate>2025/11/21 09:10</pubDate>
-      <description>BBCの報道によると、テレンス・ブリッジズさんと妻のレスリーさんは、ガスボイラーを撤去し、庭の小屋に小型データセンター「HeatHub」を設置。これにより、月額の電気料金を375ポンド（約7万7000円、1ポンド＝約205円）から40ポンド（約8200円）にまで削減することに成功したという。 今回設置したHeatHubは、ガスボイラーの代わりに暖房器具や給湯器などどして使えるようThermifyが開発したもの。500台以上のミニコンピュータ（Raspberry Pi）がデータ処理を行う際に発生する熱を石油で吸収し、家庭の温水システムに転送する仕組みだ。 SHIELDプロジェクトは、低所得世帯がネットゼロ（温室効果ガスの排出量をゼロ）への移行を実現できるよう支援することを目的として、2023年3月に始まった。総予算540万ポンド超（約11億865万円）のこのプロジェクトは、暖房費を賄えない可</description>
-    </item>
-    <item>
-      <title>【ブラックフライデーで買っておきたいUdemy講座】Python、生成AI、機械学習のスキルをいまこそ習得！人気講座をまとめてレビュー＆大紹介！ - はてなニュース</title>
-      <link>https://hatenanews.com/articles/2025/11/21/103000</link>
-      <pubDate>2025/11/21 11:00</pubDate>
-      <description>こんにちは。LegalOn Technologiesでソフトウェアエンジニアをしている浅野（@takuya_b / @takuya_a）です。最近は検索推薦というよりはAIエンジニアっぽいことをしています。 このたび、社内の全プロダクトマネージャー・デザイナー・エンジニア・EM向けに「速習 AIエージェント入門」というタイトルで、AIエージェント開発の社内セミナーを担当しました。その発表で使用したスライドを、弊社のSpeaker Deckに公開しましたので共有します。 昨年、弊社のブログ「社内資料「プロダクトマネージャーのための検索推薦システム入門」を公開します」の中で検索推薦技術の入門講座のスライドを公開しましたが、そのAIエージェント版とも言えるものになっています。 speakerdeck.com この記事では、AIエージェントの社内セミナーを開催することになった経緯や、その内容につい</description>
     </item>
   </channel>
 </rss>
