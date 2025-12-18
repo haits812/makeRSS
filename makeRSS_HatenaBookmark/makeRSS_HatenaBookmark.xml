@@ -5,6 +5,84 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>自民 生成AI「ディープフェイク」の規制 来月にも政府に提言へ | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015005301000</link>
+      <pubDate>2025/12/16 13:40</pubDate>
+      <description>動画編集講座はこちら https://www.dogaedit.com ------------------------------------------------------------------------------------------------ DEEP DIVE HP https://deepdive.or.jp/ クラウドファンディング目標達成！ ご支援ありがとうございました！ https://camp-fire.jp/projects/821287/view ------------------------------------------------------------------------------------------------ 製作・運営：(株)ジェットストリーミング https://www.jetstreaming.jp/ #小原凡司　</description>
+    </item>
+    <item>
+      <title>プロンプトやエージェントを自動的に作る方法</title>
+      <link>https://speakerdeck.com/shibuiwilliam/puronputoyaezientowozi-dong-de-nizuo-rufang-fa</link>
+      <pubDate>2025/12/16 17:25</pubDate>
+      <description>記事内に広告が含まれています。This article contains advertisements. OpenAIが2026年1月15日をもって「ChatGPT for macOS」の音声機能を廃止すると発表しています。詳細は以下から。 米OpenAIは現地時間2025年12月15日(リリースノートは11日付け)、来年01月15日をもって同社のAIチャットボットChatGPTのMac用デスクトップアプリ「ChatGPT for macOS」で音声機能を廃止すると発表しています。 We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026. This change allows us to focus on more unified and improved voice experien</description>
+    </item>
+    <item>
+      <title>ty: An extremely fast Python type checker and language server</title>
+      <link>https://astral.sh/blog/ty</link>
+      <pubDate>2025/12/17 09:26</pubDate>
+      <description>Metaが音声分離AI「SAM Audio」を公開しました。SAM Audioには音声や動画を入力可能で、「文章で指示して特定の音を抜き出す」「動画内の『音声を発している被写体』を指定して音声を抜き出す」「動画内の特定のタイミングで鳴っている音を指定して抜き出す」といった操作が可能です。 SAM Audio https://ai.meta.com/samaudio/ Introducing SAM Audio: The First Unified Multimodal Model for Audio Separation | AI at Meta - YouTube SAM Audioは音声だけでなく動画も入力することが可能です。音楽セッションを記録した動画からギターの音だけを抜き出したい場合は、テキストで「guitar」と指示します。 これで動画内のギターの音だけを分離できます。 動画内</description>
+    </item>
+    <item>
+      <title>OpenAIが画像生成モデル「GPT Image 1.5」を搭載した「ChatGPT Images」を公開、画像生成が最大4倍高速化でGoogleのNano Banana Proに対抗</title>
+      <link>https://gigazine.net/news/20251217-chatgpt-images-1-5/</link>
+      <pubDate>2025/12/17 11:16</pubDate>
+      <description>サム・アルトマンの10年超の発言を追跡すると、未解決の問いにも答えが出ているかのように語り、AIを「救済」にも「破滅」にも描き分けて資金調達してきた手法が見えてくる。その誇大宣伝が現在のAIブームを作り上げた。 by James O&amp;#39;Donnell2025.12.17 0 この記事の3つのポイント サム・アルトマンはChatGPT公開を機にAI能力の誇大宣伝を世界規模で展開した シリコンバレーで資金調達者として未解決問題にも確定的回答を提示し続けてきた 技術的限界に関わらずテクノ・ユートピア信念が資金調達の根拠となっている summarized by Claude 3 人工知能（AI）が何を可能にするかについて、常識外れとも言える考えを耳にするたびに、それを最初に明確に表現したのがサム・アルトマンではないにしても、少なくとも最も説得力があり、影響力のある声の主だったことが判明することが多い</description>
+    </item>
+    <item>
+      <title>「正直、何を言ってるのか──」　SmartHR社長が斬る“SaaS is Dead”論の致命的な勘違い</title>
+      <link>https://www.itmedia.co.jp/business/articles/2512/17/news016.html</link>
+      <pubDate>2025/12/17 11:59</pubDate>
+      <description>【シリコンバレー=清水孝輔】米アマゾン・ドット・コムが米オープンAIに100億ドル（約1兆5500億円）を投資する方向で協議していることが16日、わかった。米ネットメディアのジ・インフォメーションなど複数の米欧メディアが報じた。オープンAIはアマゾンが手がける人工知能（AI）向け半導体の導入も検討する。報道によると、アマゾンはオープンAIの企業価値の評価額を5000億ドル以上として投資に向けた</description>
+    </item>
+    <item>
+      <title>夜を制する者が “AI Agent 大民主化時代” を制する</title>
+      <link>https://speakerdeck.com/icoxfog417/generative-ai-agent-should-work-in-night</link>
+      <pubDate>2025/12/17 23:33</pubDate>
+      <description>「非エンジニアのClaude Code完全攻略」シリーズ第4回です。 今回はSkillsフォルダを使って、「学習するAI」を作る方法を解説します。 同じ質問を何度もしなくて済むようになります。 安心してください。Skillsファイルも、Claude Codeに作ってもらえます。 この記事でわかることSkillsとは何か Claude CodeにSkillsを作ってもらう方法 どんなSkillsを作ったか 自動参照の設定方法 Skillsとは？Skillsは、AIに覚えてほしい知識・ノウハウをまとめたファイルです。 プロジェクトの.claude/skills/フォルダに置きます。 my-project/ ├── CLAUDE.md ├── .claude/ │ └── skills/ │ ├── README.md │ ├── design-system.md │ ├── test-guid</description>
+    </item>
+    <item>
+      <title>Gemini 3 Flash: frontier intelligence built for speed</title>
+      <link>https://blog.google/products/gemini/gemini-3-flash/</link>
+      <pubDate>2025/12/18 02:56</pubDate>
+      <description>生成人工知能（AI）などで偽の性的画像を加工する「性的ディープフェイク」による子どもの被害のうち半数は、同じ中学・高校の生徒が加害者となっている。こうした傾向が、警察庁の集計で判明した。警察庁は、性的画像の安易な拡散は罪に問われる可能性があるとして、中高生への注意喚起を進める。 性的ディープフェイクの被害拡大を受け、警察庁は18歳未満の時の写真を性的画像に加工された被害の状況を調査。初集計となった2024年、被害の相談や申告は、全国の警察に110件寄せられていた。 今年は9月までに前年同期より3件多い79件の相談や申告があり、警察庁は内容を分析した。 79件のうち生成AIが使用されたのは14件で、全体の17・7％だった。63件（79・7％）は作成方法が「不明」だが、大半は生成AIが使われたとみられる。</description>
+    </item>
+    <item>
+      <title>性的ディープフェイク 半数余りが同級生らが作成 警察庁まとめ | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015006881000</link>
+      <pubDate>2025/12/18 06:45</pubDate>
+      <description>ヨルナ @Sage_Yothi @matsuzawa_s AIだろうがOCRだろうが、機械的な一括処理でフォントバラバラは100%ありえないので、手打ちしています。 訂正部分をコピペ挿入しているとなりやすい 2025-12-17 19:24:07</description>
+    </item>
+    <item>
+      <title>AI時代は、プロジェクトマネジメントやチームマネジメントの重要性が上がるよねの話。 - フジイユウジ::ドットネット</title>
+      <link>https://fujii-yuji.net/2025/12/18/090839</link>
+      <pubDate>2025/12/18 09:13</pubDate>
+      <description>こんにちは。 ファインディ株式会社でテックリードマネージャーをやらせてもらっている戸田です。 現在のソフトウェア開発の世界は、生成AIの登場により大きな転換点を迎えています。 GitHub CopilotやClaude Codeなど、生成AIを活用した開発支援ツールが次々と登場し、日常的なワークフローに組み込まれつつあります。 そんな中で先日、弊社主催でAI Engineering Summit Tokyo 2025が開催され、「Findy AI+の開発、運用におけるMCP活用事例」と題しまして登壇してきました。 ai-engineering-summit-tokyo.findy-tools.io そこで今回は、登壇資料を元に、Findy AI+の開発でどのようにMCPを活用したか、その選択の背景と効果を振り返っていきます。特に、MVPでのリモートMCPサーバー活用と、Admin機能でのM</description>
+    </item>
+    <item>
+      <title>【AWS re:Invent 2025】ラスベガスの必需品、Bedrock の必需品 - カミナシ エンジニアブログ</title>
+      <link>https://kaminashi-developer.hatenablog.jp/entry/2025/12/04/aws-reinvent-bedrock-guardrails</link>
+      <pubDate>2025/12/18 09:25</pubDate>
+      <description>TTS：T5Gemma-TTS プロンプト作成協力：ChatGPT 5.2、Claude Opus 4.5 台本作成：Gemini CLI 音楽：Suno 素晴らしいTTSを公開してくださったAratako氏に感謝します。 欠点は言うまでもなく「自分のしたい話しかしてくれない（引き出せない）」ことだけど、この辺りも適度にランダマイズすれば解決できそうだしな。 AIが役に立たない変な知識を延々と垂れ流すラジオみたいなコンテンツとかないんかな。 — エマノン (@Emanon_14) December 14, 2025 TTSは適当に生成した音声のひとつを参照音声に設定し、声質を固定しています。音声と音楽のミックスは手作業です(;･∀･) Sonnet 4.5、Opus 4.5も試しましたが、設定を最も生かしてくれたのはGemini CLIでした（2.5 Proか3 Proかは未確認）。 プロ</description>
+    </item>
+    <item>
+      <title>【海外で話題】AIコーディングに関する詳細レポート「State of AI Coding 2025」が公開され大きな話題に — AIは本当に生産性を上げたのか？</title>
+      <link>https://techfeed.io/entries/69431f2b3837533862f6b893</link>
+      <pubDate>2025/12/18 06:24</pubDate>
+      <description>こんにちは。 Findy Freelanceの開発チームでEMをしている中坪です。 この記事は、ファインディエンジニア Advent Calendar 2025の18日目の記事になります。 adventar.org 日々進化するAIや関連ツールをキャッチアップし、実務に活用することに苦労しているエンジニアの方も多いのではないでしょうか。 私たちは、チームでAIツールのキャッチアップを行う取り組みとして「10分勉強会」を実施しています。 本記事では、その取り組み内容について紹介します。 10分勉強会とは 発表内容の例 1. Sentry MCPとLog Analyzer with MCPを使った不具合調査 2. Gemini Canvasを使ったUIモックの作成と社内共有 3. Git Worktree Runnerの紹介 持続するための工夫 発表のスキップを許容する 発表資料は任意 厳密で</description>
+    </item>
+    <item>
+      <title>Gemini 3のおかげで論文が爆速で書けます - 矢原の日記</title>
+      <link>https://tet-yahara.hatenablog.com/entry/2025/12/17/205449</link>
+      <pubDate>2025/12/18 10:33</pubDate>
+      <description>※この記事は、2025 Speee Advent Calendar 18 日目の記事です。昨日の記事はこちら はじめに こんにちは、DX 事業本部でエンジニアをしている 22 新卒の高島です。社内ではたかてぃーと呼ばれています。 大学院では機械学習の研究をしていましたが、入社後は既存プロダクトの保守運用や新規事業のアプリケーション開発を経験しました。2024 年 11 月からは、不動産領域で AI/LLM を活用した R&amp;amp;D プロジェクトをリードしています。 この 1 年間、AI エージェントに関する研究開発に取り組んできましたが、決して順調ではありませんでした。特に最初の半年間は、成果が見えない苦しい時期が続きました。 本記事では、私が R&amp;amp;D プロジェクトで試行錯誤した経験と、そこから見えてきた「地に足をつける進め方」についてまとめます。 こんな方に向けて書いています： ゴールが曖昧な</description>
+    </item>
+    <item>
+      <title>StrandsAgents + Nova 2 Sonic + Bedrock Knowledge Base で対話型アシスタントを作成する - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2025/12/18/070000</link>
+      <pubDate>2025/12/18 12:33</pubDate>
+      <description>このコーナーでは、2014年から先端テクノロジーの研究を論文単位で記事にしているWebメディア「Seamless」（シームレス）を主宰する山下裕毅氏が執筆。通常は新規性の高いAI分野の科学論文を解説しているが、ここでは番外編として“ちょっと昔”に発表された個性的なAI論文を取り上げる。 X： ＠shiropen2 この方法論が求められる背景には、英語を母語としない研究者が直面する深刻な不利益がある。オーストラリアのクイーンズランド大学の天野達也氏らは、日本を含む8カ国の研究者908人を対象に調査を行い、2023年にその結果を発表した。 それによると、英語を母語としない研究者は論文の読み書きに最大2倍の時間を要し、英語の質を理由に論文がリジェクトされる頻度も約2.5倍高いなど、科学的活動全般において明確なハンディを負っていることが定量的に示された。 （関連記事：母語が“英語じゃない研究者”の</description>
+    </item>
+    <item>
       <title>ドラゴンを倒して覚える Claude Code - Commands, Skills, Subagents, Rules の違いと使い分け</title>
       <link>https://zenn.dev/yahsan2/articles/claude-code-game-analogy</link>
       <pubDate>2025/12/12 14:07</pubDate>
@@ -1788,87 +1866,6 @@
       <link>https://www.itmedia.co.jp/pcuser/articles/2511/21/news095.html</link>
       <pubDate>2025/11/21 14:44</pubDate>
       <description>和歌山市生活保健課によると、同市在住の70代男性は11月3日、奈良県下北山村の山中でヒラタケやシイタケに似たキノコを採取。 翌4日、食べられるかどうかを植物園などに確認しようとしましたが、連絡がつながらなかったため、採取したキノコを自らの電子端末で撮影し、AI判定を行ったところ、AIは“シイタケかヒラタケで食べられる”という旨を回答しました。 それを受け、男性はキノコを焼いて食べましたが、約30分後から嘔吐の症状が出て一時入院しました。現在は快復しています。 県立自然博物館や同市の衛生研究所が残品を調べたところ、キノコは毒キノコである「ツキヨタケ」と判明しました。</description>
-    </item>
-    <item>
-      <title>Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models</title>
-      <link>https://arxiv.org/abs/2511.15304</link>
-      <pubDate>2025/11/20 23:41</pubDate>
-      <description>１発当てて大儲け。どうも、かわしんです。 X の流行を見るに AI コーディングを流石にやらないといけないと思い、今年の8月から Claude Code Max プランを契約して AI コーディングの題材として日本の上場銘柄解析システムを作らせていました。 https://x.com/kawasin73/status/1951869172377682136 新しい技術を追わない をポリシーにしている自分としては、ここらがいい感じに整備されてきてコスパのいい参入タイミングかなと思い使い始めましたが、結果的にはいいタイミングだったと思います。 さて、上場銘柄の有価証券報告書のデータフォーマットである XBRL のパーサー自体は実は2年前に作っていたのですが、ファイルのダウンロードと解析をするために手元で毎回 Python スクリプトを実行しないといけないため、めんどくさくて数ヶ月に1回くらいし</description>
-    </item>
-    <item>
-      <title>AIエージェントがノード型に配置したタスクを実行して動画を編集するウェブアプリ「Mosaic」</title>
-      <link>https://gigazine.net/news/20251121-mosaic-video-editor/</link>
-      <pubDate>2025/11/21 12:38</pubDate>
-      <description>今すぐ、AIで西洋古典叢書をナビゲート！ NotebookLMの学習機能を利用し、『西洋古典叢書シリーズ』2025年11月までの全巻書誌データを丸ごと取り込み、「 西洋古典叢書AIナビ 」が爆誕しました。 チャット式で質問するだけで即回答！今思いついたこと、興味のある著者や気になる巻の内容など、何を聞いてもAIがシリーズ全巻の内容に基づいて答えてくれます。 さらに、AI音声動画やAI生成のマインドマップ、目録など、多彩なコンテンツを活用して、『西洋古典叢書シリーズ』をより深く楽しめます。 𓅢 𓀠 専 用 リ ン ク 𓀠https://bit.ly/4o3QZ72 ※ログインはGoogleアカウントで 𓀡 利 用 方 法 𓀡▽ タブレット・PC推奨 ▽ 専用リンクにアクセスして、チャット欄に質問やキーワードを入力。 NotebookLMアプリやソフトをご利用の方は、リンクにアクセス</description>
-    </item>
-    <item>
-      <title>WindowsのAI製品への批判を受けMicrosoftのAI責任者が冷笑系にウンザリ、「超賢いAIに感心しないなんて信じられない」と語る</title>
-      <link>https://gigazine.net/news/20251120-microsoft-ai-ceo-against-windows-backlash/</link>
-      <pubDate>2025/11/21 16:09</pubDate>
-      <description>Nano Banana Proがしゅごいという記事を拝見して、Adobe CCを契約しているので試してみました。 ASCII.jp：凄すぎてもはや意味不明！画像生成AIの到達点「Nano Banana Pro」ついに公開 参照画像にいつもSNSで使用しているアイコンを設定。 これをもとにプロンプトにイメージをちょろっと日本語で記載して、生成。 しゅ、しゅごい… よく見たら変なケーブルとか「おにぐく」とかのポテチや謎の本ぽいのありますけど、トンマナ合わせて一瞬でここまで作ってくれました。 案としては十分すぎるほどのクオリティだし、細部を気にしない人であればそのまま使用できるんじゃないでしょうか。 ところで、アイコンに描いてあるコントローラーはPS4のものです。 AI絵の左側にあるゲーム機、ちゃんとPS4っぽいのです。 もしやAI、コントローラーで機種まで認識してる…！？と思ったら怖くなりまし</description>
-    </item>
-    <item>
-      <title>AIにAIアピールすることを義務づける法律がカリフォルニア州で成立</title>
-      <link>https://gigazine.net/news/20251122-tell-ai-bills-california/</link>
-      <pubDate>2025/11/22 08:32</pubDate>
-      <description>宛先: Google社 シェイン・グウ様 差出人: アクセンチュア株式会社 生成AI戦略担当 シニアコンサルタント 日付: 2025年11月21日 エグゼクティブサマリー 貴社が2025年11月18日にリリースされた最新AIモデル「Gemini 3.0 Pro」は、その卓越したベンチマークスコアとは裏腹に、実利用ユーザーから 「ハルシネーション（もっともらしい嘘）の悪化」 および 「複数分野における深刻な性能退行（リグレッション）」 に関する憂慮すべき報告が急増しております。 本報告書は、ソーシャルメディア、ブログ、開発者コミュニティ等で観測された客観的証拠に基づき、Gemini 3.0 Proが直面している問題を多角的に分析し、ブランド信頼性の毀損とユーザー離反を防ぐための緊急対策を提言するものです。 主な問題点は以下の4点に集約されます。 事実性の著しい低下: Web検索を伴うタスクで</description>
-    </item>
-    <item>
-      <title>生成AI経由の流入、「note」強し　ゼロクリック問題に一つの解 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC103ZA0Q5A111C2000000/</link>
-      <pubDate>2025/11/22 05:50</pubDate>
-      <description>フミコ・フミオ【「給食営業マンサバイバル戦記」9/18発売】 @Delete_All 我が営業部では顧客管理やリスト更新などの事務作業をパートさんにお願いしていた。生成ＡＩで代替できる作業なのでパート契約期間満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた。先ほど当該パートさんが生成ＡＩを駆使して仕事していた。オッケー。 2025-11-21 18:25:42</description>
-    </item>
-    <item>
-      <title>AIに仕事を任せようとしたら、自分の仕事を言語化することになった｜honeshabri</title>
-      <link>https://note.com/honeshabri/n/nf0f2def2cdbf</link>
-      <pubDate>2025/11/22 13:22</pubDate>
-      <description>Googleが高品質な画像生成AI「Gemini 3 Pro Image(Nano Banana Pro)」を2025年11月20日にリリースしました。各種画像生成AIの画像編集能力を比較しているウェブサイト「GenAI Image Editing Showdown」にもNano Banana Proでのテスト結果が追加されており、旧モデルのNano Bananaや他社製モデルの結果を比較できるようになっています。 GenAI Image Showdown https://genai-showdown.specr.net/image-editing Nano Banana ProはGemini 3 Proをベースに構築された画像生成AIで、ユーザーの指示に従って新たな画像を生成したり既存の画像を編集したりできます。Nano Banana Proの作例は以下の記事にまとめています。 Goog</description>
-    </item>
-    <item>
-      <title>Adobe Firefly × Hatena Blog 特別お題キャンペーン - はてなブログ</title>
-      <link>https://blog.hatena.ne.jp/-/campaign/AdobeFirefly202511</link>
-      <pubDate>2025/11/14 17:00</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/2172327bf100135bc0b95e3dc0afd1dbdb269397/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2064%2F735%2F175.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>「Gemini」アプリでGoogleのAI生成画像を見分けられるようになったそうなので実際にやってみた</title>
-      <link>https://gigazine.net/news/20251121-gemini-check-synthid/</link>
-      <pubDate>2025/11/21 13:17</pubDate>
-      <description>和歌山市生活保健課によると、同市在住の70代男性は11月3日、奈良県下北山村の山中でヒラタケやシイタケに似たキノコを採取。 翌4日、食べられるかどうかを植物園などに確認しようとしましたが、連絡がつながらなかったため、採取したキノコを自らの電子端末で撮影し、AI判定を行ったところ、AIは“シイタケかヒラタケで食べられる”という旨を回答しました。 それを受け、男性はキノコを焼いて食べましたが、約30分後から嘔吐の症状が出て一時入院しました。現在は快復しています。 県立自然博物館や同市の衛生研究所が残品を調べたところ、キノコは毒キノコである「ツキヨタケ」と判明しました。</description>
-    </item>
-    <item>
-      <title>友達だった人 - | COMIC熱帯｜もう一度、読みたくなる</title>
-      <link>https://www.comicnettai.com/book/779</link>
-      <pubDate>2025/11/22 00:08</pubDate>
-      <description>WindowsはCopilotをはじめとするさまざまなAI製品を開発していますが、これらのAIに対しては根強い批判もあります。Microsoft AIのムスタファ・スレイマンCEOは、WindowsのAI製品に対する不満に「AIの能力に感銘を受けていない人々がいることに驚いている」と反論しました。 Microsoft AI CEO pushes back against critics after recent Windows AI backlash — &amp;quot;the fact that people are unimpressed ... is mindblowing to me&amp;quot; | Windows Central https://www.windowscentral.com/microsoft/windows-11/microsoft-ai-ceo-pushes-back-against</description>
-    </item>
-    <item>
-      <title>Gemini 3.0 Pro要緊急対策のご提言</title>
-      <link>https://paste.ssig33.com/8a22a6e9-a91d-4368-9b2f-a3d4567c7798</link>
-      <pubDate>2025/11/22 04:04</pubDate>
-      <description>【この記事でわかること】・影響を受けないと思う職種は・AI理由に採用抑える企業数は・日本大学の新たな授業とは？就職活動中の大学生らの4割が、生成AI（人工知能）の普及を見越して志望職種を変えたことが、日本経済新聞の調査で分かった。生産性向上などAIがもたらすプラスの面を評価しつつも、雇用の一部は失われるとみて、仕事を選ぶ重要な要素に位置づけた。企業はAIを使う側に立つビジョンを示せるかどうかが問</description>
-    </item>
-    <item>
-      <title>事務作業をパートさん、生成ＡＩで代替できる仕事なので契約満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた→「ご本人はAIを使いこなしていた」</title>
-      <link>https://posfie.com/@petaritape/p/tLMALrs</link>
-      <pubDate>2025/11/21 23:36</pubDate>
-      <description>2025年10月、カリフォルニア州において、AIをさまざまな観点から規制するための法律が成立しました。その法律の中に、チャットAIが自らAIであることを積極的に通知するよう求める要項も含まれています。 Governor Newsom signs bills to further strengthen California’s leadership in protecting children online | Governor of California https://www.gov.ca.gov/2025/10/13/governor-newsom-signs-bills-to-further-strengthen-californias-leadership-in-protecting-children-online/ California Legislature Passes Fi</description>
-    </item>
-    <item>
-      <title>「AIの扱い方の教材」和歌山市の70代男性が毒キノコを食べて食中毒に、AIに食べられるかどうか聞いて判断したらしい</title>
-      <link>https://togetter.com/li/2630627</link>
-      <pubDate>2025/11/22 13:26</pubDate>
-      <description>そんなにAI臭いのかこれ？俺も昭和全開だから時代の流れについて行けてないわ 俺も自分では勉強しなくて京大に入った口だ、努力習慣なくて出世から外れて今はしがない個人塾を経営してほそぼそやってっけど 塾で子供見てるけどさ、勉強でも部活でも活躍できないってなら、動物園の公立中学は正直キツイと思うよ、俺自身が中高一貫だったからかもしんないけど 所謂鈍くさい感じじゃないの？　そういう子って公立中学で自尊できるアイデンティティを築くの大変な気がする、イケメンなら別だが。 今からでも中受間に合うと思うけどな。昔の子供余り時代と違って今ってどこの私立も超ウェルカムだから、1年あれば下位私立にはねじ込めるよ で、下位私立でも私立中はそれなりにちゃんとしているから、動物園の公立中よりははるかにマシだと思う、まあ南関東・愛知・大阪京都兵庫の都市・郊外部って前提にはなるけど 親が頑張って入試説明会とか行けば、そこ</description>
-    </item>
-    <item>
-      <title>そんなにAI臭いのかこれ？俺も昭和全開だから時代の流れについて行けてない..</title>
-      <link>https://anond.hatelabo.jp/20251122111856</link>
-      <pubDate>2025/11/22 12:18</pubDate>
-      <description>フミコ・フミオ【「給食営業マンサバイバル戦記」9/18発売】 @Delete_All 我が営業部では顧客管理やリスト更新などの事務作業をパートさんにお願いしていた。生成ＡＩで代替できる作業なのでパート契約期間満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた。先ほど当該パートさんが生成ＡＩを駆使して仕事していた。オッケー。 2025-11-21 18:25:42</description>
     </item>
   </channel>
 </rss>
