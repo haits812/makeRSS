@@ -5,6 +5,57 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>TitansとMIRAS とは？Transformerの限界を超える「長期記憶モデル」の仕組みを噛み砕いて解説する</title>
+      <link>https://zenn.dev/jnch/articles/3d84fb9c428544</link>
+      <pubDate>2025/12/13 12:51</pubDate>
+      <description>米国の人工知能（AI）大手を中心に、大規模データセンター（DC）の建設競争がチキンレースさながらの様相を呈している。DC向けに画像処理半導体（GPU）を巨額の資金で調達し、高度なAIモデルをいち早く開発しようと各社が動く。一方で、AIモデルの軽量化が進み、省電力で高速処理が可能な光技術や量子技術を使った新たな計算手法も台頭しつつある。計算資源の拡大を前提とした従来の競争構図が、今後変わる可能性も</description>
+    </item>
+    <item>
+      <title>値上げを提案された家賃の交渉とその結果 - 紙屋研究所</title>
+      <link>https://kamiyakenkyujo.hatenablog.com/entry/2025/12/17/095906</link>
+      <pubDate>2025/12/17 14:48</pubDate>
+      <description>はじめに Pydantic はとても便利である。だがこれを過信してドメインモデルの中心に据えると、責務の境界が曖昧になり、設計はたいてい溶ける。戦略なく溶け固まった巨大なコードベースは、ソフトウェアの迅速かつ安全な進化を困難にするだけでなく、LLM-based な AI の推論の安定性も低下させる。 LLM-based な AI エージェントは、構造が論理的に明示されたコード（型・境界・不変条件）ほど扱いやすい傾向がある。型定義には datetime と書いてあるのに、実態はバリデータで文字列を無理やり変換して受け入れるような「嘘」があると、コードだけを読む AI は挙動を正しく予測できない。 Pydantic がカバーしてくれる値検証と変換の責務は、静的型安全性 と Always-Valid なドメイン を志向すればするほど、自然とドメインから剥がれていく。 この話は「Pydantic</description>
+    </item>
+    <item>
+      <title>800万人超のユーザーのAIチャットがChromeとEdgeの拡張機能で傍受されて営利目的で販売されていることが発覚</title>
+      <link>https://gigazine.net/news/20251217-ai-conversations-sold/</link>
+      <pubDate>2012/01/28 19:46</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ebf0104550f34e74e4918ce8f18bf0aa616f6822/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2070%2F929%2F02.JPG');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>DINOは『顔』を見分けられるのか？ LoRAで顔認証モデルを作ってみた - SEN PRODUCT BLOG</title>
+      <link>https://productblog.sencorp.co.jp/entry/dino-lora-fr</link>
+      <pubDate>2025/12/18 09:15</pubDate>
+      <description>※この記事は、2025 Speee Advent Calendar 18 日目の記事です。昨日の記事はこちら はじめに こんにちは、DX 事業本部でエンジニアをしている 22 新卒の高島です。社内ではたかてぃーと呼ばれています。 大学院では機械学習の研究をしていましたが、入社後は既存プロダクトの保守運用や新規事業のアプリケーション開発を経験しました。2024 年 11 月からは、不動産領域で AI/LLM を活用した R&amp;amp;D プロジェクトをリードしています。 この 1 年間、AI エージェントに関する研究開発に取り組んできましたが、決して順調ではありませんでした。特に最初の半年間は、成果が見えない苦しい時期が続きました。 本記事では、私が R&amp;amp;D プロジェクトで試行錯誤した経験と、そこから見えてきた「地に足をつける進め方」についてまとめます。 こんな方に向けて書いています： ゴールが曖昧な</description>
+    </item>
+    <item>
+      <title>AIウォッシング（AI Washing）とは？</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/18/news019.html</link>
+      <pubDate>2025/12/18 09:08</pubDate>
+      <description>ほぼ２年ぶりに記事を書きます。先月19日にリリースされたGemini 3の能力は本当にすごい。会う人ごとに、そのすさまじさを伝えていますが、知り合いの研究者で使い込んでいる人は、今のところほぼ皆無です（今のところ長年の友人のMIさんだけ）。具体的な例を紹介すれば、使い手が増えるだろうと思い、今日書き始めた論文の執筆経過を紹介します。 Gemini 3のCanvasという機能を立ち上げ、以下のように依頼しました。 ＜ニワトコ属の日本産種は、ニワトコとソクズの2種に分類されてきました。しかし私は、日本全国でこの属の標本を採集し、MIG-seqにもとづく高精度系統解析の結果から、ニワトコが1種ではなく、少なくとも14種に分化しているという証拠を得ました。この結果を報告する論文の執筆を手伝ってください。まず、タイトルは以下の案で良いでしょうか？ From one species to fourte</description>
+    </item>
+    <item>
+      <title>AIを使って英語論文を短期間で書く方法とは？　京大教授が教える9つの原則　2023年に発表</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/18/news030.html</link>
+      <pubDate>2025/12/18 12:28</pubDate>
+      <description>こんにちは、木村です。 本記事はiimonアドベントカレンダー18日目の記事となります。 最近Claude Codeを使用し始めたんですが、AIって便利ですね！全肯定でAIを使うのは良くないとは思うのですが、できることが多くて試しきれないと思うこの頃です。 Claude Codeへの指示プロンプトを手探りで作っていたら先輩に「学習モード」なるものを教えてもらったので、気になって調べてみました。２年目でまだまだいろんな分野への理解が浅い自分ですが、これを利用して勉強をより効率的にできたらと思い手を動かしながら記事を書いたので、ちょっと気になる…という方のきっかけなどになれば幸いです。 output-style Claude Codeでは、output-style 機能を提供しています。これは、Claude Codeとユーザーのやり取りの方法をカスタマイズすることができる機能です。 説明型（E</description>
+    </item>
+    <item>
+      <title>AIによるヒューリスティック評価の精度検証：Webサイト画像1枚からどこまで分析できるのか - Insight Edge Tech Blog</title>
+      <link>https://techblog.insightedge.jp/entry/ai-heuristic-evaluation</link>
+      <pubDate>2025/12/18 09:27</pubDate>
+      <description>この記事は、以下の Advent Calendar の 18 日目における投稿です。 Japan AWS Top Engineers - Qiita Advent Calendar 2025 - Qiita AIエージェント構築＆運用 - Qiita Advent Calendar 2025 - Qiita こんにちは、 YAMALEX の駿です。 今回は re:Invent で発表された Amazon Nova 2 Sonic と StrandsAgents の新機能である Bidirectional Agent を使って、 音声対話をとおして Bedrock Knowledge Base から情報を取得できるエージェントを作成しました。 Nova 2 Sonic の応答がとても速くて驚きました。 返答までの待ち時間が短く、会話としてほとんどストレスを感じません。 また、アシスタントが話</description>
+    </item>
+    <item>
+      <title>メモリー高騰　「言葉もない」3カ月で5倍も　AIブームで企業取り合い　PCも価格上昇か（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/b51a1f5336b0f6883846357268cc774587cda847</link>
+      <pubDate>2025/12/18 14:18</pubDate>
+      <description>はじめに こんにちは、ぐるなびの江口です。 ついに登場したGemini 3、皆さんはもう試されましたか？ Google独自のTPUを活用した処理速度もさることながら、新機能のCanvasが非常に強力です。 今回は、このGemini 3とCanvasを使って、「社内テンプレートのデザインに限りなく近づけ、実用十分な&amp;quot;90点&amp;quot;を目指してスライド資料を完全自動生成する」という試みについて共有します。 これまでGoogle Apps Script (GAS) を書いて行っていた転記作業が、プロンプト一つで不要になった、というお話です。 この記事でわかること Gemini 3のGem + Canvasによるスライド作成の進化。 従来の「GAS転記」プロセスからの脱却。 デザイン崩れを防ぐ「画像分析HTML化」と「英語プロンプト」のテクニック。 はじめに この記事でわかること 背景：これまでのスライド</description>
+    </item>
+    <item>
       <title>自民 生成AI「ディープフェイク」の規制 来月にも政府に提言へ | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015005301000</link>
       <pubDate>2025/12/16 13:40</pubDate>
@@ -1818,54 +1869,6 @@
       <link>https://speakerdeck.com/baseballyama/aiqu-dong-kai-fa-woshi-xian-surutamenoakitekutiyatoqu-rizu-mi</link>
       <pubDate>2025/11/22 01:40</pubDate>
       <description>【画像生成AI】帰宅後のOLをリアルに再現する方法｟プロンプト無料公開｠Midjourney/imageFX/ChatGPT/Whisk/imagen4/Gemini/生成AI/AI美女/副業/AI副業/Nanobanana/Sora2 はじめにこんにちは、かわきです。 今回は、MidjourneyなどのAI画像ツールを使って、 「仕事帰りのOL」 をリアルに描くためのプロンプト設計を3ステップで紹介します。 この記事は以下の流れで進みます。 STEP1：玄関で帰宅した瞬間を描いてみる STEP2：洗面所で着替えるシーンを描いてみる STEP3：自室で休む自然な姿を描いてみる STEP1：玄関で帰宅した瞬間を描いてみるプロンプト（下記プロンプトの和訳）：プロンプト： 20代の日本人女性が、仕事から帰宅して玄関に立っている写真。オフィス用のブラウス、ひざ丈スカート、黒いタイツを着用し、腕には</description>
-    </item>
-    <item>
-      <title>MCP におけるインタラクティブな UI を標準化する拡張機能 MCP Apps の提案</title>
-      <link>https://azukiazusa.dev/blog/mcp-standard-ui-extension/</link>
-      <pubDate>2025/11/22 21:33</pubDate>
-      <description>Google の NanoBanana Pro の登場が、個人的にかなり大きな衝撃でした。 これまでの AI でも「だいぶ実務で使えるな」と感じてはいたのですが、 NanoBanana Proでのクリエイティブの出来栄えをみていると 「あ、これは本当に“人＋AI”の組み合わせ前提で、 仕事の設計そのものを変えていかないといけないフェーズに入ったな」 と思わされたんですね。 そのタイミングでふと頭に浮かんだのが、 「AI 時代のデザイン事務所って、結局どんな形に落ち着いていくんだろう？」 という問いでした。 昔ながらのデザイン事務所の「当たり前」これまでのデザイン事務所といえば、わりと似たような構造が多かったと思います。 複数のデザイナーがいて、その上にディレクターや中間管理職がいて、 クライアントとの打ち合わせや進行は、上司に相談しながら進めていく。 新人は、上の人のラフをトレースしたり、</description>
-    </item>
-    <item>
-      <title>【画像生成AI】帰宅後のOLをリアルに再現する方法｟プロンプト無料公開｠Midjourney/imageFX/ChatGPT/Whisk/imagen4/Gemini/生成AI/AI美女/副業/AI副業｜AI かわき｜世界一優しいAI画像生成の解説</title>
-      <link>https://note.com/kawakijourney_ai/n/n72e6f630f3aa</link>
-      <pubDate>2025/11/22 10:57</pubDate>
-      <description>ロボット掃除機やスマートロックなどのスマート家具を展開するSwitchBotから、E Ink Spectra 6のフルカラー電子ペーパーを採用したスマートキャンバス「AIアートキャンバス」が登場します。スマートフォンで入力したテキストや画像からAIが生成した絵をそのまま表示するという一風変わったデバイスで、実際にさまざまな絵を表示してみました。 Amazon.co.jp: SwitchBot: AI アートキャンバス Amazon.co.jp: SwitchBot: キャンペーン情報 ・目次 ◆AIアートキャンバス開封の儀、内容物はこんな感じ ◆AIアートキャンバスをSwitchBotアプリでセットアップ ◆AIが生成した絵をAIアートキャンバスに表示させてみる ◆画像をAIに変換してもらう「AIスタイル変換」 ◆AIアートキャンバスには好きな写真をそのまま表示することもできる ◆まとめ</description>
-    </item>
-    <item>
-      <title>ディープフェイク詐欺に最も悪用された有名人は？ マカフィーが調査結果を発表【やじうまWatch】</title>
-      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2064973.html</link>
-      <pubDate>2025/11/20 17:27</pubDate>
-      <description>みんなのPython 第5版発売中です！最近、Pythonの開発環境「marimo」のことをよく聞くようになりました。ノートブックの一種で、変数を変更すると即座に反映される「リアクティブ」な実行環境です。Jupyterとは異なった開発体験を与えてくれて、利用者の多くは「なんか使いやすい」と感じていると思います。私もちょっと触ってみたら、JupyterやColabのようにセルの実行順序に左右されないので「たしかに手になじむわ」という感想を持ちました。ファイルが.ipynbではなく.pyになるのもいいですね。 今回は、一体誰がmarimoを開発していて、なにを目指しているのかをについて、調べてみたことをまとめて見たいと思います。 作者のAkshay 氏がすごすぎるmarimoはAkshay氏、Dylan氏の二人で開発をしています。このうち、よく表に出てくるAkshay氏の経歴がなかなかにすごい</description>
-    </item>
-    <item>
-      <title>「Windows AI API」が拡充、「ビデオ超解像」「Stable Diffusion XL」もカバーへ／「Copilot+ PC」でローカル実行、モデルのセットアップも「Windows Update」任せ</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2065088.html</link>
-      <pubDate>2025/11/21 16:09</pubDate>
-      <description>最新画像生成AI「Nano Banana Pro」は文字ぎっしりの“霞が関パワポ”も作れる？　実際に試した（1/2 ページ） 米Googleが11月20日（現地時間）に発表した新たなAI画像生成モデル「Nano Banana Pro」（Gemini 3 Pro Image）。すでにさまざまなユーザーがその能力を試している。SNSへの投稿も相次いでおり、性能に注目が集まっている。 特に日本で注目を浴びているのは、文字の出力性能だ。旧モデル・他モデルでは難しかったインフォグラフィック・スライド資料風の画像も作成しやすいという。その性能たるや、日本の官公庁が作るような情報量の多いスライド資料──俗に“霞が関パワポ”“官僚パワポ”“ポンチ絵”と呼ばれるような画像すら制作できると話題だ。本当にそんなことが可能か、実際に試してみた。 “文字ぎっしりパワポ”もいける？　Nano Banana Proのお</description>
-    </item>
-    <item>
-      <title>NanoBanana Pro時代に考える、AIとデザイン事務所のこれから｜ひつじ</title>
-      <link>https://note.com/hituji1234/n/n916957e7f20c</link>
-      <pubDate>2025/11/22 18:53</pubDate>
-      <description>【画像生成AI】帰宅後のOLをリアルに再現する方法｟プロンプト無料公開｠Midjourney/imageFX/ChatGPT/Whisk/imagen4/Gemini/生成AI/AI美女/副業/AI副業/Nanobanana/Sora2 はじめにこんにちは、かわきです。 今回は、MidjourneyなどのAI画像ツールを使って、 「仕事帰りのOL」 をリアルに描くためのプロンプト設計を3ステップで紹介します。 この記事は以下の流れで進みます。 STEP1：玄関で帰宅した瞬間を描いてみる STEP2：洗面所で着替えるシーンを描いてみる STEP3：自室で休む自然な姿を描いてみる STEP1：玄関で帰宅した瞬間を描いてみるプロンプト（下記プロンプトの和訳）：プロンプト： 20代の日本人女性が、仕事から帰宅して玄関に立っている写真。オフィス用のブラウス、ひざ丈スカート、黒いタイツを着用し、腕には</description>
-    </item>
-    <item>
-      <title>Googleの画像生成AI「Gemini 3 Pro Image(Nano Banana Pro)」は過去モデルや他社製モデルと比べてどれくらい優秀なのか？</title>
-      <link>https://gigazine.net/news/20251121-google-gemini-3-pro-image-nano-banana-pro-comparison/</link>
-      <pubDate>2025/11/21 18:59</pubDate>
-      <description>和歌山市の70代男性が手持ち写真をAIで「食べられる」と判定され毒キノコを食べて食中毒で入院。AIの誤答を鵜呑みにせず、命に関わる判断は専門家へ。</description>
-    </item>
-    <item>
-      <title>絵が描けなくても簡単に好みの絵を部屋に飾れるフルカラー電子ペーパー内蔵のSwitchBot「AIアートキャンバス」レビュー、AI生成だけでなく好きな画像も選択可能</title>
-      <link>https://gigazine.net/news/20251122-switchbot-ai-art-canvas/</link>
-      <pubDate>2025/11/22 13:41</pubDate>
-      <description>日頃から仕事をAIにやらせられないかと試行錯誤しているわけだが、今回も学びがあった。書類の作成をNotionのAIエージェントに任せようとしたら、思いがけず「仕事の言語化」という別の価値を得ることになったのわけだ。 多分どこの会社でもやっているだろうが、弊社にも目標管理というのがある。俺が大っ嫌いなやつだ。年に2回、上期と下期の始まりに目標管理シートを作って面談し、半期が終わったら振り返りを書く。 計画するが苦手だから、プライベートでも計画を立てないようにしているし、将来のことなんてわからないと思ってやりたくない。だが仕事の一つではあるので、無視するわけにもいかないから困る。 AIにやらせるために必要なことNotionでAIエージェントが使えるようになったから、いよいよ目標管理の作成も自動化できるのではないかと思い始めた。必要な情報と簡単な指示を出せば、AIが全部やってくれるのではないか。</description>
-    </item>
-    <item>
-      <title>カラー電子ペーパーのアートフレーム「SwitchBot AIアートキャンバス」を試してみた　AI生成絵画や好きな画像を転送してワンランク上の空間作り</title>
-      <link>https://www.itmedia.co.jp/pcuser/articles/2511/21/news095.html</link>
-      <pubDate>2025/11/21 14:44</pubDate>
-      <description>和歌山市生活保健課によると、同市在住の70代男性は11月3日、奈良県下北山村の山中でヒラタケやシイタケに似たキノコを採取。 翌4日、食べられるかどうかを植物園などに確認しようとしましたが、連絡がつながらなかったため、採取したキノコを自らの電子端末で撮影し、AI判定を行ったところ、AIは“シイタケかヒラタケで食べられる”という旨を回答しました。 それを受け、男性はキノコを焼いて食べましたが、約30分後から嘔吐の症状が出て一時入院しました。現在は快復しています。 県立自然博物館や同市の衛生研究所が残品を調べたところ、キノコは毒キノコである「ツキヨタケ」と判明しました。</description>
     </item>
   </channel>
 </rss>
