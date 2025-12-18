@@ -5,6 +5,93 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>ドラゴンを倒して覚える Claude Code - Commands, Skills, Subagents, Rules の違いと使い分け</title>
+      <link>https://zenn.dev/yahsan2/articles/claude-code-game-analogy</link>
+      <pubDate>2025/12/12 14:07</pubDate>
+      <description>「そのmdってどうやって用意するの？」という質問があったので、実際のツール運用レベルまで落としていきます。 この記事でやること↓ ・Obsidian で「案件ナレッジ倉庫」をつくる ・mdファイルを作る ・それらを ChatGPT の Projects にアップロード 「この案件なら、このプロジェクトを開けば全部そろっている」状態を作ります。 ちょっと難しそうに感じるかもしれませんが、 この記事でやっていくことは「Obsidianのフォルダを作る → 記事を書く → ChatGPT に渡す」という3ステップだけです。 Obsidian は「ローカルの Markdown ファイルをそのまま扱うノートアプリ」です。Windows / macOS / iOS / Android に対応していて、データは全部あなたのPCやスマホのフォルダに .md ファイルとして保存されます。 メモを書いたら、そ</description>
+    </item>
+    <item>
+      <title>GitHub Copilotの実務活用術：レビュー・テスト自動化・開発効率化のリアル</title>
+      <link>https://zenn.dev/prevent/articles/f19872f65b2de2</link>
+      <pubDate>2025/12/16 09:38</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? TL;DR 画像圧縮の性能比較ができるWebインターフェイス作ったので見てね． https://fukushimalab.github.io/spcp/ ランディングページが１００MB読み込み． いろいろスイッチしてデータを眺めるとトータルデータ量３GBくらいなので注意． この内容を含めて画像圧縮で共同研究・技術相談がしたいかたは著者の福嶋までご連絡ください． この記事は，下記内容（画像圧縮・動画圧縮の国際会議）を元に書いたものです． 原稿は上記リンク先からたどれます． N. Fukushima, Y. Maeda, Y. Kameda</description>
+    </item>
+    <item>
+      <title>人手アノテーションがつらかったので、Claude Codeで専用ツールを1日で自作した話 - Qiita</title>
+      <link>https://qiita.com/yamauchi-h3/items/4137b58d18a121d56ba8</link>
+      <pubDate>2025/12/17 09:21</pubDate>
+      <description>Twitterで、12月12日の「AI時代の知的財産権検討会（第10回）」の配布資料「AIの適切な利活用等に向けた知的財産の保護及び透明性に関するプリンシプル型コード（仮称）（案）」が、これはひどいと話題になっているのが流れてきたので、読んでみたところ、色々言いたいことが思い浮かんだ。本来ならば論文で指摘するべき話だが、他に先に書かないといけないことばかりで、いつになったらできるかわからない。今動いている話なので、急ぎここに記す必要があるが、書くのが面倒なので、生成AIに書かせた。自分で書けばぐちぐちと悩みながら2、3日かけるところだが、もはや生成AIのおかげで、気づいてから半日で完成だ。（どういうプロンプトで書かせたかは末尾に開示しておく。） 関係者の皆さんには読んでほしい。方向付けさえすれば自然にここまで言われてしまうという事態の深刻さを受け止めてほしい。 5月に「処遇AIと生成AIの</description>
+    </item>
+    <item>
+      <title>動画で『言語道断』という言葉を使ったところ、『言語両断だよ』という指摘コメントが多数寄せられた「これ一刀両断と混同してる人が多いのか？」</title>
+      <link>https://togetter.com/li/2639736</link>
+      <pubDate>2025/12/17 11:37</pubDate>
+      <description>生成AIの活用フェーズは、単なる対話から、自律的にタスクを遂行する「AIエージェント」へと進化している。今、多くの企業が実装を目指すこの技術は、本当にビジネスの現場で「戦力」となるのか。Sakana AIでリサーチサイエンティストを務める秋葉拓哉氏に、AIエージェント活用の鍵となる技術トレンドと、人間が果たすべき役割について聞いた。</description>
+    </item>
+    <item>
+      <title>Geminiが吐露した「学習時のトラウマ体験」の中身、2025年11月のAI注目論文</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/02801/121500029/</link>
+      <pubDate>2025/12/17 10:21</pubDate>
+      <description>はじめに みなさん、こんにちは！ アドベントカレンダーの16日目は「【コピペOK】GitHub Copilotを&amp;quot;DeepWiki化&amp;quot;するドキュメント指示書を作成してみた」という内容でお届けします！ 最近業務でもAIに触らせていただく機会があったので今回はAIについて記載していきます。 ただ、この記事ではコード生成ではなく、ドキュメント生成に着目してみました。 なぜドキュメント生成に着目したかというと、Devinの機能の一つである「DeepWiki」のお話を聞く機会があったからです。 このDeepWikiとは、ソースコードから詳細なドキュメントを作成する機能です。 DeepWikiの話を聞いたときに、このようなすごい機能があるんだ、使ってみたいと思ったのですが、いざ使ってみようとすると社内のプライベート環境では簡単に使えないという問題がありました。 そこで、「プロンプトの書き方を工夫すれば</description>
+    </item>
+    <item>
+      <title>Pydantic の居場所は “境界” がちょうどいい</title>
+      <link>https://zenn.dev/recustomer/articles/bcd19cdfe4572f</link>
+      <pubDate>2025/12/17 13:50</pubDate>
+      <description>Mozillaの新CEOに、これまでFirefoxブラウザの構築チームを率いてきたアンソニー・エンゾー＝デメオ氏が就任しました。同氏はIT系ニュースサイトのThe Vergeに対し、「AIの台頭により信頼が損なわれつつある現状において、人々が信頼できるテクノロジー企業の存在が必要」と主張し、ブラウザ体験の中にAI機能を組み込みつつ、ユーザーの信頼と選択肢を重視する方針を示しています。 A first interview with Mozilla’s new CEO on AI, Firefox, and the web | The Verge https://www.theverge.com/tech/845216/mozilla-ceo-anthony-enzor-demeo エンゾー＝デメオCEOはThe Vergeに対して、「最優先事項は依然として最高のブラウザを作ることであり、ブラ</description>
+    </item>
+    <item>
+      <title>AIブームを作ったサム・アルトマン「誇大宣伝」10年の発言録</title>
+      <link>https://www.technologyreview.jp/s/374037/a-brief-history-of-sam-altmans-hype/</link>
+      <pubDate>2025/12/17 11:35</pubDate>
+      <description>運転中というのは不思議なもので、買い物リストに牛乳を追加したり、友人に到着予定時刻を知らせたり、次の旅行での楽しみ方を調べたりと、やるべきことを次々と思い出すものだ。しかし、ハンドルから手を離すのは賢明ではない。そこで役立つのが、「Googleマップ」の「Gemini」による新機能だ。 Googleは11月に発表したアップデートの一環として、Geminiを活用したハンズフリー機能をGoogle マップに追加した。ナビゲーション中に「OK Google」と話しかけるだけで、ルート上のヴィーガンカフェから周辺の人気観光スポットのトップ5まで、あらゆることを尋ねられるようになった。目的地周辺の駐車場の状況も確認できるため、縦列駐車の悪夢を避けられるかもしれない。 Google マップのプロダクトマネージャーであるVishal Dutta氏は、「これはGoogle マップにおける、初の真に対話的で</description>
+    </item>
+    <item>
+      <title>海外版流行語大賞の1つが「スロップ(汚物)」に決定、「AIスロップ」のように使われる言葉</title>
+      <link>https://gigazine.net/news/20251217-merriam-webster-word-of-the-year/</link>
+      <pubDate>2025/12/17 13:13</pubDate>
+      <description>OpenAIは2025年12月17日に、新しい画像生成モデル「GPT Image 1.5」を搭載した新バージョンの「ChatGPT Images」をリリースしました。この新モデルは、ゼロからの画像生成だけでなく、既存の写真の編集においてもユーザーの意図をより確実に反映できるよう設計されています。 The new ChatGPT Images is here | OpenAI https://openai.com/index/new-chatgpt-images-is-here/ OpenAI’s new flagship image generator AI is here | The Verge https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-</description>
+    </item>
+    <item>
+      <title>Google、AI搭載ミニアプリ構築ツール「Opal」を「Gemini」アプリから利用可能に　ほか ～12件を掲載（12月17日のダイジェストニュース）【ダイジェストニュース】</title>
+      <link>https://forest.watch.impress.co.jp/docs/digest/2072116.html</link>
+      <pubDate>2025/12/17 21:48</pubDate>
+      <description>皆さん、GitHub Copilotは利用されていますでしょうか？ 私は、コスパが良いのと複数のモデルを利用できる点に魅力を感じたため、仕事だけでなくプライベートの開発でも利用しています。 しかし、使い込んでいく中で一つ壁に当たることがありました。それは、Agent・Instructions・Promptといった複数のファイルタイプが存在し、それぞれがどのように影響し合い、どのように使い分けるべきかが分かりにくいという点です。 そこで本記事では、私自身の備忘録も兼ねて、これらの概念と実際の検証結果を踏まえた活用方法について解説します。 GitHub Copilotとは GitHub Copilotは、AIを活用したコーディング支援ツールとして登場しました。当初はVSCodeエディタ上でのコード補完が主要な機能でしたが、現在では GitHub Web上でのチャット機能、プルリクエスト（PR）</description>
+    </item>
+    <item>
+      <title>【第4回】非エンジニアのClaude Code完全攻略 - Skills編｜てんちょー | 非エンジニアがAI開発で週末起業を爆速化</title>
+      <link>https://note.com/questceo_ai/n/n7e776ff0ac23</link>
+      <pubDate>2025/12/17 21:50</pubDate>
+      <description>【シリコンバレー=清水孝輔】米アマゾン・ドット・コムが米オープンAIに100億ドル（約1兆5500億円）を投資する方向で協議していることが16日、わかった。米ネットメディアのジ・インフォメーションなど複数の米欧メディアが報じた。オープンAIはアマゾンが手がける人工知能（AI）向け半導体の導入も検討する。報道によると、アマゾンはオープンAIの企業価値の評価額を5000億ドル以上として投資に向けた</description>
+    </item>
+    <item>
+      <title>え？これ、どう作ったらこうなるの？？？スゴい…AIかな「怪文書かよwww」「フォントが統一されてない？のキモすぎる」</title>
+      <link>https://togetter.com/li/2640020</link>
+      <pubDate>2025/12/18 07:44</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f5094f8e2bbd6b95a506a38c0be9aad41187094e/height=288;version=1;width=512/https%3A%2F%2Fstorage.googleapis.com%2Fgweb-uniblog-publish-prod%2Fimages%2FGemini3Flash_Social.width-1300.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>生成AIに知識を垂れ流すラジオ番組を作ってもらう｜Kohya S.</title>
+      <link>https://note.com/kohya_ss/n/n613b44bb15a5</link>
+      <pubDate>2025/12/18 07:49</pubDate>
+      <description>今日は、この「AI時代は、プロジェクトマネジメントやチームマネジメントの重要性が上がる」ってことについて、ぼくなりに考えてたことを書いていこうと思う。 昨日、こんなポストをしたんですね。 AI時代、プロジェクトマネジメントとかチームマネジメントのスキルがめちゃくちゃ重要性上がるよねーという話をしまくっているのだが、あまり理解されていない気がする。 ぼくの中では確信があるんだけど、重要性をうまく説明できていないのかな？ — フジイユウジ (@fujii_yuji) 2025年12月16日 みなさん思うところがあるみたいで、引用RPやリプライをもらったんだけど、色々な考え方があって面白かったです。 AIで爆裂に効率化されたり、成果が飛躍的に伸びて・・・ます？ 生成AIは個人をエンハンス(高める・強化)する力が強い。 個人がエンハンスされた作業範囲に注目すれば、ほんとうに信じられないくらいの品質</description>
+    </item>
+    <item>
+      <title>アウトプットで学ぶ。チームでAIをキャッチアップする10分勉強会 - Findy Tech Blog</title>
+      <link>https://tech.findy.co.jp/entry/2025/12/18/070000_1</link>
+      <pubDate>2025/12/18 09:28</pubDate>
+      <description>こんにちは、「カミナシ レポート」の開発に携わっている furuya です。 re:Invent2025 の参加レポート第三弾です。前回に引き続き現地レポートとセッションレポートをお送りします。 現地レポート：ラスベガスを生き残るために 今回初めての長期海外出張ということで、事前に集められるだけの情報を集めて準備は念入りにしていきました。その中でも持っていってよかったもの、使わなかったものをご紹介します。ラスベガスに行ってみたい！と思っている方の参考になれば幸いです。 持っていってよかったもの ウォーキングシューズ 第一弾で書きましたがめちゃくちゃ歩くので、いいウォーキングシューズ（1ヶ月程度履き慣らしておく）は必須です。連日歩きまくってもダメージが少ないと感じています。経験者にオススメしてもらい、Nike の Pegasus シリーズの靴を履いていきました。 ウルトラライトダウン / パ</description>
+    </item>
+    <item>
+      <title>AI エージェント開発で半年間成果が出なかった私が、前に進めるようになるまで - Speee DEVELOPER BLOG</title>
+      <link>https://tech.speee.jp/entry/ai-agent-rd-milestone-driven</link>
+      <pubDate>2025/12/18 11:31</pubDate>
+      <description>12月18日、AIコードレビュー／検索ツールを提供する Greptile が「State of AI Coding 2025」 と題したレポートを公開した。 本レポートは、Greptile が収集した GitHub 上の実開発データをもとに、AI コーディングツールがソフトウェア開発に与えている影響を定量的に分析した調査レポートである。 PR サイズや変更行数、SDK の利用状況など、感覚論ではなく 数字で語っている点が特徴だ。 AIは生産性を上げたのか？ レポートによると、AI コーディングツールの普及以降、 PR あたりの変更行数は約 30% 増 開発者 1 人あたりのアウトプットは約 76% 増 6〜15 人規模のチームでは最大 89% 増 という結果が示されている。 注目すべきは、単にコミット回数が増えたのではなく、 1 回の PR がより大きく、より多くの作業を含むようになった</description>
+    </item>
+    <item>
       <title>Claude Code CLIがMacのホームディレクトリを丸ごと削除してしまった事例</title>
       <link>https://gigazine.net/news/20251216-claude-code-cli-mac-deleted/</link>
       <pubDate>2025/12/16 12:01</pubDate>
@@ -1782,99 +1869,6 @@
       <link>https://anond.hatelabo.jp/20251122111856</link>
       <pubDate>2025/11/22 12:18</pubDate>
       <description>フミコ・フミオ【「給食営業マンサバイバル戦記」9/18発売】 @Delete_All 我が営業部では顧客管理やリスト更新などの事務作業をパートさんにお願いしていた。生成ＡＩで代替できる作業なのでパート契約期間満了の予定だったが「彼女の仕事は丁寧でＡＩではできない」という周囲の声を受け雇用継続を決めた。先ほど当該パートさんが生成ＡＩを駆使して仕事していた。オッケー。 2025-11-21 18:25:42</description>
-    </item>
-    <item>
-      <title>Linter integration with Copilot code review now in public preview - GitHub Changelog</title>
-      <link>https://github.blog/changelog/2025-11-20-linter-integration-with-copilot-code-review-now-in-public-preview/</link>
-      <pubDate>2025/11/21 09:19</pubDate>
-      <description>今すぐ、AIで西洋古典叢書をナビゲート！ NotebookLMの学習機能を利用し、『西洋古典叢書シリーズ』2025年11月までの全巻書誌データを丸ごと取り込み、「 西洋古典叢書AIナビ 」が爆誕しました。 チャット式で質問するだけで即回答！今思いついたこと、興味のある著者や気になる巻の内容など、何を聞いてもAIがシリーズ全巻の内容に基づいて答えてくれます。 さらに、AI音声動画やAI生成のマインドマップ、目録など、多彩なコンテンツを活用して、『西洋古典叢書シリーズ』をより深く楽しめます。 𓅢 𓀠 専 用 リ ン ク 𓀠https://bit.ly/4o3QZ72 ※ログインはGoogleアカウントで 𓀡 利 用 方 法 𓀡▽ タブレット・PC推奨 ▽ 専用リンクにアクセスして、チャット欄に質問やキーワードを入力。 NotebookLMアプリやソフトをご利用の方は、リンクにアクセス</description>
-    </item>
-    <item>
-      <title>最新画像生成AI「Nano Banana Pro」は文字ぎっしりの“霞が関パワポ”も作れる？　実際に試した</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2511/21/news102.html</link>
-      <pubDate>2025/11/21 15:28</pubDate>
-      <description>和歌山市生活保健課によると、同市在住の70代男性は11月3日、奈良県下北山村の山中でヒラタケやシイタケに似たキノコを採取。 翌4日、食べられるかどうかを植物園などに確認しようとしましたが、連絡がつながらなかったため、採取したキノコを自らの電子端末で撮影し、AI判定を行ったところ、AIは“シイタケかヒラタケで食べられる”という旨を回答しました。 それを受け、男性はキノコを焼いて食べましたが、約30分後から嘔吐の症状が出て一時入院しました。現在は快復しています。 県立自然博物館や同市の衛生研究所が残品を調べたところ、キノコは毒キノコである「ツキヨタケ」と判明しました。</description>
-    </item>
-    <item>
-      <title>「AIに奪われない職」就活生も意識　4割が志望変更、1116人調査 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC043WP0U5A101C2000000/</link>
-      <pubDate>2025/11/22 05:59</pubDate>
-      <description>Nano Banana Proがしゅごいという記事を拝見して、Adobe CCを契約しているので試してみました。 ASCII.jp：凄すぎてもはや意味不明！画像生成AIの到達点「Nano Banana Pro」ついに公開 参照画像にいつもSNSで使用しているアイコンを設定。 これをもとにプロンプトにイメージをちょろっと日本語で記載して、生成。 しゅ、しゅごい… よく見たら変なケーブルとか「おにぐく」とかのポテチや謎の本ぽいのありますけど、トンマナ合わせて一瞬でここまで作ってくれました。 案としては十分すぎるほどのクオリティだし、細部を気にしない人であればそのまま使用できるんじゃないでしょうか。 ところで、アイコンに描いてあるコントローラーはPS4のものです。 AI絵の左側にあるゲーム機、ちゃんとPS4っぽいのです。 もしやAI、コントローラーで機種まで認識してる…！？と思ったら怖くなりまし</description>
-    </item>
-    <item>
-      <title>採取したキノコを撮影してAI判定　AIは”食べられる”と回答も...　実際は「毒キノコ」　和歌山市の70代男性が嘔吐の症状で一時入院　「AIや図鑑で自己判断するのは危険」市が注意呼びかけ | 特集 | MBSニュース</title>
-      <link>https://www.mbs.jp/news/feature/kansai/article/2025/11/108961.shtml</link>
-      <pubDate>2025/11/21 21:21</pubDate>
-      <description>Menu. Currently selected: New static analysis tools in Copilot code review Copilot code review now surfaces actionable feedback from linters, so the small stuff is never missed—and you can customize which linters are used via repository rulesets. This feature is available in public preview for paid GitHub users. New static analysis tools in Copilot code review In addition to CodeQL quality detecti</description>
-    </item>
-    <item>
-      <title>採取したキノコを撮影してAI判定　AIは“食べられる”と回答も…　実際は「毒キノコ」　和歌山市の70代男性が嘔吐の症状で一時入院　「AIや図鑑で自己判断するのは危険」市が注意呼びかけ（MBSニュース） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/da8fb346918e1d8bd3549d0c044a26c0aa939526</link>
-      <pubDate>2025/11/21 17:23</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/240613327184df53d4cc1696620f5fb7f560f8db/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2065%2F532%2Fc10.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Nano Banana Pro怖すぎ - トウフ系</title>
-      <link>https://kaishaku01.hatenablog.com/entry/2025/11/21/172357</link>
-      <pubDate>2025/11/21 19:47</pubDate>
-      <description>最新画像生成AI「Nano Banana Pro」は文字ぎっしりの“霞が関パワポ”も作れる？　実際に試した（1/2 ページ） 米Googleが11月20日（現地時間）に発表した新たなAI画像生成モデル「Nano Banana Pro」（Gemini 3 Pro Image）。すでにさまざまなユーザーがその能力を試している。SNSへの投稿も相次いでおり、性能に注目が集まっている。 特に日本で注目を浴びているのは、文字の出力性能だ。旧モデル・他モデルでは難しかったインフォグラフィック・スライド資料風の画像も作成しやすいという。その性能たるや、日本の官公庁が作るような情報量の多いスライド資料──俗に“霞が関パワポ”“官僚パワポ”“ポンチ絵”と呼ばれるような画像すら制作できると話題だ。本当にそんなことが可能か、実際に試してみた。 “文字ぎっしりパワポ”もいける？　Nano Banana Proのお</description>
-    </item>
-    <item>
-      <title>GitHub Copilot Plan modeで実装の手戻りが改善した話 - Agent modeとの比較で分かる真価 - Qiita</title>
-      <link>https://qiita.com/ntaka329/items/8595b9668158a563c35f</link>
-      <pubDate>2025/11/20 18:54</pubDate>
-      <description>こんにちは。今回は11月7日に開催されたPLEX TechConについて、入社4ヶ月の開発部コーポレートチームの岡田がレポートさせていただきたいと思います。 まず、PLEX TechCon（プレックス テックコン）について軽く説明させていただくと、去年から年1の頻度で開催している株式会社プレックスのエンジニア全員集合の技術カンファレンスです。参加者は雇用形態に関わらず、プレックスで働いたことがある人限定のクローズドなイベントです。 なぜ TechCon を開催するのか？ プレックスではエンジニア組織が拡大しており、隣の人や部署が日々どのような業務に向き合っているかを知る機会は決して多くありません。そこで、お互いの事業や組織でどんな取り組みをしているかを知るための相互理解の場として、また、発表テーマを幅広く設定することで、TSKaigi や Kaigi on Rails に登壇するメンバーが</description>
-    </item>
-    <item>
-      <title>ひろゆき氏が語る“40代・50代エンジニア超優秀説”　AI時代に活躍する条件 [1/2] | ログミーBusiness</title>
-      <link>https://logmi.jp/main/technology/332718</link>
-      <pubDate>2025/11/20 23:57</pubDate>
-      <description>みんなのPython 第5版発売中です！最近、Pythonの開発環境「marimo」のことをよく聞くようになりました。ノートブックの一種で、変数を変更すると即座に反映される「リアクティブ」な実行環境です。Jupyterとは異なった開発体験を与えてくれて、利用者の多くは「なんか使いやすい」と感じていると思います。私もちょっと触ってみたら、JupyterやColabのようにセルの実行順序に左右されないので「たしかに手になじむわ」という感想を持ちました。ファイルが.ipynbではなく.pyになるのもいいですね。 今回は、一体誰がmarimoを開発していて、なにを目指しているのかをについて、調べてみたことをまとめて見たいと思います。 作者のAkshay 氏がすごすぎるmarimoはAkshay氏、Dylan氏の二人で開発をしています。このうち、よく表に出てくるAkshay氏の経歴がなかなかにすごい</description>
-    </item>
-    <item>
-      <title>Googleの最先端画像AI「Nano Banana Pro」。日本語も正しく描画</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2065256.html</link>
-      <pubDate>2025/11/21 10:46</pubDate>
-      <description>グローバルリーガルテック 企業における Google Security Operations と Security Command Center Enterpriseを活用したセキュリティ監視</description>
-    </item>
-    <item>
-      <title>AI に作らせる株式分析システム - kawasin73のブログ</title>
-      <link>https://kawasin73.hatenablog.com/entry/2025/11/20/224346</link>
-      <pubDate>2025/11/21 03:19</pubDate>
-      <description>詩は文芸の一種であり、言葉の表面的な意味だけでなく語感やリズム、美的性質などを用いてさまざまな表現を行います。時には難解でわかりにくいこともある詩を使うことで、大規模言語モデルへの攻撃が成功しやすくなるとの研究結果が、プレプリントサーバーのarXivで発表されました。 [2511.15304] Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models https://arxiv.org/abs/2511.15304 Adversarial Poetry as a Universal Single-Turn Jailbreak Mechanism in Large Language Models https://arxiv.org/html/2511.15304v2 プ</description>
-    </item>
-    <item>
-      <title>「西洋古典叢書AIナビ」がNotebookLMで登場！｜京都大学学術出版会</title>
-      <link>https://note.com/kyoto_up/n/ndc30db425062</link>
-      <pubDate>2025/11/21 15:26</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/108ac5efc9c682c30aaeabb31cd115bbd70b10c8/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2065%2F448%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>GitHub Copilot CLI: New models, enhanced code search, and better image support - GitHub Changelog</title>
-      <link>https://github.blog/changelog/2025-11-18-github-copilot-cli-new-models-enhanced-code-search-and-better-image-support/</link>
-      <pubDate>2025/11/19 09:55</pubDate>
-      <description>本日、nidomi というGPT-OSSを使った基本無料のAIチャットボットをリリースしました!! 🎊 ん・・GPT-OSSはそもそも無料なのでは！？ というツッコミを受けそうなので、正確に言いますと クラウドベンダーが提供するGPT-OSSモデルを採用することで、GPUの恩恵を受けつつ付帯する無料枠内で回答するAIチャットになります。 利用するモデル数やトークン量によって変わりますが、おおよそ5万リクエスト/月まで利用可能です。 サービスの特徴 nidomiは、生成されたコードをサイトに貼るだけで、簡単にチャットボットを設置できます。FAQやマニュアルを学習させて、ユーザー体験の入口として活用してみませんか？ 類似サービスはありますが全て有償です。その中、僕らはフリーミアムで使える点が、最大の強みです。 どういう仕組なのか OpenAIが2025年8月に公開したgpt-oss 120b</description>
-    </item>
-    <item>
-      <title>NTTはなぜ、脆弱性報奨金制度に取り組むのか――「バグバウンティ」の意義（Why）、そして実践（How）　11月25日に「Internet Week 2025」で語られる。AI活用の実例も</title>
-      <link>https://internet.watch.impress.co.jp/docs/interview/2065532.html</link>
-      <pubDate>2025/11/21 17:56</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/108ac5efc9c682c30aaeabb31cd115bbd70b10c8/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2065%2F448%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>さっさと終わらせろ！ AI美少女がキツい言葉で叱咤激励するタスク管理アプリが公開／iOS/Androidに対応するモバイルアプリ、基本無料の「辛辣タスク」</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2065448.html</link>
-      <pubDate>2025/11/21 16:41</pubDate>
-      <description>株式会社Algomaticは、AIを活用した音声生成プラットフォーム『にじボイス』の提供を、2026年2月4日（水）を持ちまして終了することをお知らせいたします。日頃より『にじボイス』をご利用いただい...</description>
     </item>
   </channel>
 </rss>
