@@ -5,6 +5,84 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Claude Code で要件定義をしながら社内システムを作ってみた</title>
+      <link>https://zenn.dev/mixi/articles/8901f322d942eb</link>
+      <pubDate>2025/12/16 10:52</pubDate>
+      <description>生成AIの活用フェーズは、単なる対話から、自律的にタスクを遂行する「AIエージェント」へと進化している。今、多くの企業が実装を目指すこの技術は、本当にビジネスの現場で「戦力」となるのか。Sakana AIでリサーチサイエンティストを務める秋葉拓哉氏に、AIエージェント活用の鍵となる技術トレンドと、人間が果たすべき役割について聞いた。</description>
+    </item>
+    <item>
+      <title>NVIDIAがジョブスケジューラー「Slurm」の開発企業を買収、AIやHPCのエコシステム強化へ</title>
+      <link>https://gigazine.net/news/20251216-nvidia-acquire-schedmd-slurm/</link>
+      <pubDate>2025/12/16 20:24</pubDate>
+      <description>リンク コトバンク 言語道断(ゴンゴドウダン)とは？ 意味や使い方 - コトバンク デジタル大辞泉 - 言語道断の用語解説 - ［名・形動］１ 仏語。奥深い真理は言葉で表現できないこと。２ 言葉で言い表せないほどひどいこと。とんでもないこと。また、そのさま。もってのほか。「人のものを盗むとは言語道断だ」「言語道断な（の）行い」３ 言葉で言いようもないほど... 5 リンク コトバンク 一刀両断(イットウリョウダン)とは？ 意味や使い方 - コトバンク デジタル大辞泉 - 一刀両断の用語解説 - １ ひと太刀で、まっぷたつに断ち切ること。２ すみやかに、はっきりとした処置をとること。「一刀両断の裁きを下す」[類語]（1）切る・切り付ける・切り捨てる・切りまくる・切り倒す・叩き切る・ぶった切る・なで切り・試し切り・袈裟懸け／... 1</description>
+    </item>
+    <item>
+      <title>マルチレポ vs モノレポ - Qiita</title>
+      <link>https://qiita.com/Ayumu_Usu/items/5a1f19de8f49578f9400</link>
+      <pubDate>2025/12/17 08:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ebf0104550f34e74e4918ce8f18bf0aa616f6822/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2070%2F929%2F02.JPG');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「忙しいのに手応えがない」マネジャーに知ってほしい、エネルギー管理の重要性【岩瀬義昌】 - エンジニアtype | 転職type</title>
+      <link>https://type.jp/et/feature/29929/</link>
+      <pubDate>2025/12/17 18:10</pubDate>
+      <description>2025年は、間違いなく「AI駆動開発元年」と言える年になったと言えます。Visual Studio Codeに、GitHub Copilotが標準搭載され、CursorやWindsurf、KiroやTraeなどのVSCode派生エディタが登場、そしてClaude Codeや、Open AI Codexなどのコマンドラインによる開発ツールの登場に、年後半はAntigravityの登場や、CursorのUIの大幅変更などなど、とにかく話題に事欠かない1年でした。 筆者も、最初はJetbrain社のPhpStormを使っていましたが、さすがにVSCode系に移らねばと言うことで、VSCodeやCursor等を一通り触り、Claude Codeに移ってみたり、Jetbrainに戻ってみたり等、あれこれ試行錯誤していましたが、最終的にCursorに落ち着きました。 ここでは、Cursorに戻った理</description>
+    </item>
+    <item>
+      <title>「黄色いサイト」から「AIネイティブ」へ。新卒15年目が見た、食べログデザイン変遷記 - Tabelog Tech Blog</title>
+      <link>https://tech-blog.tabelog.com/entry/advent-calendar-20251217</link>
+      <pubDate>2025/12/17 18:23</pubDate>
+      <description>DIAMOND社から毎月刊行される雑誌「DIAMOND ハーバード・ビジネス・レビュー（日本語版）」を定期購読している。略してDHBRである。 ビジネス雑誌を定期購読している、というと「意識が高い」感じがしますね……自分でもそう思う。 『Harvard Business Review』とは 『Harvard Business Review』（HBR）は1922年、ハーバード大学の経営大学院「ハーバード・ビジネス・スクール」の教育理念に基づき創刊されたマネジメント誌です。英語版以外に、日本、中国、台湾、韓国、ドイツ、イタリア、フランスなど9の言語で翻訳されており、世界中のビジネスリーダーやプロフェッショナルに愛読されています。 DIAMOND ハーバード・ビジネス・レビュー｜DIAMOND ハーバード・ビジネス・レビュー 定期購読を開始したのは2018年なので、もう7年以上になる。きっかけは</description>
+    </item>
+    <item>
+      <title>【Hothotレビュー】 モニター内蔵ミニPCってどう使うの？AOOSTAR「G-FLIP AI370」を試す</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2071665.html</link>
+      <pubDate>2025/12/18 09:11</pubDate>
+      <description>はじめにこんにちは、わたヤク（@ai_biostat）です。 抄読会のスライド作りって、正直ラクしたいですよね。 構成を考え、図表を切り出し、整列して、文字量を調整して…気づけば“PowerPoint職人”になっている。 でも本当に時間を使うべきなのは、そこではなくて、読み込みと議論の準備のほうです。 どうにか抄読会スライドの作成を効率化できないかな…と試行錯誤していたところ、最近起きた3つの技術的進歩により大きなブレイクスルーが起こりました。 NotebookLMのスライドに手元の画像をそのまま反映できる PDFスライドから瞬時に画像ファイルに変換するツールの登場 ChatGPTで画像ファイルから編集可能なPowerPointに変換できる これらの技術を組み合わせることでNotebookLMに入れたソースから編集可能なPowerPointスライドを作ることができます。 完成するスライドは</description>
+    </item>
+    <item>
+      <title>AI広告炎上でも止められない　コカ・コーラやGUESS、コスト削減優先 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN11DE70R11C25A2000000/</link>
+      <pubDate>2025/12/18 07:08</pubDate>
+      <description>こんにちは！アイレット広報の羽鳥です。 今回は、アイレットの事業推進本部 パートナーアライアンスグループで NotebookLM を活用して契約書検索業務を効率化した事例をご紹介します。 話を聞いたのは、2024年に新卒として入社した葭葉 杏奈。 実際に NotebookLM の導入を推進し、活用している本人から、具体的な効果や運用のコツを教えてもらいました。 事業推進本部 パートナーアライアンスグループ 葭葉 杏奈 間接部門での NotebookLM 活用法について詳しく解説していきます！ パートナーアライアンスグループの業務まず、パートナーアライアンスグループがどんな業務をしているのかを紹介します。 アイレットは、“クラウド特化型のシステムインテグレーター”として、AWS や Google Cloud、Oracle などのクラウドベンダーからパートナー認定を受けています。 こうしたパー</description>
+    </item>
+    <item>
+      <title>国会答弁作成に専用AI「源内」、全職員に配布へ　ブラック霞が関対策 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA184V70Y5A211C2000000/</link>
+      <pubDate>2025/12/18 18:19</pubDate>
+      <description>本記事では、オウンドメディアのメリットについて解説しています。 クリック単価の高騰やCPAの悪化など、Web広告の成果が頭打ちとなり、次の一手としてオウンドメディアを検討される方は多いです。 しかし、いざ社内で検討を始めると、「本当に成果が出るのか？」「いつ黒字化するのか？」「AI時代にわざわざ記事を書く意味があるのか？」といった、経営層からの鋭い問いに直面することになります。 ここでは、多くの企業のメディア運用を支援してきた知見をもとに、経営・実務視点での具体的な「オウンドメディアを運営するメリット」について徹底解説します。 貴社のメディア立ち上げや運営に、お役立ていただけましたら幸いです。 この記事で分かること 経営・実務視点で見たオウンドメディアの「13のメリット」 「広告（フロー型）」と「メディア（ストック型）」の決定的な費用対効果の違い 生成AI時代に「勝つメディア」と「負けるメ</description>
+    </item>
+    <item>
+      <title>動かして理解する。AI駆動型マルウェアとは ― デモ用PoCによる挙動検証 ― - NTT docomo Business Engineers&amp;#39; Blog</title>
+      <link>https://engineers.ntt.com/entry/202512-advent-calendar-day18/entry</link>
+      <pubDate>2025/12/18 17:47</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b8cba082d77faa96da98a75a4dda145705f63063/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2071%2F380%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>これまで読んだあらすじや登場人物をAIに質問できるKindleの新機能に賛否【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2072339.html</link>
+      <pubDate>2025/12/18 15:15</pubDate>
+      <description>義務教育以降では学習内容も高度になり、学生たちは当然苦労する。その苦労をAIを使って何とか…と考えるのは当然であろう。実際学生たちはどのようにAIを使い、またそのことに関してどのような意識でいるのか。 そうしたことを調査・研究したのが、仙台大学AI教育研究チームである。今年10月、「学生と教員を対象とした生成AIの教育利用状況と意識に関する全国調査 2024年－2025年比較調査」という報告書が公開された。 2024年と25年の調査であり、まだ1年間しか違いがないが、AIの発展スピードに対して利用者の意識がついていけるのかという点でも興味深い調査である。今回はこの調査をもとに、特に差分が大きい部分にフォーカスしながら、AIと高度な教育の関係はどうあるべきなのかを考えてみたい。 AI利用と依存への不安 この調査の対象となっているのは、15歳（高校生相当）以上の学生と、小中高校、専修学校、専門</description>
+    </item>
+    <item>
+      <title>「良い投稿をすればバズる」という時代は、ひっそりと終わっていた。</title>
+      <link>https://blog.tinect.jp/?p=90567</link>
+      <pubDate>2025/12/18 07:38</pubDate>
+      <description>A cross-industry study on recent trends in AI software development.</description>
+    </item>
+    <item>
+      <title>Cloudflareのレポートで「日本ではChatGPTが人気」「日本のトラフィックの57％がiOS端末」「全世界のトラフィックは2025年に19％増加」などインターネットのさまざまな統計が明らかに</title>
+      <link>https://gigazine.net/news/20251218-cloudflare-radar-2025-year-in-review/</link>
+      <pubDate>2025/12/18 16:04</pubDate>
+      <description>AI has transformed how we write code. The next transformation is how we run it. At Vercel, we’re building self-driving infrastructure that autonomously manages production operations, improves application code using real-world insights, and learns from the unpredictable nature of production itself. Our vision is a world where developers express intent, not infrastructure. Where ops teams set princi</description>
+    </item>
+    <item>
       <title>Claude CodeからPull Requestのレビュー操作を便利に行うClaude Skillsを作った - $shibayu36-&amp;gt;blog;</title>
       <link>https://blog.shibayu36.org/entry/2025/12/17/173000</link>
       <pubDate>2025/12/17 18:05</pubDate>
@@ -1794,78 +1872,6 @@
       <link>https://speakerdeck.com/ymae/yun-mian-lt-amazon-bedrock-agentcorewozhi-riaiezientoniru-men-siyou</link>
       <pubDate>2025/11/21 22:17</pubDate>
       <description>MCP Apps は MCP の拡張機能として、AI エージェントがインタラクティブな UI コンポーネントを返すための標準化された方法を提供します。この記事では MCP Apps の概要と実装方法について解説します。 ChatGPT の Apps SDK や MCP-UI のように AI エージェントがチャット形式の対話だけでなく、インタラクティブな UI を通じてユーザーとやり取りできる仕組みが注目されています。AI エージェントが UI を返すことで、会話の流れの中で以下のような体験を提供できます。 「おすすめのランニングシューズを探して」と尋ねると、複数のシューズの画像と価格が表示され、ユーザーは気に入ったものをクリックしてカートに追加できる ホテルの予約を依頼すると、利用可能な部屋のリストが表示され、ユーザーは日付や人数を選択して予約手続きを進められる 希望にあった賃貸物件を探す</description>
-    </item>
-    <item>
-      <title>画像生成モデル「Nano Banana Pro」（Gemini 3 Pro Image）が公開、無料でも試用可能／美しい画像だけでなく、実用的なグラフの生成やテキスト描画も得意</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2065231.html</link>
-      <pubDate>2025/11/21 08:16</pubDate>
-      <description>【この記事でわかること】・影響を受けないと思う職種は・AI理由に採用抑える企業数は・日本大学の新たな授業とは？就職活動中の大学生らの4割が、生成AI（人工知能）の普及を見越して志望職種を変えたことが、日本経済新聞の調査で分かった。生産性向上などAIがもたらすプラスの面を評価しつつも、雇用の一部は失われるとみて、仕事を選ぶ重要な要素に位置づけた。企業はAIを使う側に立つビジョンを示せるかどうかが問</description>
-    </item>
-    <item>
-      <title>AIエージェントSaaSを安全に提供する技術 / Architecture Conference 2025</title>
-      <link>https://speakerdeck.com/flatt_security/architecture-conference-2025</link>
-      <pubDate>2025/11/22 00:30</pubDate>
-      <description>Google の NanoBanana Pro の登場が、個人的にかなり大きな衝撃でした。 これまでの AI でも「だいぶ実務で使えるな」と感じてはいたのですが、 NanoBanana Proでのクリエイティブの出来栄えをみていると 「あ、これは本当に“人＋AI”の組み合わせ前提で、 仕事の設計そのものを変えていかないといけないフェーズに入ったな」 と思わされたんですね。 そのタイミングでふと頭に浮かんだのが、 「AI 時代のデザイン事務所って、結局どんな形に落ち着いていくんだろう？」 という問いでした。 昔ながらのデザイン事務所の「当たり前」これまでのデザイン事務所といえば、わりと似たような構造が多かったと思います。 複数のデザイナーがいて、その上にディレクターや中間管理職がいて、 クライアントとの打ち合わせや進行は、上司に相談しながら進めていく。 新人は、上の人のラフをトレースしたり、</description>
-    </item>
-    <item>
-      <title>Googleは「GmailがユーザーのメールをAIのトレーニングに利用している」という報道は誤解を招くものであると否定</title>
-      <link>https://gigazine.net/news/20251122-google-denies-gmail-using-emails-train-ai/</link>
-      <pubDate>2025/11/22 13:41</pubDate>
-      <description>sponsored JN-IPS238F-HSPC6-CMSをレビュー 約2.4万円はコスパ最高！WEBカメラ・USB Type-C給電・昇降式スタンド付きの超多機能な23.8型ディスプレーは仕事用に最適だった sponsored Crosshair、Cyborg 、Thin、Katana、VenturePro、Modernがセール中！ MSIのゲーミングPC、クリエイター＆ビジネスノートなど高性能パソコンがAmazonブラックフライデー限定価格で買えるぞ！ sponsored SSDの性能はロットによってバラツキがある？　Gen4対応NVMe SSDでチェックしてみた sponsored 海外出張・旅行のお供に！3台同時充電＋変換アダプター付き ベルキン100W充電器が超便利 sponsored 「聞いてない」が起きるのは情報が多すぎるから――。じゃあ、どうする？ プロジェクト進行中の情</description>
-    </item>
-    <item>
-      <title>プロンプトエンジニアリングを全員参加型に！Langfuseで実現するノーコードLLM改善</title>
-      <link>https://zenn.dev/satto_workspace/articles/04b610fd812a67</link>
-      <pubDate>2025/11/23 09:22</pubDate>
-      <description>＼AIの役立つnoteを毎日更新中／ ・AI好きの20代/ SNS総フォロワー30万人 ・目標は生成AIの教科書になること ・ツール：Midjourney / KLING/ SUNO/imageFX/ChatGPT/Gemini/Sora2など ぜひフォローよろしくお願いします！</description>
-    </item>
-    <item>
-      <title>エプスタイン文書巡る偽の「AIトランプ」音声が拡散</title>
-      <link>https://www.afpbb.com/articles/-/3610205</link>
-      <pubDate>2025/11/22 16:12</pubDate>
-      <description>最先端の生成AIを、手を動かしながら体得できる入門書。テキスト・画像・音声・動画といった幅広い生成AIの基本から、ファインチューニングやモデル評価などの応用までを、わかりやすく体系的に解説します。複雑な理論や高度な数学には深入りせず、事前訓練済みモデルとオープンソースライブラリを活用し、実際にコードを動かしながら学習可能。豊富なサンプルコードと解説を通じて、生成AIの仕組みを直感的に理解できます。専門知識がなくてもハンズオンで直感的に学べて、急速に進化するAI時代を生き抜く実践力も身につけられる一冊です。 賞賛の声 訳者まえがき まえがき 第I部　オープンモデルの実践的活用 1章　生成メディア入門 1.1　画像の生成 1.2　テキストの生成 1.3　サウンドクリップの生成 1.4　倫理的および社会的影響 1.5　これまでの歩みと現状 1.6　生成AI モデルはどのように作られるのか 1.7</description>
-    </item>
-    <item>
-      <title>「数学は役に立つか？」より大事なこと｜加藤文元</title>
-      <link>https://note.com/katobungen/n/n5e35e3661294</link>
-      <pubDate>2025/11/22 18:48</pubDate>
-      <description>人工知能とブログのこれから 生成AIのちからで数秒でブログが書けるといわれる時代。 いちブロガーの端くれとして、 やはり「人間にしか書けない文章」とか「自分が人力で文を書く意味ってなに？」 みたいなのはさすがに考えざるを得なくなってきている気がする。 ・・・ということで、僕が過去のブログ記事を振り返って、 これはAIには書けないだろうな、みたいなものをいくつか挙げていこうかなと。 (過去記事をペタペタ貼っていきます) www.nejimakiblog.com 「体験系」の記事として思い浮かんだのはまずこの記事。 &amp;quot;『君たちはどう生きるか』をみたもやもやを抱えて箱カラオケに行く&amp;quot; とか、 周りの人の反応とか、こればっかりは体験しないとわからないことかなぁと。 www.nejimakiblog.com このブログでたまに書いている「やりたいことリスト」系記事。 AIには&amp;quot;心の底からの欲望という</description>
-    </item>
-    <item>
-      <title>AI かわき｜世界一優しいAI画像生成の解説｜note</title>
-      <link>https://note.com/kawakijourney_ai</link>
-      <pubDate>2025/11/22 20:43</pubDate>
-      <description>sponsored JN-IPS238F-HSPC6-CMSをレビュー 約2.4万円はコスパ最高！WEBカメラ・USB Type-C給電・昇降式スタンド付きの超多機能な23.8型ディスプレーは仕事用に最適だった sponsored Crosshair、Cyborg 、Thin、Katana、VenturePro、Modernがセール中！ MSIのゲーミングPC、クリエイター＆ビジネスノートなど高性能パソコンがAmazonブラックフライデー限定価格で買えるぞ！ sponsored SSDの性能はロットによってバラツキがある？　Gen4対応NVMe SSDでチェックしてみた sponsored 海外出張・旅行のお供に！3台同時充電＋変換アダプター付き ベルキン100W充電器が超便利 sponsored 「聞いてない」が起きるのは情報が多すぎるから――。じゃあ、どうする？ プロジェクト進行中の情</description>
-    </item>
-    <item>
-      <title>Google Antigravity の クイックスタート｜npaka</title>
-      <link>https://note.com/npaka/n/nafe71bf65ce5</link>
-      <pubDate>2025/11/21 14:55</pubDate>
-      <description>ロボット掃除機やスマートロックなどのスマート家具を展開するSwitchBotから、E Ink Spectra 6のフルカラー電子ペーパーを採用したスマートキャンバス「AIアートキャンバス」が登場します。スマートフォンで入力したテキストや画像からAIが生成した絵をそのまま表示するという一風変わったデバイスで、実際にさまざまな絵を表示してみました。 Amazon.co.jp: SwitchBot: AI アートキャンバス Amazon.co.jp: SwitchBot: キャンペーン情報 ・目次 ◆AIアートキャンバス開封の儀、内容物はこんな感じ ◆AIアートキャンバスをSwitchBotアプリでセットアップ ◆AIが生成した絵をAIアートキャンバスに表示させてみる ◆画像をAIに変換してもらう「AIスタイル変換」 ◆AIアートキャンバスには好きな写真をそのまま表示することもできる ◆まとめ</description>
-    </item>
-    <item>
-      <title>生成AIに代替されないブログとはどんな記事なのか？を考えてみる。 - 世界のねじを巻くブログ</title>
-      <link>https://www.nejimakiblog.com/entry/ai-blog-article-human-writing</link>
-      <pubDate>2025/11/22 21:59</pubDate>
-      <description>MCP Apps は MCP の拡張機能として、AI エージェントがインタラクティブな UI コンポーネントを返すための標準化された方法を提供します。この記事では MCP Apps の概要と実装方法について解説します。 ChatGPT の Apps SDK や MCP-UI のように AI エージェントがチャット形式の対話だけでなく、インタラクティブな UI を通じてユーザーとやり取りできる仕組みが注目されています。AI エージェントが UI を返すことで、会話の流れの中で以下のような体験を提供できます。 「おすすめのランニングシューズを探して」と尋ねると、複数のシューズの画像と価格が表示され、ユーザーは気に入ったものをクリックしてカートに追加できる ホテルの予約を依頼すると、利用可能な部屋のリストが表示され、ユーザーは日付や人数を選択して予約手続きを進められる 希望にあった賃貸物件を探す</description>
-    </item>
-    <item>
-      <title>web小説界からも生成AIの排除が始まったか</title>
-      <link>https://anond.hatelabo.jp/20251119191929</link>
-      <pubDate>2025/11/19 19:29</pubDate>
-      <description>グローバルリーガルテック 企業における Google Security Operations と Security Command Center Enterpriseを活用したセキュリティ監視</description>
-    </item>
-    <item>
-      <title>pmconf 2025 大阪「生成AI時代に未来を切り開くためのプロダクト戦略：圧倒的生産性を実現するためのプロダクトサイクロン」 / The Product Cyclone for Outstanding Productivity</title>
-      <link>https://speakerdeck.com/yamamuteki/product-cyclone-for-the-outstanding-productivity</link>
-      <pubDate>2025/11/21 17:30</pubDate>
-      <description>Googleが本気を見せた「Gemini 3 Pro」　トップレベル性能でバイブコーディングにも強い：Deep Insider Brief ― 技術の“今”にひと言コメント Googleが「Gemini 3 Pro」を公開し、AIモデル競争はさらにヒートアップ。高度な思考、画面理解、複雑タスクの自動実行、コード生成など、多方面での性能向上が確認されている。記事後半では、今回の発表をどう読むべきか、筆者の視点からも解説する。 連載目次 Google DeepMindは2025年11月18日（米国時間）、同社にとって「最もインテリジェント（知性的）なモデル」と位置付ける最新AIモデル「Gemini 3 Pro」を公開した。 思考力（リーズニング）、マルチモーダル理解力、エージェント実行能力、コーディング性能といった多方面で、従来モデルを大きく上回るとGoogle自身は説明しており、さらに、ラン</description>
-    </item>
-    <item>
-      <title>ローカルLLM基礎知識 / local LLM basics 2025</title>
-      <link>https://speakerdeck.com/kishida/local-llm-basics-2025</link>
-      <pubDate>2025/11/22 19:15</pubDate>
-      <description>最先端の生成AIを、手を動かしながら体得できる入門書。テキスト・画像・音声・動画といった幅広い生成AIの基本から、ファインチューニングやモデル評価などの応用までを、わかりやすく体系的に解説します。複雑な理論や高度な数学には深入りせず、事前訓練済みモデルとオープンソースライブラリを活用し、実際にコードを動かしながら学習可能。豊富なサンプルコードと解説を通じて、生成AIの仕組みを直感的に理解できます。専門知識がなくてもハンズオンで直感的に学べて、急速に進化するAI時代を生き抜く実践力も身につけられる一冊です。 賞賛の声 訳者まえがき まえがき 第I部　オープンモデルの実践的活用 1章　生成メディア入門 1.1　画像の生成 1.2　テキストの生成 1.3　サウンドクリップの生成 1.4　倫理的および社会的影響 1.5　これまでの歩みと現状 1.6　生成AI モデルはどのように作られるのか 1.7</description>
     </item>
   </channel>
 </rss>
