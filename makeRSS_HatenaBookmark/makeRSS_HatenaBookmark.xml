@@ -5,6 +5,72 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>ブラウザだけで高速かつ無限に文章・音声・画像のAIを使う事ができるGemini Nanoを試してみる</title>
+      <link>https://zenn.dev/finatext/articles/236a27fa78817d</link>
+      <pubDate>2025/12/17 10:25</pubDate>
+      <description>「夜のブルーオーシャン」における AI エージェント稼働率が差別化された生産性となること、夜に行うべきタスクと遂行するための &amp;quot;FRONTIER AGENTS&amp;quot; を紹介しています。</description>
+    </item>
+    <item>
+      <title>意外と便利なNano Banana🍌</title>
+      <link>https://qiita.com/b-mente/items/b62ba6b073c8b77860b4</link>
+      <pubDate>2025/12/16 09:19</pubDate>
+      <description>※この記事は、2025 Speee Advent Calendar 18 日目の記事です。昨日の記事はこちら はじめに こんにちは、DX 事業本部でエンジニアをしている 22 新卒の高島です。社内ではたかてぃーと呼ばれています。 大学院では機械学習の研究をしていましたが、入社後は既存プロダクトの保守運用や新規事業のアプリケーション開発を経験しました。2024 年 11 月からは、不動産領域で AI/LLM を活用した R&amp;amp;D プロジェクトをリードしています。 この 1 年間、AI エージェントに関する研究開発に取り組んできましたが、決して順調ではありませんでした。特に最初の半年間は、成果が見えない苦しい時期が続きました。 本記事では、私が R&amp;amp;D プロジェクトで試行錯誤した経験と、そこから見えてきた「地に足をつける進め方」についてまとめます。 こんな方に向けて書いています： ゴールが曖昧な</description>
+    </item>
+    <item>
+      <title>【アドベントカレンダー2025】Gemini 3 Canvas × HTMLテンプレート活用術：GASを書かずに実用レベルのスライドを出力する - ぐるなびをちょっと良くするエンジニアブログ</title>
+      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251218-2/</link>
+      <pubDate>2025/12/18 16:02</pubDate>
+      <description>【ニューヨーク=西邨紘子、ヒューストン=赤木俊介】生成AI（人工知能）を使った企業広告が消費者の反発を呼んでいる。米マクドナルドは広告が不快だと批判を受けて「炎上」する事態となり公開を取り下げた。米コカ・コーラや米衣料大手GUESSなど多くの企業は費用対効果に見合うとして、なおAI広告に前向きな姿勢を貫く。「不気味」「品質が悪い」と消費者から批判問題となった広告は、マクドナルドのオランダ事業</description>
+    </item>
+    <item>
+      <title>Devin AI で挑む AI エンジニアによるレガシー API 移行 [DeNA インフラ SRE] | BLOG - DeNA Engineering</title>
+      <link>https://engineering.dena.com/blog/2025/12/legacy-code-migration-using-devin/</link>
+      <pubDate>2025/12/18 10:39</pubDate>
+      <description>パソコン専門店で購入制限客 「値段がアホみたいに上がってる。どうしたもんかな」 「何倍にも高くなっていて、手が届きにくくなっている」 パソコン販売の聖地・秋葉原。今年の師走の風は、特に冷たく感じられます。 店頭には「1日お一人様につき4枚まで」とメモリー製品の購入制限の貼り紙が貼ってあります。 このパソコン専門店では、買い占めや転売を防ぐため、メモリー製品の販売数を制限する事態に至っています。 容量が多ければ多いほどパソコンの処理スピードが上がり、性能に大きな影響を持つメモリー。今、急激に高騰しているのです。 ドスパラの運営会社　サードウェーブ 永井正樹社長 「3カ月前に比べ約3倍になった。急激に上がったのは、この1カ月。なるべく多くのお客様に利用してほしいので、購入制限をしている」 3カ月で3倍の値上げという異常事態。中には、5倍近く上昇したメモリーもあります。 価格を見て、あぜんとする</description>
+    </item>
+    <item>
+      <title>米オラクル、AIデータセンター出資者が交渉撤退　株価高値から半減 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN17D4A0X11C25A2000000/</link>
+      <pubDate>2025/12/18 07:08</pubDate>
+      <description>ChatGPT：Apple Music AppleがChatGPTアプリとして「Apple Music in ChatGPT」の提供を開始し、OpenAIのChatGPTとApple Musicが連携可能になっています。 このアプリにより、ChatGPTはApple Musicと連携可能となり、すべてのユーザーがApple Musicのカタログから楽曲、アーティスト、アルバム、プレイリストを検索できます（サブスクリプション不要）。 Apple Musicのサポートにより、すべてのユーザーがChatGPT内で直接音楽を発見し、プレイリストを生成し、楽曲のクリップを聴くことが可能です。 Apple Musicのサブスクリプションをお持ちのユーザーは、楽曲、アルバム、プレイリストを個人のApple Musicライブラリに追加できます。</description>
+    </item>
+    <item>
+      <title>Self-driving infrastructure - Vercel</title>
+      <link>https://vercel.com/blog/self-driving-infrastructure</link>
+      <pubDate>2025/12/18 18:58</pubDate>
+      <description>「最近、全然リーチが取れなくなった」 ここ1〜2年、企業のSNS担当者の方と話していると、必ずと言っていいほどこの言葉が出ます。SNSマーケティング支援に携わる私自身も、実感する場面は多いです。 企業のマーケティング活動において、SNSの活用は随分一般的になりました。ChatGPTを始めとする生成AIを活用し、投稿用テキストや画像、動画制作を効率化している企業も少なくないでしょう。 しかし、SNSをオウンドメディアとして活用するだけでは、以前のような成果を得ることは難しいのが現状です。「SNSは無料で生活者に情報を届けられる」「良い投稿さえすれば自然に情報が広まって、もしかしたらバズるかもしれない」という期待をもっている方は、認識をアップデートする必要があります。 というのも、SNSは今や「レコメンドメディア」となり、以前ほどシンプルに成果が出せる媒体ではなくなったからです。 2026年を</description>
+    </item>
+    <item>
+      <title>HNSWのビジュアライザを作成した - Lambdaカクテル</title>
+      <link>https://blog.3qe.us/entry/2025/12/17/164524</link>
+      <pubDate>2025/12/18 11:16</pubDate>
+      <description>Cloudflareが2025年を通じて観察されたインターネットの傾向とパターンをレビューする「2025 Cloudflare Radar Year in Review」を発表しました。 Cloudflare Radar 2025 Year in Review https://radar.cloudflare.com/year-in-review/2025 The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks https://blog.cloudflare.com/radar-2025-year-in-review/ Cloudflareは世界125以上の国や地域の330都市に拠点を構え、広大なネットワークを展開しています。このネットワ</description>
+    </item>
+    <item>
+      <title>AIレイオフによる【ITエンジニア失業論】の誤解｜片山良平＠paiza会長</title>
+      <link>https://note.com/rk611/n/n0409a9735954</link>
+      <pubDate>2025/12/18 18:57</pubDate>
+      <description>As I write this post, cached input tokens are 10x cheaper in dollars per token than regular input tokens for both OpenAI and Anthropic&amp;#39;s APIs. Anthropic even claim that prompt caching can reduce latency &amp;quot;by up to 85% for long prompts&amp;quot; and in my own testing I found that for a long enough prompt, this is true. I sent hundreds of requests to both Anthropic and OpenAI and noticed a substantial reducti</description>
+    </item>
+    <item>
+      <title>AI検索が「公式窓口」を偽造する時代へ。「LLM電話番号汚染」が生む、新しい詐欺の入り口【読めば身に付くネットリテラシー】</title>
+      <link>https://internet.watch.impress.co.jp/docs/column/netliteracy/2072149.html</link>
+      <pubDate>2025/12/19 07:43</pubDate>
+      <description>A simple, open format for giving agents new capabilities and expertise. Agent Skills are folders of instructions, scripts, and resources that agents can discover and use to do things more accurately and efficiently. Why Agent Skills? Agents are increasingly capable, but often don’t have the context they need to do real work reliably. Skills solve this by giving agents access to procedural knowledg</description>
+    </item>
+    <item>
+      <title>「AIと協働して書いた35万字の書籍」が示す未来とは。広木大地氏が考える“AI時代のエンジニアの生存戦略” | レバテックラボ（レバテックLAB）</title>
+      <link>https://levtech.jp/media/article/interview/detail_772/</link>
+      <pubDate>2025/12/19 10:35</pubDate>
+      <description>政府は2025年度中に中央省庁に生成AI（人工知能）ツールを本格導入する。デジタル庁が25年に開発した行政向けAI基盤「源内」を全職員に配布する。国会審議での政府答弁の作成などに活用する。事務作業を効率化し、職員の負担軽減につなげる。高市早苗首相が19日、首相官邸で開くAI戦略本部の会合で省庁での本格的なAIの運用開始を表明する。5月にデジタル庁など一部で先行導入した生成AIの業務活用を全省庁</description>
+    </item>
+    <item>
+      <title>LLMを機能不全に追い込む新型DoS攻撃「ThinkTrap」、論文からコードを生成するAI「DeepCode」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2025/12/19/4788.html</link>
+      <pubDate>2025/12/19 11:23</pubDate>
+      <description>この記事はLivetoon Tech Advent Calendar 2025の17日目の記事です。 本日はCTOの長嶋が、技術ではなくポエムを書きます。 毎回技術ネタ書いてると尽きるので・・・。 宣伝 今回のアドベントカレンダーでは、LivetoonのAIキャラクターアプリのkaiwaに関わるエンジニアが、アプリの話からLLM・合成音声・インフラ監視・GPU・OSSまで、幅広くアドベントカレンダーとして書いて行く予定です。 ぜひkaiwa使ってみてください。 この問いについて 「リーダーは技術者であるべきか」 テック業界で古今東西、繰り返し議論されてきたテーマだ。 技術がわかる人間がトップに立つべきか、それとも経営のプロに任せるべきか。 スティーブ・ジョブズはエンジニアではなかったが、プロダクトへの執着は誰よりも強かった。 一方でGoogleのラリー・ペイジやFacebookのザッカーバ</description>
+    </item>
+    <item>
       <title>Google、AIに「長期記憶」を与える新アーキテクチャ「Titans」と設計理論のフレームワーク「MIRAS」を発表 | Ledge.ai</title>
       <link>https://ledge.ai/articles/google_ai_long_term_memory_titans_miras</link>
       <pubDate>2025/12/15 16:17</pubDate>
@@ -1809,72 +1875,6 @@
       <link>https://news.yahoo.co.jp/expert/articles/5a2b098afb76c05cdb514bc58e2cf599b141b9ed</link>
       <pubDate>2025/11/23 07:11</pubDate>
       <description>アメリカ経済の未来は――そしてもしかするとアメリカ政治の未来も―― AI が大きく崩壊するかどうかにかかっている．以前の記事ではこう述べた――この問いは，投機や〔「いまのトレンドがこのまま続くだろう」という〕外挿的期待の伝統的な「バブル」プロセスの問題ではなくて，たんに AI が実質的なリターンを生み出す速度を世間が課題に推測しているかどうかにかかっている（日本語版）． でも，もしかしてぼくは間違っていたかもしれない．伝統的な「バブル」プロセスもここで働いてるかもしれない――〔みんなの動きに羊みたいについていく〕畜群行動や投機や「みんなに取り残されるのは怖い」心理ももっと作用していて，現実の AI 投資を突き動かしているかもしれない．そうだとしたら，現れていないか探るべき警戒信号は，投資家資金（流動性）の枯渇だ． 金融バブルの経済学モデルの多く，たとえば外挿的期待モデルや情報オーバーシュー</description>
-    </item>
-    <item>
-      <title>ポエム：LLM時代のライブラリ設計、LLMが書きやすいものにした方が良いので泣く泣く方針転換した</title>
-      <link>https://zenn.dev/jtechjapan_pub/articles/c11c81bae36746</link>
-      <pubDate>2025/11/24 12:10</pubDate>
-      <description>伝説的なエンジニアであり、現代のソフトウェア文化の土壌を作った存在でもあるジェラルド・M・ワインバーグの主著とも言える『コンサルタントの秘密』を読んだ。 タイトルに「コンサルタント」とあるけれど、これはコンサルタントの本ではない。もっと広くて、「（自分も含む）誰かに相談されたとき、どう考えるか」をまとめた本だ（この「誰か」は自分も含む）。 コンサルタントは肩書きではなく、「どのように人と関わるか」が詰まった一冊といえる。彼の経歴上、プログラムやシステムの話が登場するが、あくまで面白いエピソードとして挙げているだけ。 様々なエピソード（だいたいトラブル）を元に、「コンサルタントの法則」として紹介してくれる。これ、実践できている人は当たり前すぎてピンとこないかもしれないが、「これを法則と呼ぶくらい重要な考え方である」ことに気づかない人には宝の山だろう。 トム・デマルコの書籍を通じて知り、自分の</description>
-    </item>
-    <item>
-      <title>Issue 45 - Markdown is Holding You Back</title>
-      <link>https://newsletter.bphogan.com/archive/issue-45-markdown-is-holding-you-back/</link>
-      <pubDate>2025/11/24 13:01</pubDate>
-      <description>https://www.threads.com/@shunstagram0730/post/DQ6kNndEnNK スレッズで以上の様な投稿が拡散していた。そもそも上記の様な「強制送還作戦」などは事実は一切なく、ソースは次のyoutube動画だろう。 https://www.youtube.com/watch?v=7OQen03MAq8 生成AIで作成されたであろう政治関連動画であるが、その中身はソースもなく述べられている事はデタラメだ。ちなみにこの動画を作成したのは「Mutfak zamanı」というチャンネルであるが、1年ほど前までは料理動画などをアップする外国人のアカウントであり、数日前から生成AIを活用したデタラメな政治動画をアップし始めたというアカウントとなる。 https://www.youtube.com/@Mutfakzaman%C4%B123/videos なお冒頭の「4</description>
-    </item>
-    <item>
-      <title>生成AIによって大量のデタラメ政治情報が毎日毎日量産されている - 電脳塵芥</title>
-      <link>https://nou-yunyun.hatenablog.com/entry/2025/11/24/130000</link>
-      <pubDate>2025/11/24 13:54</pubDate>
-      <description>株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。 私は Railway Oriented Programming が好きで、C#で実現するために ResultBox というライブラリを作り、自社のイベントソーシングライブラリ Sekiban にも組み込んできました。自分がメインで作る小さなプロジェクトでは問題なく機能していましたが、チーム開発とLLM時代の到来により、方針転換を決断しました。 この記事は、自分の好みよりチームとLLMとの協働性を優先した、ライブラリ開発者の決断の記録です。 Railway Oriented Programmingの魅力 Railway Oriented Programming（ROP）は、Scott Wlaschin氏が提唱したエラーハンドリングのパターンです。F#などの関数型言語で一般的な Result&amp;lt;T, E&amp;gt; 型を使い、成功と失敗</description>
-    </item>
-    <item>
-      <title>ひろゆき氏が無料ツール利用を貫く理由　「2ちゃんねる」運営で学んだ壊れにくいサービス設計 | ログミーBusiness</title>
-      <link>https://logmi.jp/main/technology/332720</link>
-      <pubDate>2025/11/23 00:48</pubDate>
-      <description>岡野タケシ弁護士【アトム法律グループ】 @takeshibengo 本当に何も理解できていないんだなと不憫に思う。 Gemini 3やNano Banana Proの登場で「弁護士や税理士などの士業が危ない」との意見を見かけるが、実際は真逆だ。 どんなにAIが進化しても、「法的な参入障壁」と「業務独占」という聖域は崩せない。AIはあくまで「超優秀な下書き係」に留まる。最終的な権限と責任を持つのは生身の人間である有資格者だけだからだ。 言い換えると、国家資格は「AIの飼い主」になるためのライセンスということだ。 2025-11-22 10:56:29</description>
-    </item>
-    <item>
-      <title>ノア・スミス「流動性と AI『バブル』」（2025年11月23日）</title>
-      <link>https://econ101.jp/noah-smith_liquidity-and-ai-bubble/</link>
-      <pubDate>2025/11/23 21:23</pubDate>
-      <description>Nano Bananことgemini-2.5-flash-imageの新モデル、gemini-3-pro-image-preview、通称Nano Banana Proがリリースされました。Xでは、これを利用した作例投稿やプロンプト共有がとても盛り上がっていますね。 GeminiでNano Banana Proを使用する場合、無料版（Google Workspace Starter含む）と有料版（Google AI Pro以上・Google Workspace Standard以上）では、1日当たりの生成上限回数が異なります。 無料版：3回 有料版：100回※ 画像生成に限らず「思考モデル」での利用回数と合算とのこと。例えば、画像生成以外で50回質問と回答を行った場合、画像生成は残り50回になるようです。 わたしもいくつかプロンプトを作成し、共有しています。せっかくなので、noteでも共有</description>
-    </item>
-    <item>
-      <title>Antigravity使ってみた - Claude Code&amp;amp;CursorユーザーがGoogleの新IDEを触った感想 - Qiita</title>
-      <link>https://qiita.com/sion_neko/items/105168a19194c67a13d6</link>
-      <pubDate>2025/11/20 18:55</pubDate>
-      <description>＼AIの役立つnoteを毎日更新中／ ・AI好きの20代/ SNS総フォロワー30万人 ・目標は生成AIの教科書になること ・ツール：Midjourney / KLING/ SUNO/imageFX/ChatGPT/Gemini/Sora2など ぜひXもフォローお願いします！</description>
-    </item>
-    <item>
-      <title>ワインバーグの法則をAIに適用する『コンサルタントの秘密』</title>
-      <link>https://dain.cocolog-nifty.com/myblog/2025/11/post-42a30b.html</link>
-      <pubDate>2025/11/24 08:25</pubDate>
-      <description>Nano Bananことgemini-2.5-flash-imageの新モデル、gemini-3-pro-image-preview、通称Nano Banana Proがリリースされました。Xでは、これを利用した作例投稿やプロンプト共有がとても盛り上がっていますね。 GeminiでNano Banana Proを使用する場合、無料版（Google Workspace Starter含む）と有料版（Google AI Pro以上・Google Workspace Standard以上）では、1日当たりの生成上限回数が異なります。 無料版：3回 有料版：100回※ 画像生成に限らず「思考モデル」での利用回数と合算とのこと。例えば、画像生成以外で50回質問と回答を行った場合、画像生成は残り50回になるようです。 わたしもいくつかプロンプトを作成し、共有しています。せっかくなので、noteでも共有</description>
-    </item>
-    <item>
-      <title>Nano Banana ProがヤバかったのでAIマンガ家目線で解説します｜けいすけ</title>
-      <link>https://note.com/konho/n/na8dbea133158</link>
-      <pubDate>2025/11/21 23:25</pubDate>
-      <description>🎯 この記事で得られること ✅ プロンプト改善のスピードを 1週間→数分 に短縮する方法 ✅ 非技術者でも GUI操作だけで プロンプトを改善できる環境構築 ✅ A/Bテスト を簡単に実装し、効果を定量化する手法 ✅ 問題発生時に 1クリック でロールバックする仕組み はじめに こんにちは！satto workspaceでプロダクトエンジニアをしている ryohei oyama（@ryohei_oyama）です。 LLMアプリケーションの品質向上において、プロンプトエンジニアリングは最も重要な要素の1つです。 しかし、多くの開発現場では以下のような課題に直面しています： 本記事では、これらの課題をLangfuseを使って解決する方法を、実際に動くコードと具体的な設定手順を交えて解説します。 🚀 Langfuseとは？何が解決できるのか Langfuseは、LLMアプリケーションの観測・</description>
-    </item>
-    <item>
-      <title>Nano Banana Proで使えるプロンプトを公開！（2025年11月22日のAIイラスト）｜てんねん｜AIイラストクリエイター</title>
-      <link>https://note.com/munou_ac/n/n0525f0dbd739</link>
-      <pubDate>2025/11/23 16:30</pubDate>
-      <description>岡野タケシ弁護士【アトム法律グループ】 @takeshibengo 本当に何も理解できていないんだなと不憫に思う。 Gemini 3やNano Banana Proの登場で「弁護士や税理士などの士業が危ない」との意見を見かけるが、実際は真逆だ。 どんなにAIが進化しても、「法的な参入障壁」と「業務独占」という聖域は崩せない。AIはあくまで「超優秀な下書き係」に留まる。最終的な権限と責任を持つのは生身の人間である有資格者だけだからだ。 言い換えると、国家資格は「AIの飼い主」になるためのライセンスということだ。 2025-11-22 10:56:29</description>
-    </item>
-    <item>
-      <title>MCP Apps: Extending servers with interactive user interfaces</title>
-      <link>http://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/</link>
-      <pubDate>2025/11/22 12:29</pubDate>
-      <description>一部メディアやSNS上で「GmailがユーザーのメールをAIのトレーニングに利用している」というウワサが飛び交っているのですが、「これは誤解を招く報道である」とGoogleは否定しました。 Google denies ‘misleading’ reports of Gmail using your emails to train AI | The Verge https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out 事の発端となったのは、登録者数98万人超のエンジニアリング系YouTubeチャンネルのEEVblogが投稿した、「Gmailでは自動で設定がオプトインされ、メールおよび添付ファイルをAIのトレーニングに利用できるようになりました。これが嫌な場合は手動で2つの設定をオフにする必要があります」という投稿で</description>
-    </item>
-    <item>
-      <title>Kiroに統合されたQ CLI（Kiro-CLI）の新機能から見るAWSのAI開発の志向性の考察</title>
-      <link>https://zenn.dev/lifull/articles/222b02560e3b0b</link>
-      <pubDate>2025/11/20 18:37</pubDate>
-      <description>Menu. Currently selected: New static analysis tools in Copilot code review Copilot code review now surfaces actionable feedback from linters, so the small stuff is never missed—and you can customize which linters are used via repository rulesets. This feature is available in public preview for paid GitHub users. New static analysis tools in Copilot code review In addition to CodeQL quality detecti</description>
     </item>
   </channel>
 </rss>

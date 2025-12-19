@@ -5,6 +5,20 @@
     <description>https://prtimes.jp/index.rdfから特定のキーワードを含む記事を提供します。</description>
     <link>https://prtimes.jp/index.rdf</link>
     <item>
+      <title>第一三共株式会社イベント「DX Festival」にてヒューマノイドロボット「Unitree G1」レンタルサービスをご提供しました</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000007.000157243.html</link>
+      <description>[株式会社EmplifAI]
+株式会社EmplifAI（エンプリファイ）（本社：東京都千代田区、代表取締役：大曽根 宏幸、以下「EmplifAI」）は、第一三共株式会社（本社：東京都中央区、代表取締役社長：眞鍋 淳、以下「第一三共」）が開催した...</description>
+      <pubDate>2025-12-11T13:40:32+09:00</pubDate>
+    </item>
+    <item>
+      <title>日本の職場で浮上する新たな課題：無許可で生成AIを使用する「シャドーAI」の増加</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000006.000149028.html</link>
+      <description>[SThree株式会社]
+最新の調査で、日本のSTEM人材の約3分の1が職場でAIチャットボットやAIアシスタントなどの生成AIツールを会社の許可なく使用していることが明らかになりました。一方で、別の3分の1の回答者はAIを一切使用してい...</description>
+      <pubDate>2025-12-19T14:40:29+09:00</pubDate>
+    </item>
+    <item>
       <title>住信SBIネット銀行、AI銀行サービス「NEOBANK ai」のエージェント機能を体験するベータテスターの募集を開始</title>
       <link>https://prtimes.jp/main/html/rd/p/000000540.000037968.html</link>
       <description>[住信SBIネット銀行株式会社]
@@ -2127,20 +2141,6 @@ AIの進化が目覚ましいスピードで進む中、エンジニアの...</d
       <description>[アンドドット株式会社]
 [画像1: https://prcdn.freetls.fastly.net/release_image/125579/78/125579-78-96362064a63aa10b37b65a6b1dd90804-2416x1276.png?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;...</description>
       <pubDate>2025-11-19T09:45:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>Slack上でChatGPTなど複数の生成AIモデルが利用できるアプリ「Party on Slack」がSlack Marketplaceで公開</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000023.000128333.html</link>
-      <description>[株式会社リバネスナレッジ]
-[画像: https://prcdn.freetls.fastly.net/release_image/128333/23/128333-23-d5ad76137b820e05214208f7cb934771-1920x1280.png?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;a...</description>
-      <pubDate>2025-11-19T07:00:00+09:00</pubDate>
-    </item>
-    <item>
-      <title>越生町役場、全職員PCに「moconavi LGWANクラウドゲートウェイ」を導入～セキュアなインターネット接続で、職員のDX意識を醸成～</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000128.000018768.html</link>
-      <description>[レコモット]
-　株式会社レコモット（本社：東京都千代田区、代表取締役CEO：東郷 剛、以下「レコモット」）は、埼玉県越生町（町長：新井 康之）以下「越生町」が、レコモットの提供する「moconavi LGWANクラウドゲートウェイ...</description>
-      <pubDate>2025-11-19T08:00:00+09:00</pubDate>
     </item>
   </channel>
 </rss>
