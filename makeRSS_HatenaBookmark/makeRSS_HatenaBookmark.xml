@@ -5,6 +5,75 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Google、AIに「長期記憶」を与える新アーキテクチャ「Titans」と設計理論のフレームワーク「MIRAS」を発表 | Ledge.ai</title>
+      <link>https://ledge.ai/articles/google_ai_long_term_memory_titans_miras</link>
+      <pubDate>2025/12/15 16:17</pubDate>
+      <description>Top &amp;gt; エンジニアリング &amp;gt; Anthropic、AIエージェント開発における”スキル”重視の新設計思想を提示──「IQ300数学の天才から経験豊富な税務専門家へ」、スキル中心アーキテクチャの全体像を解説</description>
+    </item>
+    <item>
+      <title>オードリー・タン氏「台湾は対策立法で被害激減」　自民党が台湾の初代デジタル相招き「ディープフェイク」対策を議論（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/23d9778fb5d3bdade435941223751642b5874a37</link>
+      <pubDate>2025/12/16 15:32</pubDate>
+      <description>通常、新規株式公開（IPO）ブームを生み出すには3社だけでは不十分だ。だがその3社が、米宇宙開発のスペースX、対話型AI（人工知能）「Chat（チャット）GPT」を手掛ける米オープンAI、そしてAI開発の米アンソロピックだとしたら、後世に語り継がれるIPOブームが近く米ウォール街にやってくるかもしれない。黒字化に多くの資金必須最も価値のある未上場テック企業の一部が、上場に向けて動き出している</description>
+    </item>
+    <item>
+      <title>このChrome「拡張機能」を今すぐ削除せよ、生成AIとの会話を収集し第三者に販売 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/87234</link>
+      <pubDate>2025/12/17 10:09</pubDate>
+      <description>この記事は CyberAgent Developers Advent Calendar 2025 の17日目の記事です。 こんにちは！ハノイ開発センターに所属しているminhquangです。普段はAI事業本部の協業リテールメディアカンパニーで、小売企業様向けアプリ開発のバックエンド開発を担当しています。 CyberAgentではエンジニア一人あたり200ドルの開発AIエージェント費用サポートが全社展開されました。私のチームでも半年ほど前からCursorやClaude CodeやCodexなどのAIツールを導入しています。導入後、チーム全体のコミット数が導入前の約2倍になり、AIエージェントによる生産性向上の効果が数字としても表れています。 一方で、コード量が倍増したことにより、レビュー負荷も跳ね上がりました。それに対し、エンジニアのレビューに割く工数を2倍にするような対応はしづらいので、こ</description>
+    </item>
+    <item>
+      <title>【コピペOK】GitHub Copilotを&amp;quot;DeepWiki化&amp;quot;するドキュメント指示書を作成してみた - Qiita</title>
+      <link>https://qiita.com/a32-suzuki/items/c3540da3e009dab1bf97</link>
+      <pubDate>2025/12/17 12:59</pubDate>
+      <description>With SAM Audio, you can use simple text prompts to accurately separate any sound from any audio or audio-visual source.</description>
+    </item>
+    <item>
+      <title>論文抄読会のスライド作成をNotebookLM→ChatGPTで95%自動化する方法｜わたヤク</title>
+      <link>https://note.com/ai_biostat/n/na3718f244fba</link>
+      <pubDate>2025/12/18 12:14</pubDate>
+      <description>はじめに この記事は、「ローカル環境でRAG（Retrieval-Augmented Generation）をやってみたい人」に向けた技術メモです。 大学時代、私はローカルLLMを使って「ドキュメントを検索して答えてもらうシステム」を作っていました。 「動けばOK」の精神で構築していましたが、最近あらためて調べ直すと、私が作っていたシンプルな構成は 「Naive RAG」、そこに工夫を加えたものは 「Advanced RAG」 と呼ばれていることを知りました。 本記事では、過去に実装した「Naive RAGの構成と課題」、そして今ならこうする「Advanced RAGの改善アイデア」をざっくり紹介します。 かつて作った「Naive RAG」の構成 私が実装していたのは、最もシンプルな構成です。 ・分割：ドキュメントを一定の文字数（固定長）で機械的にチャンク分割 ・保存：チャンクをベクトル化</description>
+    </item>
+    <item>
+      <title>オウンドメディアのメリット13選｜広告費を削減し“売上資産”に変える！AI時代の運用戦略 - オウンドメディア戦略ラボ by はてな</title>
+      <link>https://www.hatena.ne.jp/ownedmedia/article/ownedmedia-merit</link>
+      <pubDate>2025/12/18 11:00</pubDate>
+      <description>※ この5%は実装・レビュー工程における割合です。プロジェクト全体で見ると、テスト計画の策定、AI への指示出し、テスト修正の依頼といったプロジェクトマネジメント業務を含めて、人間の関与は約30%となります。 特筆すべき点として、Devin による大量の Pull Request 作成（80%の実装）と Claude Code による品質向上（15%の改善）を組み合わせることで、開発速度と品質担保を両立できました。 Go 版の行数が増加（約1.7倍）した主な理由は以下の通りです： 明示的なエラーハンドリング: Go の if err != nil パターンによる詳細なエラー処理 型定義の追加: 構造体とインターフェイス定義による型安全性の向上 階層構造の導入: レイヤードアーキテクチャ（Handler/Service/Repository 層）による保守性の向上 1. プロジェクト概要：移</description>
+    </item>
+    <item>
+      <title>7割近くの学生が課題などにAI使用　避けられない教育現場、新時代の“学び”をどう評価するか</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/18/news116.html</link>
+      <pubDate>2025/12/18 17:18</pubDate>
+      <description>この記事は、NTT docomo Business Advent Calendar 2025 18日目の記事です。 みなさんこんにちは、イノベーションセンターの田口です。 普段はOffensive Securityプロジェクトのメンバーとして攻撃技術の調査・検証に取り組んでいます。 私たちのチームでは定期的に技術LTと称して、各メンバーが自由に技術的知見を共有する時間を設けています。 この記事では、私が技術LTの場で発表したAI駆動型マルウェア1の動作デモと、発表後のチーム内議論の様子について紹介します。 この記事では、AI駆動型マルウェアの概念を理解するために、実害のないデモ用PoCを作成してその挙動を確認しています。 また、PoC悪用の可能性を考慮して検証の中で作成したコードやプロンプトの全体公開は控えさせていただきます。 Offensive Securityプロジェクトについて AI</description>
+    </item>
+    <item>
+      <title>The State of AI Coding 2025 | Greptile</title>
+      <link>https://www.greptile.com/state-of-ai-coding-2025</link>
+      <pubDate>2025/12/18 07:30</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4e8c37a1303d649e6a61313b62ad192d2a89293d/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2072%2F339%2Fyajiuma-watch_1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>国会答弁作成に専用AI「源内」　政府が全職員に配布　負担軽減狙う - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGKKZO93316370Z11C25A2PD0000/</link>
+      <pubDate>2025/12/19 08:12</pubDate>
+      <description>そもそも開発工程において、多くの組織ではコーディング時間がボトルネックになったことはこれまでも実はありませんでした。コードを書くことよりも、要件定義、仕様把握、設計、実装により発見した課題への対処、レビュー等といったことに時間がかかっていました。 コーディングエージェントの登場によってボトルネックが取り除かれたように思いがちだが、そもそもコーディングがボトルネックだったことはない / “Writing Code Was Never The Bottleneck” https://t.co/avmbSq8cw4 — Takuto Wada (@t_wada) September 6, 2025 ■AIのインパクトが大きいのはコード以外の仕事Atlassianの2025 State of DevEx Survey（開発者体験調査） で、下記の内容が出ています。 開発者は16%しかコーディングし</description>
+    </item>
+    <item>
+      <title>GPT-5ローンチ失敗、 企業95%が成果出せず … 転換期を迎えたAIブーム</title>
+      <link>https://www.technologyreview.jp/s/374024/the-great-ai-hype-correction-of-2025/</link>
+      <pubDate>2025/12/19 09:47</pubDate>
+      <description>TOPインタビュー「AIと協働して書いた35万字の書籍」が示す未来とは。広木大地氏が考える“AI時代のエンジニアの生存戦略” 一般社団法人 日本CTO協会 理事 / 株式会社レクター 代表 広木 大地 2008年に株式会社ミクシィに入社。同社メディア開発部長、開発部部長、サービス本部長執行役員を務めた後、2015年退社。株式会社レクターを創業。技術経営アドバイザリー。著書『エンジニアリング組織論への招待』がブクログ・ビジネス書大賞、翔泳社技術書大賞受賞。一般社団法人日本CTO協会理事。朝日新聞社社外CTO。 AIの発展によって、エンジニアリングやソフトウェアのあり方はどのように変わっていくのか――2025年11月に刊行された『AIエージェント 人類と協働する機械』（リックテレコム社）は、その問いに正面から向き合った一冊。著者は『エンジニアリング組織論への招待』（技術評論社）を手掛けた広木大</description>
+    </item>
+    <item>
+      <title>【アドベントカレンダー2025】「cdk diffが長すぎる」問題をGitHub Modelsで攻略する！変更内容を自動要約するCI/CD構築 - ぐるなびをちょっと良くするエンジニアブログ</title>
+      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251219-1/</link>
+      <pubDate>2025/12/19 12:04</pubDate>
+      <description>こんにちは、Insight Edge アジャイル開発チームのk-kazukiです。 Insight Edge アドベントカレンダー、Insight Edge Advent Calendar 2025 の19日目です！ 今回の記事では、近年増加しているSNSの誹謗中傷の課題について、生成AIを利用して対策できないかをClaude Codeを用いて検証してみました。 本記事には検証用の架空の誹謗中傷サンプルが含まれます（実在の人物とは無関係です）。 不快な表現が含まれるためご注意ください。過激な部分は伏せ字（⚪︎⚪︎）または「&amp;lt;生命を脅かす表現&amp;gt;」と表記しています。 1. SNSにおける誹謗中傷の課題について 2. Claude Codeを活用した誹謗中傷検知システムの構築 2.1 対象とするSNSについて 2.2 Claude Codeサブエージェントによる役割分担と実装 ユーザー体験シミュ</description>
+    </item>
+    <item>
       <title>Claude Code で要件定義をしながら社内システムを作ってみた</title>
       <link>https://zenn.dev/mixi/articles/8901f322d942eb</link>
       <pubDate>2025/12/16 10:52</pubDate>
@@ -1806,72 +1875,6 @@
       <link>https://zenn.dev/lifull/articles/222b02560e3b0b</link>
       <pubDate>2025/11/20 18:37</pubDate>
       <description>Menu. Currently selected: New static analysis tools in Copilot code review Copilot code review now surfaces actionable feedback from linters, so the small stuff is never missed—and you can customize which linters are used via repository rulesets. This feature is available in public preview for paid GitHub users. New static analysis tools in Copilot code review In addition to CodeQL quality detecti</description>
-    </item>
-    <item>
-      <title>30万kmの道のり、東京でE2E自動運転を走らせる</title>
-      <link>https://zenn.dev/turing_motors/articles/bc6436727234ad</link>
-      <pubDate>2025/11/21 16:26</pubDate>
-      <description>株式会社Algomaticは、AIを活用した音声生成プラットフォーム『にじボイス』の提供を、2026年2月4日（水）を持ちまして終了することをお知らせいたします。日頃より『にじボイス』をご利用いただい...</description>
-    </item>
-    <item>
-      <title>NotebookLM実務活用ガイド 2025年11月版：調査・分析から資料作成までを革新する｜【AI研究中】ただし</title>
-      <link>https://note.com/note_tds/n/n595913f89c9f</link>
-      <pubDate>2025/11/23 12:11</pubDate>
-      <description>🎯 この記事で得られること ✅ プロンプト改善のスピードを 1週間→数分 に短縮する方法 ✅ 非技術者でも GUI操作だけで プロンプトを改善できる環境構築 ✅ A/Bテスト を簡単に実装し、効果を定量化する手法 ✅ 問題発生時に 1クリック でロールバックする仕組み はじめに こんにちは！satto workspaceでプロダクトエンジニアをしている ryohei oyama（@ryohei_oyama）です。 LLMアプリケーションの品質向上において、プロンプトエンジニアリングは最も重要な要素の1つです。 しかし、多くの開発現場では以下のような課題に直面しています： 本記事では、これらの課題をLangfuseを使って解決する方法を、実際に動くコードと具体的な設定手順を交えて解説します。 🚀 Langfuseとは？何が解決できるのか Langfuseは、LLMアプリケーションの観測・</description>
-    </item>
-    <item>
-      <title>Building AI Agents with TypeScript #TSKaigiHokuriku</title>
-      <link>https://speakerdeck.com/izumin5210/building-ai-agents-with-typescript</link>
-      <pubDate>2025/11/23 15:37</pubDate>
-      <description>これはKritaという無料のペイントツールですが、Conwayのライフゲームが動作しています。 スクリプト等は用いておらず、標準のフィルターと合成レイヤーのみを用いています。 解説 端的に言うと次の4レイヤーを重ねることでライフゲームの次の世代の計算を行うことができます。 ぼかしフィルター #b88b73 加算 カラー補正フィルター #000000 彩度HSV ぼかしフィルター ここが一番の肝です。 今回使うぼかしフィルターの設定は以下のとおりです。 水平方向の半径 1 垂直方向の半径 1 強さ 1 角度 0° 形状 矩形 この設定のぼかしフィルターは、&amp;quot;理想的には&amp;quot;周囲3×3ピクセルの情報をもとに \begin{pmatrix} 0.0909… &amp;amp; 0.0909… &amp;amp; 0.0909… \\ 0.0909… &amp;amp; 0.2727… &amp;amp; 0.0909… \\ 0.0909… &amp;amp; 0.0909…</description>
-    </item>
-    <item>
-      <title>おそらくNano Banana Proで作ったであろう漫画を見つけた</title>
-      <link>https://anond.hatelabo.jp/20251122140905</link>
-      <pubDate>2025/11/22 14:10</pubDate>
-      <description>I felt like it might be a good time to write about some new things I’ve learned. Most of this is going to be about building agents, with a little bit about using agentic coding tools. TL;DR: Building agents is still messy. SDK abstractions break once you hit real tool use. Caching works better when you manage it yourself, but differs between models. Reinforcement ends up doing more heavy lifting t</description>
-    </item>
-    <item>
-      <title>【徹底解剖】Gemini 3.0がGPT-5.1/Claude 4.5を凌駕する「エージェント・ファースト」アーキテクチャの全貌</title>
-      <link>https://zenn.dev/knbzyh/articles/69012ad0941d12</link>
-      <pubDate>2025/11/23 00:04</pubDate>
-      <description>TSKaigi Hokuriku 2025 の登壇資料 https://hokuriku.tskaigi.org/talks/32 サンプルリポジトリ https://github.com/izumin5210-sandbox/open-deep-research-with-ai-sdk</description>
-    </item>
-    <item>
-      <title>「弁護士や税理士などの士業が危ない」という意見に岡野タケシ弁護士が「実際は真逆」と述べ賛否両論「業務独占資格が唯一の『堀』」「売れっ子と全く食えない層に2分化」</title>
-      <link>https://togetter.com/li/2631019</link>
-      <pubDate>2025/11/23 17:59</pubDate>
-      <description>Amazon Web Services ブログ インフラエンジニアのあなたも！Shell スクリプト開発で Kiro を使ってみよう こんにちは、ソリューションアーキテクトの松本です。 本ブログは Kiroweeeeeek ( X: #kiroweeeeeeek ) の第 5 日目です。昨日のブログは菅原さんの「Kiro を使ったペアプログラミングのすすめ」という内容でした。これまでに公開した記事の一覧はKiroweeeeeeek in Japan 開催のお知らせをご参照ください。 本ブログでは、これまでの連載と少し視点を変えて、「Kiro は私に不要なツールでは？」と見逃しているかもしれない皆様にメッセージをお届けしたいと思います。具体的には、アプリケーション開発担当ではなく、サーバやミドルウェアを中心に扱うインフラエンジニアの皆様に、「使ってみたい」と思ってもらえるよう Kiro の魅</description>
-    </item>
-    <item>
-      <title>家事ロボット「Memo」登場、完全自律型でエスプレッソの抽出や食洗機への食器の投入などが可能</title>
-      <link>https://gigazine.net/news/20251121-sunday-memo-robot-ai/</link>
-      <pubDate>2025/11/21 16:18</pubDate>
-      <description>https://2025.pmconf.jp/event-osaka/session-11 pmconf 2025 大阪 Track B (B05 ~ B07) 2025/11/21 16:45 – 17:05 プロダクト戦略 生成AI時代に未来を切り開くためのプロダクト戦略：圧倒的生産性を…</description>
-    </item>
-    <item>
-      <title>インフラエンジニアのあなたも！Shell スクリプト開発で Kiro を使ってみよう | Amazon Web Services</title>
-      <link>https://aws.amazon.com/jp/blogs/news/kiroweeeeeeek-in-japan-day-5-kiro-for-shell-scripting/</link>
-      <pubDate>2025/11/23 12:33</pubDate>
-      <description>【徹底解剖】Gemini 3.0がGPT-5.1/Claude 4.5を凌駕する「エージェント・ファースト」アーキテクチャの全貌 1. 導入: LLMパラダイムシフトの予兆 Googleが発表した最新の大規模言語モデル（LLM）Gemini 3.0は、AIの進化における単なる性能のマイナーチェンジではなく、**「エージェント・ファースト」**という新たなパラダイムシフトを開発の世界にもたらす予兆です。これまでのLLMが、コードの断片生成やドキュメント作成の「アシスタント」としての役割に留まっていたのに対し、Gemini 3.0は、複雑なタスクを自律的に分解・実行する「共同作業者」へと進化を遂げました。 本記事は、最先端の技術動向を追うエンジニアの皆様を対象に、Gemini 3.0の核となる技術的特徴であるDeep Thinkモードとエージェント・アーキテクチャを徹底的に深掘りします。さらに</description>
-    </item>
-    <item>
-      <title>Agent Design Is Still Hard</title>
-      <link>https://lucumr.pocoo.org/2025/11/21/agents-are-hard/</link>
-      <pubDate>2025/11/22 14:37</pubDate>
-      <description>＼AIの役立つnoteを毎日更新中／ ・AI好きの20代/ SNS総フォロワー30万人 ・目標は生成AIの教科書になること ・ツール：Midjourney / KLING/ SUNO/imageFX/ChatGPT/Gemini/Sora2など ぜひフォローよろしくお願いします！</description>
-    </item>
-    <item>
-      <title>ペイントツール上でライフゲームを動かす</title>
-      <link>https://zenn.dev/melville/articles/83c91d6ea42d0c</link>
-      <pubDate>2025/11/23 16:46</pubDate>
-      <description>🎯 この記事で得られること ✅ プロンプト改善のスピードを 1週間→数分 に短縮する方法 ✅ 非技術者でも GUI操作だけで プロンプトを改善できる環境構築 ✅ A/Bテスト を簡単に実装し、効果を定量化する手法 ✅ 問題発生時に 1クリック でロールバックする仕組み はじめに こんにちは！satto workspaceでプロダクトエンジニアをしている ryohei oyama（@ryohei_oyama）です。 LLMアプリケーションの品質向上において、プロンプトエンジニアリングは最も重要な要素の1つです。 しかし、多くの開発現場では以下のような課題に直面しています： 本記事では、これらの課題をLangfuseを使って解決する方法を、実際に動くコードと具体的な設定手順を交えて解説します。 🚀 Langfuseとは？何が解決できるのか Langfuseは、LLMアプリケーションの観測・</description>
-    </item>
-    <item>
-      <title>雲勉LT_Amazon Bedrock AgentCoreを知りAIエージェントに入門しよう！</title>
-      <link>https://speakerdeck.com/ymae/yun-mian-lt-amazon-bedrock-agentcorewozhi-riaiezientoniru-men-siyou</link>
-      <pubDate>2025/11/21 22:17</pubDate>
-      <description>MCP Apps は MCP の拡張機能として、AI エージェントがインタラクティブな UI コンポーネントを返すための標準化された方法を提供します。この記事では MCP Apps の概要と実装方法について解説します。 ChatGPT の Apps SDK や MCP-UI のように AI エージェントがチャット形式の対話だけでなく、インタラクティブな UI を通じてユーザーとやり取りできる仕組みが注目されています。AI エージェントが UI を返すことで、会話の流れの中で以下のような体験を提供できます。 「おすすめのランニングシューズを探して」と尋ねると、複数のシューズの画像と価格が表示され、ユーザーは気に入ったものをクリックしてカートに追加できる ホテルの予約を依頼すると、利用可能な部屋のリストが表示され、ユーザーは日付や人数を選択して予約手続きを進められる 希望にあった賃貸物件を探す</description>
     </item>
   </channel>
 </rss>
