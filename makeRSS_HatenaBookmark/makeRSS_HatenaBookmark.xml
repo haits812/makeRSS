@@ -5,6 +5,30 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>ゴリラが派手に破壊するためのアルゴリズム 〜よく知られたアルゴリズムをゲーム開発へ応用する時の考え方〜 - KAYAC Engineers&amp;#39; Blog</title>
+      <link>https://techblog.kayac.com/gorilla-crash-algorithm</link>
+      <pubDate>2025/12/16 10:06</pubDate>
+      <description>この記事は CyberAgent Developers Advent Calendar 2025 の17日目の記事です。 こんにちは！ハノイ開発センターに所属しているminhquangです。普段はAI事業本部の協業リテールメディアカンパニーで、小売企業様向けアプリ開発のバックエンド開発を担当しています。 CyberAgentではエンジニア一人あたり200ドルの開発AIエージェント費用サポートが全社展開されました。私のチームでも半年ほど前からCursorやClaude CodeやCodexなどのAIツールを導入しています。導入後、チーム全体のコミット数が導入前の約2倍になり、AIエージェントによる生産性向上の効果が数字としても表れています。 一方で、コード量が倍増したことにより、レビュー負荷も跳ね上がりました。それに対し、エンジニアのレビューに割く工数を2倍にするような対応はしづらいので、こ</description>
+    </item>
+    <item>
+      <title>「Gemini」対「Copilot」--日常タスクで7番勝負、勝敗の行方は？</title>
+      <link>https://japan.zdnet.com/article/35241640/</link>
+      <pubDate>2025/12/16 13:00</pubDate>
+      <description>OpenAIは2025年12月17日に、新しい画像生成モデル「GPT Image 1.5」を搭載した新バージョンの「ChatGPT Images」をリリースしました。この新モデルは、ゼロからの画像生成だけでなく、既存の写真の編集においてもユーザーの意図をより確実に反映できるよう設計されています。 The new ChatGPT Images is here | OpenAI https://openai.com/index/new-chatgpt-images-is-here/ OpenAI’s new flagship image generator AI is here | The Verge https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-</description>
+    </item>
+    <item>
+      <title>Prompt caching: 10x cheaper LLM tokens, but how? | ngrok blog</title>
+      <link>https://ngrok.com/blog/prompt-caching/</link>
+      <pubDate>2025/12/18 17:07</pubDate>
+      <description>この記事ははてなエンジニアアドベントカレンダー2025の15日目の記事だ。遅くなってすみません。 qiita.com HNSWというデータ構造がある。 en.wikipedia.org このデータ構造は、あるクエリした点からの（近似的な）近傍のデータを求めるのに最適化されている。なにが近傍かというと、高次元なベクトル空間における距離（距離空間が定義できればなんでもよいはず）が近い、という意味だ。 埋め込みベクトル便利だね 距離の話は簡単なことで、たとえば、3次元ベクトルでは典型的にはユークリッド距離が入れられてユークリッド空間として近いか遠いかを考えられるようになる。 そして、最近は埋め込みベクトルが一般的な技術として浸透してきた。これは文章や画像などの特徴を1000次元くらいの実数ベクトルに押し込んでしまうものだ。 次元がいくら増えてもベクトル同士の距離が定義できることに変わりはないし、</description>
+    </item>
+    <item>
+      <title>Overview - Agent Skills</title>
+      <link>https://agentskills.io/home</link>
+      <pubDate>2025/12/19 07:24</pubDate>
+      <description>そもそも開発工程において、多くの組織ではコーディング時間がボトルネックになったことはこれまでも実はありませんでした。コードを書くことよりも、要件定義、仕様把握、設計、実装により発見した課題への対処、レビュー等といったことに時間がかかっていました。 コーディングエージェントの登場によってボトルネックが取り除かれたように思いがちだが、そもそもコーディングがボトルネックだったことはない / “Writing Code Was Never The Bottleneck” https://t.co/avmbSq8cw4 — Takuto Wada (@t_wada) September 6, 2025 ■AIのインパクトが大きいのはコード以外の仕事Atlassianの2025 State of DevEx Survey（開発者体験調査） で、下記の内容が出ています。 開発者は16%しかコーディングし</description>
+    </item>
+    <item>
       <title>ブラウザだけで高速かつ無限に文章・音声・画像のAIを使う事ができるGemini Nanoを試してみる</title>
       <link>https://zenn.dev/finatext/articles/236a27fa78817d</link>
       <pubDate>2025/12/17 10:25</pubDate>
@@ -1848,33 +1872,6 @@
           &lt;p class="entrylist-contents-thumb"&gt;
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/7cebe561c9821461e433dbd267271a7ac5a4730c/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2069%2F342%2F001.JPG');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
-    </item>
-    <item>
-      <title>ITエンジニア向け技術書サブスク「Tech Lib（テックリブ）」</title>
-      <link>https://techlib.co.jp/</link>
-      <pubDate>2025/12/15 11:52</pubDate>
-      <description>皆さまこんにちは。ぐるなびで主に会員系サービスのフロントエンド開発を担当している小松です。主務はフロントエンドですが、開発部内で組織間連携分科会という活動も行っており会長も務めています。他にも肩書が増えてしまいましたが…今回はその組織間連携分科会での取り組みについてご紹介したいと思います。 この分科会は、長年、開発部の中でエンジニアとディレクター・デザイナー間などで課題となっていたコミュニケーションの認識齟齬や組織をまたいだ連携に関する課題に取り組むため発足しました。実は現存する分科会の中でも長く活動している分科会の1つです。 以下の内容は分科会メンバーの多大なる協力で執筆することができました。ありがとうございます。 コミュニケーションの課題 開発する中でそれぞれの役割ごとに異なる視点や専門知識を持つメンバーが協力し合うことは、プロダクトの成功に不可欠です。しかし、現実には以下のような課題</description>
-    </item>
-    <item>
-      <title>【必読記事：薬害を捏造する医師・弁護士たち】2025年12月11日　HPVワクチン薬害訴訟傍聴記録⑫｜たぬきち</title>
-      <link>https://note.com/tanuk_ichi/n/nbcf9bfb09bea</link>
-      <pubDate>2025/12/15 10:01</pubDate>
-      <description>はじめに DMO（Data Management Office）でデータプラットフォームセクションを担当しています髙橋です。 dbt開発の定型作業を効率化するツールを作成しました。「このSQLをdbtのモデルにして」と指示するだけでモデル作成から関連ファイル生成、Lintチェックまで完了しますし、「このモデルの差分をチェックして」でレグレッションテストも実行できます。 この記事では、ツールの機能紹介と、実装で工夫した点を共有します。 なぜ作ったか 私たちのチームではdbtを使ってデータ変換パイプラインを構築しています。複雑な依存関係を持った大量のモデルを運用しており、依存関係が複雑なほどレグレッションテストは重要ですが、その分手間もかかります。 一方で、ビジネスの要求に素早く応えることも求められます。弊社の行動規範「早いもの勝ち、速いもの価値」にあるように、スピードは重要な価値です。 定型</description>
-    </item>
-    <item>
-      <title>高校が「Wi-Fi 6」無線LANを導入した切実な理由　“教員の残業”を招いた問題とは？</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2512/16/news020.html</link>
-      <pubDate>2025/12/15 10:35</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f5dd8f8c8f029139b8f5861c1611ef93536cd88e/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2071%2F146%2Fn00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>外交映像のミーム動画化 ― SNS・AIが広げる外交情報空間と「揺さぶりが効かない日本社会」（佐藤仁） - エキスパート - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/expert/articles/5a2b098afb76c05cdb514bc58e2cf599b141b9ed</link>
-      <pubDate>2025/11/23 07:11</pubDate>
-      <description>アメリカ経済の未来は――そしてもしかするとアメリカ政治の未来も―― AI が大きく崩壊するかどうかにかかっている．以前の記事ではこう述べた――この問いは，投機や〔「いまのトレンドがこのまま続くだろう」という〕外挿的期待の伝統的な「バブル」プロセスの問題ではなくて，たんに AI が実質的なリターンを生み出す速度を世間が課題に推測しているかどうかにかかっている（日本語版）． でも，もしかしてぼくは間違っていたかもしれない．伝統的な「バブル」プロセスもここで働いてるかもしれない――〔みんなの動きに羊みたいについていく〕畜群行動や投機や「みんなに取り残されるのは怖い」心理ももっと作用していて，現実の AI 投資を突き動かしているかもしれない．そうだとしたら，現れていないか探るべき警戒信号は，投資家資金（流動性）の枯渇だ． 金融バブルの経済学モデルの多く，たとえば外挿的期待モデルや情報オーバーシュー</description>
     </item>
   </channel>
 </rss>
