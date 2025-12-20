@@ -5,6 +5,13 @@
     <description>https://prtimes.jp/index.rdfから特定のキーワードを含む記事を提供します。</description>
     <link>https://prtimes.jp/index.rdf</link>
     <item>
+      <title>動画生成AI「NoLang」、動画・音声ファイルをアップロードするだけで「多言語字幕付き動画」を自動生成する新機能を搭載。日本語の音声を英語字幕にするなど、AIが「翻訳×動画編集」を完全自動化</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000068.000129953.html</link>
+      <description>[Mavericks Inc.]
+日本発の動画生成AI「NoLang（ノーラン）」を提供する株式会社Mavericks（本社：東京都文京区、代表者：奥野 将太）は、既存の動画や音声ファイルをアップロードするだけで、AIが自動で翻訳を行い、他言語のテロ...</description>
+      <pubDate>2025-12-20T17:15:19+09:00</pubDate>
+    </item>
+    <item>
       <title>自治体の「独自ルール」による障害福祉サービスの困り事に関するアンケート調査を開始【障害当事者の声を行政に届けたい！】</title>
       <link>https://prtimes.jp/main/html/rd/p/000000029.000098762.html</link>
       <description>[株式会社パパゲーノ]
@@ -2133,13 +2140,6 @@ AIの進化が目覚ましいスピードで進む中、エンジニアの...</d
       <description>[ナイスモバイル株式会社]
 　 ITで会議DXを支援するナイスモバイル株式会社（本社：長野県松本市　代表取締役社長：高 学軍）は2025年11月14日（金）、郡山市へ、災害発生時のスムーズな情報伝達に寄与するMAXHUB「All in One Meeting Boar...</description>
       <pubDate>2025-11-19T13:40:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>ショーケース、MVNO事業サービス「レキオスモバイル」にオンライン本人確認ツール「ProTech ID Checker」を提供</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000535.000003483.html</link>
-      <description>[株式会社ショーケース]
-企業と顧客をつなぐDXクラウドサービスを展開する株式会社ショーケース（東京都港区、代表取締役社長：平野井順一、証券コード：3909、以下ショーケース）は、株式会社レキオス（沖縄県那覇市、代表取締役：宜保 ...</description>
-      <pubDate>2025-11-19T12:40:02+09:00</pubDate>
     </item>
   </channel>
 </rss>

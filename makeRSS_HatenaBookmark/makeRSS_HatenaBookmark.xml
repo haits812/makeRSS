@@ -5,6 +5,18 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>政府、AIに1兆円投資へ　基盤モデル国産化やフィジカルAI実装めざす - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA194VB0Z11C25A2000000/</link>
+      <pubDate>2025/12/19 22:36</pubDate>
+      <description>2025-12-17 社内向け LT 資料（公開版） Socrates : 社内向けデータ分析 LLM エージェント</description>
+    </item>
+    <item>
+      <title>SwiftUIで「推し活カレンダー」アプリを作ってみた - iimon TECH BLOG</title>
+      <link>https://tech.iimon.co.jp/entry/2025/12/20/080000</link>
+      <pubDate>2025/12/20 14:37</pubDate>
+      <description>2025 has been a strong and eventful year of progress in LLMs. The following is a list of personally notable and mildly surprising &amp;quot;paradigm changes&amp;quot; - things that altered the landscape and stood out to me conceptually. 1. Reinforcement Learning from Verifiable Rewards (RLVR)At the start of 2025, the LLM production stack in all labs looked something like this: Pretraining (GPT-2/3 of ~2020) Supervi</description>
+    </item>
+    <item>
       <title>NVIDIA、オープンソースLLM「Nemotron 3」発表--Metaの影響力低下で主導権狙う</title>
       <link>https://japan.zdnet.com/article/35241701/</link>
       <pubDate>2025/12/17 08:28</pubDate>
@@ -1854,18 +1866,6 @@
       <link>https://pop-the-bubble.xyz/</link>
       <pubDate>2025/12/09 13:40</pubDate>
       <description>現地時間の2025年12月11日、OpenAIがウォルト・ディズニー・カンパニーと「ディズニーブランドのキャラクターを動画生成AIのSoraに登場させること」に合意しました。 The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora | OpenAI https://openai.com/index/disney-sora-agreement/ Disney makes $1 billion investment in OpenAI, sends iconic characters to the slophouse https://www.polygon.com/disney-1-billion-inv</description>
-    </item>
-    <item>
-      <title>ヤドンでやぁ〜んと学ぶLLMのロングコンテキストを支える技術YaRN - ABEJA Tech Blog</title>
-      <link>https://tech-blog.abeja.asia/entry/advent-2025-day10</link>
-      <pubDate>2025/12/10 13:12</pubDate>
-      <description>中国で巨大な分散型AIコンピューティングプール「未来網絡基礎設(CENI)」」が開設したと中国の国営メディアが報じました。この高速光ネットワークは中国の40都市にまたがり、総距離は赤道の1周よりも長い約5万5000kmにも及ぶと言われています。 从699天到1.6小时，数据上演“极限穿越”，我国信息通信领域首个国家重大科技基础设施投运 https://www.stdaily.com/web/gdxw/2025-12/04/content_441822.html China Launches 34,175-Mile AI Network That Acts Like One Massive Supercomputer https://gizmodo.com/china-la%E3%80%80unches-34175-mile-ai-network-that-acts-like-one-mas</description>
-    </item>
-    <item>
-      <title>obsidian-gemini-helper/README_ja.md at master · takeshy/obsidian-gemini-helper</title>
-      <link>https://github.com/takeshy/obsidian-gemini-helper/blob/master/README_ja.md</link>
-      <pubDate>2025/12/12 16:39</pubDate>
-      <description>10 YearSora IIGPT-5Image Gen.Sora IOpenAIIOI CompetitionStrawberryCopyright 2025</description>
     </item>
   </channel>
 </rss>
