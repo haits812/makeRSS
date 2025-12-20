@@ -5,6 +5,57 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>NVIDIA、オープンソースLLM「Nemotron 3」発表--Metaの影響力低下で主導権狙う</title>
+      <link>https://japan.zdnet.com/article/35241701/</link>
+      <pubDate>2025/12/17 08:28</pubDate>
+      <description>OpenAIは2025年12月16日、これまで同社が提供していた画像生成モデルから大幅に能力を向上させた新しい画像生成モデルとそのAPI「gpt-image-1.5」を発表した。あわせて、ChatGPT内に新しい画像生成・編集用のページ「ChatGPT Images」を導入した。 The new ChatGPT Images is here - OpenAI News Image generation - OpenAI Platform gpt-image-1.5は、指示追従性と編集精度の向上、密度の高いテキストレンダリング、質感や細部表現の改善、そして従来比で最大4倍の生成高速化を特徴としている。入力画像のライティングや構図、人物の顔立ちといった重要要素を保持しつつ指定部分のみを正確に変更できるため、複数回の編集でも一貫した結果を得やすいという。 今回のgpt-image-1.5の発表に</description>
+    </item>
+    <item>
+      <title>GoogleがGemini 3 Flashをリリース、Gemini 3 Pro級の高度な推論能力を維持しながらより高速で価格は約4分の1</title>
+      <link>https://gigazine.net/news/20251218-google-gemini-3-flash-released/</link>
+      <pubDate>2025/12/18 11:48</pubDate>
+      <description>As I write this post, cached input tokens are 10x cheaper in dollars per token than regular input tokens for both OpenAI and Anthropic&amp;#39;s APIs. Anthropic even claim that prompt caching can reduce latency &amp;quot;by up to 85% for long prompts&amp;quot; and in my own testing I found that for a long enough prompt, this is true. I sent hundreds of requests to both Anthropic and OpenAI and noticed a substantial reducti</description>
+    </item>
+    <item>
+      <title>ZoomのAIが「最先端のベンチマークを達成した」と発表するも専門家は「他社AIの寄せ集め」と批判の声</title>
+      <link>https://gigazine.net/news/20251218-zoom-ai/</link>
+      <pubDate>2025/12/18 12:51</pubDate>
+      <description>そもそも開発工程において、多くの組織ではコーディング時間がボトルネックになったことはこれまでも実はありませんでした。コードを書くことよりも、要件定義、仕様把握、設計、実装により発見した課題への対処、レビュー等といったことに時間がかかっていました。 コーディングエージェントの登場によってボトルネックが取り除かれたように思いがちだが、そもそもコーディングがボトルネックだったことはない / “Writing Code Was Never The Bottleneck” https://t.co/avmbSq8cw4 — Takuto Wada (@t_wada) September 6, 2025 ■AIのインパクトが大きいのはコード以外の仕事Atlassianの2025 State of DevEx Survey（開発者体験調査） で、下記の内容が出ています。 開発者は16%しかコーディングし</description>
+    </item>
+    <item>
+      <title>｢ChatGPTで稼げる人｣と｢勝負もさせてもらえない人｣がとりあえず明らかに</title>
+      <link>https://www.gizmodo.jp/2025/12/openai_chatgpt_app_submission_reqirements.html</link>
+      <pubDate>2025/12/18 21:08</pubDate>
+      <description>A simple, open format for giving agents new capabilities and expertise. Agent Skills are folders of instructions, scripts, and resources that agents can discover and use to do things more accurately and efficiently. Why Agent Skills? Agents are increasingly capable, but often don’t have the context they need to do real work reliably. Skills solve this by giving agents access to procedural knowledg</description>
+    </item>
+    <item>
+      <title>文章が溢れる時代に、最後は人に戻っていく - Sakak&amp;#39;s Gadget Blog</title>
+      <link>https://sakak.hatenablog.com/entry/2025/12/18/183646</link>
+      <pubDate>2025/12/18 18:51</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ca8eaebc5edf593aa610df3502f792f10048d364/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2072%2F149%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Claude Codeの Agent Skills は設定したほうがいい - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/19/173309</link>
+      <pubDate>2025/12/19 19:34</pubDate>
+      <description>カーネル開発に刺激は求めない ―Linus TorvaldsがOpen Source Summit Japan 2025で語ったLinux開発のこだわり 12月9日、Linux Foundation主催の「Open Source Summit Japan」の会場となった東京・虎ノ門ヒルズのフロアは早朝から多くの人々であふれていました。参加者のお目当ては2年ぶり[1]の来日となった“⁠Linux ＆ Gitクリエーター⁠”ことLinus Torvalds氏と聞き手役のDirk Hohndel氏（Verison所属、以下Dirk）によるトークセッションです。 2年ぶりの日本でのトーク、Linus Torvalds氏（左）とDirk Hohndel氏 めったにインタビューやキーノートに登壇することがないLinusのリアルな声を聞くことができる貴重な機会である本セッションは今回で29回目、東京は他</description>
+    </item>
+    <item>
+      <title>No AI* Here - A Response to Mozilla&amp;#39;s Next Chapter - Waterfox Blog</title>
+      <link>https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/</link>
+      <pubDate>2025/12/19 16:43</pubDate>
+      <description>生成AIを活用したQA工数削減の試み。スクエニと東大・松尾研究室の共同研究を紹介するセッションをレポート［CEDEC+KYUSHU 2025］ ライター：大陸新秩序 2025年11月29日，福岡・九州産業大学にてコンピューターエンターテイメント開発者向けのカンファレンス「CEDEC＋KYUSHU 2025」が開催された。本稿では，その中から「生成AIが切り開くゲームプレイAIの新境地とゲーム開発への活用」と題されたセッションをレポートする。 スクウェア・エニックスのAI＆エンジン開発ディビジョンに所属する狩野竜示氏と城所 憲氏，そして東京大学 松尾・岩澤研究室の奥村悠希氏の3名が登壇したこのセッションでは，ゲームAI研究の歴史と最新の研究，そしてスクウェア・エニックスと東京大学の共同研究による，ゲームプレイAIエージェントの実験結果などの解説が行われた。 スクウェア・エニックス AI＆エン</description>
+    </item>
+    <item>
+      <title>私が生み出したGemini Gemたちをご紹介します</title>
+      <link>https://zenn.dev/genda_jp/articles/1706acefe03af8</link>
+      <pubDate>2025/12/20 11:03</pubDate>
+      <description>2025-12-17 社内向け LT 資料（公開版） Socrates : 社内向けデータ分析 LLM エージェント</description>
+    </item>
+    <item>
       <title>個人図解、Nano Banana Proに任せたらここまでできた｜このみ｜生成AI × SNS講師</title>
       <link>https://note.com/konomi_aisensei/n/n4b74bfd1ced0</link>
       <pubDate>2025/12/15 22:21</pubDate>
@@ -1815,57 +1866,6 @@
       <link>https://github.com/takeshy/obsidian-gemini-helper/blob/master/README_ja.md</link>
       <pubDate>2025/12/12 16:39</pubDate>
       <description>10 YearSora IIGPT-5Image Gen.Sora IOpenAIIOI CompetitionStrawberryCopyright 2025</description>
-    </item>
-    <item>
-      <title>iPhone・iPadで「Chrome in Gemini」が利用可能に、GoogleのGeminiがiOS版Chromeに統合</title>
-      <link>https://gigazine.net/news/20251212-chrome-in-gemini-for-ios/</link>
-      <pubDate>2025/12/12 16:56</pubDate>
-      <description>新ライセンスプロトコル「RSL 1.0」が正式始動：Webの新たな経済圏は「AIのタダ乗り」を終わらせるのか？ 2025年12月10日、インターネットの歴史において、極めて重要な転換点となる技術仕様が正式に公開された。「Really Simple Licensing (RSL) 1.0」である。これは、AI企業がWeb上のコンテンツを無償で収集（スクレイピング）し、自社のモデル学習や回答生成に利用してきた現状に対し、出版社やクリエイターが「待った」をかけ、正当な対価や利用条件を突きつけるための新たな世界標準規格だ。 これまで、AIクローラーに対する防衛策は、事実上「ブロックするか、黙認するか」の二択しかなかった。しかし、RSL 1.0の登場により、Webは「条件付き許可」と「ライセンス料の徴収」という、より高度で成熟した経済フェーズへと移行しようとしている。 RSL 1.0の本質：Robo</description>
-    </item>
-    <item>
-      <title>AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話 - Qiita</title>
-      <link>https://qiita.com/takasuke22/items/c1680ab9c6f3e8adaeb6</link>
-      <pubDate>2025/12/12 19:28</pubDate>
-      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
-    </item>
-    <item>
-      <title>俺が一番好きなデザインパターン「Strategy Pattern」の話</title>
-      <link>https://zenn.dev/zozotech/articles/204d6bfe2e4314</link>
-      <pubDate>2025/12/12 19:09</pubDate>
-      <description>AIで重要度が増す「動画の真正性」　カメラは登場したがワークフローに課題も　ソニーとアドビに聞く：小寺信良の「プロフェッショナル×DX」（1/3 ページ） 筆者が画像の「真正性」という言葉を初めて知ったのは、2023年のことだった。当時は生成AIが登場したことで、写真の信ぴょう性が疑われる事態となったことから、本当にカメラで撮影されたという証明や、逆にAIで作成したという証明機能が注目された。 記事執筆時にはまだ対応カメラがなかったので、「Photoshop」でコンテンツ認証情報をつけて動作を検証したが、現在はソニー、ニコン、独Leicaから対応カメラが出ている。 当時は生成AIによる動画はまだ未成熟で、生成時間も短く、よく見ると足が3本あったりするようなレベルだったので、動画の真正性についてはまだ先の話であった。 しかし今年になって生成AIの動画対応が急速に進み、ほとんど実写と見分けが付</description>
-    </item>
-    <item>
-      <title>AIコーディング時代、Pythonに厳格な型付けは必要？　作者グイド・ヴァンロッサム氏にGitHubが聞いた</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/12/news061.html</link>
-      <pubDate>2025/12/12 14:08</pubDate>
-      <description>人工知能学会合同研究会 招待講演資料 2025-12-01 慶応大学日吉キャンパス</description>
-    </item>
-    <item>
-      <title>GPT-5.2 Prompting Guide | OpenAI Cookbook</title>
-      <link>https://cookbook.openai.com/examples/gpt-5/gpt-5-2_prompting_guide</link>
-      <pubDate>2025/12/12 20:02</pubDate>
-      <description>ChatGPT、もっとテコ入れしないと厳しい気がする【GPT-5.2】2025.12.12 15:4523,491 かみやまたくみ ChatGPTとGeminiが合体したら完璧なんだけど。 2025年12月12日、OpenAIが新しいAIモデル｢GPT-5.2｣をリリースしました。ChatGPTで既に利用可能になっており、無料含めた全ユーザーが利用可能です。API版も公開されています。 GPT-5.2 is now rolling out to everyone.https://t.co/nfubPwnIIw — OpenAI (@OpenAI) December 11, 2025このアップデートで重要なのは、これが最近、高性能と評判が高いGoogleのAI｢Gemini（ジェミナイ）｣への対抗策であることです。先日、OpenAIはGoogleへの危機感を募らせ｢AI業界のトップ｣であり続</description>
-    </item>
-    <item>
-      <title>AI駆動でシステム開発は全自動へ　エンジニアの価値再編、生き残る3つの道</title>
-      <link>https://xtech.nikkei.com/atcl/nxt/column/18/03401/120200007/</link>
-      <pubDate>2025/12/12 10:28</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/52594be24aa0f8a34ae6d19b43b65946806a5c2f/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2070%2F868%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>🐸 なぜ今、Agentic Workflowなのか - Graflowの設計思想</title>
-      <link>https://zenn.dev/myui/articles/64f31faaf1488c</link>
-      <pubDate>2025/12/12 19:23</pubDate>
-      <description>人工知能（AI）関連銘柄が最高値圏に押し上げた米国株式相場の過熱ぶりに警戒が広がっている。12日は代表的なAI銘柄の一角、半導体大手ブロードコムが一時12%安となり、データセンター投資を加速するオラクルも連日で急落した。AIインフラ投資が経済を支え、市場の熱狂を生んだ様は2000年前後のドットコムバブル期との類似性も指摘される。各種データで当時と比較する。対GDP比の投資額、バブル期並み米国</description>
-    </item>
-    <item>
-      <title>「共鳴コンピューティング宣言」が我々に訴えるもの - YAMDAS現更新履歴</title>
-      <link>https://yamdas.hatenablog.com/entry/20251212/resonantcomputing</link>
-      <pubDate>2025/12/12 14:14</pubDate>
-      <description>「Google翻訳」に、Geminiで培われた最先端のテキスト翻訳品質が導入されることが発表されました。あわせて、イヤホンでリアルタイムに翻訳した内容を聞く機能のベータ版もスタートします。 Google Translate gets new Gemini AI translation models https://blog.google/products/search/gemini-capabilities-translation-upgrades/ Googleの製品・検索部門ヴァイスプレジデントであるローズ・ヤオ氏によると、Google翻訳に高度なGeminiの機能が加わり、慣用句やローカルな表現、スラングなどのフレーズの翻訳がより効果的に改善されるとのこと。 たとえば、「stealing my thunder」というフレーズは、これまで一語一語翻訳されて「私の雷を盗む」となっていまし</description>
     </item>
   </channel>
 </rss>
