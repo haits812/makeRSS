@@ -5,6 +5,75 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>AI時代の異常系テストについて考える - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/16/102227</link>
+      <pubDate>2025/12/16 11:11</pubDate>
+      <description>APIの状況 本記事執筆時点(2025年12月現在)でChromeの最新バージョンは 143.0.7499.110 となっており、既にChromeではTranslator API，Language Detector API、Summarizer APIが実験的な機能として使用できる状況です。 Writer API、Rewriter API、Prompt API、Proofreader APIを使用した機能を提供したい場合は、Chrome Origin Trialに参加する必要があります。 https://developer.chrome.com/docs/ai/built-in-apis?hl=ja より APIを動かしてみる フラグの有効化 現時点でオリジントライアルに参加が必要なAPIを動作させるには、Chromeウェブブラウザのフラグを有効化する必要があります。 chrome://f</description>
+    </item>
+    <item>
+      <title>AIデータセンター建設反対集会に100人以上が集結</title>
+      <link>https://gigazine.net/news/20251217-against-ai-data-center/</link>
+      <pubDate>2025/12/17 20:39</pubDate>
+      <description>AI has transformed how we write code. The next transformation is how we run it. At Vercel, we’re building self-driving infrastructure that autonomously manages production operations, improves application code using real-world insights, and learns from the unpredictable nature of production itself. Our vision is a world where developers express intent, not infrastructure. Where ops teams set princi</description>
+    </item>
+    <item>
+      <title>楽天、7000億パラメータの日本語LLM「Rakuten AI 3.0」</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2072366.html</link>
+      <pubDate>2025/12/18 17:58</pubDate>
+      <description>こんにちは。LINEヤフーのFoundation Models研究開発チームです。われわれのチームでは、画像と言語のマルチモーダル基盤モデルの研究開発を行っています。 この記事ではわれわれが開発した日本語マルチモーダル基盤モデル「clip-japanese-base-v2」について紹介します。弊チームでは以前「clip-japanese-base」を公開しましたが、今回は学習データと学習方法の改善によって高性能化したモデルを公開します。商用利用可能なApache-2.0 ライセンスで公開していますので、ぜひ気軽にご利用ください。 公開するリソース：clip-japanese-base-v2 はじめに CLIPは画像と言語の代表的なマルチモーダル基盤モデルで、インターネットから収集した大規模データで学習することでゼロショットでの分類や検索が可能となりました。高い汎用性と拡張性をもつCLIPは</description>
+    </item>
+    <item>
+      <title>開発工数の8割減を実現させた「バイブコーディング」実装論、ジュニアエンジニアが上流工程をこなす新しい開発フローとは？</title>
+      <link>https://codezine.jp/article/detail/22685</link>
+      <pubDate>2025/12/19 12:51</pubDate>
+      <description>Jeff GeerlingのBlogより macOS 26.2から、Thunderbolt 5対応MacをThunderbolt 5ケーブルで複数台接続し、クラスタリング処理を可能にする「RDMA over Thunderbolt」が搭載されています。 プログラマのJeff Geerling氏が、Appleから借りた、32コアCPU、80コアGPUのMac Studio (2025)/M3 Ultra/256GBメモリ/4TB SSDを2台、Mac Studio (2025)/M3 Ultra/512GBメモリ/8TB SSDを2台の合計4台を使用し、RDMA over ThunderboltをサポートしたAIクラスタを構築できる「EXO 1.0」を使用したレポートを公開しています。 RDMA を有効にするには、回復モードで起動し、次のコマンドを実行する必要があります。 ・Mac Stud</description>
+    </item>
+    <item>
+      <title>仕様書だけが降ってきた――「自治体システム標準化」で現場の混乱を招いた“完成図なき改革”</title>
+      <link>https://www.itmedia.co.jp/business/articles/2512/19/news029.html</link>
+      <pubDate>2025/12/19 08:55</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b373dd3602b7d933aca714ada0a6a68bd3732687/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2072%2F780%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>科学的発見のためにAI活用を促進するアメリカ政府の「ジェネシス・ミッション」にMicrosoft・Google・NVIDIA・OpenAI・AWS・AMDなど24社が参加</title>
+      <link>https://gigazine.net/news/20251219-us-genesis-mission-24-organizations/</link>
+      <pubDate>2025/12/19 23:11</pubDate>
+      <description>自己紹介 お世話になっております。 練馬区区政改革担当部区政改革担当課区政改革担当係（GovTech東京派遣研修）のイケダと申します。 「いきなり誰だお前は」「なんだその仰々しい肩書きは」となると思いますが、肩書のとおりわたしは練馬区役所の職員として今年１年間GovTech東京へ研修という形でお邪魔している身分でございます。 なんの変哲もない文系大学を卒業し練馬区へ入庁、福祉部で窓口業務を４年間、そのあと教育委員会にて補助金給付業務に２年間携わり、７年目になる今年、GovTech東京へ派遣、という職歴となっております。 「GovTech（ガブテック）」とは「Government」と「Technology」が掛け合わさった言葉です。そう、わたしは「GovTech東京」の”Gov”と”東京”の部分はぼちぼちの経験がありますが”Tech”の部分は全くの門外漢です。今の肩書きこそ強そうですが、これ</description>
+    </item>
+    <item>
+      <title>Google GeminiアプリでGoogleのAI生成動画を判別可能に、実際にやってみた</title>
+      <link>https://gigazine.net/news/20251219-google-ai-video-gemini-synth-id/</link>
+      <pubDate>2025/12/19 23:06</pubDate>
+      <description>AI企業のAnthropicは自動販売機に自社製AIを組み込んで経営を任せる「Project Vend」という実験を行っています。2025年6月の初期報告に続いて、2025年12月18日には機能改善などを取り入れたフェーズ2の実験結果が公開されました。また、実験にはウォール・ストリート・ジャーナルも参加しており、ジャーナリストらの独創的なプロンプトによってAIが混乱に陥ってしまう様子が報告されています。 Project Vend: Phase two \ Anthropic https://www.anthropic.com/research/project-vend-2 We Let AI Run a Vending Machine. It Lost All the Money. | WSJ - YouTube Project Vendはオフィスに設置するタイプの自動販売機にAI機能を加</description>
+    </item>
+    <item>
+      <title>データ活用 3.0 with Socrates</title>
+      <link>https://speakerdeck.com/na0/detahuo-yong-3-dot-0-with-socrates</link>
+      <pubDate>2025/12/19 12:26</pubDate>
+      <description>Parameters Tuning This page contains parameters tuning guides for different scenarios. List of other helpful links Parameters Python API FLAML for automated hyperparameter tuning Optuna for automated hyperparameter tuning Tune Parameters for the Leaf-wise (Best-first) Tree LightGBM uses the leaf-wise tree growth algorithm, while many other popular tools use depth-wise tree growth. Compared with</description>
+    </item>
+    <item>
+      <title>手書きの筆記体も認識してテキストに変換可能なOCRモデル「Mistral OCR 3」が登場</title>
+      <link>https://gigazine.net/news/20251219-mistral-ocr-3/</link>
+      <pubDate>2025/12/20 00:03</pubDate>
+      <description>高市早苗首相は19日、首相官邸で人工知能（AI）戦略本部の会議に出席した。AIの活用や開発に関する政府の方針となる初の基本計画をとりまとめた。首相は「AIをつくる官民投資を日本成長戦略における危機管理投資として力強く推進してほしい」と話した。政府方針として、AIに関連する施策へ国から1兆円を投資すると表明した。各国のAIの開発にふれ「日本の質の高いデータをいかし、信頼性を備えたAIを戦略的に開</description>
+    </item>
+    <item>
+      <title>2025 LLM Year in Review</title>
+      <link>https://karpathy.bearblog.dev/year-in-review-2025/</link>
+      <pubDate>2025/12/20 10:58</pubDate>
+      <description>はじめに 皆さんこんにちは！ 株式会社GENDA IT戦略部所属CorpEngのアサノです！ これは GENDA Advent Calendar 2025 シリーズ 2の18日目の記事です 今回は、私が生み出したGeminiのカスタムAI、「Gem」たちをご紹介します。 想定読者 ・Google Workspace　利用者 ・Gemini　利用者 実は、12月頭には ”もうGmailの未読は溜めない！「Workspace Studio」で始めるAI Workflowの第一歩” という大作記事を書き上げていました。 しかし、12/8に「Workspace Flows」が「Workspace Studio」へと名称変更されると同時に、書き上げた記事のコア部分であったWebhook送信のActionが無くなり、記事はお蔵入りとなったのでした。。（おのれ…ディケイド） 12/7には書き上げきってい</description>
+    </item>
+    <item>
+      <title>Claude Code の LSP サポート</title>
+      <link>https://azukiazusa.dev/blog/claude-code-lsp-support/</link>
+      <pubDate>2025/12/20 19:41</pubDate>
+      <description>会議では日本で初めてとなるAI基本計画案が取りまとめられた。高市首相はAI関連施策の推進に1兆円規模の投資を行う方針も表明。物理法則を理解し、ロボットを制御する「フィジカルAI」を念頭に、国産の汎用基盤モデルの開発に向けた企業と連携するよう赤沢亮正経済産業大臣に指示した。 関連記事 「ガバメントAI」って何？　デジタル庁が解説動画を公開 デジタル庁は、政府が活用するAI基盤「ガバメントAI」を解説するYouTube動画を公開した。 生成AIはマーケティングにどう使える？　博報堂DYグループが考える3つの事例 博報堂DYホールディングスが、生成AIとクリエイティビティについて考える同連載。今回は「AIが変革するマーケティングの新しい顧客体験」と題し、同社が取り組むマーケティングにおける、AIとクリエイティブワークの新しい形を紹介する。 デジ庁、「国産LLM」の公募開始　行政向けAIに実装へ</description>
+    </item>
+    <item>
       <title>政府、AIに1兆円投資へ　基盤モデル国産化やフィジカルAI実装めざす - 日本経済新聞</title>
       <link>https://www.nikkei.com/article/DGXZQOUA194VB0Z11C25A2000000/</link>
       <pubDate>2025/12/19 22:36</pubDate>
@@ -1794,78 +1863,6 @@
       <link>https://zenn.dev/sqer/articles/5c52615eeabce0</link>
       <pubDate>2025/12/12 08:41</pubDate>
       <description>この記事は 食べログアドベントカレンダー2025 の12日目の記事です🎅🎄 先日以下の記事を書きました、食べログカンパニー 開発本部 飲食店プロダクト開発部 羽澤と申します。 この記事の中で、&amp;quot;現在では Devin や Claude Code も導入されており&amp;quot; と書いたのですが、実はDevinの導入に深く関わっていました。その中で、涙なしでは語れない出来事や、それを起因とした意識と行動の変化や学びがありましたので、アドベントカレンダーという場を借りて語ります。ぜひ読んでください。 序章：Devinとの出会い 4月のある日、企画から新しい案件の打診を受けておりました。 これはすでにリリース済みでプレスリリースも出ているのですが、食べログ求人における有料サービスを作りたいというものでした。ある程度大きい規模の案件です。 上長と1on1で話している時にこの案件の話題になり、「Devin使っ</description>
-    </item>
-    <item>
-      <title>Mini PC + 外付けGPUでローカルLLM環境を作った話</title>
-      <link>https://zenn.dev/takajun/articles/0a3f487decab01</link>
-      <pubDate>2025/12/12 08:35</pubDate>
-      <description>※この記事は、2025 Speee Advent Calendar 12日目の記事です。 昨日の記事はこちら tech.speee.jp こんにちは、Speee リフォームDX事業本部 プロダクトマネージャーの嶋です。 以前書いた記事、組織全体の開発スループットを劇的に向上させた「AIプランナー」とは？ でも触れたように、私たちは現在、AIを前提にバリューチェーンを再創造する「AX（AI Transformation）」に取り組んでいます。 その最終的な到達点の一つとして掲げているのが「接客の完全AI化」です。 今回はその第一歩として、外壁塗装の会社探しサイト「ヌリカエ」における 「電話営業データの、リアルタイムかつ完全自動での構造化」に挑んだ話をします。 目指す水準：「人間による修正が不要」となる完全自動化 現在、私たちのカスタマーサクセス（CS）は、通話を行いながら専用ツールで議事録を</description>
-    </item>
-    <item>
-      <title>えーあい・えーあい</title>
-      <link>https://bigcomics.jp/episodes/37226cbb378eb</link>
-      <pubDate>2025/12/12 09:30</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/555b5a6c142c94dc14d487af7738c76d2d1db903/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2070%2F615%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Evolving NEWT’s TypeScript Backend for the AI-Driven Era | 令和トラベル Engineering Blog</title>
-      <link>https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20251212</link>
-      <pubDate>2025/12/12 09:53</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/463cb8ffa37475eb06369d653726d0d701c056b0/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2070%2F669%2Fopen01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>自分がビックリマン風になる名刺メーカー ロッテ</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2070784.html</link>
-      <pubDate>2025/12/12 13:34</pubDate>
-      <description>2025.12.12 技術記事 SRE × Dynatrace - AI活用による脆弱性対応の効率化 [DeNA インフラ SRE] by Kotaro Watanabe #infrastructure #sre #dynatrace #security #observability #ai はじめに こんにちは、 IT 本部 IT 基盤部 第三グループの渡邊です。IT 基盤部では、組織横断的に様々なサービスのインフラ運用を行っています。 現在、DeNA では AI オールインのスローガンのもと、全社的に AI を活用した生産性の向上に取り組んでいます。1 そんな中、IT 基盤部では AI によるインフラ運用の効率化を目指し、AI 機能を駆使したオブザーバビリティに強みを持つプラットフォーム Dynatrace の PoC (Proof of Concept) を進めています。 インフラエ</description>
-    </item>
-    <item>
-      <title>人間は読めなくて結構。LLMのための超正確なプログラミング言語「Sui」（PC Watch） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/8cd2959021688dc90c52e2f113ac1436efda92a8</link>
-      <pubDate>2025/12/11 14:42</pubDate>
-      <description>「スクラムマスターって何をする役割なんですか？」 とよく聞かれるのですが、端的で納得できる気持ちのいい回答をしたことがありません。もう8年ぐらいスクラムマスターとして、さまざまなチームに携わってきたのに、まだこの言語化が上手くいかないのです。 この質問と同じぐらいの頻度で、 「スクラムイベント以外の時間ってスクラムマスターは何をしているんですか？」 という質問も多くいただきます。こちらの質問はだいぶスラスラと答えられるようになったので、今回はその話をします。 まずは「スクラムガイド」から始めましょう。スクラムに関することの疑問には、原典に立ち戻ることが大切なのでね。 スクラムマスターは、スクラムガイドで定義されたスクラムを確⽴させることの結果に責任を持つ。スクラムマスターは、スクラムチームと組織において、スクラムの理論とプラクティスを全員に理解してもらえるよう⽀援することで、その責任を果た</description>
-    </item>
-    <item>
-      <title>AIで使うNVIDIAのGPUブラックマーケットの恐るべき実態、アメリカ政府によって中国への輸出が禁止されているGPUをどのようにして入手できるのか？</title>
-      <link>https://gigazine.net/news/20251212-china-nvidia-gpu-black-market/</link>
-      <pubDate>2025/12/12 12:33</pubDate>
-      <description>OpenAIは12月11日、最新のAIモデル「GPT-5.2」を正式に公開した。既にChatGPT有料プランおよびAPIで提供を開始している。同モデルは、知識業務やコーディング、画像認識、長文コンテキスト、マルチタスクに向けて設計されており、より複雑な業務の自動化・支援が可能となった。 引用：OpenAI 専門業務タスク評価（GDPval）では44職種にまたがるタスクの70.9％で業界専門家レベルのスコアを記録。スプレッドシートやプレゼンテーションの生成精度も向上し、エンタープライズ用途で有力な選択肢となる。コーディングベンチマーク（SWE-Bench Pro）でも55.6％と従来以上のスコアを達成し、4言語対応、大規模リファクタリングなど、実務を意識した機能強化を進めた。 引用：OpenAI 長文でのコンテキスト推論性能も向上しており、最大25万6000トークンに対応。複雑なプロジェクト</description>
-    </item>
-    <item>
-      <title>Claude Codeのコンテキストを節約する</title>
-      <link>https://zenn.dev/karaage0703/articles/1f30a572ff8460</link>
-      <pubDate>2025/12/12 06:25</pubDate>
-      <description>はじめに こんにちは！ファインディのTeam+開発部でエンジニアをしている澁谷（TENTEN11055）です。 この記事は、ファインディエンジニア Advent Calendar 2025の11日目の記事です。 今年11月、AWS が主催する AI-DLC Unicorn Gym に参加しました。 AWS主催 Unicorn Gym 最終日の成果プレゼンの様子 このプログラムの開発プロセスはAIと共に歩む仕様駆動開発。 部分的なAI活用から一歩進んだ開発体験を得ることができ、同時に「今後はより読解力が求められる」と感じました。 この記事では読書習慣がなぜスキルになるのか、自分の体験をもとに書いています。 はじめに AI-DLC（AI駆動開発ライフサイクル）とは AI-DLCにおけるレビュー負荷 読書を始めてみた 理解力がある人の特徴 「読む」と「理解」は別 人間が監視する時代、読書がどう活</description>
-    </item>
-    <item>
-      <title>Google、AIエージェント「Gemini Deep Researchエージェント」発表　「Gemini 3 Pro」搭載で自律的調査機能を強化</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/12/news066.html</link>
-      <pubDate>2025/12/12 14:03</pubDate>
-      <description>前回はAIエージェントの基本的な概念と、リアルタイム・非同期での活用方法について解説しました。今回は、実際のプロジェクトを想定しながら、ソフトウェア開発ライフサイクル全体でAIエージェントをどのように活用できるのかを具体的に見ていきます。計画から実装、テスト、リリース後の保守まで、各段階でAIエージェントがどのように開発を加速させるのか確認いただけるはずです。 大手小売企業におけるオンラインストアへのAIウィジェット追加 ここでは、大手小売企業のエンジニアリングマネージャーとして、オンラインストアに新しいAI搭載ウィジェットを追加するプロジェクトを例に、AIエージェントのユースケースを考えてみましょう。このウィジェットは、ユーザーの所在地や地域の気象傾向といった要素に基づいて、パーソナライズされた商品提案を行います。お客様が自分に適した商品を選びやすくなることで、購買体験の向上を目指すもの</description>
-    </item>
-    <item>
-      <title>AIの安全機能に盲点。比喩や謎かけを使う「詩」で危険な情報を引き出してしまう | カラパイア</title>
-      <link>https://karapaia.com/archives/571631.html</link>
-      <pubDate>2025/12/11 22:35</pubDate>
-      <description>Disneyは、AI動画向けに自社キャラクターのライセンスを供与する10億ドル（約1500億円）の契約をOpenAIと結ぶ一方で、Googleへの追及も強めている。The Walt Disney Companyは米国時間12月10日、Googleに停止通告書を送付し、GoogleのAIモデルが自社の著作権を「大規模に」侵害していると主張した。 「GoogleのAIサービスは、Disneyの知的財産にただ乗りするように設計されている。Googleは、競合他社が利用しているような著作権侵害を軽減または防止するための技術的措置が容易に利用可能であるにもかかわらず、その導入を拒否してきた」と書簡には記されている。「それどころか、Googleは商業的利益のためにDisneyの著作権を直接搾取し続けている」 GoogleはAI製品の大幅な刷新を行い、「Gemini 3」をリリースした。これには、人気の</description>
-    </item>
-    <item>
-      <title>「FastAPI + htmxが最強説」- AIエンジニアがモック作るならReactは不要、Streamlitも捨てよう</title>
-      <link>https://zenn.dev/livetoon/articles/04dccf642d324c</link>
-      <pubDate>2025/12/12 18:08</pubDate>
-      <description>スマートフォン向けアプリの開発者がAI用のトレーニングデータをGoogleドライブにアップロードしたところ、GoogleアカウントをBANされてしまうという事態に陥りました。 Developer Accidentally Found CSAM in AI Data. Google Banned Him For It https://www.404media.co/a-developer-accidentally-found-csam-in-ai-data-google-banned-him-for-it/ 問題となったデータはNSFW検出ツール向けのデータセットである「NudeNet」です。NudeNetはwinchester6788さんがRedditや他のソースからデータを収集してGitHub上で公開したもので、さまざまな研究者や開発者がこれを利用しています。 GitHub - vlad</description>
-    </item>
-    <item>
-      <title>Time until the AI bubble bursts</title>
-      <link>https://pop-the-bubble.xyz/</link>
-      <pubDate>2025/12/09 13:40</pubDate>
-      <description>現地時間の2025年12月11日、OpenAIがウォルト・ディズニー・カンパニーと「ディズニーブランドのキャラクターを動画生成AIのSoraに登場させること」に合意しました。 The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters from across Disney’s brands to Sora | OpenAI https://openai.com/index/disney-sora-agreement/ Disney makes $1 billion investment in OpenAI, sends iconic characters to the slophouse https://www.polygon.com/disney-1-billion-inv</description>
     </item>
   </channel>
 </rss>
