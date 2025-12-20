@@ -5,6 +5,51 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>個人図解、Nano Banana Proに任せたらここまでできた｜このみ｜生成AI × SNS講師</title>
+      <link>https://note.com/konomi_aisensei/n/n4b74bfd1ced0</link>
+      <pubDate>2025/12/15 22:21</pubDate>
+      <description>12月18日、AIコードレビュー／検索ツールを提供する Greptile が「State of AI Coding 2025」 と題したレポートを公開した。 本レポートは、Greptile が収集した GitHub 上の実開発データをもとに、AI コーディングツールがソフトウェア開発に与えている影響を定量的に分析した調査レポートである。 PR サイズや変更行数、SDK の利用状況など、感覚論ではなく 数字で語っている点が特徴だ。 AIは生産性を上げたのか？ レポートによると、AI コーディングツールの普及以降、 PR あたりの変更行数は約 30% 増 開発者 1 人あたりのアウトプットは約 76% 増 6〜15 人規模のチームでは最大 89% 増 という結果が示されている。 注目すべきは、単にコミット回数が増えたのではなく、 1 回の PR がより大きく、より多くの作業を含むようになった</description>
+    </item>
+    <item>
+      <title>What Actually Is Claude Code’s Plan Mode?</title>
+      <link>https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/</link>
+      <pubDate>2025/12/19 16:54</pubDate>
+      <description>Claude Codeを使い始めて、様々な発信をしてきました。今回は「Agent Skills」について。これも設定しておくと、Claude Codeがグッと使いやすくなる機能です。 Claude Code の settings.json は設定した方がいい - じゃあ、おうちで学べる Claude Code の CLAUDE.mdは設定した方がいい - じゃあ、おうちで学べる Claude Code の .claude/commands/**.md は設定した方がいい - じゃあ、おうちで学べる Claude CodeのHooksは設定したほうがいい - じゃあ、おうちで学べる Claude CodeのSubagentsは設定したほうがいい - じゃあ、おうちで学べる はじめに 「このプロジェクトではpython-pptxを使ってスライドを作って」「SQLは必ずこのフォーマットで書いて」</description>
+    </item>
+    <item>
+      <title>Google、提供する全サービスでMCP対応する方針を発表　4つのサービスで利用可能に</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/19/news077.html</link>
+      <pubDate>2025/12/19 14:34</pubDate>
+      <description>こんにちは。CQO室 QAエンジニアのTodoです。 2025年12月3日に「マネーフォワード クラウド契約」から「リース識別エージェント」がリリースされました。 「リース識別エージェント」はワンストップ契約管理サービス『マネーフォワード クラウド契約』において提供するAIエージェントです。エージェントが電子化された契約書を解析し、リース取引となる該当性の一次判断、根拠条文や仕訳に必要な要素の抽出を行います。 このAIエージェントがユーザー課題を解決できるかを判断するために、客観的な立場のCQO室に精度評価が求められました。 そこで、AIプロダクトの品質保証の知識ゼロ、従来の機能テストQA経験のみの私が、このAIエージェントの精度検証を担当することになりました。これは、私にとって新しい挑戦でした。 本記事では、約3ヶ月の検証期間を通じてどのように模索してきたかをご紹介します。 想定読者 A</description>
+    </item>
+    <item>
+      <title>祝・実験終了 🎉 Linux カーネルの Rust 採用が正式化！ C から Rust へ ─ AI コードエージェントが Linux カーネルコードを書き換えるとどうなるか？ - Qiita</title>
+      <link>https://qiita.com/hisaho/items/09362b9efdc5f21ab1f2</link>
+      <pubDate>2025/12/19 21:55</pubDate>
+      <description>noteは12月19日、経済産業省と新エネルギー・産業技術総合開発機構（NEDO）が実施する生成AI開発支援プロジェクト「GENIAC」に、同社の事業が採択されたと発表した。外部データを参照して生成AIが回答を出力する「RAG」向けに、出版社などのコンテンツを集めたデータベースを構築。“AI時代”のコンテンツ流通のエコシステム実現を目指す。 RAG向けデータベースの開発では、KADOKAWAやダイヤモンド社、学術著作権協会などと協力する。なお、開発の開始時に扱うコンテンツは「既存の著作権保護の観点から特に配慮が必要な『物語（フィクション）』などの領域ではなく、情報の正確性や出典の明示が価値となる『ニュース』『辞書』『実用書』『新書』『経済ビジネス』『マネー投資』などのファクト情報に限定し、権利処理を適正に行ったものに限る」（note） noteは、出版社などのコンテンツを収集したRAG向け</description>
+    </item>
+    <item>
+      <title>生成AIを活用したQA工数削減の試み。スクエニと東大・松尾研究室の共同研究を紹介するセッションをレポート［CEDEC+KYUSHU 2025］</title>
+      <link>https://www.4gamer.net/games/581/G058152/20251212002/</link>
+      <pubDate>2025/12/19 19:24</pubDate>
+      <description>Jeff GeerlingのBlogより macOS 26.2から、Thunderbolt 5対応MacをThunderbolt 5ケーブルで複数台接続し、クラスタリング処理を可能にする「RDMA over Thunderbolt」が搭載されています。 プログラマのJeff Geerling氏が、Appleから借りた、32コアCPU、80コアGPUのMac Studio (2025)/M3 Ultra/256GBメモリ/4TB SSDを2台、Mac Studio (2025)/M3 Ultra/512GBメモリ/8TB SSDを2台の合計4台を使用し、RDMA over ThunderboltをサポートしたAIクラスタを構築できる「EXO 1.0」を使用したレポートを公開しています。 RDMA を有効にするには、回復モードで起動し、次のコマンドを実行する必要があります。 ・Mac Stud</description>
+    </item>
+    <item>
+      <title>やってみたら思った以上にエンジニアだった公務員の奮闘記― 区職員×都庁ICT職が挑む、生成AIプロジェクト（前編）</title>
+      <link>https://zenn.dev/govtechtokyo/articles/493cda92ae44fc</link>
+      <pubDate>2025/12/19 14:18</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b373dd3602b7d933aca714ada0a6a68bd3732687/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2072%2F780%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIにスナック自販機の経営を任せたらPlayStationの無償配布や魚の入荷を始めて大赤字</title>
+      <link>https://gigazine.net/news/20251219-anthropic-project-vend-phase-two/</link>
+      <pubDate>2025/12/19 19:40</pubDate>
+      <description>アメリカ合衆国エネルギー省(DOE)が、AIの力を活用して科学的な発見を加速し、国家安全保障を強化し、エネルギー革新を推進する国家的取り組み「ジェネシス・ミッション」の推進に向け、関心を持つ24団体との合意を取り付けたと発表しました。 Energy Department Announces Collaboration Agreements with 24 Organizations to Advance the Genesis Mission | Department of Energy https://www.energy.gov/articles/energy-department-announces-collaboration-agreements-24-organizations-advance-genesis ジェネシス・ミッションは2025年11月24日にドナルド・トランプ大統</description>
+    </item>
+    <item>
       <title>ジェームズ・キャメロン監督 AI時代に制作過程を明かした訳 | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015006251000</link>
       <pubDate>2025/12/18 16:03</pubDate>
@@ -1821,51 +1866,6 @@
       <link>https://yamdas.hatenablog.com/entry/20251212/resonantcomputing</link>
       <pubDate>2025/12/12 14:14</pubDate>
       <description>「Google翻訳」に、Geminiで培われた最先端のテキスト翻訳品質が導入されることが発表されました。あわせて、イヤホンでリアルタイムに翻訳した内容を聞く機能のベータ版もスタートします。 Google Translate gets new Gemini AI translation models https://blog.google/products/search/gemini-capabilities-translation-upgrades/ Googleの製品・検索部門ヴァイスプレジデントであるローズ・ヤオ氏によると、Google翻訳に高度なGeminiの機能が加わり、慣用句やローカルな表現、スラングなどのフレーズの翻訳がより効果的に改善されるとのこと。 たとえば、「stealing my thunder」というフレーズは、これまで一語一語翻訳されて「私の雷を盗む」となっていまし</description>
-    </item>
-    <item>
-      <title>AWS構成図を生成するためにAgent Skillsで試行錯誤してみた | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/trial-and-error-aws-diagram-agent-skills/</link>
-      <pubDate>2025/12/13 13:03</pubDate>
-      <description>Amazonがプライム・ビデオでシリーズ作品の振り返り動画などを生成できる「Video Recaps」という機能を導入しました。しかし、このVideo Recapsが生成する動画には間違った内容が含まれることが明らかになり、Amazonは同機能を一時的に撤去する事態に陥っています。 The official Fallout season 1 recap is filled with AI and thinks the show is set in the 1950s | GamesRadar+ https://www.gamesradar.com/entertainment/sci-fi-movies/the-official-fallout-season-1-recap-is-filled-with-ai-and-thinks-the-show-is-set-in-the-1950s/</description>
-    </item>
-    <item>
-      <title>検索結果の「AI要約」って見てる？　2000人を対象に影響力を調査　米国チームが研究報告</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/12/news030.html</link>
-      <pubDate>2025/12/12 09:09</pubDate>
-      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
-    </item>
-    <item>
-      <title>今Go言語を採用する理由をなるべく定量的に考えてみる</title>
-      <link>https://zenn.dev/it_tsumugi/articles/894d59963a9cbb</link>
-      <pubDate>2025/12/12 22:28</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/65244de152ea1c4e356283378d5c14e601789582/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2069%2F931%2Fexcel.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>RAGを埋め込んだGeminiをコマンドで使う(Obsidian,NeoVim対応)</title>
-      <link>https://zenn.dev/takeshy/articles/8883e8387e0b35</link>
-      <pubDate>2025/12/13 16:41</pubDate>
-      <description>本日は2025年12月11日（木曜日）です。年末に突然発表されたニュース。スタートアップ界隈では知らない人がいない有名ポストIPOスタートアップの1社である「ラクスル株式会社」（プライム市場4384）がMBO（”マネジメント・バイアウト&amp;quot;）を発表しました。MBOとは現経営陣が主体となり会社を非公開化することを指します。 株式価値にして1,044億円相当。スタートアップ関連のM&amp;amp;A規模では、2021年のPaidyの3,000億円の買収劇に次ぐ規模ではないかと思います。 規模自体はそれなりにインパクトはある一方で、本件の本質はそこではないと思います。そして、私が本件について大きなサプライズだったかというと、意外とそうでもありません。ありそうなことが現実になった、そういう印象です。 本稿では、そのあたりをご理解いただけるような内容になると思います。少々長い（1.7万字程度）ですが、最後までお付き</description>
-    </item>
-    <item>
-      <title>AntigravityでAIの待ち時間を「ゼロ」にしたら、3時間で脳が焼き切れてCursorを解約した話｜たーん</title>
-      <link>https://note.com/taaan/n/n9d058ca848cf</link>
-      <pubDate>2025/12/13 10:30</pubDate>
-      <description>この記事は Datadog Advent Calendar 2025 11日目の記事です🎄 ABEMAの広告配信システム開発チームでバックエンドを担当している黒崎 ( @kuro_m88 )です。 今年DatadogのVectorを本番環境に導入したため、その事例を共有します。 DatadogのRust製オブザーバビリティデータパイプラインVectorとは？ Vector自体はDatadogのサービスではないため、Datadogユーザの中でも初めて聞いた人は多いかもしれません。 元はTimber Technologies社が開発していて、2021年にDatadogが同社を買収し、DatadogのCommunity Open Source Engineering teamが開発するソフトウェアとなりました。 https://www.datadoghq.com/blog/datadog-ac</description>
-    </item>
-    <item>
-      <title>macOS 26.2 Tahoeでは、Thunderbolt 5搭載のApple Silicon Mac間でDirect Memory Accessを可能にする「RDMA over Thunderbolt」がサポートされ、MLXを利用した分散推論などに利用可能に。</title>
-      <link>https://applech2.com/archives/20251213-macos-26-2-tahoe-rdma-over-thunderbolt-5.html</link>
-      <pubDate>2025/12/13 17:39</pubDate>
-      <description>女子は男子に比して学校成績が良い。これ自体は疑いようがないファクトだ。今は公開が停止されているが、過去に公開されていた千葉県教育委員会の「令和6年度千葉県公立高等学校入学者選抜における学習成績分布表等の公表について」において女子の内申点（評定平均値）は男子を上回る事が示されていた。数学や理科でさえ差が縮まるものの女子が男子をリードしており、全教科の評定合計平均値は男子29.4に対し女子31.4である。 また東京都もこの内申点の女子リードを「男女別定員設けたら内申点の（リード）分だけ女子の方が合格点が高くなる」として、都立高校入試における男女別定員制度（男女それぞれの枠を決めて合格させる）を廃止した。尚東京都のシュミュレーションによれば男女定員別から男女合同選抜（定員枠をなくして成績順に並べる）に変えたら女子の合格者が増えるという結果を確認しているらしい。 これは先進国全般の傾向であり、例え</description>
-    </item>
-    <item>
-      <title>AI時代の知的財産権検討会（第１０回） 議事次第</title>
-      <link>https://www.kantei.go.jp/jp/singi/titeki2/ai_kentoukai/gijisidai/dai10/index.html</link>
-      <pubDate>2025/12/13 07:40</pubDate>
-      <description>第二次大戦期の超難解暗号マシン｢エニグマ｣に現代のAIが挑んでみた2025.12.13 16:35115,067 Margherita Bassi - Gizmodo US ［原文］ （ 岩田リョウコ ） 2025年5月16日の記事を編集して再掲載しています。 今の技術が相当すごいってことを再確認。 1930年代〜40年代、数学者アラン・チューリングと連合国の暗号解読者たちは、ナチスが第二次世界大戦中に使用したドイツの暗号化機械｢エニグマ｣を解読するために莫大な努力を注ぎました。 そんな超難解だったエニグマの暗号ですが、現代のコンピューターと人工知能は、エニグマの暗号を苦労せずに解読することができるとのことです。 ポーランドの暗号解読機｢エニグマは現代のコンピューティングと統計学に立ち向かうことはできないでしょう｣と、オックスフォード大学のコンピューターサイエンス教授Michael Woo</description>
     </item>
   </channel>
 </rss>
