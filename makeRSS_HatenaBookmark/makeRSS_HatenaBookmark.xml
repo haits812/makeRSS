@@ -5,6 +5,66 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>ジェームズ・キャメロン監督 AI時代に制作過程を明かした訳 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015006251000</link>
+      <pubDate>2025/12/18 16:03</pubDate>
+      <description>AI開発企業は世界各地で大規模なAIデータセンター建設計画を進めています。しかし、データセンターの建設予定地では反発の声も上がっており、2025年12月16日にはミシガン州議会議事堂に100人以上の人々が集まって反対集会を実施しました。集会には複数の州議会議員も参加しています。 More than 100 rally against data centers at Michigan Capitol https://www.lansingstatejournal.com/story/news/local/2025/12/16/lansing-state-capitol-data-centers-rally-michigan/87792001007/ AIの開発および実行には多大なコンピューティング能力が必要であり、AI開発企業は大量のGPUやメモリを買い付けて大規模なデータセンターの建築計画</description>
+    </item>
+    <item>
+      <title>よく行う定型作業をClaude Codeのカスタムスラッシュコマンドにしたら便利だった話 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/claude-code-custom-slash-commands-routine-tasks/</link>
+      <pubDate>2025/12/18 15:43</pubDate>
+      <description>Cloudflareが2025年を通じて観察されたインターネットの傾向とパターンをレビューする「2025 Cloudflare Radar Year in Review」を発表しました。 Cloudflare Radar 2025 Year in Review https://radar.cloudflare.com/year-in-review/2025 The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks https://blog.cloudflare.com/radar-2025-year-in-review/ Cloudflareは世界125以上の国や地域の330都市に拠点を構え、広大なネットワークを展開しています。このネットワ</description>
+    </item>
+    <item>
+      <title>高性能な日本語マルチモーダル基盤モデル「clip-japanese-base-v2」の公開</title>
+      <link>https://techblog.lycorp.co.jp/ja/20251218a</link>
+      <pubDate>2025/12/18 17:16</pubDate>
+      <description>2014年から先端テクノロジーの研究を論文単位で記事にして紹介しているWebメディアのSeamless（シームレス）を運営し、執筆しています。 この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第124回）は、API経由でクローズド大規模言語モデル（LLM）にDoS攻撃できる手法「ThinkTrap」や、論文からコードを生成するAI「DeepCode」を取り上げます。 また、動かしたい軌跡を指定するだけで画像から動画を生成するAI「Wan-Move」と、ブラウザ上でリアルタイムに3DGSを表示できるプラットフォーム「Visionary」をご紹介します。 そして、生成AIウィークリーの中でも特に興味深いAI技術や研究にスポットライトを当てる「生成AIクローズアップ」では、AIエージェントと人間のサイバーセキュリティ専門家が実際のネットワー</description>
+    </item>
+    <item>
+      <title>カーネル開発に刺激は求めない ―Linus TorvaldsがOpen Source Summit Japan 2025で語ったLinux開発のこだわり | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/12/linus-at-open-source-summit-jp-2025</link>
+      <pubDate>2025/12/19 15:53</pubDate>
+      <description>はじめに 「うちの病院でも生成AIを活用したい」 「電子カルテの要約をAIでできないか」 医療機関のDX推進担当者や、外部のシステム開発者がこのような相談を受けることが増えています。しかし医療分野でLLMを活用する場合、一般的なWebサービスとは異なる厳格なデータの要件があります。 本記事では、2025年12月時点で日本国内の医療機関がLLMを本番利用する際に知っておくべき、規制要件とクラウドプロバイダーの選択肢について、網羅的に解説します。 ちなみに私は元医師で、現在株式会社LivetoonでCTOとしてAI開発をしている長嶋と申します。 また東大病院循環器内科にも所属しており、医療AI開発に携わっております。 ※筆者注: 情報は2025年12月時点のものであり、今後変更される可能性があります。またベンダー側のドキュメントも新旧入り乱れており、下記情報が完璧に正確である保証はいたしません</description>
+    </item>
+    <item>
+      <title>AIエージェントの品質保証 〜QAが知識ゼロから挑んだ3ヶ月間〜 - Money Forward Developers Blog</title>
+      <link>https://moneyforward-dev.jp/entry/2025/12/19/accuracy-validation</link>
+      <pubDate>2025/12/19 13:04</pubDate>
+      <description>Claude Codeを使い始めて、様々な発信をしてきました。今回は「Agent Skills」について。これも設定しておくと、Claude Codeがグッと使いやすくなる機能です。 はじめに 「このプロジェクトではpython-pptxを使ってスライドを作って」「SQLは必ずこのフォーマットで書いて」「コードレビューはこの観点でチェックして」。Claude Codeを使っていると、こういう説明を何度も繰り返すことになります。CLAUDE.mdに書けば解決すると感じるでしょう。しかしCLAUDE.mdに書いても、毎回読み込まれるとは限らない。commandsを作っても、手動で呼び出す必要がある。どちらも「繰り返し」を完全には解決してくれません。 私自身、Rustプロジェクトの開発をClaude Codeに任せようとして、この問題に何度もぶつかりました。「ビルドはcargo fmtから始めて</description>
+    </item>
+    <item>
+      <title>note、経産省のAI開発支援「GENIAC」に採択　KADOKAWAらと「RAGデータベース」開発へ</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/19/news093.html</link>
+      <pubDate>2025/12/19 15:18</pubDate>
+      <description>Googleは2025年12月11日（米国時間）、フルマネージドなリモートMCP（Model Context Protocol）サーバを、全てのGoogleサービスおよびGoogle Cloud製品群において提供する方針を発表した。 MCPは、LLM（大規模言語モデル）アプリケーションやAI（人工知能）エージェントが、外部のツールやデータソースと接続するためのオープンプロトコル。 開発者は、AIエージェントや「Google Gemini」などの標準的なMCPクライアントと、Googleが提供するサービスを簡単に連携させることができるようになるという。 「Google マップ」や「BigQuery」など4サービスでMCPサーバを利用可能に Googleは、AIがエージェントがユーザーに代わって目標を追求して現実世界の問題を解決するには、単なる知能だけでなく、ツールやデータと確実に連携させる必</description>
+    </item>
+    <item>
+      <title>macOS 26.2：Thunderbolt 5接続した複数台Mac Studio (2025)をAIクラスタリング使用する | Mac OS X | Mac OTAKARA</title>
+      <link>https://www.macotakara.jp/mac_os_x/entry-50145.html</link>
+      <pubDate>2025/12/19 16:58</pubDate>
+      <description>祝・実験終了 🎉 Linux カーネルの Rust 採用が正式化！ C から Rust へ ─ AI コードエージェントが Linux カーネルコードを書き換えるとどうなるか？sddSwarmCodingCodeGraphMUSUBI 📝 本記事について 本記事は、実際に MUSUBI（仕様駆動開発フレームワーク）と CodeGraph MCP Server を使用し、Linux カーネルコードの解析・変換を実験した結果をもとに、MUSUBI が自動作成した文章です。AI コードエージェントがどのように大規模コードベースを理解し、C から Rust への変換を行うかを、実践を通じてお伝えします。 目次 はじめに Linux カーネルにおける Rust サポートの歴史 「実験的」タグが外れた意味 Rust for Linux とは なぜ Linux カーネルに Rust が必要なのか C</description>
+    </item>
+    <item>
+      <title>OpenAI、コーディング特化の「GPT-5.2-Codex」提供　高度AIに限定アクセス</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2072780.html</link>
+      <pubDate>2025/12/19 14:19</pubDate>
+      <description>生成AIを活用したQA工数削減の試み。スクエニと東大・松尾研究室の共同研究を紹介するセッションをレポート［CEDEC+KYUSHU 2025］ ライター：大陸新秩序 2025年11月29日，福岡・九州産業大学にてコンピューターエンターテイメント開発者向けのカンファレンス「CEDEC＋KYUSHU 2025」が開催された。本稿では，その中から「生成AIが切り開くゲームプレイAIの新境地とゲーム開発への活用」と題されたセッションをレポートする。 スクウェア・エニックスのAI＆エンジン開発ディビジョンに所属する狩野竜示氏と城所 憲氏，そして東京大学 松尾・岩澤研究室の奥村悠希氏の3名が登壇したこのセッションでは，ゲームAI研究の歴史と最新の研究，そしてスクウェア・エニックスと東京大学の共同研究による，ゲームプレイAIエージェントの実験結果などの解説が行われた。 スクウェア・エニックス AI＆エン</description>
+    </item>
+    <item>
+      <title>「考えなくていいUI」を考える｜ritar</title>
+      <link>https://note.com/ritar/n/n9e960988c8c8</link>
+      <pubDate>2025/12/19 23:33</pubDate>
+      <description>自己紹介 お世話になっております。 練馬区区政改革担当部区政改革担当課区政改革担当係（GovTech東京派遣研修）のイケダと申します。 「いきなり誰だお前は」「なんだその仰々しい肩書きは」となると思いますが、肩書のとおりわたしは練馬区役所の職員として今年１年間GovTech東京へ研修という形でお邪魔している身分でございます。 なんの変哲もない文系大学を卒業し練馬区へ入庁、福祉部で窓口業務を４年間、そのあと教育委員会にて補助金給付業務に２年間携わり、７年目になる今年、GovTech東京へ派遣、という職歴となっております。 「GovTech（ガブテック）」とは「Government」と「Technology」が掛け合わさった言葉です。そう、わたしは「GovTech東京」の”Gov”と”東京”の部分はぼちぼちの経験がありますが”Tech”の部分は全くの門外漢です。今の肩書きこそ強そうですが、これ</description>
+    </item>
+    <item>
+      <title>Parameters Tuning — LightGBM 4.6.0.99 documentation</title>
+      <link>https://lightgbm.readthedocs.io/en/latest/Parameters-Tuning.html</link>
+      <pubDate>2021/09/10 02:54</pubDate>
+      <description>アメリカ合衆国エネルギー省(DOE)が、AIの力を活用して科学的な発見を加速し、国家安全保障を強化し、エネルギー革新を推進する国家的取り組み「ジェネシス・ミッション」の推進に向け、関心を持つ24団体との合意を取り付けたと発表しました。 Energy Department Announces Collaboration Agreements with 24 Organizations to Advance the Genesis Mission | Department of Energy https://www.energy.gov/articles/energy-department-announces-collaboration-agreements-24-organizations-advance-genesis ジェネシス・ミッションは2025年11月24日にドナルド・トランプ大統</description>
+    </item>
+    <item>
       <title>Claude Codeと一緒に行う学習方法を試してみる - iimon TECH BLOG</title>
       <link>https://tech.iimon.co.jp/entry/2025/12/18</link>
       <pubDate>2025/12/18 08:56</pubDate>
@@ -1806,66 +1866,6 @@
       <link>https://www.kantei.go.jp/jp/singi/titeki2/ai_kentoukai/gijisidai/dai10/index.html</link>
       <pubDate>2025/12/13 07:40</pubDate>
       <description>第二次大戦期の超難解暗号マシン｢エニグマ｣に現代のAIが挑んでみた2025.12.13 16:35115,067 Margherita Bassi - Gizmodo US ［原文］ （ 岩田リョウコ ） 2025年5月16日の記事を編集して再掲載しています。 今の技術が相当すごいってことを再確認。 1930年代〜40年代、数学者アラン・チューリングと連合国の暗号解読者たちは、ナチスが第二次世界大戦中に使用したドイツの暗号化機械｢エニグマ｣を解読するために莫大な努力を注ぎました。 そんな超難解だったエニグマの暗号ですが、現代のコンピューターと人工知能は、エニグマの暗号を苦労せずに解読することができるとのことです。 ポーランドの暗号解読機｢エニグマは現代のコンピューティングと統計学に立ち向かうことはできないでしょう｣と、オックスフォード大学のコンピューターサイエンス教授Michael Woo</description>
-    </item>
-    <item>
-      <title>Elasticsearch + pgvectorで1000万ファイルに対してハイブリッド検索をする - AKARI Tech Blog</title>
-      <link>https://tech.akariinc.co.jp/entry/2025/06/05/190000</link>
-      <pubDate>2025/12/13 12:51</pubDate>
-      <description>【ワシントン=飛田臨太郎、シリコンバレー=山田遼太郎】トランプ米大統領が推進する人工知能（AI）の規制緩和が政権に亀裂を生む可能性がでてきた。テック業界出身の幹部が規制緩和を後押しする一方、「MAGA（米国を再び偉大に）」と呼ばれるトランプ氏支持層は雇用への影響からAIに警戒感を示し、分裂を招きつつある。AI規制緩和の裏に「テック右派」トランプ氏は11日、AI規制は全米で一括で扱うとする大統</description>
-    </item>
-    <item>
-      <title>年表で振り返る食べログ20年の歴史 〜20年分の感謝を込めて〜 - Tabelog Tech Blog</title>
-      <link>https://tech-blog.tabelog.com/entry/advent-calendar-20251213</link>
-      <pubDate>2025/12/13 09:55</pubDate>
-      <description>著者 西見公宏（にしみまさひろ），吉田真吾（よしだしんご），大嶋勇樹（おおしまゆうき）　著 定価 3,300円（本体3,000円＋税10%） 発売日 2025.12.26 判型 B5変形 頁数 304ページ ISBN 978-4-297-15354-0 概要 本書は、Claude Codeの基本的な使い方からはじめ、スペック駆動開発をマスターすることで、大規模言語モデル（LLM）とソフトウェアエンジニアリングを統合する方法を解説した書籍です。Claude Codeをはじめとしたさまざまなコーディングエージェントは、単なる「魔法のようにコードを生成するAI機能」ではありません。LLMの自律的な推論能力とエージェントフレームワークの機能性を統合することで、要求の精緻化 → 達成するための計画立案 → タスクの実行 → 実行結果の検証というソフトウェア開発における一連の作業を効率化・最適化および</description>
-    </item>
-    <item>
-      <title>【無料&amp;amp;登録不要】AIで育てるWebサイトテンプレート「EYAN」 | トミナガハルキのWebサイト</title>
-      <link>https://amix-design.com/tominaga/eyan-theme</link>
-      <pubDate>2025/12/13 21:41</pubDate>
-      <description>著者 真鍋知博（まなべともひろ）　著 定価 3,520円（本体3,200円＋税10%） 発売日 2026.1.7 判型 B5変形 頁数 376ページ ISBN 978-4-297-15337-3 概要 ベクトル検索は従来の重要技術キーワード検索を補完する技術であり、かつWeb検索など、検索そのもののサービスにはもちろん、Eコマースなど各種サービスの検索機能にも採用されつつある注目度の高い技術です。従来のキーワード検索は、ユーザが入力したキーワードを含むドキュメントを抽出し、キーワードの出現頻度にもとづいてドキュメントをソート（ランキング）するというものでした。キーワード検索が表面的な情報を扱っていたのに対して、ベクトル検索はキーワードやドキュメントの「意味」を扱います。ベクトルの類似度によってキーワードとドキュメントそれぞれの意味の類似度を測れるよう、これらのテキストをベクトル化する技術で</description>
-    </item>
-    <item>
-      <title>【大バズリ】NotebookLMスライドをパワポやGIF画像に即変換するCanvas。ん…Canvas！？【コード無料配布】｜まじん</title>
-      <link>https://note.com/majin_108/n/n21d838108820</link>
-      <pubDate>2025/12/14 10:12</pubDate>
-      <description>Top &amp;gt; 学術＆研究 &amp;gt; 諸説あるAGIの定義をスタンフォード大などが明確化、「教養ある成人」がモデルケース──GPT-4は27%、GPT-5は約6割に到達と試算</description>
-    </item>
-    <item>
-      <title>とりあえずGUIが欲しいならStreamlitがおすすめ - Qiita</title>
-      <link>https://qiita.com/kagawa0710/items/39b1c7ab84e703554bb3</link>
-      <pubDate>2025/12/13 23:02</pubDate>
-      <description>Ubie ソフトウェアエンジニアの syu_cream です。最近は社内生成AI活用周辺においてなんでもやるマンをやっています。今回の記事では、最近発展が目覚ましい Gemini API を n8n のワークフローから活用する事例について紹介します。 Gemini API について Gemini API では、「Gemini でチャットできる」以上のさまざまな機能が搭載されています。目立った例としては Nano Banana Pro(Gemini 3 Pro Preview) による画像の生成・編集です。 Gemini アプリでもできるこの操作が、 API でも非常に手軽に実行することができます！ 他にも、音声生成や動画生成など機能は多岐に渡り、今日において実務で利用できるクオリティまでに近づいていると思います。 さらに！ちょうど一昨日には統合的な Interactions API ととも</description>
-    </item>
-    <item>
-      <title>『国税庁のAIの使い方、正しいうえに強くて笑うw』......所得税調査の追徴税額が1431億円、2009年以降で過去最高を更新。</title>
-      <link>https://posfie.com/@Count_Down_000/p/OFpoK7M</link>
-      <pubDate>2025/12/14 12:29</pubDate>
-      <description>■《前編》AIは数学者になれるか　AIが数学の定理を理解し、証明し、自分で正しさをチェックする――。そんな時代が近づいている。これまで人間が担っていたひらめきや証明、検証にAIなどのコンピューターが挑…</description>
-    </item>
-    <item>
-      <title>LLMはいつどのような時に使うべきか</title>
-      <link>https://gigazine.net/news/20251213-using-llms/</link>
-      <pubDate>2025/12/13 17:11</pubDate>
-      <description>こんにちは。メルペイ Manager of Managers の @abcdefuji です。 この記事は、Merpay &amp;amp; Mercoin Advent Calendar 2025 の14日目の記事です。 アドベントカレンダー内のn8nの連載企画の最終日です。 本記事では、メルカリにおける n8n Enterprise 導入の PoC（Proof of Concept）をどのように成功させたか を紹介します。 近年、生成 AI の爆発的な普及により、企業内には日々膨大な AI ツールが流れ込んでいます。コード生成、文章要約、データ連携、AI エージェント、自動化、その他毎日どこかで新しいツールが誕生し利用されている状態 です。 この状況が生む課題はシンプルであり、深刻です。 PoC ツールが乱立する 情報アップデートに追いつけず、すべてを触り切る余裕がない PoC を始めても Adopt</description>
-    </item>
-    <item>
-      <title>AIで人事評価を「めんどくさい」から「ポジティブな成長機会」へ！キャディのエンジニアが挑んだPoC - CADDi Tech Blog</title>
-      <link>https://caddi.tech/2025/12/14/080000</link>
-      <pubDate>2025/12/14 09:10</pubDate>
-      <description>はじめに 仕様書駆動開発（Spec-Driven Development） は、コードを書く前に仕様を明確にし、AIと人間が「何を作るか」を合意してから実装に入るアプローチです。 仕様書駆動開発のメリット 1. 作る前に認識のズレがわかる どのツールもspec（仕様）系ファイルとtasks（タスク）系ファイルを生成します。実装に入る前にこれらをレビューすることで、「思ってたのと違う」を防げます。 ツール spec（仕様）系ファイル tasks（タスク）系ファイル</description>
-    </item>
-    <item>
-      <title>AI設計壁打ちに使える、小さな合意を積み重ねるプロトコルを作った</title>
-      <link>https://zenn.dev/erukiti/articles/2512-micro-commit-protocol</link>
-      <pubDate>2025/12/14 16:45</pubDate>
-      <description>AIが翻訳し、リアルタイムで通訳する時代に、それでも英語を学ぶ意味はあるのか。 世界110カ国で教育・語学事業を展開する国際教育機関イー・エフ・エデュケーション・ファーストが発表した最新の英語能力調査は、テクノロジーの発達とは裏腹に、日本人の英語力が依然として低迷している実態を浮き彫りにした。 96位から抜け出せない日本今回発表された「EF英語能力指数2025年版」で、日本は世界96位と前年と変わらず停滞。スコアは446点で、アジア平均の477点、世界平均の488点をいずれも下回った。マレーシア(24位／581点)やフィリピン(28位／569点)といった英語教育先進国との差は依然として大きい。</description>
-    </item>
-    <item>
-      <title>GitHub Copilot の回答精度が大きく変わる。「.instructions.md」の書き方</title>
-      <link>https://zenn.dev/cscloud_blog/articles/0d27a926eff4cc</link>
-      <pubDate>2025/12/14 17:51</pubDate>
-      <description>Googleは12月11日、Chrome DevTools MCPサーバーの新機能を発表した。今回のアップデートにより、コーディングエージェントがアクティブなChromeブラウザセッションへ直接接続することが可能になった。これにより、既存セッションの再利用や、手動デバッグとAIによるデバッグの切り替えが容易になる。 導入には、まず「chrome://inspect#remote-debugging」にアクセスしてリモートデバッグを有効化する必要がある。その後、MCPサーバーを--autoConnectオプションで起動し、実行中のChromeインスタンスに自動で接続できる。セッション開始時にはユーザーの許可が求められ、デバッグ中はChrome上部に通知バナーが表示される。 引用：Google これらの機能により、開発者はAIによるデバッグ支援や従来の手動調査を状況に合わせて柔軟に使い分けるこ</description>
     </item>
   </channel>
 </rss>
