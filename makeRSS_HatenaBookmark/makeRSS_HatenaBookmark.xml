@@ -5,6 +5,45 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>資料作成の救世主？Gemini の「Canvas」でスライド自動生成｜Gemini - Google の AI</title>
+      <link>https://note.com/google_gemini/n/nacb57461efd3</link>
+      <pubDate>2025/12/18 09:30</pubDate>
+      <description>Googleは2025年12月11日（米国時間）、フルマネージドなリモートMCP（Model Context Protocol）サーバを、全てのGoogleサービスおよびGoogle Cloud製品群において提供する方針を発表した。 MCPは、LLM（大規模言語モデル）アプリケーションやAI（人工知能）エージェントが、外部のツールやデータソースと接続するためのオープンプロトコル。 開発者は、AIエージェントや「Google Gemini」などの標準的なMCPクライアントと、Googleが提供するサービスを簡単に連携させることができるようになるという。 「Google マップ」や「BigQuery」など4サービスでMCPサーバを利用可能に Googleは、AIがエージェントがユーザーに代わって目標を追求して現実世界の問題を解決するには、単なる知能だけでなく、ツールやデータと確実に連携させる必</description>
+    </item>
+    <item>
+      <title>AIとの対話ログ - FastAPI + HTMXって何がいいの？基礎用語から理解する</title>
+      <link>https://zenn.dev/ryugotoo/articles/39128fa78621dc</link>
+      <pubDate>2025/12/19 21:16</pubDate>
+      <description>AI開発企業のMistral AIが、スキャンしたドキュメントや手書き文字を認識してテキストデータに変換できるAIモデル「Mistral OCR 3」を発表しました。Mistral OCR 3の精度はエンタープライズ向けの文書処理ソリューションやAIを用いたOCRソリューションを上回り、読みにくい筆記体も認識できるとのことです。 Introducing Mistral OCR 3 | Mistral AI https://mistral.ai/news/mistral-ocr-3 Mistral OCR 3は、前モデルの「Mistral OCR 2」を大幅にアップグレードしたモデルで、筆記体や活字の上に注釈として書き込まれた手書きのコンテンツも正確に読み取ることが可能。また、密集したレイアウトや入力フォームなどの検出能力も改善され、さまざまな契約文書の読み取りにも適しているとのこと。さらに</description>
+    </item>
+    <item>
+      <title>【FastAPI基礎】モデル・スキーマ・CRUD・依存性注入・ルーターを体験してみた - Qiita</title>
+      <link>https://qiita.com/mukku928/items/267699ba03fe8191df5a</link>
+      <pubDate>2025/12/19 21:19</pubDate>
+      <description>はじめに 「GitHub CopilotやClaude Codeを使えば、もう設計書なんていらないよね？」 そう思っているあなた、ちょっと待ってください。確かにAIコーディングアシスタントの登場で、コーディング速度は飛躍的に向上しました。しかし、速く書けることと正しく作れることは別問題です。 この記事では、AIコーディング時代に真に必要な「仕様駆動開発（SDD）」と、それを実現する究極のツール「MUSUBI」の使い方を、実践を交えながらステップバイステップで解説します。 初心者の方へ: MUSUBIには25の専門エージェントがありますが、最初は @orchestrator（オーケストレーター）だけ覚えればOK です。orchestratorがあなたの代わりに適切な専門エージェントを呼び出してくれます。 Vibe Coding vs SDD（Specification Driven Deve</description>
+    </item>
+    <item>
+      <title>政府職員10万人超が生成AI基盤「源内」活用へ　高市首相が方針示す</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/19/news133.html</link>
+      <pubDate>2025/12/20 09:26</pubDate>
+      <description>Update: We&amp;#39;ve published Agent Skills as an open standard for cross-platform portability. (December 18, 2025) Since launching Skills, two of the biggest questions we’ve heard from customers are: &amp;quot;How do skills and MCP work together? When should I use one versus the other?&amp;quot; Model Context Protocol (MCP) connects Claude to third-party tools, and skills teach Claude how to use them well. When you combi</description>
+    </item>
+    <item>
+      <title>NVIDIAのLLM、Nemotron 3 Nanoは賢いけどコーディングには向かないかも。Mamba 2の特性が悪く出てる？ - きしだのHatena</title>
+      <link>https://nowokay.hatenablog.com/entry/2025/12/16/042030</link>
+      <pubDate>2025/12/21 10:43</pubDate>
+      <description>The Indie Game Awardsを主催するSix One Indieは『Clair Obscur: Expedition 33』のGame of the Year受賞が撤回された理由について声明を発表した。「生成AIの利用」がポリシーに抵触したためだという。</description>
+    </item>
+    <item>
+      <title>Gemini Drop - Gemini に関する最新情報</title>
+      <link>https://gemini.google/jp/gemini-drops/?hl=ja</link>
+      <pubDate>2025/12/21 13:21</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e63df3dc4c9bde62a87b10ac77b369224c82a2c2/height=288;version=1;width=512/https%3A%2F%2Fwww.gamespark.jp%2Fimgs%2Fogp_f%2F1070387.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
       <title>Android 用ランチャーアプリ Niagara Launcher を1年使っている - 大西ブログ</title>
       <link>https://onishi.hatenablog.com/entry/2025/12/20/091601</link>
       <pubDate>2025/12/20 09:17</pubDate>
@@ -1827,42 +1866,6 @@
       <link>https://speakerdeck.com/odashi/niiniokeruda-gui-mo-yan-yu-moderugou-zhu-shi-ye-noxian-zai-di</link>
       <pubDate>2025/12/08 21:46</pubDate>
       <description>はじめに こんにちは。データシステム部・推薦基盤ブロックのかみけん（上國料）です。 突然ですが、デザインパターンの中で個人的に一番好きなのは Strategy Pattern です。 学生時代、研究で鬼のように使っていました。機械学習の研究では「複数のモデルを同じ条件で比較する」場面が頻繁にあって、モデル A とモデル B、さらに提案手法 C を差し替えながら実験を回すわけです。このとき、各モデルを Strategy として切り出しておくと、実験コードがかなり綺麗に書けました。 if-else が増えてきたら「Strategy で綺麗にできないか？」と考えるのが癖になっていたくらいです。 この記事では、なぜ Strategy パターンが好きなのか思い出しながら、コード例を交えながら語っていきます。 Strategy Pattern とは 「アルゴリズムをオブジェクトとしてカプセル化し、実行</description>
-    </item>
-    <item>
-      <title>ChatGPT、もっとテコ入れしないと厳しい気がする【GPT-5.2】</title>
-      <link>https://www.gizmodo.jp/2025/12/gpt_5_2_released.html</link>
-      <pubDate>2025/12/12 18:46</pubDate>
-      <description>2025年8月時点のOctoverseでは、GitHub上で最も使われる言語は「TypeScript」がPythonを抜いて首位になったが（参考）、Python自体も2025年に前年比49％成長し、AI（人工知能）や科学、教育分野の標準言語の地位を維持している。 この結果について、同氏は「非常に驚いた」としつつ「TIOBE Index」など他の人気指標と異なるデータが出たことを指摘。下記の見解が挙がったという。 同氏は「TypeScriptはPythonによく似た型システムを取り入れた。今JavaScriptを書くなら、TypeScriptを使うのが論理的に正しい。これらの言語は人間に人気がある。今後も人気は続くだろう」と述べている。 ここから、同氏が述べる「人間（開発者）に人気がある」ことの詳細、Pythonの成り立ち、型システムを含む言語の発展へと話がつながっていく。 C言語とシェルス</description>
-    </item>
-    <item>
-      <title>生成AIを利用するだけでなく、投資できる組織へ</title>
-      <link>https://speakerdeck.com/pospome/sheng-cheng-aiwoli-yong-surudakedenaku-tou-zi-dekiruzu-zhi-he</link>
-      <pubDate>2025/12/12 12:47</pubDate>
-      <description>GPT-5.2 is our newest flagship model for enterprise and agentic workloads, designed to deliver higher accuracy, stronger instruction following, and more disciplined execution across complex workflows. Building on GPT-5.1, GPT-5.2 improves token efficiency on medium-to-complex tasks, produces cleaner formatting with less unnecessary verbosity, and shows clear gains in structured reasoning, tool gro</description>
-    </item>
-    <item>
-      <title>Amazonがプライム・ビデオでAI要約動画を導入も滅茶苦茶なナレーションを生成してしまい急遽撤去</title>
-      <link>https://gigazine.net/news/20251212-amazon-fallout-ai-recap/</link>
-      <pubDate>2025/12/12 12:53</pubDate>
-      <description>resonantcomputing.org 先週くらいから話題になっているみたいだが、「共鳴コンピューティング宣言（The Resonant Computing Manifesto）」とは何ぞや？ アテンションを奪うことに長けた中央集権的なプラットフォームが人々のつながりや幸福感を奪っており、テクノロジーが人間性を損なう結果になっている現状への批判がまずある。 クリストファー・アレグザンダーと「無名の質」を引き合いに出しているところにおっとなるが、この文章の著者たちはこの質を「共鳴（resonance）」と呼んでいる。テクノロジーは人間の最良の部分を引き出すべきものという信念のもと、もっと個人やコミュニティの特性を生かしたテクノロジーのあり方、つまりは共鳴的な環境を構築できるはずだと訴えている。 今我々はコンピューティングの未来を選ぶ岐路に立っているという認識のもと、以下の5つの原則を提案</description>
-    </item>
-    <item>
-      <title>GitHub - takeshy/obsidian-gemini-helper: An AI-powered assistant plugin for Obsidian using Google Gemini with File Search RAG capabilities.</title>
-      <link>https://github.com/takeshy/obsidian-gemini-helper</link>
-      <pubDate>2025/12/13 06:18</pubDate>
-      <description>クラスメソッドでは AI 駆動開発を推進するための取り組みを行っており、クラスメソッド社員も実際に日常的に AI を使って開発を行っています。 今回、弊社メンバーが日常的に実践する AI 駆動開発のナレッジや Tips を共有するために、AI駆動開発 Advent Calendar 2025 を開催しています。 本ブログは、本企画の 12 日目の記事になります。 もし AI 駆動開発の最先端を知りたい方は、この 1 ヶ月間、ぜひ本アドベントカレンダーをチェックしてみてください。 はじめに 最近AWS構成図を書く機会が増え、生成AIでドラフト版を作成して多少楽をしたいと思うようになりました。 「〇〇のAWS構成図を描いて」と指示するだけでdraw.ioで編集可能な構成図が生成できたら便利ですよね。 今回はClaudeの一機能であるAgent Skillsを活用して、AWS構成図を生成するため</description>
-    </item>
-    <item>
-      <title>「Excel」のエージェントモード、Web版で一般提供開始 ～日本語にも対応／来年1月にはWindows/Mac版、「Microsoft 365 Personal/Family」にも展開へ</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2069931.html</link>
-      <pubDate>2025/12/10 11:20</pubDate>
-      <description>GoogleやBingといった主要な検索エンジンは、生成AIを活用した要約機能を検索結果ページに組み込むようになった。ユーザーが何かを検索すると、関連するWebページの一覧に加えて、AIが情報を要約したテキストが表示される。こうした機能は便利である一方、ユーザーの考え方や判断にどのような影響を及ぼすのだろうか。 研究では2004人の米国成人を対象に、模擬的な検索結果ページを見せる実験を行った。テーマは加熱殺菌処理をしていない牛乳や水道水へのフッ素添加、人工甘味料、遺伝子組み換え食品という、社会的に議論のある4つの健康関連トピックだ。 参加者はAI要約がある場合とない場合、要約がページ上部にある場合と中央にある場合、また要約が健康上の利益を強調する場合と害を強調する場合という異なる条件に無作為に割り当てられた。 結果、AI要約が存在すると、参加者の態度や行動意図、政策への支持は、その要約が主</description>
-    </item>
-    <item>
-      <title>ラクスル非公開化MBO、グロース市場の在り方を問う｜村上誠典 | スタートアップ経営 | シニフィアン共同代表</title>
-      <link>https://note.com/201707/n/nb1bd71d668cd</link>
-      <pubDate>2025/12/12 19:43</pubDate>
-      <description>はじめに Go 言語はシンプルな言語仕様であることからキャッチアップコストが低く、コンパイラ言語であることから実行速度が速いなどメリットも多いです。また、近年では AI Coding も盛んに行われており、静的型付言語である Go 言語は相性も良さそうです。私の実務経験の長さとしては Go 言語が一番長いこと + 上記の理由でもし新規のプロジェクトのバックエンドリードをする場合は Go 言語を採用したいなと思っています（もちろん要件次第ですが）。しかし、そこでなんとなく採用したいなではなく、ある程度定量的な指標をもって言語選定理由を言えるようになりたいなと考えました。また、AI Coding に Go 言語は適していると考えているが、なんらかのベンチマークを参考にした時にそれは定量的に説明できるのかが気になりました。 そこで、今回は Go 言語を採用する理由を探してみようと思います（目的と</description>
     </item>
   </channel>
 </rss>
