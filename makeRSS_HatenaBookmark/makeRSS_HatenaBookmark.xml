@@ -5,6 +5,48 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>来たーッッ！！ChatGPTが“Nano Banana超え”の画像生成AI搭載！</title>
+      <link>https://ascii.jp/elem/000/004/360/4360578/</link>
+      <pubDate>2025/12/17 11:50</pubDate>
+      <description>こんにちは。LINEヤフーのFoundation Models研究開発チームです。われわれのチームでは、画像と言語のマルチモーダル基盤モデルの研究開発を行っています。 この記事ではわれわれが開発した日本語マルチモーダル基盤モデル「clip-japanese-base-v2」について紹介します。弊チームでは以前「clip-japanese-base」を公開しましたが、今回は学習データと学習方法の改善によって高性能化したモデルを公開します。商用利用可能なApache-2.0 ライセンスで公開していますので、ぜひ気軽にご利用ください。 公開するリソース：clip-japanese-base-v2 はじめに CLIPは画像と言語の代表的なマルチモーダル基盤モデルで、インターネットから収集した大規模データで学習することでゼロショットでの分類や検索が可能となりました。高い汎用性と拡張性をもつCLIPは</description>
+    </item>
+    <item>
+      <title>Introducing Mistral OCR 3 | Mistral AI</title>
+      <link>https://mistral.ai/news/mistral-ocr-3</link>
+      <pubDate>2025/12/20 00:01</pubDate>
+      <description>会議では日本で初めてとなるAI基本計画案が取りまとめられた。高市首相はAI関連施策の推進に1兆円規模の投資を行う方針も表明。物理法則を理解し、ロボットを制御する「フィジカルAI」を念頭に、国産の汎用基盤モデルの開発に向けた企業と連携するよう赤沢亮正経済産業大臣に指示した。 関連記事 「ガバメントAI」って何？　デジタル庁が解説動画を公開 デジタル庁は、政府が活用するAI基盤「ガバメントAI」を解説するYouTube動画を公開した。 生成AIはマーケティングにどう使える？　博報堂DYグループが考える3つの事例 博報堂DYホールディングスが、生成AIとクリエイティビティについて考える同連載。今回は「AIが変革するマーケティングの新しい顧客体験」と題し、同社が取り組むマーケティングにおける、AIとクリエイティブワークの新しい形を紹介する。 デジ庁、「国産LLM」の公募開始　行政向けAIに実装へ</description>
+    </item>
+    <item>
+      <title>アップル株、2026年に40％下落する可能性 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/87568</link>
+      <pubDate>2025/12/20 21:16</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?</description>
+    </item>
+    <item>
+      <title>GitHub Copilot Agent Skills 入門</title>
+      <link>https://zenn.dev/openjny/articles/a9d4f6ec2a05c2</link>
+      <pubDate>2025/12/20 21:14</pubDate>
+      <description>こんにちは、Ubieの橋山です。 この記事は「Ubie 生成AI Advent Calendar 2025」12/20の投稿です。 本稿ではその続編として、この構想がどのように設計・実装されているかという具体的な試行錯誤についてお話しします。 目標設定時の情報収集を楽にしたいUbieには「変化進化会」という、目標設定や成長について所属組織のLeadと対話する場があります。その準備として、過去の活動を振り返る作業があるのですが、なんとかこれを効率化できないかというのが事の発端でした。 そこで、すでに社内で活用が進んでいた JIRA / Notion / Slack の情報が取得できるMCPサーバーを経由して、振り返りの情報を「よしなに」取得するワークフローを作りました。 MCPツールを使って社内の情報を収集するワークフロー（抜粋）情報の取得精度が低いしかし、出力された情報はおおまかにはその人</description>
+    </item>
+    <item>
+      <title>Google が2025年の AI 機能振り返りとヒントを公開。Gemini や Pixel の活用40選 | HelenTech</title>
+      <link>https://helentech.jp/news-79930/</link>
+      <pubDate>2025/12/20 13:27</pubDate>
+      <description>LINEヤフーが社内のシステム開発に必要なプログラミングコードの作成などに、生成AI（人工知能）を活用している。自社に最適化した開発支援基盤を用意することで、社内ルールにのっとって安全にエンジニアの作業効率を高める。世界のテック大手がAIによるコーディング支援に取り組む中、AIで速さと品質を両立させることは競争力を保つのに欠かせないが人材育成に課題もある。コードの生成や校正のほか、仕様書の作成まで</description>
+    </item>
+    <item>
+      <title>【Cursor✖️Figma】非エンジニアでも出来た！金融系UIデザインをAIで効率化する方法｜吉澤カレン</title>
+      <link>https://note.com/chankar_e_/n/n2557449b5a5b</link>
+      <pubDate>2025/12/20 20:41</pubDate>
+      <description>【読売新聞】　官民による総額３兆円規模の国産ＡＩ（人工知能）開発計画の全容が判明した。来春にもソフトバンクなどの日本企業十数社が出資して新会社を設立し、国内最大規模のＡＩ基盤モデルの開発を目指す。ＡＩ開発は米中が性能面で大きくリード</description>
+    </item>
+    <item>
+      <title>AIを活用したドキュメント執筆技術｜michiomochi</title>
+      <link>https://note.com/michiomochi/n/nffa93191b5e9</link>
+      <pubDate>2025/12/21 17:03</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? TL;DR ( 忙しい人のための 3 行まとめ ) 量子化 ( Quantization ) は、重みの精度（ ビット数 ）を下げることで、メモリ消費を激減させ推論を高速化する技術。 GPTQ / AWQ / GGUF など、用途や実行環境（ GPU / CPU ）によって最適なフォーマットを選択する必要がある。 最新トレンドは 1-bit 量子化 ( BitNet )。精度を維持しつつ、スマホや PC での「 完全ローカル動作 」が現実味を帯びている。 Introduction 「 最新の強力な LLM を試したいけれど、 GPU メ</description>
+    </item>
+    <item>
       <title>資料作成の救世主？Gemini の「Canvas」でスライド自動生成｜Gemini - Google の AI</title>
       <link>https://note.com/google_gemini/n/nacb57461efd3</link>
       <pubDate>2025/12/18 09:30</pubDate>
@@ -1824,48 +1866,6 @@
       <link>https://codezine.jp/article/detail/22595</link>
       <pubDate>2025/12/12 13:03</pubDate>
       <description>増え続けるコンテキスト AIコーディング実践環境の構築方法【2025年12月】という記事も書きましたが、AIコーディングツールとして、私は現在Claude Codeをメインで使用しています。 そしてAIコーディングしていて、一番ストレスフルな瞬間…それは何といってもこれ 使用しているコンテキストが一杯になったときに出てくる無慈悲なメッセージ。しばらく待たないといけないのと、コンテキスト圧縮するのでこの後、頭も悪くなる（指示を忘れたりする）のが辛いです。 最近、そんなCompacting Conversation...が出てくるのがやけに増えてきたと感じるようになりました。 そんな中、最近ご恵贈いただいたClaude CodeによるAI駆動開発入門を読むと /contextというコマンドでコンテキストウィンドウの使用量を確認できると書いてあったので試してみました。 69% Oh…God… 使</description>
-    </item>
-    <item>
-      <title>Googleが「Gemini Deep Research エージェント」をリリース＆ベンチマーク「DeepSearchQA」オープンソース化</title>
-      <link>https://gigazine.net/news/20251212-gemini-deep-research/</link>
-      <pubDate>2025/12/12 13:57</pubDate>
-      <description>Google、AIエージェント「Gemini Deep Researchエージェント」発表　「Gemini 3 Pro」搭載で自律的調査機能を強化 米Googleは12月11日（現地時間）、新たなAIエージェント「Gemini Deep Researchエージェント」のリリースを発表した。このエージェントは、開発者向けに新しく導入された「Interactions API」を介して利用可能になる見込みだ。これにより、「Googleの最も高度な自律的な研究機能」を直接アプリケーションに組み込むことが可能になったとしている。開発者は、「Google AI Studio」から取得した「Gemini API」キーを使用して、このエージェントにアクセスできる。 Gemini Deep Researchエージェントは、従来のGeminiのDeep Researchの概念をこれまで以上に強力になるように再</description>
-    </item>
-    <item>
-      <title>中国は5万5000kmに及ぶ分散AIネットワークを構築している</title>
-      <link>https://gigazine.net/news/20251212-china-ai-network/</link>
-      <pubDate>2025/12/12 16:05</pubDate>
-      <description>Why this date? Fetching latest analysis from Gemini... Past Predictions Curious about how the sentiment has changed over time? Explore the full history of our daily AI bubble analysis. View Prediction History Is this real? No, this is a satirical project. We don&amp;#39;t actually know if or when the &amp;quot;AI bubble&amp;quot; will burst. It&amp;#39;s a thought experiment where an AI (Gemini) predicts its own potential industry</description>
-    </item>
-    <item>
-      <title>OpenAI Supply Co.</title>
-      <link>https://supply.openai.com/</link>
-      <pubDate>2025/12/12 14:56</pubDate>
-      <description>やぁ〜ん こんにちは、データサイエンティストをしている服部です。 ABEJAアドベントカレンダー2025の10日目の記事です。 LLMといえばロングコンテキスト大事ですよね（唐突） そんなLLMのロングコンテキストを支える重要技術である「YaRN」を紹介したいと思います。 https://arxiv.org/abs/2309.00071 脳内再生されるあれ 実際になんと読むのが正解なのか知りませんが、私の頭の中ではこれしか流れません。 「やぁ〜ん」 www.youtube.com どないやねん　ヤドン ということで、「やぁ〜ん」っとヤドンを題材にしながらヤドンでも分かるようにYaRNを紹介したいと思います。 脳内再生されるあれ YaRNの正式名称 RoPE 回転による位置情報付与 同じトークン内のベクトルの中でも回転させる量を変えている 回転量が少ない部分 回転量が多い部分 RoPEの全体</description>
-    </item>
-    <item>
-      <title>新ライセンスプロトコル「RSL 1.0」が正式始動：Webの新たな経済圏は「AIのタダ乗り」を終わらせるのか？ | XenoSpectrum</title>
-      <link>https://xenospectrum.com/rsl-1-0-ai-licensing-standard-official-launch-pay-to-scrape/</link>
-      <pubDate>2025/12/11 22:29</pubDate>
-      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
-    </item>
-    <item>
-      <title>GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&amp;#39;s agent-sdk), and injects relevant context back into future sessions.</title>
-      <link>https://github.com/thedotmack/claude-mem</link>
-      <pubDate>2025/12/11 23:26</pubDate>
-      <description>iPhoneやiPadからGoogleのGeminiを使うためには、iOS向けの「Google Gemini」アプリを利用する必要があります。Googleは新たに、iOS向けのChromeからGeminiに直接アクセスできるようにすることを発表しました。 Use Gemini in Chrome - Computer - Google Chrome ヘルプ https://support.google.com/chrome/answer/16283624 Google Rolls Out Gemini AI for Chrome on iPhone and iPad - MacRumors https://www.macrumors.com/2025/12/11/google-rolls-out-gemini-ai-for-chrome-ios/ Googleは、ChromeにGemini</description>
-    </item>
-    <item>
-      <title>AIで重要度が増す「動画の真正性」　カメラは登場したがワークフローに課題も　ソニーとアドビに聞く</title>
-      <link>https://www.itmedia.co.jp/news/articles/2512/12/news116.html</link>
-      <pubDate>2025/12/12 19:38</pubDate>
-      <description>AIで“それっぽい技術提案”を作っていたら、お客さんもAIで見抜くようになり、さらにAIで迷彩しようとした結果、よく考えたら普通に良い提案ができてた話ポエムAI ※最初に少しだけ この記事で出てくる“AI営業”という言葉は、 「提案書づくりにAIを積極利用している営業の方」 を示す便宜的な呼び名です。 深い意味はなく、読みやすさのためのタグのようなものです。 ■ 1. AIが“自分の理解をほんの少し越えた提案”を生成してしまう問題 AIに技術提案を作らせると、とにかく“それっぽい資料”が一瞬で出てきます。 図は綺麗 文言は丁寧 技術用語も正確 課題整理も無駄がない しかし、営業本人の理解度を微妙に超えたレイヤーで文章が出てくることがあり、 技術者の視点で読むと“ほんの小さな違和感”が生まれます。 運用前提が暗黙的 実装段階の落とし穴に触れていない 技術選定理由が抽象的 スケール時の条件が曖</description>
-    </item>
-    <item>
-      <title>NIIにおける大規模言語モデル構築事業の現在地</title>
-      <link>https://speakerdeck.com/odashi/niiniokeruda-gui-mo-yan-yu-moderugou-zhu-shi-ye-noxian-zai-di</link>
-      <pubDate>2025/12/08 21:46</pubDate>
-      <description>はじめに こんにちは。データシステム部・推薦基盤ブロックのかみけん（上國料）です。 突然ですが、デザインパターンの中で個人的に一番好きなのは Strategy Pattern です。 学生時代、研究で鬼のように使っていました。機械学習の研究では「複数のモデルを同じ条件で比較する」場面が頻繁にあって、モデル A とモデル B、さらに提案手法 C を差し替えながら実験を回すわけです。このとき、各モデルを Strategy として切り出しておくと、実験コードがかなり綺麗に書けました。 if-else が増えてきたら「Strategy で綺麗にできないか？」と考えるのが癖になっていたくらいです。 この記事では、なぜ Strategy パターンが好きなのか思い出しながら、コード例を交えながら語っていきます。 Strategy Pattern とは 「アルゴリズムをオブジェクトとしてカプセル化し、実行</description>
     </item>
   </channel>
 </rss>
