@@ -5,6 +5,66 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>日本全国1.3億人分の擬似人流を再現したデータ無償提供、特定の属性の人の1日分の行動を生成するAIの研究も進む【地図と位置情報】</title>
+      <link>https://internet.watch.impress.co.jp/docs/column/chizu3/2071814.html</link>
+      <pubDate>2025/12/17 08:23</pubDate>
+      <description>OpenAIは2025年12月16日、これまで同社が提供していた画像生成モデルから大幅に能力を向上させた新しい画像生成モデルとそのAPI「gpt-image-1.5」を発表した。あわせて、ChatGPT内に新しい画像生成・編集用のページ「ChatGPT Images」を導入した。 The new ChatGPT Images is here - OpenAI News Image generation - OpenAI Platform gpt-image-1.5は、指示追従性と編集精度の向上、密度の高いテキストレンダリング、質感や細部表現の改善、そして従来比で最大4倍の生成高速化を特徴としている。入力画像のライティングや構図、人物の顔立ちといった重要要素を保持しつつ指定部分のみを正確に変更できるため、複数回の編集でも一貫した結果を得やすいという。 今回のgpt-image-1.5の発表に</description>
+    </item>
+    <item>
+      <title>チーム開発でcopilot-instructions.mdを導入してみたら、コードレビューの負担が減った</title>
+      <link>https://zenn.dev/ren21/articles/bd27b78a515db5</link>
+      <pubDate>2025/12/18 00:15</pubDate>
+      <description>Cloudflareが2025年を通じて観察されたインターネットの傾向とパターンをレビューする「2025 Cloudflare Radar Year in Review」を発表しました。 Cloudflare Radar 2025 Year in Review https://radar.cloudflare.com/year-in-review/2025 The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks https://blog.cloudflare.com/radar-2025-year-in-review/ Cloudflareは世界125以上の国や地域の330都市に拠点を構え、広大なネットワークを展開しています。このネットワ</description>
+    </item>
+    <item>
+      <title>未来への切符 / 大容量VRAMはタイムマシンだ｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/n8952920423f6</link>
+      <pubDate>2025/12/19 09:16</pubDate>
+      <description>Jeff GeerlingのBlogより macOS 26.2から、Thunderbolt 5対応MacをThunderbolt 5ケーブルで複数台接続し、クラスタリング処理を可能にする「RDMA over Thunderbolt」が搭載されています。 プログラマのJeff Geerling氏が、Appleから借りた、32コアCPU、80コアGPUのMac Studio (2025)/M3 Ultra/256GBメモリ/4TB SSDを2台、Mac Studio (2025)/M3 Ultra/512GBメモリ/8TB SSDを2台の合計4台を使用し、RDMA over ThunderboltをサポートしたAIクラスタを構築できる「EXO 1.0」を使用したレポートを公開しています。 RDMA を有効にするには、回復モードで起動し、次のコマンドを実行する必要があります。 ・Mac Stud</description>
+    </item>
+    <item>
+      <title>NotebookLMで表を作成する新機能『データテーブル』を試してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/notebooklm-datatables-sample/</link>
+      <pubDate>2025/12/20 11:03</pubDate>
+      <description>はじめに 「GitHub CopilotやClaude Codeを使えば、もう設計書なんていらないよね？」 そう思っているあなた、ちょっと待ってください。確かにAIコーディングアシスタントの登場で、コーディング速度は飛躍的に向上しました。しかし、速く書けることと正しく作れることは別問題です。 この記事では、AIコーディング時代に真に必要な「仕様駆動開発（SDD）」と、それを実現する究極のツール「MUSUBI」の使い方を、実践を交えながらステップバイステップで解説します。 初心者の方へ: MUSUBIには25の専門エージェントがありますが、最初は @orchestrator（オーケストレーター）だけ覚えればOK です。orchestratorがあなたの代わりに適切な専門エージェントを呼び出してくれます。 Vibe Coding vs SDD（Specification Driven Deve</description>
+    </item>
+    <item>
+      <title>Extending Claude&amp;#39;s capabilities with skills and MCP | Claude</title>
+      <link>https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers</link>
+      <pubDate>2025/12/20 11:36</pubDate>
+      <description>この記事はiimon Advent Calendar 2025 20日目の記事となります！ はじめに 開発環境 完成したアプリ 開発の流れ 1. まずはシンプルなスケジュールアプリから @Stateと@Bindingの使い分け 2. カレンダーUIを自作 日付セルのデザイン 3. カテゴリをenumで管理 4. シートで入力画面を表示 5. 年別集計機能 6. TabViewで画面を分ける 今回躓いたポイント ✔︎Task という名前は避けた方がいい ✔︎Int型の入力フィールド 今後やりたいこと まとめ 最後に 参考 はじめに こんにちは！新卒エンジニアのつかちゃんです！今回は私の趣味を交えたアプリを作ってみました！ 実は幼少期からK-POPが大好きで、最初は日本語を今風の韓国語に翻訳してくれるキーボード拡張アプリを作ろうとしていました。 推しにメッセージ送るとき自然な韓国語で打ちたいじ</description>
+    </item>
+    <item>
+      <title>個人の活動を記録する生成AI時代の日報「Activity Report」が生まれるまで｜hashiyaman</title>
+      <link>https://note.com/hashiyaman/n/n57ee6c67c416</link>
+      <pubDate>2025/12/20 20:49</pubDate>
+      <description>アップル株（AAPL）には、困難が待ち受けているかもしれない。 過去3年間で同社の株価は2倍以上に上昇し、2022年末の約130ドルから現在の過去最高値に近い275ドル付近まで上昇した。しかし、この期間中の売上高は比較的に横ばいのままだ。利益率はわずかに向上したものの、その改善は最小限にとどまっているためだ。 株価が2倍になったのは、PER（株価収益率）も2倍になったからだ。これを好ましいものだろうか？　我々はそうは思わない。以下でさらに詳しく説明しよう。 アップルの売上成長は鈍化している。過去3会計年度で、売上高は年間わずか約2.4％しか増加していない。今年のiPhone 17への買い替えサイクルによる押し上げ効果は一時的なものであり、長期的なトレンドではないと予想されている。 確かに、営業利益率は2022年の30.3％から現在の31.9％に上昇しているが、これは主に需要の改善ではなく製</description>
+    </item>
+    <item>
+      <title>LINEヤフー、AIが書くコード　社内の生産性4割アップも - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC17BG30X11C25A2000000/</link>
+      <pubDate>2025/12/20 08:29</pubDate>
+      <description>GitHub Copilot を使っていると、「このプロジェクト固有のルールを覚えてほしい」「特定のスクリプトの使い方を教えたい」といった場面に出くわすことがあります。これまでは、カスタム指示や AGENTS.md にそうした情報を記述することで対応してきましたが、ここに新たな最適化方法が登場してきています。それが「Agent Skills」です。 2025 年 12 月 18 日、Agent Skills が GitHub Copilot に追加されました[1]。Agent Skills は、必要な時だけ動的にロードされる「専門知識のパッケージ」として機能し、コンテキストを効率的に管理しながら Copilot の能力を拡張できます。 この記事では、Agent Skills の基本的な仕組みと、実際に動作する簡単なスキルの作り方を紹介します。さらに、VS Code の Chat Debug</description>
+    </item>
+    <item>
+      <title>メモリ品薄の影響受け、旧世代の中古CPU価格が高騰。DDR4メモリ対応の「Ryzen 7 5800X3D」など脚光浴びる - AUTOMATON</title>
+      <link>https://automaton-media.com/articles/newsjp/ryzen-7-5800x3d-20251220-382648/</link>
+      <pubDate>2025/12/20 16:14</pubDate>
+      <description>本を読む意味とは どうも、ねじまきです。 数秒で答えを取り出せる人工知能の時代に&amp;quot;わざわざ１冊何時間をかけて本を読むことの意味って何なのか？&amp;quot;を少し考えてみました。 (※この記事は 生成AI Advent Calendar 2025 - Adventar 19日目のブログ記事です) nazology.kusuguru.co.jp 海外でも話題になっていた記事だけど「毎日趣味で読書をしていた人の割合が、40%以上も減少していた」という研究結果が出たらしい。(どこまで信用おけるデータ化はさておき) 1冊読むのに何時間もかかる本、一見タイパもコスパも悪いのに、なぜ Kindleハイライトを検索して、&amp;quot;読書の意義&amp;quot;みたいなものについて考えさせてくれる本をいくつか引用してみようかなと。 ・『読書の価値 / 森博嗣』 つまり、自分の時間と空間内では経験できないことであっても、他者と出会うことによって、</description>
+    </item>
+    <item>
+      <title>Claude CodeにLSPツールが追加</title>
+      <link>https://blog.lai.so/claude-code-lsp/</link>
+      <pubDate>2025/12/21 00:45</pubDate>
+      <description>[.NET Conf 2025 Tokyo Osaka Fukuoka - connpass](https://dotnetlab.connpass.com/event/371159/) のLT登壇スライドです。オープンスタンダードになったAgent Skillsの説明と使い分け、GitHub Copilotでの使い方についてまとめています</description>
+    </item>
+    <item>
+      <title>官民で国産ＡＩ開発、ソフトバンクなど出資で新会社…世界潮流の「１兆パラメーター」目指す</title>
+      <link>https://www.yomiuri.co.jp/economy/20251220-GYT1T00281/</link>
+      <pubDate>2025/12/21 05:44</pubDate>
+      <description>なぜC++からRustへ移行したか (生成AI時代の開発体験) まとめ C++は統合されたパッケージシステムが弱く, 依存関係の管理と成果の再利用が難しい. Rustはcargoを中心に成果をcrateとして分割・共有しやすく, エコシステムを協力して育てやすい. Python/Julia/Fortranから呼び出す用途では, RustはC-API経由で連携しやすく, バックエンドをメモリ安全に保ちやすい. 生成AI支援を前提にすると, Rustの学習コストや設計変更時の修正負担を下げられる. Rustは堅牢な基盤実装, Juliaは試行錯誤に向き, C-FFIを介して組み合わせるとよい. まえがき 前回の記事 C++を使った数値計算ライブラリの整備で辛かったこと の続編である. C++で開発していた libsparseir をRustへ移行した. その経験を基に, なぜC++からRust</description>
+    </item>
+    <item>
       <title>OpenAI、画像生成モデルAPI「gpt-image-1.5」を発表 ——新しい画像生成・編集用ページChatGPT Imagesも提供開始 | gihyo.jp</title>
       <link>https://gihyo.jp/article/2025/12/chatgpt-images-with-gpt-image-1.5</link>
       <pubDate>2025/12/17 17:54</pubDate>
@@ -1803,66 +1863,6 @@
       <link>https://ledge.ai/articles/agi_definition_stanford_gpt4_27_gpt5_60</link>
       <pubDate>2025/12/13 09:57</pubDate>
       <description>「自分のWebサイトを持ちたいけれど、WordPressは管理が大変そう」 「そんなに更新しないから、維持費が気になる」 「でも、デザインにはちょっとこだわりたい」 そんな経営者・フリーランス・クリエイターのために、無料Webテンプレート「EYAN（ええやん）」を作りました。27種類のWebサイトのテンプレートは全て無料！登録不要ですぐにご利用いただけます。</description>
-    </item>
-    <item>
-      <title>Gemini API で画像生成や Deep Research するアプリを n8n で作って民主化しよう！</title>
-      <link>https://zenn.dev/ubie_dev/articles/93f7973778df4c</link>
-      <pubDate>2025/12/14 01:43</pubDate>
-      <description>【大バズリ】NotebookLMスライドをパワポやGIF画像に即変換するCanvas。ん…Canvas！？【コード無料配布】 いや……投稿から1日経ってないのに まじん式v4 のいいね/インプの半数超えてるんだが…。 しかもこれ、 Geminiと30分くらいお喋りしてたら完成しました。 今回は、このアプリのソースコードを無料公開したいと思います！ また、どのようにGeminiと対話したのか？ そのバイブコーディングのテクニックについては、 メンバーシップ限定エリアに記載しますね、さすがに。 【無料公開】自分のGeminiで再現しよう！Gemini（思考モード）でCanvasをオンにして、 以下のプロンプトを送信してみてください。無料GeminiでもOK。 以下のコードをCanvasにそのままプレビューしてください。 --- [ソースコード] ソースコード（Xで公開したこちら）import</description>
-    </item>
-    <item>
-      <title>AIは数学者になれるか　数学界に衝撃、証明検証ソフトLean登場：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASTD333PNTD3DIFI004M.html</link>
-      <pubDate>2025/12/14 10:38</pubDate>
-      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? この記事はLIFULL Advent Calendar 2025の記事です。（何か変なこと書いてたら私の責任です！！） 10月からLIFULL株式会社に入社して早速参加させてもらってます！ はじめに Streamlitが便利なので使ってもらいたいなと思って記事を書きます。 早速ですが、いくつかこの記事用にStreamlitで作ったアプリを紹介します！ こんな感じで表示されるはずです。 ↑は https://prettymapp.streamlit.app/ をforkして、PLATEAUデータ（高さ情報）をAPI経由で取得して既存のマッ</description>
-    </item>
-    <item>
-      <title>n8n &amp;amp;#8211; 乱立するAIツール中でPoCを成功させるために考えたこと・実際に取り組んだこと | メルカリエンジニアリング</title>
-      <link>https://engineering.mercari.com/blog/entry/20251213-862c05648c/</link>
-      <pubDate>2025/12/14 13:41</pubDate>
-      <description>あいひん @BABYLONBU5TER 国税庁はAIを活用した税務調査を導入。2025年6月までの1年間で個人に対する所得税調査の追徴税額が1431億円となり、2009年以降で過去最高を更新。 💵申告漏れ所得金額の最も高い業種 キャバクラ：4164万円 眼科医：3894万円 ホステス・ホスト：2698万円 経営コンサル：2734万円 太陽光発電：2142万円 pic.x.com/2reGWG4CfU 2025-12-12 07:36:31 いぐぞー@書籍執筆中 ✈️ 旅するプログラマー @igz0 普通の人「AIをいい感じに使ったらビジネスチャンスなんじゃね……？？」 ↓ 普通の人「……(ToDoアプリを量産する)」 国税庁の超絶エリート「これは使える……！！💡」 ↓ 国税庁「脱税している人をAIで見つける仕組みを作りました。過去最多の追徴課税です」 ちゃんと勉強はしておくもんだよな。</description>
-    </item>
-    <item>
-      <title>Claude Codeで仕様書駆動開発！3つのツール比較（OpenSpec / spec-kit / cc-sdd）</title>
-      <link>https://zenn.dev/gmomedia/articles/8ccf71e50858de</link>
-      <pubDate>2025/12/14 12:08</pubDate>
-      <description>大規模言語モデル(LLM)は我々のワークスタイルを根底から変革する可能性を秘めたブレイクスルーであり、様々な分野で活用が試みられています。しかしながら、極めて強力なツールというものは可能性と危険性の両面を伴うものであり、LLMについても同じことが言えます。さらに、LLMはあまりにも汎用性が高く、「いつどのように使用すべきか」という疑問は残されたままとなっています。Oxide Computer Companyの共同創業者兼CTOであるBryan Cantrill氏は自社のブログにて、LLMの使用方針に関する投稿を行っています。 576 - Using LLMs at Oxide / RFD / Oxide https://rfd.shared.oxide.computer/rfd/0576 Cantrill氏は、Oxide社でのLLMの使用は、以下の価値観に沿うべきである、と述べています。</description>
-    </item>
-    <item>
-      <title>日本の英語力96位から動かず　AI評価で可視化された「読めるが話せない」の正体 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/86074</link>
-      <pubDate>2025/12/14 09:25</pubDate>
-      <description>この記事は CADDi Tech/Product Advent Calendar 2025 14日目の記事です。 Executive Summary 生成 AI アプリで評価プロセス改善 PoC をした 評価制度をアセット化し、生成 AI ツールを組み合わせることによって、評価プロセスを支援した 「メンバーの思考の整理」「メンバーからマネージャーへのコミュニケーションの改善」というポジティブな効果が得られた （画像は実際のシステム、入力されているテキストは架空の人物・チーム・業務） はじめに キャディのエンジニアリングマネージャーの橋本です。 突然ですが、この記事を読んでくださっている皆さんにひとつ聞きたいことがあります。あなたの会社にある評価プロセス、たとえば目標設定、月次振り返り、期末の自己評価、評価フィードバックなどは、あなたの仕事にとってポジティブに働いているでしょうか？ 評価プロ</description>
-    </item>
-    <item>
-      <title>GoogleChromeに開発者ツール用のMCPサーバーが登場</title>
-      <link>https://codezine.jp/news/detail/22791</link>
-      <pubDate>2025/12/14 07:21</pubDate>
-      <description>コーディングエージェント、特に頭のよいモデルを使っていると、大量の情報を流し込まれて脳が焼かれることありませんか？ ちょっと参考資料を渡して「これを元に設計を開始したい」と言い出すと、 「五次元異空間ミョーミョンでピョマるだけですね」 「ではラングリングの有効期間は2秒間でかまいませんか？」 「これだから平成のひとは！」 とかいきなり言われて「は？なに？？？」みたいになりがちです。 ざくっと設計壁打ちしたかったから、参考資料（これも絶対のものではない）を渡しただけなのに、参考資料を絶対のものとしてずっと先まで全部「勝手に確定された」というのはかなりのストレスになります。しかも、それらの情報を組み立てるためにやたらコンテキスト消費をして、時間がかかってしまいます。 今回はこれを防ぐためのプロトコルを開発してみました。五次元異空間は不要です。 # Protocol: マイクロコミット合意プロト</description>
-    </item>
-    <item>
-      <title>GitHub - zoicware/RemoveWindowsAI: Force Remove Copilot, Recall and More in Windows 11</title>
-      <link>https://github.com/zoicware/RemoveWindowsAI</link>
-      <pubDate>2025/12/13 17:24</pubDate>
-      <description>はじめに こんにちは。 株式会社サイバーセキュリティクラウド SIDfm 開発部門の大谷です。 当社では積極的に AI 活用を進めており、脆弱性管理システム「SIDfm」の開発でも、Gemini や GitHub Copilot を日常的に利用しています。 本記事では、GitHub Copilot Chat をより使いやすくするための設定ファイル .instructions.md などについて、実例を交えながら紹介します。 Point リポジトリの内容を.instructions.mdに書きましょう。 役割や会話スタイルは.agent.mdに書きましょう。 複数リポジトリの共通内容はUser Data下に書きましょう。 Reason .instructions.mdとは AIに与える「指示」をまとめた設定ファイルです。 以前はcopilot-instructions.mdが用いられていまし</description>
-    </item>
-    <item>
-      <title>Microsoft Foundry マルチエージェントにGitHub MCPを使わせる - Insight Edge Tech Blog</title>
-      <link>https://techblog.insightedge.jp/entry/azure-ai-agent-mcp</link>
-      <pubDate>2025/12/14 12:33</pubDate>
-      <description>参照元 I Reverse Engineered ChatGPT&amp;#39;s Memory System, and Here&amp;#39;s What I Found! - Manthan Gupta ChatGPT Memory Architecture: Four-Layer Context System Prioritizes Speed Over RAG and Vector Databases RAGを使わないメモリシステムという衝撃 Hacker Newsで500ポイント以上を獲得し、AI開発者界隈で話題になっているのが、Manthan Guptasさんによる「ChatGPTの記憶システム」のリバースエンジニアリング調査です。 調査で明らかになったのは、ChatGPTが ベクトルデータベースもRAG（Retrieval-Augmented Generation）も使っていない という驚きの事実。多</description>
-    </item>
-    <item>
-      <title>【特集】 メモリ価格が2.8倍に爆上げ。SSDも合わせて高騰中。それでも今買ったほうがいい理由とは？</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2071150.html</link>
-      <pubDate>2025/12/15 07:13</pubDate>
-      <description>最難関の国家資格を持つ医師たちも生成AIの力に頼り始めた。医師の4人に1人は診療中に活用しているとの調査結果もあり、カルテ作成や診断補助など使い道は幅広く、医療の効率化につながる。日本人の病気の特徴を学び精度に磨きをかける研究が進めば、患者はよりよい治療を受けられる。医療現場を変える生成AIの可能性と課題を追った。「60代男性、自己免疫性肝炎。79キログラム。推奨されるステロイドの初期用量を教</description>
-    </item>
-    <item>
-      <title>生成AIを使ってGoogleフォーム×Slackツールの自動リマインドツールを作った話 | 令和トラベル Engineering Blog</title>
-      <link>https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20251215</link>
-      <pubDate>2025/12/15 10:09</pubDate>
-      <description>こんにちは、スーホです。 今回は私のちっぽけな人生をベースにですが、お金と人生について書きたいと思います。 はじめに僕は以下のポストの通り、32歳で1億円の金融資産を築きました。 給料入って金融資産1億達成。目の前に札束がある訳ではないので現実味がないが、金融資産1億を目指して半ばプライベートを捨てて本業、副業、資産運用に取り組んできたので、スマホ上の数字だけでも達成感がある。32歳、まだまだこれからだがとりあえず人生の大きな目標をクリアした。あざした。 pic.twitter.com/c110uK5Zp2 — スーホ (@sukhswhitehorse) November 24, 2023 新卒で入社した総合商社時代から、休む間もなくハードに働き、余暇時間も資産運用やベンチャー事業投資などに没頭した結果、色々ラッキーもあって1億円の金融資産を築くことができました。 多くの人から「若くして</description>
     </item>
   </channel>
 </rss>
