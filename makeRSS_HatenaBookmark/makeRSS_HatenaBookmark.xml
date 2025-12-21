@@ -5,6 +5,54 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>OpenAI、画像生成モデルAPI「gpt-image-1.5」を発表 ——新しい画像生成・編集用ページChatGPT Imagesも提供開始 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/12/chatgpt-images-with-gpt-image-1.5</link>
+      <pubDate>2025/12/17 17:54</pubDate>
+      <description>パソコン専門店で購入制限客 「値段がアホみたいに上がってる。どうしたもんかな」 「何倍にも高くなっていて、手が届きにくくなっている」 パソコン販売の聖地・秋葉原。今年の師走の風は、特に冷たく感じられます。 店頭には「1日お一人様につき4枚まで」とメモリー製品の購入制限の貼り紙が貼ってあります。 このパソコン専門店では、買い占めや転売を防ぐため、メモリー製品の販売数を制限する事態に至っています。 容量が多ければ多いほどパソコンの処理スピードが上がり、性能に大きな影響を持つメモリー。今、急激に高騰しているのです。 ドスパラの運営会社　サードウェーブ 永井正樹社長 「3カ月前に比べ約3倍になった。急激に上がったのは、この1カ月。なるべく多くのお客様に利用してほしいので、購入制限をしている」 3カ月で3倍の値上げという異常事態。中には、5倍近く上昇したメモリーもあります。 価格を見て、あぜんとする</description>
+    </item>
+    <item>
+      <title>Your job is to deliver code you have proven to work</title>
+      <link>https://simonwillison.net/2025/Dec/18/code-proven-to-work/</link>
+      <pubDate>2025/12/19 00:36</pubDate>
+      <description>こんにちは、スーパーマーケットが大好きなコンサルティング部の神野です。 クラスメソッド AI駆動開発 Advent Calendar 2025、18日目の記事です！ 今回はClaude Codeのカスタムスラッシュコマンドについての記事です。普段はAgentCoreの話ばかりしていますが、今日はAI駆動開発がテーマということで、カスタムスラッシュコマンドがコーディング以外の定型作業でも便利だった話を紹介したいと思います。 カスタムスラッシュコマンド カスタムスラッシュコマンドは、定義しておくと /command のように呼び出し可能で、毎回同じプロンプトを書かずとも、一連のプロンプトを読みこませてAIにタスクを実行させることができる機能です。 ソースコードの変更状況を読み取ってPRを作成するコマンドなどがよく例として挙げられますが、ふと「これってコーディング以外でも繰り返しする作業に使える</description>
+    </item>
+    <item>
+      <title>2025年11月くらいのAWS最新情報ブログとかをキャッチアップする – AWSトレンドチェック勉強会用資料 - その2 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/aws-trendcheck-202511-2/</link>
+      <pubDate>2025/12/16 13:55</pubDate>
+      <description>こんにちは、Insight Edge アジャイル開発チームのk-kazukiです。 Insight Edge アドベントカレンダー、Insight Edge Advent Calendar 2025 の19日目です！ 今回の記事では、近年増加しているSNSの誹謗中傷の課題について、生成AIを利用して対策できないかをClaude Codeを用いて検証してみました。 本記事には検証用の架空の誹謗中傷サンプルが含まれます（実在の人物とは無関係です）。 不快な表現が含まれるためご注意ください。過激な部分は伏せ字（⚪︎⚪︎）または「&amp;lt;生命を脅かす表現&amp;gt;」と表記しています。 1. SNSにおける誹謗中傷の課題について 2. Claude Codeを活用した誹謗中傷検知システムの構築 2.1 対象とするSNSについて 2.2 Claude Codeサブエージェントによる役割分担と実装 ユーザー体験シミュ</description>
+    </item>
+    <item>
+      <title>「AI歌手」誕生、思い立って3カ月でビルボード1位　音楽は誰のものか - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUF1106J0R11C25A2000000/</link>
+      <pubDate>2025/12/19 11:47</pubDate>
+      <description>自己紹介 お世話になっております。 練馬区区政改革担当部区政改革担当課区政改革担当係（GovTech東京派遣研修）のイケダと申します。 「いきなり誰だお前は」「なんだその仰々しい肩書きは」となると思いますが、肩書のとおりわたしは練馬区役所の職員として今年１年間GovTech東京へ研修という形でお邪魔している身分でございます。 なんの変哲もない文系大学を卒業し練馬区へ入庁、福祉部で窓口業務を４年間、そのあと教育委員会にて補助金給付業務に２年間携わり、７年目になる今年、GovTech東京へ派遣、という職歴となっております。 「GovTech（ガブテック）」とは「Government」と「Technology」が掛け合わさった言葉です。そう、わたしは「GovTech東京」の”Gov”と”東京”の部分はぼちぼちの経験がありますが”Tech”の部分は全くの門外漢です。今の肩書きこそ強そうですが、これ</description>
+    </item>
+    <item>
+      <title>MUSUBI ではじめる仕様駆動開発入門 - Vibe CodingからSDD（Specification Driven Development）へ - Qiita</title>
+      <link>https://qiita.com/hisaho/items/322d0b21779d312318db</link>
+      <pubDate>2025/11/18 06:28</pubDate>
+      <description>2025 has been a strong and eventful year of progress in LLMs. The following is a list of personally notable and mildly surprising &amp;quot;paradigm changes&amp;quot; - things that altered the landscape and stood out to me conceptually. 1. Reinforcement Learning from Verifiable Rewards (RLVR)At the start of 2025, the LLM production stack in all labs looked something like this: Pretraining (GPT-2/3 of ~2020) Supervi</description>
+    </item>
+    <item>
+      <title>ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード</title>
+      <link>https://www.gizmodo.jp/2025/12/openai-defaults-free-users-to-cheapest-model-to-cut-back-on-costs.html</link>
+      <pubDate>2025/12/20 04:18</pubDate>
+      <description>会議では日本で初めてとなるAI基本計画案が取りまとめられた。高市首相はAI関連施策の推進に1兆円規模の投資を行う方針も表明。物理法則を理解し、ロボットを制御する「フィジカルAI」を念頭に、国産の汎用基盤モデルの開発に向けた企業と連携するよう赤沢亮正経済産業大臣に指示した。 関連記事 「ガバメントAI」って何？　デジタル庁が解説動画を公開 デジタル庁は、政府が活用するAI基盤「ガバメントAI」を解説するYouTube動画を公開した。 生成AIはマーケティングにどう使える？　博報堂DYグループが考える3つの事例 博報堂DYホールディングスが、生成AIとクリエイティビティについて考える同連載。今回は「AIが変革するマーケティングの新しい顧客体験」と題し、同社が取り組むマーケティングにおける、AIとクリエイティブワークの新しい形を紹介する。 デジ庁、「国産LLM」の公募開始　行政向けAIに実装へ</description>
+    </item>
+    <item>
+      <title>意外と知らない！？Claude Codeで使える小技集 - Qiita</title>
+      <link>https://qiita.com/mu7kata/items/c325740e4710120b0963</link>
+      <pubDate>2025/12/20 06:10</pubDate>
+      <description>この記事は？本記事は研究コミュニティ cvpaper.challenge Advent Calendar 2025の19日目の記事です。 筆者は修士卒業後に8年程度企業で働いたあとに、退職して博士課程進学するという、トチ狂…思い切った決断をした。何年か企業で働いた後に退職して博士課程進学（以後「退職D進」と呼ぶ）することは、修士から直接進学する場合と比較して、何が良さそうなのか、どういったことが辛いのかを書いていく。D進する人もしない人も、参考になれば幸いである。 ちなみに、ヘッダー画像はChatGPTで生成した。 補足情報のため、筆者のキャリアの概説を下に記す。 修士時代: 理学研究科物理学専攻。修士論文は「 DFTという材料シミュレーションを使った電池の研究」的なもの。 電子部品メーカー新卒就職: 電池の部署もDFTの部署もあり、どちらなのか楽しみだった。しかし、なぜか化学実験系の部署</description>
+    </item>
+    <item>
+      <title>生成AI時代に&amp;quot;読書すること&amp;quot;の価値を考える。 - 世界のねじを巻くブログ</title>
+      <link>https://www.nejimakiblog.com/entry/ai-era-book-reading-meaning-dokusho</link>
+      <pubDate>2025/12/20 23:50</pubDate>
+      <description>こんにちは、Ubieの橋山です。 この記事は「Ubie 生成AI Advent Calendar 2025」12/20の投稿です。 本稿ではその続編として、この構想がどのように設計・実装されているかという具体的な試行錯誤についてお話しします。 目標設定時の情報収集を楽にしたいUbieには「変化進化会」という、目標設定や成長について所属組織のLeadと対話する場があります。その準備として、過去の活動を振り返る作業があるのですが、なんとかこれを効率化できないかというのが事の発端でした。 そこで、すでに社内で活用が進んでいた JIRA / Notion / Slack の情報が取得できるMCPサーバーを経由して、振り返りの情報を「よしなに」取得するワークフローを作りました。 MCPツールを使って社内の情報を収集するワークフロー（抜粋）情報の取得精度が低いしかし、出力された情報はおおまかにはその人</description>
+    </item>
+    <item>
       <title>AI時代の異常系テストについて考える - じゃあ、おうちで学べる</title>
       <link>https://syu-m-5151.hatenablog.com/entry/2025/12/16/102227</link>
       <pubDate>2025/12/16 11:11</pubDate>
@@ -1815,54 +1863,6 @@
       <link>https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20251215</link>
       <pubDate>2025/12/15 10:09</pubDate>
       <description>こんにちは、スーホです。 今回は私のちっぽけな人生をベースにですが、お金と人生について書きたいと思います。 はじめに僕は以下のポストの通り、32歳で1億円の金融資産を築きました。 給料入って金融資産1億達成。目の前に札束がある訳ではないので現実味がないが、金融資産1億を目指して半ばプライベートを捨てて本業、副業、資産運用に取り組んできたので、スマホ上の数字だけでも達成感がある。32歳、まだまだこれからだがとりあえず人生の大きな目標をクリアした。あざした。 pic.twitter.com/c110uK5Zp2 — スーホ (@sukhswhitehorse) November 24, 2023 新卒で入社した総合商社時代から、休む間もなくハードに働き、余暇時間も資産運用やベンチャー事業投資などに没頭した結果、色々ラッキーもあって1億円の金融資産を築くことができました。 多くの人から「若くして</description>
-    </item>
-    <item>
-      <title>Ryzen AI MAX+ 395搭載の高性能ミニPC「Minisforum MS-S1 MAX」購入！　Proxmox VEで10Gbps LANが見えなくなるトラブル？？【イニシャルB】</title>
-      <link>https://internet.watch.impress.co.jp/docs/column/shimizu/2069342.html</link>
-      <pubDate>2025/12/15 08:12</pubDate>
-      <description>こんにちは、CTO室データソリューションチームでマネージャーをしている 開（hiracky16） です。 この記事は、ファインディエンジニア #1 Advent Calendar 2025の14日目の記事です。 adventar.org 先日、チームで半日ほど時間をとってワークショップ（オフサイトミーティング）を実施しました。今回は、そのプロセスの中で「生成AI（Gemini）をファシリテーター兼、壁打ち役として参加させる」という試みを行った話と、そこで決まった私たちの新しいミッション・ビジョンについて書きたいと思います。 データソリューションチームについて紹介 我々のチーム、データソリューションチームについて少し紹介すると現在は職能で言うとデータエンジニアのみが所属するチームで、現チーム体制になって約1年半が経過しました。横断組織でもあるため特定の事業の仕事に取り組むのではなく全事業のデ</description>
-    </item>
-    <item>
-      <title>【アドベントカレンダー2025】【NotebookLM × Gemini】仕様書からテスト項目書を自動生成する「専門家AI」の育て方 -ぐるなび組織間連携の事例- - ぐるなびをちょっと良くするエンジニアブログ</title>
-      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251215-1/</link>
-      <pubDate>2025/12/15 12:06</pubDate>
-      <description>◼️ はじめに ◼️ Honoとは ◼️ Cloudflareとは ◼️ 今回作成するアプリのアーキテクチャに関して 各サービスの役割 ◼️ プロジェクト作成 Honoを使用するためのプロジェクト作成 各リソースを作成 型定義のインストール D1テーブル作成 ◼️ 実装 Bindings型定義 アクティビティ登録APIを作成 テストデータ登録 チャットAPI作成 セッション初期化 メッセージ送信 チャットUI ◼️ 動作確認 今後の改善箇所 ◼️ まとめ ■最後に ◼️ 参考 ◼️ はじめに 株式会社iimonでエンジニアをしている「あめちゃん」です！ 本記事はiimon Advent Calendar 2025の15日目の記事となります！ 12月は社内のエンジニアでアドベントカレンダーに記事を投稿するという一大イベントが発生してる最中です。 僕も何か良い題材がないかなぁと色々考えていまし</description>
-    </item>
-    <item>
-      <title>dbt開発の定型作業とレグレッションテストを効率化するAIエージェントのツールを作った話 - Oisix ra daichi Creator&amp;#39;s Blog（オイシックス・ラ・大地クリエイターズブログ）</title>
-      <link>https://creators.oisixradaichi.co.jp/entry/2025/12/15/104458</link>
-      <pubDate>2025/12/15 10:49</pubDate>
-      <description>ITエンジニアのスキルアップを サポートする 開発書から資格書まで さまざまなジャンルの 技術書籍が読み放題！ プログラミング言語 Python、C++、C、C#、 Java、JavaScript、他 サーバ・クラウド サービス AWS、Azure、GCP コンテナ開発 Docker、Kubernetes、他 情報処理資格 基本情報技術者、 AWS認定資格、 Cisco技術者認定資格、 LPI認定資格 他 AI・人工知能 生成AI、機械学習、 深層学習、人工知能、 画像認識、自然言語処理 ネットワーク・ セキュリティ TCP/IP、暗号化技術、 仮想化、システム構成、 データ設計</description>
-    </item>
-    <item>
-      <title>ドキュメントをnpm packageとしてpublishしよう | blog</title>
-      <link>https://ryoppippi.com/blog/2025-12-14-publish-docs-on-npm-ja</link>
-      <pubDate>2025/12/15 09:47</pubDate>
-      <description>(画像はHPVワクチン薬害訴訟弁護団のホームページhttps://www.hpv-yakugai.net/より) 【2025年12月11日　HPVワクチン薬害訴訟傍聴記録】 日本のマスコミが決して報じないこの裁判の実態を、以前から記録・公開しています。 今回の大阪地裁で傍聴記録は12回目です。 これまでの法廷で、鹿児島大学病院による悪質な医療の実態が既に暴かれています。 前回の福岡地裁での記録はこちらです。 https://note.com/tanuk_ichi/n/n54f69a84625f 自分は多数の子宮頸がんの患者さんに関して、告知や治療やお看取りを行ってきた産婦人科専門医（医学博士）です。 これまでの傍聴記録のまとめが以下のnote記事です。 【必読】鹿児島大学病院脳神経内科に学ぶ、&amp;quot;HPVワクチン後遺症&amp;quot;の作り方https://note.com/tanuk_ichi/n/n0b</description>
-    </item>
-    <item>
-      <title>既存の2D半導体から大幅な性能向上が期待できる「3Dチップ」の製造に成功</title>
-      <link>https://gigazine.net/news/20251215-3d-chip/</link>
-      <pubDate>2025/12/15 12:45</pubDate>
-      <description>Nano Banana Proで作成した当連載登場モデルの明日来子さん。2024年1月に1枚の画像から始まった彼女は、ついに自由に服もポーズも登場場所も変えられるようになった（筆者作成） 今回のテーマは、2025年の画像・動画生成AIまとめです。2023年に誰でも利用可能な形で登場した画像AI、動画AIは、ついに長年の課題だった“一貫性の壁”を突破しました。シーンや状況を変えても、登場人物の顔や服装に連続性を保ったまま、表現を変えたり、別の服装にしたり、角度を変えたりといったことが容易にできるようになってきました。8月に発表されたグーグルの「Nano Banana」、それをさらに上回る性能の11月の「Nano Banana Pro」が最大級の驚きでした。画像AIではバイトダンス「Seedream」、アリババ「Qwen-Image-Edit-2509」などが、動画AIではOpenAI「Sor</description>
-    </item>
-    <item>
-      <title>AWSでElastic Cloudを利用する 2025年12月版（構築編） - Taste of Tech Topics</title>
-      <link>https://acro-engineer.hatenablog.com/entry/2025/12/15/120000</link>
-      <pubDate>2025/12/15 15:35</pubDate>
-      <description>「macOS Tahoe 26.2」が2025年12月12日(金)にリリースされました。このバージョンではThunderbolt 5ポートを介してMac同士を低遅延接続する機能が追加されており、AIクラスターの構築に役立つことがアピールされています。 macOS Tahoe 26.2 Release Notes | Apple Developer Documentation https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt MacはUnified Memoryと呼ばれるメモリ技術を採用しており、SoCに内蔵されたメモリをCPUとGPUで共有しています。これにより、GPUに大量のメモリを割り当てて大型のAIモデルを高速実行する</description>
-    </item>
-    <item>
-      <title>Building agents with the ADK and the new Interactions API- Google Developers Blog</title>
-      <link>https://developers.googleblog.com/building-agents-with-the-adk-and-the-new-interactions-api/</link>
-      <pubDate>2025/12/12 09:41</pubDate>
-      <description>Google、MCPサーバの発見や管理のためのレジストリ「Cloud API Registry」プレビュー公開 Googleは、Googleや社内で提供されているMCP（Model Context Protocol）サーバや関連ツールの発見、管理、利用、監視などを統合的に可能にするレジストリサービス「Cloud API Registry」のプレビュー公開を発表しました。 GoogleがMCPサーバを多数投入 MCPとは一般に、生成AIやAIエージェントが外部のツールを呼び出して情報を取得したり操作したりする際に使われるプロトコルです。生成AIやAIエージェントがMCPクライアントとなり、情報提供や操作の対象となる側がMCPサーバとなります。 Googleは同社の各サービスに対応したフルマネージドなリモートMCPサーバを提供するとすでに発表しており、すでに以下のサービスのMCPサーバが利用可</description>
-    </item>
-    <item>
-      <title>Claude Codeのビルドインツールは無効化してシステムプロンプトを削減できる</title>
-      <link>https://zenn.dev/sqer/articles/5c52615eeabce0</link>
-      <pubDate>2025/12/12 08:41</pubDate>
-      <description>この記事は 食べログアドベントカレンダー2025 の12日目の記事です🎅🎄 先日以下の記事を書きました、食べログカンパニー 開発本部 飲食店プロダクト開発部 羽澤と申します。 この記事の中で、&amp;quot;現在では Devin や Claude Code も導入されており&amp;quot; と書いたのですが、実はDevinの導入に深く関わっていました。その中で、涙なしでは語れない出来事や、それを起因とした意識と行動の変化や学びがありましたので、アドベントカレンダーという場を借りて語ります。ぜひ読んでください。 序章：Devinとの出会い 4月のある日、企画から新しい案件の打診を受けておりました。 これはすでにリリース済みでプレスリリースも出ているのですが、食べログ求人における有料サービスを作りたいというものでした。ある程度大きい規模の案件です。 上長と1on1で話している時にこの案件の話題になり、「Devin使っ</description>
     </item>
   </channel>
 </rss>
