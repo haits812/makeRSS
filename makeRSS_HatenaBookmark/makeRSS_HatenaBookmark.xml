@@ -5,6 +5,36 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Android 用ランチャーアプリ Niagara Launcher を1年使っている - 大西ブログ</title>
+      <link>https://onishi.hatenablog.com/entry/2025/12/20/091601</link>
+      <pubDate>2025/12/20 09:17</pubDate>
+      <description>ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード2025.12.19 19:0055,932 AJ Dellinger - Gizmodo US ［原文］ （ 中川真知子 ） ChatGPTを無料で使っている人、あるいは、日本を除く一部地域で提供されている月5ドルの｢ChatGPT Go｣を使っている人は、知らないうちに使っているAIが変わっているかもしれません。 OpenAIがChatGPTの仕様をサイレントダウングレード。無料ユーザーとGoユーザーは、デフォルトで最も軽量かつ低コストなモデルを使う形に切り替わりました。 この変更は、ChatGPTのリリースノートに記載されていた内容で、米メディアのWiredが発見して明らかになりました。 自動で｢賢いモデル｣に切り替わらなくなったこれまでChatGPTでは、質問の内容の難易度に応じて自動的に｢Thinking（推論能力の</description>
+    </item>
+    <item>
+      <title>GitHub Copilotにも追加されたAgent Skillsとは | ドクセル</title>
+      <link>https://www.docswell.com/s/yuma/5RE1Q3-2025-12-20-dotnetlab</link>
+      <pubDate>2025/12/20 20:19</pubDate>
+      <description>世界的な需要の増加により、PCのメモリの価格が高騰している。これを受けて、旧世代のあるCPUへの人気が高まっているようだ。海外メディアTom’s Hardwareが報じている。 昨今ではAI分野での需要急増により、世界的にメモリが品薄となっている。そのなかではたとえば米国の半導体大手Micronが「Crucial」ブランドとして展開していたコンシューマー向け事業から撤退することを発表（関連記事）。またSamsungやSK Hynixなどの競合大手は2027年上半期まで供給不足は続くとの見方を示しつつ、供給過剰に陥るリスクを避けるためにも増産への投資には消極的のようだ（Wccftech）。 こうしたメモリ価格高騰の影響を受けて、BTOのPCメーカー各社では想定を大きく上回る量の注文が寄せられているという。工場のひっ迫やパーツ不足が発生し、受注を一時停止する措置もとられている（関連記事）。 一</description>
+    </item>
+    <item>
+      <title>なぜC++からRustへ移行したか (生成AI時代の開発体験)</title>
+      <link>https://zenn.dev/h_shinaoka/articles/203fb232cc3f61</link>
+      <pubDate>2025/12/20 22:24</pubDate>
+      <description>数ヶ月前の「Serena MCPはClaude Codeを救うのか？」で「Claude Code本体にLanguageServer統合を追加する可能性も考えられます」と書きましたが、その機能が2.0.74で有効になりました。 導入方法は「Claude Code の LSP サポート」が詳しいので参照ください。まとめるとanthropics/claude-plugins-official 経由でインストールするか、.claude-plugin/plugin.json にLSPサーバのコマンドを記述して自作プラグインとして起動します。 Claude Code の LSP サポートClaude Code のバージョン 2.0.74 から LSP（Language Server Protocol）サポートが追加されました。LSP サポートにより、Claude Code はコードベースに対してシンボ</description>
+    </item>
+    <item>
+      <title>9割が「12時間以内に応答」を要求　OSSを“商用製品扱い”する日本企業の幻想</title>
+      <link>https://techtarget.itmedia.co.jp/tt/news/2512/19/news04.html</link>
+      <pubDate>2025/12/19 12:38</pubDate>
+      <description>【読売新聞】　官民による総額３兆円規模の国産ＡＩ（人工知能）開発計画の全容が判明した。来春にもソフトバンクなどの日本企業十数社が出資して新会社を設立し、国内最大規模のＡＩ基盤モデルの開発を目指す。ＡＩ開発は米中が性能面で大きくリード</description>
+    </item>
+    <item>
+      <title>『Clair Obscur: Expedition 33』生成AI使用で「GOTY」とあるアワードで剥奪…過去インタビュー発言が要因に | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2025/12/21/160864.html</link>
+      <pubDate>2025/12/21 12:24</pubDate>
+      <description>The Indie Game Awardsを主催するSix One Indieは『Clair Obscur: Expedition 33』のGame of the Year受賞が撤回された理由について声明を発表した。「生成AIの利用」がポリシーに抵触したためだという。</description>
+    </item>
+    <item>
       <title>日本全国1.3億人分の擬似人流を再現したデータ無償提供、特定の属性の人の1日分の行動を生成するAIの研究も進む【地図と位置情報】</title>
       <link>https://internet.watch.impress.co.jp/docs/column/chizu3/2071814.html</link>
       <pubDate>2025/12/17 08:23</pubDate>
@@ -1833,36 +1863,6 @@
       <link>https://note.com/201707/n/nb1bd71d668cd</link>
       <pubDate>2025/12/12 19:43</pubDate>
       <description>はじめに Go 言語はシンプルな言語仕様であることからキャッチアップコストが低く、コンパイラ言語であることから実行速度が速いなどメリットも多いです。また、近年では AI Coding も盛んに行われており、静的型付言語である Go 言語は相性も良さそうです。私の実務経験の長さとしては Go 言語が一番長いこと + 上記の理由でもし新規のプロジェクトのバックエンドリードをする場合は Go 言語を採用したいなと思っています（もちろん要件次第ですが）。しかし、そこでなんとなく採用したいなではなく、ある程度定量的な指標をもって言語選定理由を言えるようになりたいなと考えました。また、AI Coding に Go 言語は適していると考えているが、なんらかのベンチマークを参考にした時にそれは定量的に説明できるのかが気になりました。 そこで、今回は Go 言語を採用する理由を探してみようと思います（目的と</description>
-    </item>
-    <item>
-      <title>DatadogのRust製オブザーバビリティデータパイプラインVectorを本番導入した | CyberAgent Developers Blog</title>
-      <link>https://developers.cyberagent.co.jp/blog/archives/60707/</link>
-      <pubDate>2025/12/11 11:41</pubDate>
-      <description>はじめに 最近GoogleでFile Searchという簡単にRAGが使えるAPIが提供されました。任意のStore名を指定して、ファイルをアップロードすれば、以降はGeminiのAPIでChatする際にtoolにそのStore名を指定するだけでRAGとして使ってくれるというお手軽さ。RAGにすることで、大量のデータをプロンプトに含ませることなく、「朝御飯」や「朝ごはん」などの言葉のゆらぎも考慮して結果に含んでくれるようになります。 上記を実行できるragujuaryというコマンドを実装しました。各種プラットフォーム用のバイナリがダウンロードできます。日本語のマニュアルもありますが、簡単に下記で説明してみます。 事前準備 ragujuaryを使用するには、Google AI StudioでGemini APIキーを取得し、環境変数に設定しておく必要があります。 APIキーはGoogle A</description>
-    </item>
-    <item>
-      <title>何故女子は男子より成績は良いのに学力は劣るのか？｜rei</title>
-      <link>https://note.com/beatangel/n/n3576628c220d</link>
-      <pubDate>2025/12/13 13:53</pubDate>
-      <description>AntigravityでAIの待ち時間を「ゼロ」にしたら、3時間で脳が焼き切れてCursorを解約した話 🚀 待ち時間が「消滅」した日「AIの回答を待っている間、手持ち無沙汰だなぁ……」 そう思ってTwitterを開いたり、スマホでゲームをしたりしていたのが、ほんの数日前までの僕でした。 しかし、Antigravityの「Agent Manager」を使い始めた瞬間、その悩みは過去のものとなりました。 待ち時間が短くなったのではありません。 待ち時間が消滅したのです。 💬 従来のAI：「チャット」という拘束時間これまでのAIツール（ChatGPT、Claude、Cursor）は、基本的に「対話」でした。 質問を投げる カーソルが点滅し、文字が生成されるのをじっと待つ（30秒〜1分） 答えを読んで、次の指示を出す この「2. 待つ時間」が曲者です。 短いようで長く、他の作業を始めるには短</description>
-    </item>
-    <item>
-      <title>第二次大戦期の超難解暗号マシン｢エニグマ｣に現代のAIが挑んでみた</title>
-      <link>https://www.gizmodo.jp/2025/12/ai-defeats-enigma-2q7.html</link>
-      <pubDate>2025/12/13 17:39</pubDate>
-      <description>macOS 26.2 Tahoeでは、Thunderbolt 5搭載のApple Silicon Mac間でDirect Memory Accessを可能にする「RDMA over Thunderbolt」がサポートされMLXを利用した分散AI推論などに利用可能になっています。詳細は以下から。 Appleは現地時間2025年12月12日、Mac向けにミュージックやポッドキャスト、ゲームアプリを強化し、暗い場所でビデオ会話中のユーザーの顔を明るく照らすエッジライト機能を追加した「macOS 26.2 Tahoe (25C56)」を正式にリリースしましたが、このmacOS 26.2 TahoeではThunderboltを利用したMac間でのダイレクトメモリアクセス「RDMA (Remote Direct Memory Access) over Thunderbolt」がサポートされているそうで</description>
-    </item>
-    <item>
-      <title>ローカルAIはNASをどう変える？　Zettlab「D4」使って分かったその利便性と将来性</title>
-      <link>https://www.itmedia.co.jp/news/articles/2512/13/news015.html</link>
-      <pubDate>2025/12/13 14:02</pubDate>
-      <description>【連絡先】　内閣府知的財産戦略推進事務局 〒100-8914 東京都千代田区永田町1-6-1 内閣府本府庁舎３階［地図（PDF／48KB）］ TEL.03-3581-0324</description>
-    </item>
-    <item>
-      <title>諸説あるAGIの定義をスタンフォード大などが明確化、「教養ある成人」がモデルケース──GPT-4は27%、GPT-5は約6割に到達と試算 | Ledge.ai</title>
-      <link>https://ledge.ai/articles/agi_definition_stanford_gpt4_27_gpt5_60</link>
-      <pubDate>2025/12/13 09:57</pubDate>
-      <description>「自分のWebサイトを持ちたいけれど、WordPressは管理が大変そう」 「そんなに更新しないから、維持費が気になる」 「でも、デザインにはちょっとこだわりたい」 そんな経営者・フリーランス・クリエイターのために、無料Webテンプレート「EYAN（ええやん）」を作りました。27種類のWebサイトのテンプレートは全て無料！登録不要ですぐにご利用いただけます。</description>
     </item>
   </channel>
 </rss>
