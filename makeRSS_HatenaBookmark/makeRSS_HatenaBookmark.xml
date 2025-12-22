@@ -5,6 +5,51 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>[地獄] OpenAI APIが不正使用された件 - Qiita</title>
+      <link>https://qiita.com/ShigemoriMasato/items/8d4c09a40235440d8c77</link>
+      <pubDate>2025/12/19 21:31</pubDate>
+      <description>ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード2025.12.19 19:0072,981 AJ Dellinger - Gizmodo US ［原文］ （ 中川真知子 ） ChatGPTを無料で使っている人、あるいは、日本を除く一部地域で提供されている月5ドルの｢ChatGPT Go｣を使っている人は、知らないうちに使っているAIが変わっているかもしれません。 OpenAIがChatGPTの仕様をサイレントダウングレード。無料ユーザーとGoユーザーは、デフォルトで最も軽量かつ低コストなモデルを使う形に切り替わりました。 この変更は、ChatGPTのリリースノートに記載されていた内容で、米メディアのWiredが発見して明らかになりました。 自動で｢賢いモデル｣に切り替わらなくなったこれまでChatGPTでは、質問の内容の難易度に応じて自動的に｢Thinking（推論能力の</description>
+    </item>
+    <item>
+      <title>LLM-as-a-Judge とルーブリック評価</title>
+      <link>https://zenn.dev/ubie_dev/articles/llm-as-a-judge-rubric-evaluation</link>
+      <pubDate>2025/12/20 11:46</pubDate>
+      <description>同僚に教えてもらった、Android 用ランチャーアプリ Niagara Launcher を使ってみたら気に入って、そろそろ1年ほど常用しているので今の使い方を備忘的にまとめておく。 紹介記事 いわゆる「ホーム画面アプリ」や「ランチャーアプリ」と呼ばれるジャンルのアプリである。公式サイトの謳い文句は「すっきりしたデザインで、片手操作に適したモダン&amp;amp;ミニマルなランチャーアプリ。」だそうです。 基本的な説明は既に色んな人が書いているので、レビュー記事を紹介するに留めます。 大画面スマホでも片手でアプリをサクサク起動できるランチャーアプリ「Niagara Launcher」レビュー - GIGAZINE 特徴 紹介記事 特徴 ホーム画面をシンプルに FAB から Google Keep メモ アイコンパック アプリ一覧とアプリ名の変更 アプリのスワイプメニューの編集 スワイプメニューにウィジェ</description>
+    </item>
+    <item>
+      <title>退職して博士進学してしまった結果...www｜akiraTOSEI</title>
+      <link>https://note.com/akira_tosei/n/nd0e47b30d9de</link>
+      <pubDate>2025/12/20 09:25</pubDate>
+      <description>Claude Code のバージョン 2.0.74 から LSP（Language Server Protocol）サポートが追加されました。LSP サポートにより、Claude Code はコードベースに対してシンボルの定義検索、参照検索、ホバー情報の取得などの操作が可能になります。この記事では Claude Code の LSP サポートの概要と使用方法を紹介します。 コーディングエージェントが LSP（Language Server Protocol）を扱えるようになることで、エージェントがより効率的にタスクを遂行できるようになります。文字列でコードベース全体を検索するのではなく、LSP を通じてコードの構造やシンボル情報にアクセスできるため、正確な情報を迅速に取得・編集できるためトークンと時間を大きく節約できます。このことはコーディングエージェントにセマンティックなコード検索・編集</description>
+    </item>
+    <item>
+      <title>8億ユーザーでも赤字拡大のOpenAIと売上11兆円宣言のAnthropic　AI覇権争いの”売上戦争”が幕開け（AMP［アンプ］） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/c4015b9f5aeb847c2e93e53314832d297cac3833</link>
+      <pubDate>2025/12/21 13:00</pubDate>
+      <description>この記事は「カンム Advent Calendar 2025」20日目の記事です。 こんにちは！カンムでプロダクトマネージャーをしている道川 (michiomochi)です。 みなさんは日々の仕事でドキュメントを書いているでしょうか？ ドキュメントにも種類があり、自分はPRD(プロダクト要件定義書)や社内の方針を伝えるものであったりいろいろなものを書いています。 昨今はAIが出てきており人間が1から文章を書くことも少なくなったのではないでしょうか。 今回は自分が最近実践しているAIを利用したドキュメントの書き方をお伝えします。 心構えAIを活用したドキュメント執筆を始める前に、重要な心構えがあります。 まず、AIが出力する文章は人間が読みやすいものとは限りません。また、AIは時として誤った情報を生成するため、最終的な内容の正確性は人間が責任を持って確認する必要があります。 そして最も重要な</description>
+    </item>
+    <item>
+      <title>【第5回】AI時代の組織戦略（後半）｜スドケン@ハック思考【勝手に未来想像シンクタンク】</title>
+      <link>https://note.com/sudoken/n/ncd43570b6f03</link>
+      <pubDate>2025/12/20 22:23</pubDate>
+      <description>官民による総額３兆円規模の国産ＡＩ（人工知能）開発計画の全容が判明した。来春にもソフトバンクなどの日本企業十数社が出資して新会社を設立し、国内最大規模のＡＩ基盤モデルの開発を目指す。ＡＩ開発は米中が性能面で大きくリードしており、官民を挙げて反転攻勢をかける。 【図】一目でわかる…「国産ＡＩ」開発のイメージ 経済産業省が今後実施する公募にソフトバンクなどが応じる方向で検討している。経産省は新会社に対し、２０２６年度から５年間で約１兆円を支援する。まずは２６年度予算案に関連費用として３０００億円超を盛り込む方針だ。ソフトバンクは２６年度から６年間でＡＩの開発・提供に使うデータセンターに２兆円を投じる。 新会社はソフトバンクが中心となって設立し、同社やＡＩ開発企業プリファードネットワークスのＡＩ技術者を中心に１００人規模が所属する見通し。まずは世界の主要ＡＩが達成する「１兆パラメーター」規模の基</description>
+    </item>
+    <item>
+      <title>「あとで読む」タグで振り返る2025年 〜今年の「あとで読む」、今年のうちに〜 - はてなブックマーク開発ブログ</title>
+      <link>https://bookmark.hatenastaff.com/entry/2025/12/22/120000</link>
+      <pubDate>2025/12/22 12:00</pubDate>
+      <description>前回（12月16日）、「知財検討会のプリンシプルコード（仮称）（案）」をきっかけに、生成AIと処遇AIの混同について書いた。その後いくつか反応をもらったので、続きを書く。 前回のおさらい 前回の要点はこうだ。2022年までに作られたAI原則やガイドラインは、主に「処遇AI」（人を選別・審査・評価するAI）を念頭に置いていた。ところが2023年にChatGPTが爆発的に広まると、「生成AI」が主役になった。このとき、処遇AI向けの語彙──「追跡可能性」「透明性」「説明可能性」──がそのまま生成AIに流用された。これらは元々、なぜその人がその決定を受けたかを事後検証できるようにするための要請である。ところが生成AIの文脈では、生成物が何に由来するかという話にすり替わり、さらには学習段階まで遡って「学習していないことの証明」が求められるに至った。際限なく広がる「文書化」と「説明」の要求が燃え広が</description>
+    </item>
+    <item>
+      <title>郵便局の“AI年賀状”が攻めてる　軽い気持ちで試したら、新たな黒歴史が爆誕した</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/22/news095.html</link>
+      <pubDate>2025/12/22 13:52</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/56d93abdc6398ecea72c2deceeaed3d1fa488d2b/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2073%2F130%2Fg1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
       <title>Antigravity 拡張機能紹介 6選 - Qiita</title>
       <link>https://qiita.com/masakinihirota/items/23f4fe8ec7f96a2b5652</link>
       <pubDate>2025/12/18 22:49</pubDate>
@@ -1821,48 +1866,6 @@
           &lt;p class="entrylist-contents-thumb"&gt;
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/7cebe561c9821461e433dbd267271a7ac5a4730c/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2069%2F342%2F001.JPG');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
-    </item>
-    <item>
-      <title>LangChain v1 × Ollama。ローカル環境で完結する RAG 構築ガイド</title>
-      <link>https://zenn.dev/nttdata_tech/articles/2b80f968856c36</link>
-      <pubDate>2025/12/14 15:26</pubDate>
-      <description>皆さまこんにちは。ぐるなびで主に会員系サービスのフロントエンド開発を担当している小松です。主務はフロントエンドですが、開発部内で組織間連携分科会という活動も行っており会長も務めています。他にも肩書が増えてしまいましたが…今回はその組織間連携分科会での取り組みについてご紹介したいと思います。 この分科会は、長年、開発部の中でエンジニアとディレクター・デザイナー間などで課題となっていたコミュニケーションの認識齟齬や組織をまたいだ連携に関する課題に取り組むため発足しました。実は現存する分科会の中でも長く活動している分科会の1つです。 以下の内容は分科会メンバーの多大なる協力で執筆することができました。ありがとうございます。 コミュニケーションの課題 開発する中でそれぞれの役割ごとに異なる視点や専門知識を持つメンバーが協力し合うことは、プロダクトの成功に不可欠です。しかし、現実には以下のような課題</description>
-    </item>
-    <item>
-      <title>複数台のMacを連結してAIクラスターを作れる機能が「macOS Tahoe 26.2」で追加される</title>
-      <link>https://gigazine.net/news/20251215-mac-rdma-over-thunderbolt/</link>
-      <pubDate>2025/12/15 14:03</pubDate>
-      <description>パナソニックホールディングス（HD）が新規事業の育成に苦戦している。人工知能（AI）を活用した消費者向けアプリの提供開始が計画から遅れているほか、2021年から手掛ける家事支援サービスも26年1月に終了する。1万人の人員削減と低収益事業の整理を軸とした構造改革に取り組む一方、将来の成長に向けた種まきに難航している。「Umi（ウミ）については一定の方向付けをしなければいけない状況にある」。パナソ</description>
-    </item>
-    <item>
-      <title>業界大手「81プロ」声優の声、AIで多言語化　“あの声”のまま外国語配信へ　米ElevenLabsと提携</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/15/news095.html</link>
-      <pubDate>2025/12/15 15:38</pubDate>
-      <description>NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成 はじめに：NotebookLM の「スライド資料」、便利だけどかゆい所に手が届かない NotebookLM の「スライド資料」生成によって作成されるスライドがクオリティ高いと専らの話題のことと思います。 雑なメモや社内ドキュメントから、いい感じの構成を勝手に組んでくれる それなりに見栄えするので、たたき台として強い Google Workspace を契約していれば、社内で共有も安心 個人的に「スライドの構成能力がすごいな」と思うのが、入力が一文でもスライドになるところです。 例えば、 「カレーはシチューより美味しい」 みたいな雑な一文でも、NotebookLM は「主張 → 根拠 → まとめ」みたいな プレゼンの型に寄せてスライドを立ち上げにいきます。 もちろん</description>
-    </item>
-    <item>
-      <title>Google NotebookLMで「一目でわかる図解」インフォグラフィックがつくれるように【やり方と作例】 | ライフハッカー・ジャパン</title>
-      <link>https://www.lifehacker.jp/article/2512-how-to-use-notebooklms-new-infographics-generator-feature/</link>
-      <pubDate>2025/12/15 12:47</pubDate>
-      <description>ロート製薬は15日、2027年4月入社の新卒採用から、エントリーシートによる書類選考を廃止すると発表した。代わりに人事担当者との15分間の対話による選考を導入する。原則対面で実施し、その後に複数回の面接やグループワークを経て内定を出す。生成AI（人工知能）の普及で応募書類の内容が均質化しており、対話を通じて学生一人ひとりの個性や価値観を把握する。導入した「Entry Meet（エントリーミート</description>
-    </item>
-    <item>
-      <title>公共の場所でスマートウォッチに話しかけられますか？ 「Pixel Watch 4」のGeminiで感じた“利便性”と“羞恥心”</title>
-      <link>https://www.itmedia.co.jp/mobile/articles/2512/15/news012.html</link>
-      <pubDate>2025/12/15 10:35</pubDate>
-      <description>こんにちは。サイオステクノロジー武井です。今回は、AIエージェント/MCPサーバー実装ガイドを作成しましたので、そのご案内をしたいと思います。 AIエージェント/MCPサーバー実装ガイドとは？ AIをより便利に活用するための AIエージェント や、その拡張技術である MCP（Model Context Protocol） を体系的に学べる教科書となっております。以下で実施するイベントにて、ダウンロードURLを公開し、皆様にダウンロードいただけるようになります。是非ともご参加ください。 AIエージェント/MCPサーバー実装ガイド 解説セミナー https://tech-lab.connpass.com/event/378331/ ガイドの総ページ数は201ページとなっており、かなりのボリュームとなります。7章の構成となっており、読了頂くことにはもうMCPサーバーについては怖いもんなしという感</description>
-    </item>
-    <item>
-      <title>アートワーク・コード・BGMまで100％AIで制作された完全AI製ゲーム「CODEX MORTIS」がSteamに登場、開発者は建設作業員に外骨格を与えるようなものとAIによるバイブコ―ディングの利点を強調</title>
-      <link>https://gigazine.net/news/20251215-codex-mortis/</link>
-      <pubDate>2025/12/15 18:45</pubDate>
-      <description>スマートホーム製品を手掛けるSWITCHBOTが、「SwitchBot AIハブ」（以下、AIハブ）という新製品を発売した。既存のSwitchBotカメラ製品などと連携させることで、映像から「誰が・どこで・何をしたか」まで理解し、内容をテキスト化して役立てられるという。 価格は3万9980円と、同社の「ハブ」という名が付く製品の中ではかなり高価だ。しかし、製品ページをのぞいてみても、いまひとつ何ができるのか分かりづらい部分も多い。そこで今回は、実機を使って具体的に何ができるのかを試してみた。</description>
-    </item>
-    <item>
-      <title>ロート製薬、新卒採用のエントリーシート廃止　「生成AIで内容が均質化」　代行手段は“直接会って話す”</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/15/news123.html</link>
-      <pubDate>2025/12/15 22:47</pubDate>
-      <description>Hot Chipsで目立った製品の紹介は前回までで終わったのだが、最後に初日のチュートリアル・セッションでおもしろい話がいろいろ出てきていたので、これをいくつか紹介したい。 今回はNVIDIAのGB200/GB300を使ったNVL72ラックソリューションである。今年後半に入って、データセンターのラックに熱い注目が集まっている。直接的なきっかけは今年3月に開催されたGTCにおいて、2027年後半に投入されるKyberラックを利用したRubin UltraベースのNVL576というラックソリューションの消費電力が、ラックあたり600kWに達することが明らかにされたためだ。 600kWというのは、例えば200Vで供給しても3000Aもの電力が流れる(3相200Vでも、力率を1.0としても1732Aほど、実際は2000A近いだろう)計算になる。そこでNVIDIAは5月頃からデータセンターのラックに</description>
     </item>
   </channel>
 </rss>
