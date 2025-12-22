@@ -5,6 +5,30 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>2025年リリースの聴いてよかった音楽を紹介します - nomolkのブログ</title>
+      <link>https://nomolk.hatenablog.com/entry/2025/12/21/231907</link>
+      <pubDate>2025/12/21 23:45</pubDate>
+      <description>この記事は、ファインディエンジニア #1 Advent Calendar 2025の21日目の記事です。 adventar.org はじめに こんにちは、ファインディのPlatform開発チームでSREを担当している原（こうじゅん）です。 2025年12月、ラスベガスで開催されたAWS re:Inventに参加してきました。re:InventはAWSが毎年開催する世界最大級のクラウドカンファレンスです。 今年は特にAI Agentを中心とした大きな変化を感じるイベントとなりました。 本記事では、私の体験したセッションを通じて見えてきたインフラ・運用の変化について、AIOps領域に焦点を当てて振り返りを書いていこうと思います。 会場の様子やセッション以外のイベントについてはまた別記事で書いていきます。 はじめに re:Invent 2025 今年の主要テーマの1つであるFrontier Ag</description>
+    </item>
+    <item>
+      <title>複数人でファイルの同期と共有ができカスタムプロパティやAIによるファイル説明の自動生成ができる「Seafile」</title>
+      <link>https://gigazine.net/news/20251221-seafile/</link>
+      <pubDate>2025/12/21 22:33</pubDate>
+      <description>はじめに こんちくわ。推薦基盤ブロックで新米マネージャーをやっている棚本（@i6tsux）です。 この記事では、映画好きが勢いで作った 「今の気分に合う映画をおすすめするアプリ」 の話をつらつらと書いてゆきます。 背景 / 課題 映画が好きで、ほぼ毎日なにかしら観ています。 そんな中で 「見たいと思える映画に出会うのは、意外と難しい」 と感じます。 しかも、時間をかけて選んだはずなのに、 いざ観はじめると 「うーん、なんかハマらないなぁ」 となってしまうことも珍しくありません。 これが結構つらい。 やりたいこと やりたいことはすごくシンプルで、 今の自分が「観たい」と思える映画に出会えること 観はじめて「やっぱ違ったかも」とならないこと この2つを満たすことです。 振り返ってみると、 「わ〜、これは良いかったな、、、！」と思える作品は、 作品の出来そのものというより、 そのときの気分や状態</description>
+    </item>
+    <item>
+      <title>「ヒトラーを知らない」「古い差別意識」など1913年以前のデータのみで構築されたAI「Ranke-4B」、後知恵で汚染されていない回答が可能</title>
+      <link>https://gigazine.net/news/20251222-ranke-4b/</link>
+      <pubDate>2025/12/22 14:46</pubDate>
+      <description>グーグルの「Nano Banana Pro」を使った技法の開発はその後も続いています。特に話題になっているのが、画面分割からストーリーボードを制作するという方法です。Nano Banana Proは、1つの画像から様々なカメラワークを生み出したり、前後のストーリーを考え、時間経過を伴った画像も生み出せることが発見されたことで、より複雑な使い方が試されつつあります。 ※記事配信先の設定によっては図版や動画等が正しく表示されないことがあります。その場合はASCII.jpをご覧ください カメラワークからストーリー展開が可能に まず、TechHalla（テックハラ）さんが発見したストーリーボード手法なのですが、有名な写真をベースにしてカメラワークを指定するだけで、あらゆるアングルからのカットが生成できます。また、カットを生成するだけでなく、前後のストーリーも生成できるということを発見したのです。</description>
+    </item>
+    <item>
+      <title>高市首相が小室哲哉、デーモン閣下、こっちのけんとの3名ほかと意見交換会を開いたが絵面がすごい「AIじゃない…だと？」「4人バンドかな」</title>
+      <link>https://togetter.com/li/2641578</link>
+      <pubDate>2025/12/22 19:57</pubDate>
+      <description>本記事は、LLM・LLM活用 Advent Calendar 2025 21日目の記事です。 はじめに pytorchは、Meta社が開発した機械学習・深層学習のためのpythonライブラリです。ユーザーは、pytorchを使用することで、画像分類モデルや強化学習モデルをはじめとし、大規模言語モデルや拡散モデルなど、多種多様なニューラルネットワークモデルを構築することが可能です。 また、pytorch内部では、CPU、TPU、GPUといった様々なプロセッサ向けに最適化された処理が実装されており、これらのプロセッサ間を容易に切り替えて使用することが可能です。例えば、大規模言語モデルの推論処理をGPU上で行いたい場合は、以下のように記述します。このようにユーザーは、入力テンソルとモデルインスタンスに対して.to(&amp;quot;cuda&amp;quot;)をつけるだけで、GPUを使用した処理が実行可能です。GPUを使用した</description>
+    </item>
+    <item>
       <title>グーグル、新高速モデル「Gemini 3 Flash」　2.5 Proより高性能・低コスト</title>
       <link>https://www.watch.impress.co.jp/docs/news/2072342.html</link>
       <pubDate>2025/12/18 14:32</pubDate>
@@ -1839,30 +1863,6 @@
       <link>https://speakerdeck.com/n0bisuke2/burauzanozu-miip-miai-dewebnowei-lai-wogan-zitemiyou-number-jsfes</link>
       <pubDate>2025/12/16 10:04</pubDate>
       <description>はじめに こんにちは、アジャイル開発チームの伊藤です。今日もたくさんのアドベントカレンダー記事が公開されている中、この記事を開いていただきありがとうございます。 この記事は、Insight Edge Advent Calendar 2025 16日目の記事です。 今回はコンテキストエンジニアリングについて、三つのことを語りたいと思います。 1つ目は「コンテキストエンジニアリングは対人コミュニケーションの場面に当てはめることができる」ということです。 あわせて「対人コミュニケーションをコンテキストエンジニアリングで考えると、相手に伝えるべき情報についての理解が深まる」という点について例とともに説明します。 そして最後に「コンテキストエンジニアリングはエンジニアに限らず全ての人に有用な汎用的スキルになるのではないか」という野望(?)に触れさせてください。 目次 コンテキストエンジニアリングとは</description>
-    </item>
-    <item>
-      <title>Nano Banana ProでKaggle解法を図解する</title>
-      <link>https://zenn.dev/kuto5046/articles/5cdcd1b274abc8</link>
-      <pubDate>2025/12/12 17:52</pubDate>
-      <description>「自分のWebサイトを持ちたいけれど、WordPressは管理が大変そう」 「そんなに更新しないから、維持費が気になる」 「でも、デザインにはちょっとこだわりたい」 そんな経営者・フリーランス・クリエイターのために、無料Webテンプレート「EYAN（ええやん）」を作りました。27種類のWebサイトのテンプレートは全て無料！登録不要ですぐにご利用いただけます。</description>
-    </item>
-    <item>
-      <title>AIに向けて書くか人間のために書くか、それが問題だ。 - 世界のねじを巻くブログ</title>
-      <link>https://www.nejimakiblog.com/entry/write-blog-for-ai-human-problem-crawler</link>
-      <pubDate>2025/12/14 21:45</pubDate>
-      <description>参加者満足度約94%！コンタクトセンター/カスタマーサービス関係者必見のビッグイベント 最新トレンド・テクノロジーとの出会いが、2026年を変える テクマトリックス CRM FORUM 2026</description>
-    </item>
-    <item>
-      <title>ChatGPTで論⽂は読めるのか</title>
-      <link>https://speakerdeck.com/spatial_ai_network/chatgpt-paper-reading</link>
-      <pubDate>2025/12/14 18:57</pubDate>
-      <description>1. はじめに こんにちは、松尾研究所でデータサイエンティストをしている力岡です。本記事は、松尾研究所 Advent Calendar 2025 の記事になります。 GPT や Gemini などの LLM を活用した AI エージェントは急速に普及し、複数ツールを組み合わせた複雑なタスクも自律的に実行できるようになりました。その一方で、「なぜエージェントが失敗したのか分からない」「推論コストが想定以上に膨らむ」「複数エージェントを連携させる際のボトルネックが特定できない」といった、これまでにない運用上の課題が浮き彫りになっています。 こうした高度なエージェントシステムは、従来の LLMOps だけで管理することが難しくなりつつあります。本記事では、その解決策として注目される AgentOps を取り上げ、その概念から実践方法までを詳しく解説します。 2.AgentOps とは 2.1 A</description>
-    </item>
-    <item>
-      <title>【在野研究】非アカデミアでin silico創薬論文執筆までの道のり</title>
-      <link>https://zenn.dev/labcode/articles/49bb4bd1a8eae3</link>
-      <pubDate>2025/12/15 00:10</pubDate>
-      <description>Nano Banana Proで作成した当連載登場モデルの明日来子さん。2024年1月に1枚の画像から始まった彼女は、ついに自由に服もポーズも登場場所も変えられるようになった（筆者作成） 今回のテーマは、2025年の画像・動画生成AIまとめです。2022年に誰でも利用可能な形で登場した画像AI、動画AIは、ついに長年の課題だった“一貫性の壁”を突破しました。シーンや状況を変えても、登場人物の顔や服装に連続性を保ったまま、表現を変えたり、別の服装にしたり、角度を変えたりといったことが容易にできるようになってきました。8月に発表されたグーグルの「Nano Banana」、それをさらに上回る性能の11月の「Nano Banana Pro」が最大級の驚きでした。画像AIではバイトダンス「Seedream」、アリババ「Qwen-Image-Edit-2509」などが、動画AIではOpenAI「Sor</description>
     </item>
   </channel>
 </rss>
