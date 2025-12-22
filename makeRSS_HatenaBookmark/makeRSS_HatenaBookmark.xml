@@ -5,6 +5,60 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>35年動く巨大システムをどう変える？ 三菱UFJ銀行が挑む「VS Code×生成AI」によるメインフレーム開発革命</title>
+      <link>https://codezine.jp/article/detail/22719</link>
+      <pubDate>2025/12/18 12:57</pubDate>
+      <description>はじめに 「うちの病院でも生成AIを活用したい」 「電子カルテの要約をAIでできないか」 医療機関のDX推進担当者や、外部のシステム開発者がこのような相談を受けることが増えています。しかし医療分野でLLMを活用する場合、一般的なWebサービスとは異なる厳格なデータの要件があります。 本記事では、2025年12月時点で日本国内の医療機関がLLMを本番利用する際に知っておくべき、規制要件とクラウドプロバイダーの選択肢について、網羅的に解説します。 ちなみに私は元医師で、現在株式会社LivetoonでCTOとしてAI開発をしている長嶋と申します。 また東大病院循環器内科にも所属しており、医療AI開発に携わっております。 ※筆者注: 情報は2025年12月時点のものであり、今後変更される可能性があります。またベンダー側のドキュメントも新旧入り乱れており、下記情報が完璧に正確である保証はいたしません</description>
+    </item>
+    <item>
+      <title>2025年版 私がAIエージェントと協働しながら学習する方法 - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/17/121705</link>
+      <pubDate>2025/12/17 14:40</pubDate>
+      <description>I’ve mentioned this a few times now, but when I started using Claude it was because Peter got me hooked on it. From the very beginning I became a religious user of what is colloquially called YOLO mode, which basically gives the agent all the permissions so I can just watch it do its stuff. One consequence of YOLO mode though is that it didn’t work well together with the plan mode that Claude Code</description>
+    </item>
+    <item>
+      <title>仕様書を渡すとテスト観点を抽出してテストケースまで生成する上に使うほど賢くなったらいいなぁ...なAIエージェントをつくったよ - LIFULL Creators Blog</title>
+      <link>https://www.lifull.blog/entry/2025/12/20/120000</link>
+      <pubDate>2025/12/20 12:36</pubDate>
+      <description>【読売新聞】　官民による総額３兆円規模の国産ＡＩ（人工知能）開発計画の全容が判明した。来春にもソフトバンクなどの日本企業十数社が出資して新会社を設立し、国内最大規模のＡＩ基盤モデルの開発を目指す。ＡＩ開発は米中が性能面で大きくリード</description>
+    </item>
+    <item>
+      <title>官民で国産ＡＩ開発、ソフトバンクなど出資で新会社…世界潮流の「１兆パラメーター」目指す（読売新聞オンライン） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/d337a30e1cbda60c2a48c9329b5726d6000f5240</link>
+      <pubDate>2025/12/21 11:47</pubDate>
+      <description>「ChatGPTを使っている」と答える人は周囲に増えたが、「月額料金を払っている」という人はどれだけいるだろうか。実はこの問いが、OpenAIの収益構造における最大の弱点を浮き彫りにする。 OpenAIのSam Altman（サム・アルトマン）CEOは2025年11月、X上での投稿で同社の財務状況を初めて詳細に明かした。年間経常収益は200億ドル（約3兆1,400億円）に達する見込みで、2030年までに数千億ドル規模への成長を目指すという。さらに、今後8年間で1兆4,000億ドル（約220兆円）ものデータセンター投資を計画していることも公表した。 しかし、華々しい数字の裏には深刻な課題が潜む。ChatGPTの週間アクティブユーザーは8億人に達したが、このうち有料プランに加入しているのはわずか5%の約4,000万人に過ぎない。OpenAIの経常収益の約7割は消費者向けサブスクリプション（月額</description>
+    </item>
+    <item>
+      <title>最速最強の Markdown コンパイラ作るぞ</title>
+      <link>https://zenn.dev/mizchi/articles/markdown-incremental-preview</link>
+      <pubDate>2025/12/21 20:57</pubDate>
+      <description>162ページのAIドリブン経営白書2026があまりにも長すぎる、解説が欲しいぞ！とリクエスト頂きましたので、著者が自分で解説し始めたシリーズの5回目。 そう、気付いてしまったんです。 もうすでに解説の方が長いことになってると言う矛盾😅 でも、気にせず頑張っていきたいと思います。 次は年内に5,000ダウンロードを目指してますので、応援の程よろしくお願いいたします📣 この記事で学べること組織のAI活用成熟度を測る「5つのフェーズ」 なぜフェーズ3が「経営関与の分水嶺」なのか AI時代に求められる人事制度の再設計 はじめに：しくじりの先にあるもの前回は、当社が経験した「3つのしくじり」をお伝えしました。 社内でAIが使われない ゼロリスク主義で止まる 「仕事を奪う」という誤解 3つの壁これらの壁を乗り越えた先に、何があるのでしょうか？ 今回は、組織がAI活用で目指すべきゴールと、そこに至る</description>
+    </item>
+    <item>
+      <title>「良い映画」より「今の自分に合う映画」に出会いたい ── 気分ベースの映画推薦アプリを作った話 - Qiita</title>
+      <link>https://qiita.com/yutatanamoto/items/fd8a3928fcb316fd8ae2</link>
+      <pubDate>2025/12/21 16:51</pubDate>
+      <description>わたくしめちゃくちゃに音楽が好きなのですが、好きであることは必ずしも研究熱心であることを意味しておらず、新しい音源の発掘は配信サービスのレコメンド頼りという受動的な態度で聴くようになって久しいです。人々がChatGPTの優しい応答に依存しバージョンアップに伴う性格変更に暴動を起こすようになるはるか以前から、僕はよりクラシックなAIであるところの機械学習によるレコメンドエンジンに支配されているわけです。何ならサブスク音楽配信が始まる前から、Amazonの「これを買った人はこれも買っています」でCD買ってましたからね、俺。AI操られの先駆者なので。 で、そういう聴き方をしていると新譜情報に疎くなるんですが、たまたま今年ひさしぶりにわりと新譜を聴いた気がするので、2025年リリースのよかった音源を書きたいと思います。 みんなに聴いてほしいと思って書いてるので気になるのがあったらどんどん聴いてくれ</description>
+    </item>
+    <item>
+      <title>Anthropic、AIエージェントにタスクの手順や知識を組み込める「Agent Skills」をオープンスタンダードに。早くもVS CodeやCursorなどがサポート</title>
+      <link>https://www.publickey1.jp/blog/25/anthropicaiagent_skillsvs_codecursor.html</link>
+      <pubDate>2025/12/21 23:39</pubDate>
+      <description>AIとの連携により、タグ付けや詳細などのプロパティが作成できるファイル共有サーバー「Seafile」がオープンソースで公開されています。 Seafile - Open Source File Sync and Share Software https://www.seafile.com/en/home/ 今回は、Google CloudでUbuntu 24.04.3 LTSのインスタンスを作成しDockerを利用して構築します。Setup community editionを参考に、コンソールを起動してrootユーザーとして操作します。AI拡張機能を利用する場合は、メタデータサーバーと合わせて追加します。 mkdir /opt/seafile cd /opt/seafile wget -O .env https://manual.seafile.com/13.0/repo/docker/c</description>
+    </item>
+    <item>
+      <title>高校の「数学」再編へ　AIの学び重視しA、B、Cの区分なくす方向：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASTDN55SJTDNUTIL02ZM.html</link>
+      <pubDate>2025/12/22 06:06</pubDate>
+      <description>「Nano Banana Pro」で ストーリー漫画の作成を試してみました。 1. Nano Banana Pro で ストーリー漫画の作成を試す作成した漫画は、次のとおりです。 2. Nano Banana Pro で ストーリー漫画の作成手順2-1. キャラクター設定画像の作成「Nano Banana Pro」でキャラクター設定画像 (1K) を作成します。 設定は「ChatGPT」と相談して作成しました。 キャラクター設定の画像を作成して。 ## 琴音こだま（主人公） - 高校1年生女子 - 極度のコミュ障／人見知り - 身長150cm - ピンクロング、猫背ぎみ - ストリートファイター2の異様な上手さが取り柄 - ゲームパッドを抱えて生活している - ふだんはぼそぼそ喋るが、対戦中は豹変 # 美咲（サブキャラ／友達役） - 同級生女子 - 黄色ポニーテール - 明るい／人当たりが</description>
+    </item>
+    <item>
+      <title>ソフトウェア開発でAI丸投げがダメな理由</title>
+      <link>https://gigazine.net/news/20251222-why-outsourcing-ai-software-development-bad/</link>
+      <pubDate>2025/12/22 09:21</pubDate>
+      <description>オープンソース開発者のSimon Willison氏はこれまでに、150件以上の便利なウェブアプリを開発してきました。HTML・JavaScript・CSSを単一のファイルにまとめた自作のウェブアプリを「HTMLツール」と命名し、これまでHTMLツールを開発してきた過程で見出した便利なパターンについてブログにまとめています。 Useful patterns for building HTML tools https://simonwillison.net/2025/Dec/10/html-tools/ ◆HTMLツールのあるべき姿 Willison氏がこれまでに開発したHTMLツールの例には以下のものがあります。 ・svg-render：SVGコードをダウンロード可能なJPEGやPNGにレンダリングするツール ・pypi-changelog：異なるPyPIパッケージリリース間で差分を作成し</description>
+    </item>
+    <item>
       <title>来たーッッ！！ChatGPTが“Nano Banana超え”の画像生成AI搭載！</title>
       <link>https://ascii.jp/elem/000/004/360/4360578/</link>
       <pubDate>2025/12/17 11:50</pubDate>
@@ -1809,63 +1863,6 @@
       <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/15/news003.html</link>
       <pubDate>2025/12/15 09:54</pubDate>
       <description>English TL;DR # LLMフレンドリーな​ドキュメント提供方​法と​しては、​ローカルに​ダウンロードさせるのが​現時点では​最も​効率が​良い library提供者は、​ドキュメントをnpm等の​packageと​して​publishする​ことを​検討するべき​（例: @foo/docs） Vibe Codingが​盛んな​今日に​おいて、​libraryや​frameworkが​LLMフレンドリーである​ことは​とても​重要 Note: この​ブログでは​主に​JavaScriptエコシステムに​絞って​話を​するので、npm registryに​publishする​話を​書いています。​他の​エコシステムに​ついては​他の​エコシステムなりの​package配布手段が​あるので、​そこに​置き換えて​考えてみてください 2025年の​漢字は​「Coding Agent」と</description>
-    </item>
-    <item>
-      <title>ロート製薬、新卒採用の書類選考を廃止　生成AI普及でES均質化 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUF154CN0V11C25A2000000/</link>
-      <pubDate>2025/12/15 16:49</pubDate>
-      <description>大手声優事務所・81プロデュース（エイティワンプロデュース）は12月15日、音声AI企業の米ElevenLabsと業務提携すると発表した。 所属声優の声を随時、ElevenLabsに登録。各声優の声を、声質やトーンそのままに多言語化し、世界中に作品を届けることで、「声優の活躍領域が世界へと大きく広がる」としている。 81プロデュースに所属する声優の声を、必要に応じて随時、ElevenLabsの技術を使って登録。その音声を基にElevenLabsは、許諾を得たアニメ／ナレーション／番組などのコンテンツを多言語化（最大29カ国語）する。 多言語化されたコンテンツがグローバルに配信されれば、世界中のファンが、元の声優の声のニュアンスを保ったまま各言語で作品を鑑賞でき、「日本語の声優＋多言語の声優＝ハイブリッド声優」という概念が生まれるとしている。 81プロ「声優業界が抱える課題に一石を投じる」</description>
-    </item>
-    <item>
-      <title>藤井聡太名人「今年一番ハマったのはバイブコーディング」　生成AIでツール開発にトライ</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/15/news121.html</link>
-      <pubDate>2025/12/15 20:12</pubDate>
-      <description>こんにちは。サイオステクノロジー武井です。今回は、AIエージェント/MCPサーバー実装ガイドを作成しましたので、そのご案内をしたいと思います。 AIエージェント/MCPサーバー実装ガイドとは？ AIをより便利に活用するための AIエージェント や、その拡張技術である MCP（Model Context Protocol） を体系的に学べる教科書となっております。以下で実施するイベントにて、ダウンロードURLを公開し、皆様にダウンロードいただけるようになります。是非ともご参加ください。 AIエージェント/MCPサーバー実装ガイド 解説セミナー https://tech-lab.connpass.com/event/378331/ ガイドの総ページ数は201ページとなっており、かなりのボリュームとなります。7章の構成となっており、読了頂くことにはもうMCPサーバーについては怖いもんなしという感</description>
-    </item>
-    <item>
-      <title>メモリ価格が2カ月で5倍に。PCが欲しいなら今が買い時</title>
-      <link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2070615.html</link>
-      <pubDate>2025/12/12 08:27</pubDate>
-      <description>2025 アドベントカレンダーの記事です！ 弊社シーエー・アドバンスでは、AIの活用を徹底するように号令がかかっています。 今回は、Local LLM を自宅で動かしてみたので、それについて記事をまとめます。 自宅で、Ollama を使って、LLMを動かしたりしたいと思っている方の参考になれば幸いです。 対象読者 LLMに興味がある、ローカルでLLM動かしたい人 ローカルLLMにどれぐらいお金がかかるか気になる人 OCuLink の性能知りたい人 外付けGPUを検討している人 概要・構成要素 この記事を読むとどのように自宅でLLMを動かせるか雰囲気で理解できるかと思います(私も雰囲気でしか理解していません) まず、構築した環境の概観としては以下のような感じとなっています。 LLM Server と 外付けGPU 構成内容 GMKtec Mini PC NucBox M7 Mini PC R</description>
-    </item>
-    <item>
-      <title>GPT-5.2公開　知的労働で専門家を超える「世界一賢い公開モデル」</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2070669.html</link>
-      <pubDate>2025/12/12 10:00</pubDate>
-      <description>VrPDYNZp1q36Z9AYFLWyANURYwdp3m4M VrPDYNZp1q36Z9AYFLWyANURYwdp3m4M ba1c9524c37d3ca0eceaa3c97864c43d</description>
-    </item>
-    <item>
-      <title>SRE × Dynatrace - AI活用による脆弱性対応の効率化 [DeNA インフラ SRE] | BLOG - DeNA Engineering</title>
-      <link>https://engineering.dena.com/blog/2025/12/itpf3g-dynatrace-security/</link>
-      <pubDate>2025/12/12 12:59</pubDate>
-      <description>この記事は、「NEWT Product Advent Calendar 2025」Day10の記事となります。 「NEWT Product Advent Calendar 2025」10日目は、令和トラベル シニアエンジニアのrodrigoが、アプリエンジニア hossyからバトンをもらい執筆。ぜひ、最後までご覧ください！</description>
-    </item>
-    <item>
-      <title>何もしていないスクラムマスターは何をしているのか｜610</title>
-      <link>https://note.com/610_mto/n/n925b7b4dccce</link>
-      <pubDate>2025/12/12 13:59</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5fb5d93096f31320d1fe7b1e1ccab6109ae63124/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2070%2F784%2F00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>OpenAIが「GPT-5.2」を発表、長文でのコンテキスト推論能力が大幅に向上</title>
-      <link>https://codezine.jp/news/detail/22785</link>
-      <pubDate>2025/12/12 11:05</pubDate>
-      <description>LLM(大規模言語モデル)にプログラムを書かせるバイブコーディングの流行を受け、LLM用の効率的なプログラミング言語「Sui」が開発された。 【画像】フィボナッチ数列を出力するプログラム Suiは、「LLMが100%正確にコードを書ける」ことをコンセプトに作られた、LLMのためのプログラミング言語。名前は漢字の「粋」から取られており、洗練し、無駄を削ぎ落とす美意識に基づいて設計されている。LLMにSuiを覚えさせるためのプロンプトも用意されており、ChatGPTやGeminiなど、主要なチャットボットサービスでSuiによるコーディングを実行可能。また、ブラウザ上で試用可能なWebページも用意されている。 開発者は、時系列解析AIなどを開発するmellonのCTO本田崇人氏。「人間に合わせて作られた言語を、LLMに書かせる必要があるのか？」という問題提起からSuiが生まれたという。 本田氏は</description>
-    </item>
-    <item>
-      <title>AIが書き、人が読む時代、読書がスキルになる - Findy Tech Blog</title>
-      <link>https://tech.findy.co.jp/entry/2025/12/11/170000</link>
-      <pubDate>2025/12/11 17:59</pubDate>
-      <description>アメリカ政府による対中輸出規制にもかかわらず、中国国内ではNVIDIAのAI用高性能GPUが依然として入手可能となっています。ゲーム関連ニュースメディアのGamers Nexusの取材班が実際に香港や深圳、鄭州などを訪れ、密輸業者、仲介人、技術者、エンドユーザーなどGPUブラックマーケットに関わる人たちに直接接触し、その実態を暴いています。 THE NVIDIA AI GPU BLACK MARKET | Investigating Smuggling, Corruption, &amp;amp; Governments - YouTube GPUの密輸自体は、大規模な組織犯罪というよりも、個々人が連携する「アリの行列」のようなネットワークで行われているとのこと。アメリカなどでGPUを入手する「供給者」、アメリカ中を車で回ってRTX 4090などを個別に買い集める「買い付け屋」、個人の荷物としてGPUを1</description>
-    </item>
-    <item>
-      <title>【実践編】6つのステップで見る、AIエージェントと走る開発ライフサイクル</title>
-      <link>https://codezine.jp/article/detail/22595</link>
-      <pubDate>2025/12/12 13:03</pubDate>
-      <description>増え続けるコンテキスト AIコーディング実践環境の構築方法【2025年12月】という記事も書きましたが、AIコーディングツールとして、私は現在Claude Codeをメインで使用しています。 そしてAIコーディングしていて、一番ストレスフルな瞬間…それは何といってもこれ 使用しているコンテキストが一杯になったときに出てくる無慈悲なメッセージ。しばらく待たないといけないのと、コンテキスト圧縮するのでこの後、頭も悪くなる（指示を忘れたりする）のが辛いです。 最近、そんなCompacting Conversation...が出てくるのがやけに増えてきたと感じるようになりました。 そんな中、最近ご恵贈いただいたClaude CodeによるAI駆動開発入門を読むと /contextというコマンドでコンテキストウィンドウの使用量を確認できると書いてあったので試してみました。 69% Oh…God… 使</description>
     </item>
   </channel>
 </rss>
