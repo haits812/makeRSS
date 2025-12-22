@@ -5,6 +5,111 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>グーグル、新高速モデル「Gemini 3 Flash」　2.5 Proより高性能・低コスト</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2072342.html</link>
+      <pubDate>2025/12/18 14:32</pubDate>
+      <description>生成AIの進化により、システム開発の生産性は劇的な転換点を迎えている。しかし小規模での成功事例は増える一方、大規模なエンタープライズシステムへの適用には依然として課題が残っている。この壁を突破すべく、トランスコスモス株式会社が独自の開発手法を確立した。2025年11月19日開催の「Developers X Summit 2025」で、同社上席常務執行役員で株式会社トランスコスモス・デジタル・テクノロジー代表取締役社長の所年雄氏が登壇し、工数を8割以上削減させたバイブコーディングのアプローチと、その実践に伴うスキル不足をAIエージェントで補完する仕組みを解説した。 「バイブコーディング」が叩き出す工数8割削減の秘訣とは トランスコスモスは、コールセンター事業を中核としながら、デジタルマーケティングやEC構築など幅広いBPO事業を展開する企業だ。トランスコスモス・デジタル・テクノロジーは、グル</description>
+    </item>
+    <item>
+      <title>Agent Skillsの運用を楽にし、Claude以外のAgentでも利用可能にするOSS『SkillPort』を作った話</title>
+      <link>https://zenn.dev/gotalab/articles/65cd3ff3cb9152</link>
+      <pubDate>2025/12/18 23:56</pubDate>
+      <description>生成AIを活用したQA工数削減の試み。スクエニと東大・松尾研究室の共同研究を紹介するセッションをレポート［CEDEC+KYUSHU 2025］ ライター：大陸新秩序 2025年11月29日，福岡・九州産業大学にてコンピューターエンターテイメント開発者向けのカンファレンス「CEDEC＋KYUSHU 2025」が開催された。本稿では，その中から「生成AIが切り開くゲームプレイAIの新境地とゲーム開発への活用」と題されたセッションをレポートする。 スクウェア・エニックスのAI＆エンジン開発ディビジョンに所属する狩野竜示氏と城所 憲氏，そして東京大学 松尾・岩澤研究室の奥村悠希氏の3名が登壇したこのセッションでは，ゲームAI研究の歴史と最新の研究，そしてスクウェア・エニックスと東京大学の共同研究による，ゲームプレイAIエージェントの実験結果などの解説が行われた。 スクウェア・エニックス AI＆エン</description>
+    </item>
+    <item>
+      <title>香港と深センのPC向けメモリ／ストレージ価格はどうなっている？　日本の状況と比べてみた</title>
+      <link>https://www.itmedia.co.jp/pcuser/articles/2512/19/news119.html</link>
+      <pubDate>2025/12/19 17:23</pubDate>
+      <description>AI開発企業のMistral AIが、スキャンしたドキュメントや手書き文字を認識してテキストデータに変換できるAIモデル「Mistral OCR 3」を発表しました。Mistral OCR 3の精度はエンタープライズ向けの文書処理ソリューションやAIを用いたOCRソリューションを上回り、読みにくい筆記体も認識できるとのことです。 Introducing Mistral OCR 3 | Mistral AI https://mistral.ai/news/mistral-ocr-3 Mistral OCR 3は、前モデルの「Mistral OCR 2」を大幅にアップグレードしたモデルで、筆記体や活字の上に注釈として書き込まれた手書きのコンテンツも正確に読み取ることが可能。また、密集したレイアウトや入力フォームなどの検出能力も改善され、さまざまな契約文書の読み取りにも適しているとのこと。さらに</description>
+    </item>
+    <item>
+      <title>Anthropic、エージェントスキルをオープンスタンダードとして公開 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/12/agent-skills-to-open-standard</link>
+      <pubDate>2025/12/20 04:18</pubDate>
+      <description>ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード2025.12.19 19:0072,981 AJ Dellinger - Gizmodo US ［原文］ （ 中川真知子 ） ChatGPTを無料で使っている人、あるいは、日本を除く一部地域で提供されている月5ドルの｢ChatGPT Go｣を使っている人は、知らないうちに使っているAIが変わっているかもしれません。 OpenAIがChatGPTの仕様をサイレントダウングレード。無料ユーザーとGoユーザーは、デフォルトで最も軽量かつ低コストなモデルを使う形に切り替わりました。 この変更は、ChatGPTのリリースノートに記載されていた内容で、米メディアのWiredが発見して明らかになりました。 自動で｢賢いモデル｣に切り替わらなくなったこれまでChatGPTでは、質問の内容の難易度に応じて自動的に｢Thinking（推論能力の</description>
+    </item>
+    <item>
+      <title>JAXoptで実践するDecision-focused Learning 〜機械学習×数理最適化の新たなアプローチ〜 - ENGINEERING BLOG ドコモ開発者ブログ</title>
+      <link>https://nttdocomo-developers.jp/entry/2025/12/17/090000_0</link>
+      <pubDate>2025/12/19 00:27</pubDate>
+      <description>こんにちは、Ubieの橋山です。 この記事は「Ubie 生成AI Advent Calendar 2025」12/20の投稿です。 本稿ではその続編として、この構想がどのように設計・実装されているかという具体的な試行錯誤についてお話しします。 目標設定時の情報収集を楽にしたいUbieには「変化進化会」という、目標設定や成長について所属組織のLeadと対話する場があります。その準備として、過去の活動を振り返る作業があるのですが、なんとかこれを効率化できないかというのが事の発端でした。 そこで、すでに社内で活用が進んでいた JIRA / Notion / Slack の情報が取得できるMCPサーバーを経由して、振り返りの情報を「よしなに」取得するワークフローを作りました。 MCPツールを使って社内の情報を収集するワークフロー（抜粋）情報の取得精度が低いしかし、出力された情報はおおまかにはその人</description>
+    </item>
+    <item>
+      <title>図で考える AI コーディングの最適化 - CADDi Tech Blog</title>
+      <link>https://caddi.tech/visual-thinking-ai-coding-optimization</link>
+      <pubDate>2025/12/20 09:17</pubDate>
+      <description>日本語の言葉で外国語に翻訳できないものといえば何だろうか。その翻訳しがたさはどこから来るのか。オーストラリアの言語学者が、言語と思考の関係をめぐる古典的な論争から最新の研究までを紹介しつつ、独自の見方を提示する。 英語以外の言語が堪能な人は、正確な英訳が不可能な言葉があることに気づいているだろう。 ある物が「渋い」と感動する日本のデザイナーは、その形容詞にぴったり当てはまる言葉が英語にないことをもどかしく思うかもしれない。 デンマーク語の「ヒュッゲ」は、何とも独特な趣の心地よさのことを指しており、それを説明する本が何冊も必要なほどだ。 ポルトガル語話者は、憧憬やもの悲しさ、哀愁が入り混じった「サウダージ」を英語で伝えるのに苦労するかもしれない。 ウェールズ語話者は、具体的にケルト文化やその伝統に対してますます憧れる気持ちを表す「ヒライス」を英訳するのにひどく手こずるかもしれない。</description>
+    </item>
+    <item>
+      <title>【Ubuntu日和】 【第83回】今からAI画像生成を始める人のためのComfyUIインストール方法</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/ubuntu/2072923.html</link>
+      <pubDate>2025/12/20 08:41</pubDate>
+      <description>今後は、プロテスタント教理問答ボットにその他のキリスト教に関する文献データも追加し、回答の精度を高める。また、キリスト教系ミッションスクールや神学校での展開も想定する。なお、キリスト教AIの将来的な方向性は、キリスト教思想を専門とする芦名定道氏（関西学院大学客員教授／京都大学名誉教授）の助言のもと決める。 研究チームによると、キリスト教AIの開発には、生成AIの回答によってキリスト教思想に関する新たな解釈が生じるなど、学術的な可能性があるという。加えて、企業の従業員向けカウンセリングなど産業分野や、さまざまな宗教・宗派の教えを学んだAIによる総合的な解釈の提示といった宗教分野でも活用。さらなる構想として「世界各地の宗教的遺産と叡知によって薫陶を受けた伝統知AI」も視野に入れる。 熊谷教授とテラバースらの研究チームは2021年3月、仏教の教えに基づきさまざまな悩みに答えるチャットbot「ブッ</description>
+    </item>
+    <item>
+      <title>AI時代にSEOで勝ち続けるために知っておきたいこと【鈴木謙一の2025年SEO総まとめ】 | 海外&amp;amp;国内SEO情報ウォッチ | Web担当者Forum</title>
+      <link>https://webtan.impress.co.jp/e/2025/12/19/51867</link>
+      <pubDate>2025/12/19 08:24</pubDate>
+      <description>３行まとめ 仕様書を渡すとリスク分析からテストケース生成までやってくれるよ ステップ単位で人が軌道修正して精度をあげて（維持して）いるよ 指摘内容や成果物からナレッジを抽出してPRを出すので賢くなる仕組みだよ ３行まとめ はじめに つくったもの ポイント① 仕様書の理解から始める ポイント② 人間が軌道修正する ポイント③ 使うほど賢くなるように 「ドメイン知識」と「テスト技術」に分けた理由 実際どうなの？ テストケースのフォーマット 課題：プロンプトやナレッジの管理・改善 おわりに はじめに こんにちは、クオリティアーキテクトグループでQAエンジニアをしている星野です。 この記事はLIFULL Advent Calendar 2025の記事になります。 QA活動でLLM、活用してますか？ 今回はテスト分析からテスト実装（テストケースの作成）までを効率化するためにつくったAIエージェントの</description>
+    </item>
+    <item>
+      <title>おい、休め - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/21/092456</link>
+      <pubDate>2025/12/21 10:04</pubDate>
+      <description>日々進化する Gemini ですが、Gemini Drop を見ればリリースの内容を簡単に把握できます。定期的にチェックして、機能の発表やプロダクトに関するヒント、コミュニティで Gemini がどのように活用され、創作や調査に利用されているかをご確認ください。</description>
+    </item>
+    <item>
+      <title>Stable Matrixで始めるAIイラスト生成〜Forge環境構築から、1枚描くところまで〜｜Rockey</title>
+      <link>https://note.com/rockey2799m/n/n68cc6e57eca2</link>
+      <pubDate>2025/12/21 20:47</pubDate>
+      <description>参照元 claude-mem - GitHub Repository - Alex Newman Claude Codeの制限に直面する開発者たち Claude Codeで作業していると、50回程度のツール実行で「もう覚えてない」状態になることがあります。Claude Opus 4.5は20万トークンのコンテキストウィンドウを持っているのに、なぜこんなに早く限界に達するのか。 理由は単純です。ツールを1回実行するたびに、1000〜10000トークンが消費されます。ファイル読み込み、Git操作、検索実行…これらを50回繰り返せば、20万トークンはあっという間に埋まります。 長時間のコーディングセッションでは、途中でClaudeが「さっき説明したプロジェクトの構成」を忘れ、同じ質問を繰り返すといった状況に遭遇します。 claude-memの3つの強み claude-memは、Claude Co</description>
+    </item>
+    <item>
+      <title>Coursera and Udemy enter a merger agreement valued at around $2.5B | TechCrunch</title>
+      <link>https://techcrunch.com/2025/12/17/coursera-and-udemy-enter-a-merger-agreement-valued-at-around-2-5b/</link>
+      <pubDate>2025/12/21 21:03</pubDate>
+      <description>Anthropic、AIエージェントにタスクの手順や知識を組み込める「Agent Skills」をオープンスタンダードに。早くもVS CodeやCursorなどがサポート Anthropicは、同社のAIサービス「Claude」が備えてきた機能「Skills」を業界のオープンスタンダードにすべく「Agent Skills」仕様の公開を発表しました。 Agent Skillsは、AIエージェントにタスクごとの手順や知識を組み込むための仕組みです。 繰り返し行うタスクなどをAIエージェントに依頼する場合、あらかじめAIエージェントにAgent Skillsを読み込ませておくと、毎回細かな指示を行わなくてもAgent Skillsに設定しておいた手順や知識を元に作業をしてくれます。 ソフトウェア開発の場面では、例えば社内のビルドやテストの手順などをAgent Skillsに設定しておけば、AIエ</description>
+    </item>
+    <item>
+      <title>Nano Banana Pro で ストーリー漫画の作成を試す｜npaka</title>
+      <link>https://note.com/npaka/n/n5e7f167c9bf8</link>
+      <pubDate>2025/12/21 13:05</pubDate>
+      <description>米Googleは12月20日（現地時間）、Android端末のアシスタントを「Googleアシスタント」から「Gemini」に移行する日程を調整し、完了は当初発表の2025年末ではなく、2026年にずれ込むと発表した。 同社は3月、年内に移行を完了し、従来のGoogleアシスタントは（Geminiを実行する要件を満たす）モバイル端末では利用できなくなると予告していた。移行完了後は、Googleアシスタントアプリのダウンロードもできなくなる予定だ。 現在、Android 10以上を搭載し、RAMが2GB以上のAndroid端末であれば、アシスタントをGeminiに設定でき、Pixel 9および10シリーズではGeminiが標準のアシスタントになっている。移行が完了するまでは、［設定］→［アプリ］→［Googleのデジタルアシスタント］でGoogleアシスタントを選択できる。 Geminiアプ</description>
+    </item>
+    <item>
+      <title>「HTMLツール」を構築するための便利なパターンいろいろ</title>
+      <link>https://gigazine.net/news/20251221-html-tools/</link>
+      <pubDate>2025/12/22 00:15</pubDate>
+      <description>高校数学から数学A、B、Cという科目の区分がなくなる方向となった。ベクトルや数列などの項目ごとに生徒が選ぶ仕組みに変わる見込み。　また、行列や確率などの基礎的な要素を、必履修科目の数学Ⅰに入れること…</description>
+    </item>
+    <item>
+      <title>nix in desertis:学力試験のみの年内入試のことと，生成AIが入試問題を解くことについて</title>
+      <link>https://nix-in-desertis.blog.jp/archives/52519929.html</link>
+      <pubDate>2025/12/22 00:14</pubDate>
+      <description>こんにちは。ファインディのTeam+開発部でエンジニアをしている古田（ryu-furuta）です。 この記事は、ファインディエンジニア #2 Advent Calendar 2025の22日目の記事です。 はじめに 2025年下期、私は「DevとOpsを融合する」というミッションを掲げ、問い合わせやアラートといった運用業務の改善にAIをいくつか活用していきました。 この記事では、Claude Code GitHub ActionsやNotion MCPを使った運用業務改善の具体的な実装方法を紹介します。 また、効率化を実現した先に見えてきた「次にやるべきこと」についても共有します。 AIを活用した運用改善を検討している方や、改善施策を打っても成果が出ないと悩んでいる方に読んでいただけると幸いです。 はじめに 問い合わせやアラートに生じていた課題 Claude Code GitHub Act</description>
+    </item>
+    <item>
+      <title>高木浩光＠自宅の日記 - 生成AIと処遇AIの混同について、まだ言いたいことがある──LLMは処遇AIを救うかもしれない</title>
+      <link>http://takagi-hiromitsu.jp/diary/20251221.html</link>
+      <pubDate>2025/12/22 10:43</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/71102ef5d1591a4661baba6e8b944274311e6d67/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2072%2F125%2FC00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>NotebookLMに新機能　表形式で出力できる「データテーブル」</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2073130.html</link>
+      <pubDate>2025/12/22 09:24</pubDate>
+      <description>今年も残すところあと少し。皆さんにとって、2025年はどのような一年でしたか？ はてなブックマークでは今年もたくさんのエントリーがブックマークされ盛り上がりました。 データで見る「あとで読む」 年末ということで、2021年・2022年・2023年・2024年に引き続き今年も「あとで読む」タグにフォーカスしたデータを集計しました。全ブックマークを対象にした「あとで読む」率、カテゴリー別「あとで読む」率、「あとで読む」が多いエントリーランキングを通して、2025年のはてなブックマークを振り返ってみましょう。 全ブックマークを対象にした「あとで読む」 率 カテゴリー別 「あとで読む」 率 「あとで読む」 タグが多いエントリーは？ トップ10ランキング 「あとで読む」タグの数が多かったエントリーランキング カテゴリー別「あとで読む」率の高かったエントリーランキング 気になった記事を気軽に保存できる</description>
+    </item>
+    <item>
+      <title>生成AI時代のソフトウェア開発</title>
+      <link>https://www.oreilly.co.jp//books/9784814401468/</link>
+      <pubDate>2025/12/22 14:56</pubDate>
+      <description>日本テレビが2026年1月8日深夜に、生成AIをフル活用したとうたうドラマ「TOKYO 巫女忍者」を関東ローカルで放送する。サイバーエージェントが技術協力する他、制作には映画「8番出口」に携わった映像プロダクションAOI Pro（東京都港区）が協力する。 同作は「江戸の風情が残りながらも“妖化（ようか）”の病がはびこる2026年の東京を舞台にした、新時代のアクションファンタジー」（日本テレビ）という。制作面ではサイバーエージェントのスタジオ「極AIお台場スタジオ」を活用。VFXは映画版8番出口に参加したTREE Digital Studio（東京都渋谷区）が手掛ける。実写に加え、巨大なLEDパネルを活用した撮影手法「バーチャルプロダクション」や生成AIを組み合わせて壮大な世界観を表現するとしている。 関連記事 Google、「Gemini」アプリに写真から音声付き動画を生成する機能追加 G</description>
+    </item>
+    <item>
       <title>[地獄] OpenAI APIが不正使用された件 - Qiita</title>
       <link>https://qiita.com/ShigemoriMasato/items/8d4c09a40235440d8c77</link>
       <pubDate>2025/12/19 21:31</pubDate>
@@ -1758,114 +1863,6 @@
       <link>https://zenn.dev/labcode/articles/49bb4bd1a8eae3</link>
       <pubDate>2025/12/15 00:10</pubDate>
       <description>Nano Banana Proで作成した当連載登場モデルの明日来子さん。2024年1月に1枚の画像から始まった彼女は、ついに自由に服もポーズも登場場所も変えられるようになった（筆者作成） 今回のテーマは、2025年の画像・動画生成AIまとめです。2022年に誰でも利用可能な形で登場した画像AI、動画AIは、ついに長年の課題だった“一貫性の壁”を突破しました。シーンや状況を変えても、登場人物の顔や服装に連続性を保ったまま、表現を変えたり、別の服装にしたり、角度を変えたりといったことが容易にできるようになってきました。8月に発表されたグーグルの「Nano Banana」、それをさらに上回る性能の11月の「Nano Banana Pro」が最大級の驚きでした。画像AIではバイトダンス「Seedream」、アリババ「Qwen-Image-Edit-2509」などが、動画AIではOpenAI「Sor</description>
-    </item>
-    <item>
-      <title>AI駆動開発時代のコードレビュー</title>
-      <link>https://zenn.dev/coderabbit_jp/articles/76689d18930ef4</link>
-      <pubDate>2025/12/14 12:01</pubDate>
-      <description>これまでのように平面上へパーツを敷き詰めた半導体ではなく、パーツの層を縦に積み上げた「3Dチップ」が開発されました。これにより、従来の「2Dチップ」と比較してスループットが4倍向上するなど大幅な改善が見られたとのことです。 Researchers unveil groundbreaking 3D chip to accelerate AI | Stanford Report https://news.stanford.edu/stories/2025/12/monolithic-3d-chip-foundry-breakthrough-ai First truly 3D chip fabbed at US foundry, features carbon nanotube transistors and RAM on a single die — future devices could</description>
-    </item>
-    <item>
-      <title>NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成</title>
-      <link>https://zenn.dev/hirokita117/articles/24c42f407dc9b9</link>
-      <pubDate>2025/12/15 11:51</pubDate>
-      <description>こんにちは、Elastic認定資格３種(※)を保持しているノムラです。 ※Elastic社の公式認定資格（Elastic Certified Engineer / Elastic Certified Analyst / Elastic Certified Observability Engineer） この記事は、Elastic Stack (Elasticsearch) Advent Calendar 2025 の15日目の記事です。 qiita.com 昨年公開した以下の記事の2025年版になります。 AWSでElastic Cloudを利用する 2024年版（構築編） - Taste of Tech Topics 昨年の記事執筆時点から、構築手順や設定方法、UIなどに変更が加えられており、以前の記事では最新環境に対応しづらくなってきました。 そこで本記事では、2024年版と同様に A</description>
-    </item>
-    <item>
-      <title>AIエージェント/MCPサーバー実装ガイドを作成しました | SIOS Tech Lab</title>
-      <link>https://tech-lab.sios.jp/archives/50769</link>
-      <pubDate>2025/12/15 19:07</pubDate>
-      <description>GoogleのNotebookLMに、また新たなアップデートが届きました。 ユーザー個人のニーズに合わせて専属アシスタントのように機能するこの多才なAIツール。今回の更新は、ずばり「視覚学習派（ビジュアル・ラーナー）」に向けたものです。 PDF、ウェブサイト、動画など、あなたが学習や整理のために読み込ませたソース資料。これらを、文字通り「一目でわかる」インフォグラフィックに変換できるようになったのです。</description>
-    </item>
-    <item>
-      <title>LG製テレビにMicrosoft Copilotが勝手に追加されて削除不可能に</title>
-      <link>https://gigazine.net/news/20251215-microsoft-copilot-lg-tv/</link>
-      <pubDate>2025/12/15 12:27</pubDate>
-      <description>もちろん、従来モデルで評価されていた便利なヘルスケア機能も引き続き搭載されている。脈拍喪失の検出機能をはじめ、血中酸素濃度の測定、皮膚温度の計測、そして心電図アプリなど、これまでのPixel Watchが培ってきた安心感のある機能群はそのまましっかりと継承されている。 ハードウェア面での大きな新機能として注目されるのは、Apple Watch Ultra 3と同様に搭載された衛星通信機能だ。ただし、Googleはこの機能を緊急時のみの使用に制限していることに加え、現時点では日本国内での提供について公式なアナウンスを行っていない。残念ながら今回の試用期間中にこの機能を試すことはできなかったが、もし日本でも利用可能になれば、電波の届かない山岳地帯での登山など、アクティビティーの際に非常に心強い機能となるはずだ。 「腕を上げるだけ」で完結する、AIアシスタントとの新たな付き合い方 さて、ここから</description>
-    </item>
-    <item>
-      <title>巨大ラジエーターで熱管理！ NVIDIA GB200/300搭載NVL72ラックがもたらす次世代AIインフラの全貌 (1/3)</title>
-      <link>https://ascii.jp/elem/000/004/359/4359756/</link>
-      <pubDate>2025/12/15 15:45</pubDate>
-      <description>米Googleは12月12日（現地時間）、Geminiの機能を活用した音声通話と翻訳関連の複数の新機能を発表した。ライブ音声エージェントの能力を向上させる新しいオーディオモデルのリリース、「Google翻訳」のテキスト翻訳機能の改善、イヤホンを使ったリアルタイムの音声間翻訳の提供、言語学習ツールの拡張だ。 Gemini 2.5 Flash Native Audio ライブ音声エージェント（リアルタイムで応答するAI）向けにアップデートした「Gemini 2.5 Flash Native Audio」をリリースした。このモデルは、複雑なワークフローの処理やユーザーの指示のナビゲート、より自然な会話を行う能力が向上しているという。複数ターンの会話品質が大幅に向上し、以前の会話の文脈をより効果的に取得できるため、よりまとまりのある会話を実現できるとしている。 同日から、「Google AI St</description>
-    </item>
-    <item>
-      <title>Railsにマージされた最新PRを毎日自動要約するサイトを作った</title>
-      <link>https://zenn.dev/gatechnologies/articles/f72a00c771874a</link>
-      <pubDate>2025/12/15 21:00</pubDate>
-      <description>ロート製薬は12月15日、新卒採用で実施していたエントリーシートによる書類選考を廃止すると発表した。2027年4月入社向けの採用から適用予定で、代わりに人事担当者との15分間の対話による選考方法「Entry Meet（エントリーミート）採用」を導入する。エントリーシート廃止の背景にあったのは、“生成AIによる効率化”の影響だ。 ロート製薬では、新卒採用の初期段階でエントリーシートによる書類選考を実施してきた。しかし生成AIの普及によって、その内容が均質化。「従来の方法では一人一人の本質的な個性を十分に捉えきれないと感じていた」とロート製薬は語っている。 「応募の手軽さが高まるほどエントリー数は増えるが、一方で企業は効率的な選考手法を追求することになる。学生も多くの企業に応募せざるを得ない状況となり、負担が増大するだけでなく、短期間で多数の選考に臨む構造上、十分な企業理解が難しくなる場合もあ</description>
-    </item>
-    <item>
-      <title>1行もコードを書かずにGeminiだけでUnityの大富豪ゲームを作って公開した話</title>
-      <link>https://zenn.dev/tomotomobile/articles/b5cf31891b77e2</link>
-      <pubDate>2025/12/15 21:04</pubDate>
-      <description>OpenAIは12月12日、公式Xで最新AIモデル「GPT-5.2」の提供開始を発表した。44職種の知的労働タスクで人間の専門家を70.9%上回る性能を実現し、AI業界に再び衝撃が走っている。 Googleの「Gemini 3」に対抗し、社内で「Code Red（緊急事態）」を宣言した直後の発表となり、これだけの速さで対応してきたということも含めて、AI覇権競争はまだまだ続くことを予見させる内容となっている。 ココがポイントOpenAI（@OpenAI） ベンチマーク「GDPval」で人間より勝るか引き分けの割合が70.9％となり、GPT-5世代の38.8％から大きく伸びた 出典：ITmedia AI＋　2025/12/12(金) 先端AIの開発で米グーグルに追い上げられており、機能改良を急いでいる 出典：日本経済新聞　2025/12/12(金) チャットの実際の問い合わせをもとにした内部</description>
-    </item>
-    <item>
-      <title>アマゾン、Kindle本の内容を「ネタバレなし」でAIに質問可能に　作家は拒否できず</title>
-      <link>https://japan.cnet.com/article/35241670/</link>
-      <pubDate>2025/12/15 20:59</pubDate>
-      <description>Google、AI搭載Webブラウザがユーザーの操作から目的を自動で推測、アプリを動的生成して提示する実験的ブラウザ「Disco」を発表 旅行の計画を立てようとしてWebブラウザで目的地の観光名所やホテルを何か所も検索していると、Webブラウザがユーザーの意図を理解してAIで自動的にその旅行の計画立案用アプリを動的に生成。新しいタブとしてユーザーに提示することで、ユーザーはたくさんのタブを開いて情報を集めなくてもよくなる。 GoogleでAI関連の実験的製品を開発するGoogle Labsが、そんな新機能を備えた実験的なブラウザ「Disco」を発表しました。 DiscoはGoogleの最新AIモデルであるGeminiを統合したWebブラウザです。 Discoには上記の画面のようにGeminiとチャットする欄があり、ユーザーはGoogleの検索キーワードを入力する代わりに、ここに知りたいこと</description>
-    </item>
-    <item>
-      <title>ChatGPTに渡すべきは「質問」ではなく「コンテキスト」と「ナレッジ」｜ひつじ</title>
-      <link>https://note.com/hituji1234/n/n1974d879f1e3</link>
-      <pubDate>2025/12/15 23:29</pubDate>
-      <description>前回、前々回と、「NotebookLMを使ってスライドを生成しYAMLでデザインをコントロールする」という方法について書きましたが、今日はその番外編としてデザインがいい感じになった生成スライドにアニメーションを加える方法について書いてみようと思います。 前々回できたものがいい感じだったのでこれを動かしてみたくなったというのがそもそもの発端です。 これが、こんな感じで動くようになりました。この記事ではこの製作プロセスをご紹介していきます。 NotebookLMで生成できるのは画像状態のPDF目下、ユーザ目線で一番ネックになっているのがここですね。Google SlideやPowerPointで編集できればいいのに。。と。自分のようにアニメーション設定をしたい人にとっても、まずは画像状態のスライドをpptx化するところから始めなくてはです。 やりたいことをまとめると NotebookLMでYA</description>
-    </item>
-    <item>
-      <title>ベテランプログラマは生成AIをどう活用しているのか？そして初学者は生成AIをどう活用すべきか？ - give IT a try</title>
-      <link>https://blog.jnito.com/entry/2025/12/15/073604</link>
-      <pubDate>2025/12/16 07:16</pubDate>
-      <description>【読売新聞】　読売新聞社は１５日、生成ＡＩ（人工知能）の利用環境の整備に向けて、「『信頼できる生成ＡＩ』との共生に関する提言」をまとめた。国産ＡＩの開発などで国の自律性を向上させるとともに、速やかに問題に対応できる体制の整備や雇用対</description>
-    </item>
-    <item>
-      <title>日常のAI相談、実は「60代女性」が積極的　人への相談と“使い分け”傾向も</title>
-      <link>https://www.itmedia.co.jp/business/articles/2512/16/news019.html</link>
-      <pubDate>2025/12/16 08:22</pubDate>
-      <description>「もっと成果を出さなきゃ」「スキルを増やさなきゃ」。そんな焦りに押され、やることを積み重ねていないでしょうか？けれど、本当に働き方を変えるのは“足し算”ではなく、“引き算”かもしれません。この企画では、エンジニアたちがあえてやめたことと、その後に訪れた変化をたどります。ムダをそぎ落とした先に残る、本当に大切な仕事や自分らしい働き方とは。誰かの“やらない選択”が、あなたの次の一歩を軽くし、前向きに進むヒントになりますように。 こんにちは。神谷（@_yukamiya）です。現在は株式会社サイバーエージェントにて、新設されたばかりのAIドリブン推進室にてマネージャーとして所属する傍ら、小学生から保育園児まで3人の子育てをしています。また仕事とプライベートの中間に属するPodcast『momit.fm』のホストをはじめとしたサイドプロジェクトも複数持っています。 周囲からは「いったいどうやって両立</description>
-    </item>
-    <item>
-      <title>藤井聡太竜王・名人が今年ハマった「バイブコーディング」とは？ #将棋情報局</title>
-      <link>https://book.mynavi.jp/shogi/detail/id=149382</link>
-      <pubDate>2025/12/16 08:24</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b6893d5dbf70d98be04ac9e30fdae71c4a57843f/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2067%2F933%2F02.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>言語化が下手な人は5つのタイプに分けられる｜すてぃお</title>
-      <link>https://note.com/suthio/n/n2555d51f8f1b</link>
-      <pubDate>2025/12/16 09:54</pubDate>
-      <description>株式会社一休CTO伊藤直也さんとイオンCTO山﨑の対談企画。現在・過去・未来編の全3編のうち未来編では、AI時代のエンジニア・組織・プロダクトの在り方を探ります。AIを手段として使いこなすこと以上に、正しいデータを集めてAIに選ばれる形に整備することが価値になると二人は語ります。</description>
-    </item>
-    <item>
-      <title>｢AIと違って人間は責任取れるから」とか言ってる奴､自惚れすぎだろ</title>
-      <link>https://anond.hatelabo.jp/20251214182609</link>
-      <pubDate>2025/12/14 18:30</pubDate>
-      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
-    </item>
-    <item>
-      <title>【最新機能】Edgeに革命「Copilot Mode」とは？ ブラウザが“勝手に仕事する”時代へ</title>
-      <link>https://www.sbbit.jp/article/cont1/176635</link>
-      <pubDate>2025/12/12 22:38</pubDate>
-      <description>永久のユウグレというアニメを知っているだろうか？ P.A.WORKSによる今期のオリジナルアニメだ。 舞台は近未来。 ヒロインはAIの開発を手掛けている天才科学者で、主人公は幼少期に両親を亡くし、養子としてヒロインの家庭へ入る。 主人公も機械いじりの天才で、ヒロインとは幼少期から仲睦まじい。 そして大人になると自然と恋愛感情が芽生え、両想いとなり、結ばれる… となりかけたところで事件が発生。ヒロインの研究に反対する勢力が彼女を襲い、その際に主人公が負傷。 意識を失い、目が覚めるとそこは見知らぬ世界（未来）だった… というのが大まかなあらすじで、目覚めた主人公は未来の世界でヒロインの姿を探し求めて旅をする。 こんな感じのロードムービー的な話。でもこういった話自体は別段珍しくもないだろう。 主人公が意識を失い、目覚めたらはるか未来の世界だった（主人公はコールドスリープをしていたという設定） で</description>
-    </item>
-    <item>
-      <title>Spec駆動開発におけるコンテキストエンジニアリングとCustom Slash Commandsのベストプラクティス</title>
-      <link>https://developers.cyberagent.co.jp/blog/archives/60229/</link>
-      <pubDate>2025/12/14 01:42</pubDate>
-      <description>概要 JiT (Just image Transformer) は VAE を使わず、ピクセル空間上で flow-matching を行う モデルは速度 (velocity) v を予測するよりも実画像 x を予測した方が性能が良い (x-pred) ただしロスは、実画像 x とノイズ画像 z から作れる速度 v でロスを計算すると良い (v-loss) はじめに 拡散による画像生成モデルは Stable Diffusion を筆頭として、U-Net ベースのモデルが主流でした。 派生の SDXL は、その取り回しの良さから 2025 年 12 月現在でもいまだに使われるベースモデルだと思います。 最近ではそれらに加えて、DiT から始まった Transformer をメインに用いた拡散モデルである、 Flux.1 や Qwen-Image、 Z-Image がその生成画像の品質の高さから</description>
-    </item>
-    <item>
-      <title>AgentOps入門　〜LLM時代の新たな運用パラダイム〜</title>
-      <link>https://zenn.dev/mkj/articles/438de5dc603084</link>
-      <pubDate>2025/12/15 01:35</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/7cebe561c9821461e433dbd267271a7ac5a4730c/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2069%2F342%2F001.JPG');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
     </item>
   </channel>
 </rss>

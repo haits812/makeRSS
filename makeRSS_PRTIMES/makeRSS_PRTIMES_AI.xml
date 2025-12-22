@@ -5,6 +5,56 @@
     <description>https://prtimes.jp/index.rdfから特定のキーワードを含む記事を提供します。</description>
     <link>https://prtimes.jp/index.rdf</link>
     <item>
+      <title>ikura、新橋グランハマーに「AIインバウンド担当」を実装 WhatsAppとAIで問い合わせ・予約を自動化</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000001.000174967.html</link>
+      <description>[株式会社 ikura]
+株式会社ikura(https://www.ikura.io/)（本社：東京都港区、代表取締役 中澤英子、以下「ikura」）が開発した「AIインバウンド担当」が、CIC Institute がスマートサービス実装促進事業者として運営する東京都ス...</description>
+      <pubDate>2025-12-22T11:15:20+09:00</pubDate>
+    </item>
+    <item>
+      <title>SORACOM Flux、カメラ・GPS・ボタンと連携するIoT自動化テンプレートを拡充</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000353.000034562.html</link>
+      <description>[株式会社ソラコム]
+株式会社ソラコム（本社：東京都港区、代表取締役社長 CEO 玉川憲）は、IoTシステムの自動化や AI を活用したアプリケーションを構築できるサービス「SORACOM Flux（ソラコム フラックス）」において、用意された...</description>
+      <pubDate>2025-12-22T11:40:32+09:00</pubDate>
+    </item>
+    <item>
+      <title>AIデジタル採点サービス「testus（テスタス）」、「パズル道場DX 2025種目別選手権」にて採点・集計業務を約60%削減</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000005.000174489.html</link>
+      <description>[株式会社マイクロシミュレーション]
+[画像1: https://prcdn.freetls.fastly.net/release_image/174489/5/174489-5-c3c1775411549bc37c7f6c24f16655a4-2752x1536.png?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;am...</description>
+      <pubDate>2025-12-22T17:40:29+09:00</pubDate>
+    </item>
+    <item>
+      <title>Molexがオートモーティブワイヤーハーネスとゾーンアーキテクチャー用途のコストと複雑性を低減するMX-DaSHモジュラー電線対電線用コネクターを発表</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000007.000173131.html</link>
+      <description>[Molex, LLC]
+・ カートリッジベースの自動化対応プラットフォームが、電源端子とシグナル端子を単一のインターフェースに統合することでワイヤーハーネスの重量、サイズ、スペースを大幅に削減します。
+・ 設計柔軟性の向上に...</description>
+      <pubDate>2025-12-22T14:40:29+09:00</pubDate>
+    </item>
+    <item>
+      <title>【世界初・自治体初】ブロックチェーン×防災DXで「誰も取り残さない」社会へ飯塚市DID/VC防災実証実験を開始</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000024.000131462.html</link>
+      <description>[Turing Japan 株式会社]
+Turing Japan株式会社は、福岡県飯塚市の「令和7年度飯塚市先端情報技術実証実験サポート事業」の採択プロジェクトとして、防災分野において世界初となるDID/VC（分散型ID・検証可能な証明書）を活用した実証実験...</description>
+      <pubDate>2025-12-22T16:15:21+09:00</pubDate>
+    </item>
+    <item>
+      <title>ITエンジニア採用担当者向けの無料セミナー「業界の最前線を走る2社が徹底議論！生成AIが変えるエンジニア採用」を開催</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000324.000000486.html</link>
+      <description>[ギークス株式会社]
+ギークス株式会社（本社：東京都渋谷区、代表取締役CEO：曽根原 稔人、以下ギークス）は、2026年1月20日（火）19:00～21:00にて、ITエンジニア採用担当者向けの無料セミナー「業界の最前線を走る2社が徹底議論！...</description>
+      <pubDate>2025-12-22T15:40:29+09:00</pubDate>
+    </item>
+    <item>
+      <title>【AIが選ぶ信頼できるおすすめの空き家買取業者ランキング】404人アンケート調査</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000310.000055654.html</link>
+      <description>[株式会社AlbaLink]
+&amp;lt;blockquote&amp;gt;株式会社AlbaLink(本社：東京都江東区、代表取締役：河田 憲二)は、ChatGPTまたはGeminiを使っている404人を対象に「AIが回答した空き家買取業者に関するアンケート」を実施し、そのデータをランキン...</description>
+      <pubDate>2025-12-22T15:40:29+09:00</pubDate>
+    </item>
+    <item>
       <title>【投票開始】分断？深化？テクノロジーと民主主義のゆくえ──私たちは何を重視すべきか？</title>
       <link>https://prtimes.jp/main/html/rd/p/000000606.000088829.html</link>
       <description>[ポリミル]
@@ -2087,56 +2137,6 @@ CX向上生成AIソリューション「ZETA CXシリーズ」を提供し、顧
       <description>[株式会社Bot Express]
 株式会社Bot Express（本社：東京都港区、代表取締役：中嶋 一樹、以下 Bot Express）は、官公庁・地方自治体のDX事例を共有する無料オンラインセミナー「Bot Express Showcase」を毎月開催しています。12月17日...</description>
       <pubDate>2025-11-19T17:40:03+09:00</pubDate>
-    </item>
-    <item>
-      <title>職場DX推進に向けた業務改善支援ハンズオントレーニングを社外展開します</title>
-      <link>https://prtimes.jp/main/html/rd/p/000001295.000017557.html</link>
-      <description>[東日本旅客鉄道株式会社]
-○JR東日本は、職場DX(Digital Transformation)推進に向けて、デジタル人材の育成に取り組んでいます。
-○この一環として、社内で職場DX推進に向けた「業務改善支援ハンズオントレーニング※」を通じて社員のDXスキ...</description>
-      <pubDate>2025-11-19T17:45:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>BPOとDXで変革する～経理部門における「価値最大化」の戦略とは～11月27日開催</title>
-      <link>https://prtimes.jp/main/html/rd/p/000002104.000016751.html</link>
-      <description>[株式会社パソナグループ]
-株式会社パソナ（本社：東京都千代田区、代表取締役社長 中尾慎太郎）は経営層や経理部門のご担当者へ向けたウェビナー「BPOとDXで変革する、経理部門における価値最大化の戦略とは」を11月27日(木)に開催いたし...</description>
-      <pubDate>2025-11-19T16:40:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>【明後日開催！】「クールジャパンDXサミット2025」登壇者を一挙ご紹介</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000214.000011450.html</link>
-      <description>[Vpon JAPAN株式会社]
-[画像1: https://prcdn.freetls.fastly.net/release_image/11450/214/11450-214-7d49ff4e42c89cba2274055610292141-960x540.png?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;am...</description>
-      <pubDate>2025-11-19T16:40:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>東京都港区が「exaBase 生成AI for 自治体」を全庁に導入</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000411.000030192.html</link>
-      <description>[株式会社エクサウィザーズ]
-株式会社エクサウィザーズ（東京都港区、代表取締役社長：春田 真、以下エクサウィザーズ）およびグループ会社である株式会社Exa Enterprise AI（本社：東京都港区、代表取締役：大植 択真、以下Exa Enterprise A...</description>
-      <pubDate>2025-11-19T16:45:03+09:00</pubDate>
-    </item>
-    <item>
-      <title>北海道ジェイ・アール都市開発の「ジュノール千歳真々地」にDXYZの顔認証IDプラットフォーム「FreeiD」を導入</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000138.000091732.html</link>
-      <description>[ディクシーズ／FreeiD]
-　DXYZ(ディクシーズ)株式会社（本社：東京都新宿区、代表取締役：中西 聖、以下「DXYZ」）と北海道ジェイ・アール都市開発株式会社（本社：北海道札幌市、代表取締役社長：前川 直之、以下「北海道ジェイ・アー...</description>
-      <pubDate>2025-11-19T15:30:00+09:00</pubDate>
-    </item>
-    <item>
-      <title>ミガログループのDXYZの顔認証IDプラットフォーム「FreeiD」が北海道ジェイ・アール都市開発の「ジュノール千歳真々地」に導入</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000283.000130175.html</link>
-      <description>[ミガロHD]
-　「デジタル」と「リアル」の融合で新たな価値を創造する企業、ミガロホールディングス株式会社(本社：東京都新宿区、代表取締役社長：中西 聖、証券コード：5535、以下「ミガロHD」)のグループ会社DXYZ 株式会...</description>
-      <pubDate>2025-11-19T15:30:00+09:00</pubDate>
-    </item>
-    <item>
-      <title>富士通 Japan、生成AIを活用した医療文章作成支援サービスを名古屋医療センター様に導入し、退院サマリを対象に本格運用開始</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000494.000093942.html</link>
-      <description>[富士通株式会社]
-富士通Japan株式会社（注1）（以下、富士通Japan）は、独立行政法人国立病院機構名古屋医療センター（注2）（以下、名古屋医療センター）様の働き方改革および医療の質向上に向けて、全診療科で退院サマリの作成...</description>
-      <pubDate>2025-11-19T14:45:02+09:00</pubDate>
     </item>
   </channel>
 </rss>
