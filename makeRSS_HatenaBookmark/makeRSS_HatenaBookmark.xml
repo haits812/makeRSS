@@ -5,6 +5,72 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>年の瀬に開発環境見直してたらVibe Codingに`Conductor`というツールが最高だった</title>
+      <link>https://zenn.dev/explaza/articles/cacf0fd6ad83f6</link>
+      <pubDate>2025/12/19 20:21</pubDate>
+      <description>【この記事のポイント】・AIで憧れの楽曲作りを始めた米国女性の成功物語・97%の聞き手はAIと人間の曲を区別できない・夫がミュージシャンでも、バービーさんはAI音楽に肯定的米国で一般の女性が人工知能（AI）で曲作りを始めてわずか3カ月後、米音楽チャート「ビルボード」で1位を獲得した。フランス発の音楽配信サービスでは、新曲の3割をAI製が占める。AIは人間から音楽を奪うのか、それとも音楽をつくる喜</description>
+    </item>
+    <item>
+      <title>🍌 プロンプトを作るプロンプトを作るプロンプト：Nano Banana Pro Prompt Agent V2.3 の作り方｜Maki@Sunwood.ai.labs</title>
+      <link>https://note.com/sunwood_ai_labs/n/nae76459817e2</link>
+      <pubDate>2025/12/18 17:40</pubDate>
+      <description>2025-12-17 社内向け LT 資料（公開版） Socrates : 社内向けデータ分析 LLM エージェント</description>
+    </item>
+    <item>
+      <title>京大、「キリスト教AI」開発へ　「どうすれば幸せになれる？」にも原典に基づき回答　“仏教AI”に続き</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/19/news126.html</link>
+      <pubDate>2025/12/20 09:44</pubDate>
+      <description>世界的な需要の増加により、PCのメモリの価格が高騰している。これを受けて、旧世代のあるCPUへの人気が高まっているようだ。海外メディアTom’s Hardwareが報じている。 昨今ではAI分野での需要急増により、世界的にメモリが品薄となっている。そのなかではたとえば米国の半導体大手Micronが「Crucial」ブランドとして展開していたコンシューマー向け事業から撤退することを発表（関連記事）。またSamsungやSK Hynixなどの競合大手は2027年上半期まで供給不足は続くとの見方を示しつつ、供給過剰に陥るリスクを避けるためにも増産への投資には消極的のようだ（Wccftech）。 一方で、メモリ以外のPCパーツの中古市場でも現在興味深い動きが見られる。AMD製のCPU「Ryzen 7 5800X3D」が突如人気となり、価格が高騰しているようだ。Tom’s Hardwareによると、</description>
+    </item>
+    <item>
+      <title>FunctionGemma: Bringing bespoke function calling to the edge</title>
+      <link>https://blog.google/technology/developers/functiongemma/</link>
+      <pubDate>2025/12/19 11:36</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5b179f865f816ac6c527ed80b6f8ae22b1482385/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2072%2F923%2Fcomfyui.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Android端末での「Googleアシスタント」から「Gemini」への完全移行、2026年にずれ込む</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/21/news017.html</link>
+      <pubDate>2025/12/21 11:48</pubDate>
+      <description>Coursera and Udemy enter a merger agreement valued at around $2.5B ​Coursera and Udemy announced on Wednesday a landmark merger agreement valued at approximately $2.5 billion, bringing together two of the biggest names in online learning. Coursera will acquire Udemy in an all-stock transaction, marking a pivotal moment in online education. The companies said the merger will be finalized in the sec</description>
+    </item>
+    <item>
+      <title>画像をレイヤー分けできるAIモデル「Qwen-Image-Layered」が登場</title>
+      <link>https://gigazine.net/news/20251222-qwen-image-layered/</link>
+      <pubDate>2025/12/22 16:27</pubDate>
+      <description>はじめに Agent Skillsがオープンスタンダードとして公開されました。 今年に入ってからCline, Claude Code, opencode, Codexとコーディングエージェントがたくさん出てきましたが、どれも発展途上であり、場当たり的なアップデートばかり繰り返され、全部賭けるにはリスクが大きすぎるようなものばかりでした。 また、コーディングエージェントが登場する前から存在するRAGやMCP、コーディングエージェントを効率的に利用するためのAGENTS.mdファイルにおいても、互換性を重視するあまり、良い仕様改定が行われてきませんでした。 そんな中登場したのがAgent Skillsです。 個人的には今まで登場してきたものの中で、唯一、文句無しの完成度を誇るものでした。 自作コーディングエージェントShaftの作者であり、コンテキストエンジニアリングに関する様々な知見を持つ私</description>
+    </item>
+    <item>
+      <title>Figmaやめて、AIとコードでUIを作り始めた話</title>
+      <link>https://zenn.dev/aishift/articles/3e211e67e3dc14</link>
+      <pubDate>2025/12/22 12:43</pubDate>
+      <description>ウェブブラウザのFirefoxはAI機能を強化する取り組みを進めていますが、ユーザーコミュニティからの反対意見を受け、AI機能を完全に無効化するAIキルスイッチの開発に取り組んでいることを明かしました。 Firefox will add an AI &amp;quot;kill switch&amp;quot; after community pushback | TechSpot https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html 2025年12月、Mozillaの新CEOにFirefoxの開発チームを率いてきたアンソニー・エンゾー＝デメオ氏が就任しました。 Mozillaの新CEOがこれからのFirefoxを語る、「最高のブラウザ」を最優先しつつAIの統合も - GIGAZINE エンゾ</description>
+    </item>
+    <item>
+      <title>東京電力、柏崎刈羽原発の周辺でデータセンター開発　AI需要に的 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC13BG40T11C25A1000000/</link>
+      <pubDate>2025/12/22 19:51</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5873965d0d03d684966315f392faa39403fcba78/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2073%2F277%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ノーコードで業務自動化AIエージェントを作成できる「Google Workspace Studio」提供開始</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/22/news052.html</link>
+      <pubDate>2025/12/22 16:34</pubDate>
+      <description>2025年12月18日、Anthropicが「Agent Skills」をオープン標準として公開し、OpenAI CodexやGitHub Copilot Agentなども続々と対応を表明しました。これは単なる機能追加ではなく、エージェント開発における「スキル共有革命」の始まりです。本スライドでは、「ど…</description>
+    </item>
+    <item>
+      <title>AI で日本語の長文を校正する - 山下泰平の趣味の方法</title>
+      <link>https://cocolog-nifty.hatenablog.com/entry/2025/12/22/124436</link>
+      <pubDate>2025/12/22 23:00</pubDate>
+      <description>文部科学省は22日、高校の必修科目「数学Ⅰ」の内容を見直し、人工知能（AI）の仕組みやデータサイエンスの理解に必要な基礎的な内容を新たに盛り込む案を示した。AIが急速に普及するなか、文系・理系を問わず全ての高校生に学んでもらう。次期学習指導要領について議論する中央教育審議会の作業部会で見直し案を提示した。2032年度から高校に導入予定の次期指導要領から適用する見通しだ。高校の数学は現在、Ⅰ、</description>
+    </item>
+    <item>
       <title>2025年リリースの聴いてよかった音楽を紹介します - nomolkのブログ</title>
       <link>https://nomolk.hatenablog.com/entry/2025/12/21/231907</link>
       <pubDate>2025/12/21 23:45</pubDate>
@@ -1803,66 +1869,6 @@
       <link>https://thinkit.co.jp/article/38701</link>
       <pubDate>2025/12/14 13:06</pubDate>
       <description>【大バズリ】NotebookLMスライドをパワポやGIF画像に即変換するCanvas。ん…Canvas！？【コード無料配布】 いや……投稿から1日経ってないのに まじん式v4 のいいね/インプの半数超えてるんだが…。 しかもこれ、 Geminiと30分くらいお喋りしてたら完成しました。 今回は、このアプリのソースコードを無料公開したいと思います！ また、どのようにGeminiと対話したのか？ そのバイブコーディングのテクニックについては、 メンバーシップ限定エリアに記載しますね、さすがに。 【無料公開】自分のGeminiで再現しよう！Gemini（思考モード）でCanvasをオンにして、 以下のプロンプトを送信してみてください。無料GeminiでもOK。 以下のコードをCanvasにそのままプレビューしてください。 --- [ソースコード] ソースコード（Xで公開したこちら）import</description>
-    </item>
-    <item>
-      <title>Just image Transformer: ピクセル空間で実画像を予測するフローマッチングモデル</title>
-      <link>https://zenn.dev/platina/articles/jit-pixel-space-x-pred</link>
-      <pubDate>2025/12/14 19:13</pubDate>
-      <description>「Space Jam」はバスケットボールを主題にしたアメリカのアニメーション映画です。「Space Jam」が公開された1996年は折しもインターネットが一般に普及しだした時期にあたり、「Space Jam」もウェブサイトを開設していたことが、当時を懐古する人々の話題に上ることがあります。そんな往年のウェブサイトを、対話型生成AI「Claude」を用いて再現しようという試みが、ソーシャルニュースサイトのHacker Newsで話題になっています。 I failed to recreate the 1996 Space Jam Website with Claude | j0nah.com https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude エンジニアのJonah Glover氏は、「Sp</description>
-    </item>
-    <item>
-      <title>“AIミニスパコン”に大興奮。ヘビー級ローカルLLMもさくさく動く｢夢のマシン｣</title>
-      <link>https://www.gizmodo.jp/2025/12/asus_ascent_gx10_handson.html</link>
-      <pubDate>2025/12/14 21:27</pubDate>
-      <description>L4（全プロセスの自動化）を実現するためには、従来の開発スタイルの限界を理解し、「Spec駆動開発」へとシフトする必要があります。 3. Spec駆動開発」とは Spec駆動開発とは、仕様書（Spec）を単なる「人間が読むためのドキュメント」としてではなく、「AIがコードを生成するための構造化されたコンテキスト」として再定義する開発手法です。 従来、ドキュメントは開発の「副産物」や「後付け」になりがちでしたが、この手法ではドキュメントこそがコードを生み出す「源泉（Single Source of Truth）」となります。 Spec駆動開発がもたらす3つの「副次的効果」 この手法のメリットは、開発プロセスの自動化そのものよりも、開発プロセス自体に「健全な強制力」が働く点にあります。 1. ドキュメントの鮮度と網羅性の維持 これまでは、コード変更後にドキュメントを更新し忘れる「ドキュメントの</description>
-    </item>
-    <item>
-      <title>OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI</title>
-      <link>https://simonwillison.net/2025/Dec/12/openai-skills/</link>
-      <pubDate>2025/12/13 12:45</pubDate>
-      <description>●この記事のポイント ・OpenAIやグーグルの高性能AIが注目される一方、著作権クリアと実務特化で企業利用を急拡大させるアドビが、生成AIビジネスの“隠れた勝者”として浮上している。 ・Fireflyは権利クリア済みデータで学習し、CMや広告に安心して使える強みを持つ。さらにSoraやVeoなど他社AIを自社ワークフローに取り込み、制作工程の中心地を握りつつある。 ・無料利用に依存する競合と異なり、アドビは企業ユーザーの高い支払い能力を背景に収益化でも優位。実務・権利フェーズに入った生成AI市場で、最も合理的な勝ち筋を確立している。 いま、世界のテクノロジー企業は生成AIをめぐり「技術力競争」に沸いている。OpenAIの動画生成AI「Sora」、グーグルの「Veo 3.1」、さらにはRunwayやファーウェイの最新モデルまで、映像表現のリアリティは日に日に進化し、人間の制作物との境界は、</description>
-    </item>
-    <item>
-      <title>「なんて？」藤井聡太六冠の“今年ハマったもの”に一同キョトン…早口で語る一部始終に全員が置いていかれる「やべー日本語がわからねぇ」（ABEMA TIMES） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/a0c1049548005459128268babb8fb361b6ae518e</link>
-      <pubDate>2025/12/14 21:44</pubDate>
-      <description>こんにちは、スーホです。 今回は私のちっぽけな人生をベースにですが、お金と人生について書きたいと思います。 はじめに僕は以下のポストの通り、32歳で1億円の金融資産を築きました。 給料入って金融資産1億達成。目の前に札束がある訳ではないので現実味がないが、金融資産1億を目指して半ばプライベートを捨てて本業、副業、資産運用に取り組んできたので、スマホ上の数字だけでも達成感がある。32歳、まだまだこれからだがとりあえず人生の大きな目標をクリアした。あざした。 pic.twitter.com/c110uK5Zp2 — スーホ (@sukhswhitehorse) November 24, 2023 新卒で入社した総合商社時代から、休む間もなくハードに働き、余暇時間も資産運用やベンチャー事業投資などに没頭した結果、色々ラッキーもあって1億円の金融資産を築くことができました。 多くの人から「若くして</description>
-    </item>
-    <item>
-      <title>Netflixのワーナー買収とOpenAIディズニーの提携　「巨大垂直統合」の時代【西田宗千佳のイマトミライ】</title>
-      <link>https://www.watch.impress.co.jp/docs/series/nishida/2071146.html</link>
-      <pubDate>2025/12/15 08:33</pubDate>
-      <description>AIが新人の成長機会を奪うなら、新人は上司の椅子を奪えばいい：27卒以降は“つらたん”というけれど AIの進化により、新人の初歩的な仕事や修行の場が奪われ始めた。では、これからの新人は、どうやって基礎力を身に付ければいいのだろうか。その答えもAIが持っていた――。 AI（人工知能）がホワイトカラーの仕事を効率化しています。Googleの最新AI「Gemini 3」は、正確な日本語が書かれたプレゼンテーション資料を簡単に作れる、と大きな話題になりました。 面倒な仕事を代替してくれるのは、うれしい変化のはず。でも、「自分の仕事が奪われていくのでは……この先、飯を食えるんだろうか」と不安になっているホワイトカラーは、筆者だけじゃないと思います。 特に、若い皆さんの不安は相当のものでしょう。AIが進化し続ける時代をどう生き抜けばいいのか、考えてみます。 「若手の修行機会」をAIが奪っている エンジ</description>
-    </item>
-    <item>
-      <title>画像生成AIの歴史を変えたNano Banana　“一貫性の壁”が突破された2025年を振り返る (1/5)</title>
-      <link>https://ascii.jp/elem/000/004/359/4359755/</link>
-      <pubDate>2025/12/15 08:33</pubDate>
-      <description>1000人超の生徒を擁する私立の札幌第一高等学校が、校内ネットワークを刷新した。10Gbpsの光回線に加えて、Wi-Fi 6（IEEE 802.11ax）準拠の無線LANアクセスポイント（以下、AP）を導入したのが骨子だ。通信速度の向上に加えて、教室だけではなく校庭などさまざまな場所でのネットワーク接続を実現した。刷新の背景には、同校が直面していた“ある課題”があった。 ネットワークのせいで教員が残業？　「Wi-Fi 6」無線LAN導入の訳 1958年創立の札幌第一高等学校は、英会話サービスや動画サイトなどのオンラインサービスを教育活動で利用している。同校の従来のネットワークには、通信速度や通信可能エリアに制約があったことから、オンラインサービスの利用に支障が生じていた。従来のAPはチャネル設計の制約から増設が困難であり、2015年の新校舎完成時から2教室に1台ずつのAP設置にとどまってい</description>
-    </item>
-    <item>
-      <title>パナソニックHD、鳴り物入りのAIサービス難航　新規事業育成に課題 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUF0268J0S5A201C2000000/</link>
-      <pubDate>2025/12/15 07:34</pubDate>
-      <description>デバッグはコードを書くときの2倍は難しい。 したがってその定義に従うならば、コードをできる限り複雑に書けば、 そのコードをデバッグできるほど自分は賢くないことになる。 この言葉は、ブライアン・W・カーニハンとデニス・M・リッチーによる古典的な著作『The C Programming Language』の中で述べられたものです。書かれたコードに対して、デバッグ作業は難しいものです（ここでは、コーディングの2倍難しいとしています）。つまり、自分の限界とも言えるほど複雑なコードを書けば、そのコードをデバッグすることは不可能になる、という意味です。 これは他人の書いたコードでも同様です。Googleのレビューガイドラインによれば、 コードを一行ずつ 見るのが大切とされています。コードには開発者の意図があり、なぜそのように書かれたのかを理解しなければならないからです。 しかし、AI駆動開発の時代にな</description>
-    </item>
-    <item>
-      <title>国産ＡＩに日本の自律性確保を…官民一体の基盤モデル開発［読売新聞社提言］</title>
-      <link>https://www.yomiuri.co.jp/national/20251215-GYT1T00443/</link>
-      <pubDate>2025/12/16 05:40</pubDate>
-      <description>「ChatGPTに相談してみたけど、結局仕事では使えないな。」 そんなモヤモヤを感じたこと、きっと一度はあると思います。 リサーチをお願いすると、どこかで見たような一般論になる。 企画の壁打ちを頼んでも、「まぁそうなんだけど…それなら自分で考えたほうが早いな」という感想で終わってしまう。 「やっぱりAIはまだまだだな」 「結局、人間が頭を使わないとダメか」 と思いがちです。 でも、これに関しては僕は、ほとんどの場合「AIに渡している前提情報（コンテキスト）と材料（ナレッジ）が薄すぎるだけ」だと感じています。 「コンテキスト」と「ナレッジ」多くの人は質問の中身そのものより、「質問の前に何を渡すか（コンテキストとナレッジ）」の設計で損をしている状態です。 このnoteの連載では、「ChatGPTを最強のビジネスパートナー化する方法」を、約40本の記事で“教科書”のように体系立ててまとめていく予</description>
-    </item>
-    <item>
-      <title>ビジネス品質向上に欠かせない「テスト設計」の工数をAIで大幅に短縮――完全自動型E2Eテスト設計システム開発の舞台裏</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/09/news001.html</link>
-      <pubDate>2025/12/15 22:49</pubDate>
-      <description>はじめに これは「フィヨルドブートキャンプ Advent Calendar 2025」の15日目の記事です。 fjord-calendar.jp 昨日の記事は id:unikounio さんの「【Obsidian】Thinoで思考の整理を楽しもう」と、 id:hiroblogdesu さんの「フィヨルドブートキャンプに入会して丸2年が経ったのでモチベについて語らせてください」でした。 今回はメンターである僕、伊藤淳一がふだんの業務で生成AIをどんなふうに使っているのかを紹介したいと思います。 また、記事の後半ではフィヨルドブートキャンプ生に向けて、プログラミング初学者が生成AIを利用する際の注意点についても書いてみます。 【もくじ】 はじめに どんな生成AIを使っているのか どんなときに使うのか 自分でコードを書いてもいいが、ちょっと面倒なとき 自分で調べてもいいが、時間がかかりそうなとき</description>
-    </item>
-    <item>
-      <title>実はマルチモーダルだった。ブラウザの組み込みAI🧠でWebの未来を感じてみよう #jsfes #gemini</title>
-      <link>https://speakerdeck.com/n0bisuke2/burauzanozu-miip-miai-dewebnowei-lai-wogan-zitemiyou-number-jsfes</link>
-      <pubDate>2025/12/16 10:04</pubDate>
-      <description>はじめに こんにちは、アジャイル開発チームの伊藤です。今日もたくさんのアドベントカレンダー記事が公開されている中、この記事を開いていただきありがとうございます。 この記事は、Insight Edge Advent Calendar 2025 16日目の記事です。 今回はコンテキストエンジニアリングについて、三つのことを語りたいと思います。 1つ目は「コンテキストエンジニアリングは対人コミュニケーションの場面に当てはめることができる」ということです。 あわせて「対人コミュニケーションをコンテキストエンジニアリングで考えると、相手に伝えるべき情報についての理解が深まる」という点について例とともに説明します。 そして最後に「コンテキストエンジニアリングはエンジニアに限らず全ての人に有用な汎用的スキルになるのではないか」という野望(?)に触れさせてください。 目次 コンテキストエンジニアリングとは</description>
     </item>
   </channel>
 </rss>
