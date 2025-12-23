@@ -5,6 +5,117 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Slackワークフロー使いこなせてる？進化したトリガーとリストで実現するハック - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/2025/12/20/120000</link>
+      <pubDate>2025/12/20 12:20</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/71102ef5d1591a4661baba6e8b944274311e6d67/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2072%2F125%2FC00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>[Revised] You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models</title>
+      <link>https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude</link>
+      <pubDate>2025/12/22 09:48</pubDate>
+      <description>前回（12月16日）、「知財検討会のプリンシプルコード（仮称）（案）」をきっかけに、生成AIと処遇AIの混同について書いた。その後いくつか反応をもらったので、続きを書く。 前回のおさらい 前回の要点はこうだ。2022年までに作られたAI原則やガイドラインは、主に「処遇AI」（人を選別・審査・評価するAI）を念頭に置いていた。ところが2023年にChatGPTが爆発的に広まると、「生成AI」が主役になった。このとき、処遇AI向けの語彙──「追跡可能性」「透明性」「説明可能性」──がそのまま生成AIに流用された。これらは元々、なぜその人がその決定を受けたかを事後検証できるようにするための要請である。ところが生成AIの文脈では、生成物が何に由来するかという話にすり替わり、さらには学習段階まで遡って「学習していないことの証明」が求められるに至った。際限なく広がる「文書化」と「説明」の要求が燃え広が</description>
+    </item>
+    <item>
+      <title>【Google Gemini】マジで使うGemを5つ紹介</title>
+      <link>https://zenn.dev/mavericks/articles/my-favorite-google-gems</link>
+      <pubDate>2025/12/22 06:05</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/56d93abdc6398ecea72c2deceeaed3d1fa488d2b/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2073%2F130%2Fg1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>日テレ、「生成AIフル活用」ドラマ放送へ　映画「8番出口」制作プロダクションやサイバーエージェントが協力</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/22/news079.html</link>
+      <pubDate>2025/12/22 12:32</pubDate>
+      <description>ITmedia NEWSにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia NEWS Weekly Top10」。今回は12月13～19日までの7日間について集計し、まとめた。 先週のアクセスランキングは、メモリとストレージの「GB」の違いについて、漫画で分かりやすく解説した記事が上位だった。 さて、すっかり年末だ。今週はクリスマスだし、それが終わればお正月。年賀状を出す人は、準備に追われているだろう。 ただ昨今は年賀状じまいをする人も多い。筆者もまだ準備できておらず、「我が家も、もういいかなあ」と思っていた……のだが、日本郵便が先日始めた、年賀状需要喚起キャンペーンに心をつかまれてしまった。 「#Geminiで年賀状」が攻めすぎ　黒歴史が生成された その名も「#Geminiで年賀状」だ。ユーザーがアップロードした写真を、GoogleのAI「Gemini」で編集</description>
+    </item>
+    <item>
+      <title>画像生成AI「Nano Banana Pro」で判明した“ストーリーボード革命” (1/5)</title>
+      <link>https://ascii.jp/elem/000/004/361/4361720/</link>
+      <pubDate>2025/12/22 15:17</pubDate>
+      <description>生成AIの登場により、ソフトウェア開発のあり方は劇的に変化しました。次々と新しいツールが登場し、これまでの常識が覆される中で、急速に進化するAIにどう対応していくか―本書は現場の開発者に向けて書かれた実践的なガイドです。著者は多様なAIツールを徹底的に検証し、コード生成、UI/UXデザイン、コードレビュー、テスト、ドキュメント作成など、開発工程全体におけるAI活用の可能性と限界を明らかにしています。また、将来のツール評価に役立つ指針も提示し、進化し続けるAI時代を生き抜くエンジニア、デザイナー、プロダクトマネージャーにとって必携の一冊となっています。 訳者まえがき はじめに 1章　コード生成とオートコンプリート 1.1　コード生成ツールの種類 1.2　ユースケース 1.3　ブラウザベースのツール 1.3.1　ChatGPT 1.3.2　Google Gemini 1.4　IDEベースのツー</description>
+    </item>
+    <item>
+      <title>Agent Skillsに全部賭ける価値はあるか</title>
+      <link>https://zenn.dev/tkithrta/articles/f07b7b8cdb7d0c</link>
+      <pubDate>2025/12/22 13:37</pubDate>
+      <description>各AI企業はAIにトレンドやニュースを扱わせるために最新の情報を学習させていますが、一方でAIが生成した誤情報を別のAIが学習してまき散らす悪循環が発生するなど、新しい情報で汚染されてしまうケースもあります。チューリッヒ大学の研究者らが発表した「Ranke-4B」は、タイムスタンプ付きデータのみを使用した「History-LLMs」プロジェクトの一環としてリリースされており、100年以上前の社会における知識や見解などを表現できるAIとして構築されています。 history-llms/ranke-4b/prerelease_notes.md at main · DGoettlich/history-llms · GitHub https://github.com/DGoettlich/history-llms/blob/main/ranke-4b/prerelease_notes.md Gi</description>
+    </item>
+    <item>
+      <title>LLMのCUDAカーネルを自作しよう!</title>
+      <link>https://zenn.dev/selllous/articles/diy_llm_kernel</link>
+      <pubDate>2025/12/22 17:55</pubDate>
+      <description>2025年12月19日、中国の大手テクノロジー企業であるAlibabaのAIモデルであるQwenシリーズに、画像を複数のRGBAレイヤーに分解できるAIモデル「Qwen-Image-Layered」が新たに登場しました。 Qwen-Image-Layered: Layered Decomposition for Inherent Editablity https://qwen.ai/blog?id=qwen-image-layered 🎨 Qwen-Image-Layered is LIVE — native image decomposition, fully open-sourced! ✨ Why it stands out ✅ Photoshop-grade layering Physically isolated RGBA layers with true native edit</description>
+    </item>
+    <item>
+      <title>NVIDIA、72GBメモリ版「RTX PRO 5000 Blackwell」を提供開始</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2073277.html</link>
+      <pubDate>2025/12/22 18:28</pubDate>
+      <description>ウェブブラウザのFirefoxはAI機能を強化する取り組みを進めていますが、ユーザーコミュニティからの反対意見を受け、AI機能を完全に無効化するAIキルスイッチの開発に取り組んでいることを明かしました。 Firefox will add an AI &amp;quot;kill switch&amp;quot; after community pushback | TechSpot https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html 2025年12月、Mozillaの新CEOにFirefoxの開発チームを率いてきたアンソニー・エンゾー＝デメオ氏が就任しました。 Mozillaの新CEOがこれからのFirefoxを語る、「最高のブラウザ」を最優先しつつAIの統合も - GIGAZINE エンゾ</description>
+    </item>
+    <item>
+      <title>Agent Skillsがハーネスの垣根を超える日</title>
+      <link>https://speakerdeck.com/gotalab555/agent-skillsgahanesunoyuan-gen-wochao-eruri</link>
+      <pubDate>2025/12/22 13:48</pubDate>
+      <description>東京電力ホールディングス（HD）は柏崎刈羽原子力発電所（新潟県）周辺でデータセンターを開発する方針だ。異業種と連携して電源と情報通信インフラを一体運営し、人工知能（AI）向けの電力需要を取り込む。原発の電気を次世代燃料の水素製造にも活用する。収益の拡大へ脱炭素電力を生かす。送電網の整備負担減らす柏崎刈羽原発をめぐっては23日にも再稼働に向けた地元同意の手続きが完了する。再稼働するのは7基のう</description>
+    </item>
+    <item>
+      <title>楽天、7000億パラメータの日本語LLM「Rakuten AI 3.0」発表──GENIAC支援で開発、国内最大規模 | Ledge.ai</title>
+      <link>https://ledge.ai/articles/rakuten_ai_3_0_japanese_llm_700b_geniac</link>
+      <pubDate>2025/12/22 10:49</pubDate>
+      <description>ノーコードで業務自動化AIエージェントを作成できる「Google Workspace Studio」提供開始：「Google Apps Script」を使った拡張にも対応 Googleは、Google Workspace向けのAIエージェント設計ツール「Google Workspace Studio」の一般提供を開始した。ノーコードで日常業務や複雑なワークフローを自動化できるという。</description>
+    </item>
+    <item>
+      <title>AIはブランドを無効にする　星野リゾート、変革への備え - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOCD279Y30X21C25A0000000/</link>
+      <pubDate>2025/12/21 12:14</pubDate>
+      <description>文部科学省は22日、高校の必修科目「数学Ⅰ」の内容を見直し、人工知能（AI）の仕組みやデータサイエンスの理解に必要な基礎的な内容を新たに盛り込む案を示した。AIが急速に普及するなか、文系・理系を問わず全ての高校生に学んでもらう。次期学習指導要領について議論する中央教育審議会の作業部会で見直し案を提示した。2032年度から高校に導入予定の次期指導要領から適用する見通しだ。高校の数学は現在、Ⅰ、</description>
+    </item>
+    <item>
+      <title>NotebookLM × ChatGPT × Fish Audio で「三行で終わる世界」を作った話</title>
+      <link>https://zenn.dev/acntechjp/articles/b2f8969bc97e94</link>
+      <pubDate>2025/12/22 19:10</pubDate>
+      <description>50万文字の日本語長文を書いた。 長文なので、当然ながら全体的につながっている。書きながら、あれはどうだっけというようなことが頻繁に起きてかなり困った。なので脳のリソースを維持するため、色々工夫をしたんだけど、その中で「誤字を気にしない」というのがある。 私は誤字が多い。だからこれを気にすることで脳が浪費される。なんとかするために、『AIを使って校正できるようにした』のだが、この時点ではこまめに校正することで脳の負荷を減らすという方針であった。しかしこまめに校正している時点で脳に負荷が発生しているので、完全に諦めるという手法を採用することとなった。これは良くて、脳のリソースが節約できた。 誤字を放置したまま他人に原稿を渡すと、誤字が大量にある文書の修正を人に押し付けるという道義的な問題が発生するが、こちらは AI に押し付けることでクリアした。原稿を書いている時は、 AI が大量の文書を一</description>
+    </item>
+    <item>
+      <title>LLMは人格を持つか？ペルソナ推定に関して - Insight Edge Tech Blog</title>
+      <link>https://techblog.insightedge.jp/entry/llm-persona-estimation</link>
+      <pubDate>2025/12/23 09:32</pubDate>
+      <description>Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</description>
+    </item>
+    <item>
+      <title>【UX検定】UX検定基礎で学んだ、「まずユーザーを知る」ことの大切さ - SEN PRODUCT BLOG</title>
+      <link>https://productblog.sencorp.co.jp/entry/2025/12/23/093000</link>
+      <pubDate>2025/12/23 09:58</pubDate>
+      <description>エンジニアの又川です。 皆さんは LLM (大規模言語モデル) の 「特殊トークン」 をご存知でしょうか？ ChatGPT や Claude などを使っていると意識することは少ないかもしれませんが、実はモデルの内部では 「ここからユーザの発話だよ」「ここで思考を始めるよ」 といった制御情報を伝えるための特別なトークンが使われています。 この記事では、 GPT-1 や BERT、GPT-2 といった黎明期の Transformer モデルから始まり、 T5 のようなテキスト補完から脱却した Transformer モデル、 GPT-3 のような初期の LLM、 InstructGPT のような指示追従型 LLM、 GPT-3.5 Turbo のようなチャット機能付き LLM、 GPT-4 のようなマルチモーダル LLM、そして GPT-5.2 のような思考機能付き LLM (Reasonin</description>
+    </item>
+    <item>
+      <title>「ＡＩ検索」で記事を無断使用した回答、独禁法の優越的地位を乱用した可能性…公取委が実態調査へ（読売新聞オンライン） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/e72402602003962cc8ad80958ec0e2439807afae</link>
+      <pubDate>2025/12/23 09:41</pubDate>
+      <description>はじめに 不気味の谷 AIにおける不気味の谷 動画生成AI AIのハルシネーション 開発と不気味の谷の関係 不気味の谷を避ける配慮 さいごに 参考 はじめに 本記事はiimon Advent Calendar 2025 23日目の記事となります！ みなさまごきげんいかがでしょうか。 株式会社ｉｉｍｏｎでエンジニアをしているtakuです。 寒い日も多くなり冬らしくなってきましたね。 さて、今回はアドベントカレンダー23日目ということで、ずっと気になっていた&amp;quot;感覚&amp;quot;について少し掘り下げてみました。 最近ではAI活用が多くの領域で推進されており、弊社もまさに取り組んでいる真っ只中です。 私は小さい頃から、”人っぽく見えるけど人ではない何か”というものに対して漠然と違和感を感じていました。 例えば、SF映画などにも出てくるリアリスティックなアンドロイドロボットや、街中で見かけるオブジェなど様々です</description>
+    </item>
+    <item>
+      <title>「ＡＩ検索」で記事を無断使用した回答、独禁法の優越的地位を乱用した可能性…公取委が実態調査へ</title>
+      <link>https://www.yomiuri.co.jp/economy/20251222-GYT1T00432/</link>
+      <pubDate>2025/12/23 05:39</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/af68d73991768c21c4e3cafe51af0cc01d371ee0/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2073%2F112%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>「手作業でやってきた部分ほど自動化しづらい」 MIXI社「インフラAI活用」の“泥臭い” 実践 レバテックラボ（レバテックLAB）</title>
+      <link>https://levtech.jp/media/article/interview/detail_774/</link>
+      <pubDate>2025/12/23 11:40</pubDate>
+      <description>東京電力ホールディングス（HD）は柏崎刈羽原子力発電所（新潟県）周辺でデータセンターを開発する方針だ。異業種と連携して電源と情報通信インフラを一体運営し、人工知能（AI）向けの電力需要を取り込む。原発の電気を次世代燃料の水素製造にも活用する。収益の拡大へ脱炭素電力を生かす。（関連記事総合2面に）柏崎刈羽原発をめぐっては23日にも再稼働に向けた地元同意の手続きが完了する。再稼働するのは1基にとど</description>
+    </item>
+    <item>
       <title>年の瀬に開発環境見直してたらVibe Codingに`Conductor`というツールが最高だった</title>
       <link>https://zenn.dev/explaza/articles/cacf0fd6ad83f6</link>
       <pubDate>2025/12/19 20:21</pubDate>
@@ -1764,111 +1875,6 @@
       <link>https://bookmark.hatenastaff.com/entry/2025/12/16/120033</link>
       <pubDate>2025/12/16 12:01</pubDate>
       <description>米連邦政府は12月15日（現地時間）、Tech Forceと呼ぶ新たな人材プログラムの立ち上げを発表した。公式サイトによると、Tech Forceは約1000人規模の精鋭技術者集団を対象にした2年間の雇用プログラムで、ソフトウェア工学、AI、サイバーセキュリティ、データ分析などのスキルを持つ人材を連邦機関に配置し、政府の技術基盤の近代化を進めることを目的としているという。 参加者は連邦機関で実務に従事するほか、任期終了後に民間企業での採用機会が提供される可能性もあるとしている。政府内の最重要デジタル課題に取り組む「エリート技術集団」になるが、政治的任務を持たないと明記されている。 連邦政府の人事管理局（OPM）が主導し、複数の連邦機関と協調して実施される。参加者は2年間の任期で各機関に配属され、AI導入やアプリケーション開発、データモダナイゼーションといったプロジェクトに従事する計画だ。</description>
-    </item>
-    <item>
-      <title>グーグルのAIブラウザ「Disco」　複雑な作業をAIが支援</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2071584.html</link>
-      <pubDate>2025/12/16 13:14</pubDate>
-      <description>AI の大きな弱点が発見されました。サルの脳にも劣ります。(ダントリ新聞) - 新たな研究によると、脳は認知要素を再利用して柔軟に適応できるが、現在の AI にはその点でまだ多くの限界がある。 AIはまだ生物学的脳の知能に劣っています。 独自のメカニズムのおかげで、サルだけでなく人間でさえも、これまで遭遇したことのない課題やタスクに適応することができます（写真：ゲッティ）。 AI（人工知能）は驚異的な進歩を遂げ、いくつかの特定のタスクでは人間を凌駕していますが、人間の脳には、機械がまだ再現していない重要な利点がまだあります。それは、異なるタスク間でスキルを転送および再利用できる柔軟性です。 これは、12月15日に発表された、プリンストン大学（米国）の科学者チームによる新しい研究からの注目すべき結論です。 研究者たちは、人間を直接実験する代わりに、脳の構造と機能が人間に似ている霊長類のアカゲ</description>
-    </item>
-    <item>
-      <title>ケニア人が「ChatGPTっぽい書き方をしている」と言われてしまう理由</title>
-      <link>https://gigazine.net/news/20251216-kenyan-writing-chatgpt/</link>
-      <pubDate>2025/12/16 16:04</pubDate>
-      <description>はじめに この記事は asken Advent Calender 2025 17日目の記事です。 こんにちはプロダクト開発部 法人事業担当の入江です。 先日OpenAPIの仕様書(以下、OAS)からコードを自動生成したので、その取り組みをご紹介します。 AIを活用した開発プロセス改善を考えていた際に、AIに書かせたOASをもとに後続の成果物を自動生成することで、AIのトークン消費を抑えつつプロセス改善できると考えたことがきっかけです。 OASのようなAPIの仕様書をもとにして開発を進めることを「スキーマ駆動開発」と呼びます。 これには多くの便利なツールが用意されていますが、これまでは「OpenAPIの仕様（記述ルール）を学習して正しく記載する」ということ自体に負担がかかるものでした。 しかし、生成AIを利用することでその負担が劇的に減ったことで、非常に取り入れやすいプロセスになったと考えて</description>
-    </item>
-    <item>
-      <title>Shannon - AI Pentesting Tool that Autonomously Checks for Code Vulnerabilities and Executes Real Exploits</title>
-      <link>https://cybersecuritynews.com/shannon-ai-pentesting-tool/</link>
-      <pubDate>2025/12/16 11:54</pubDate>
-      <description>【この記事でわかること】・労働者数と成長の関係どう変わる・政府の役割に変化は・ベーシックインカムへの道筋は連載企画「超知能」の第3部「仕事再定義」では、人工知能（AI）が人々の働き方に影響を及ぼす姿を描いた。新たに仕事を始めるエントリー層の若者の職をAIが代替し始めており、既存の枠組みにとどまらない社会保障の必要性も意識される。参院議員でAIエンジニアの顔も持つ、チームみらいの安野貴博党首に聞い</description>
-    </item>
-    <item>
-      <title>ローカルLLMへのいざない - 弁護士ドットコム株式会社 Creators’ blog</title>
-      <link>https://creators.bengo4.com/entry/2025/12/13/000000</link>
-      <pubDate>2025/12/14 04:54</pubDate>
-      <description>参照元 I Reverse Engineered ChatGPT&amp;#39;s Memory System, and Here&amp;#39;s What I Found! - Manthan Gupta ChatGPT Memory Architecture: Four-Layer Context System Prioritizes Speed Over RAG and Vector Databases RAGを使わないメモリシステムという衝撃 Hacker Newsで500ポイント以上を獲得し、AI開発者界隈で話題になっているのが、Manthan Guptasさんによる「ChatGPTの記憶システム」のリバースエンジニアリング調査です。 調査で明らかになったのは、ChatGPTが ベクトルデータベースもRAG（Retrieval-Augmented Generation）も使っていない という驚きの事実。多</description>
-    </item>
-    <item>
-      <title>生成AI戦争、真の勝者はアドビか…OpenAIとグーグルすら下請け、「Firefly」の戦略</title>
-      <link>https://biz-journal.jp/company/post_392626.html</link>
-      <pubDate>2025/12/14 09:33</pubDate>
-      <description>この記事は、Insight Edge Advent Calendar 2025 の14日目の記事です！！ はじめに こんにちは、Engineerの熊田です。 AIエージェント開発やMCP（Model Context Protocol）を使った外部連携が昨今は盛り上がっていますね。一方で、エージェント同士の連携を実装したり、外部ツールとの統合を一から構築したりするのは簡単でない作業です。 本記事では、マルチエージェントシステムを簡単に構築できるマネージドサービスMicrosoft Foundry Agent ServiceとMCPを組み合わせて試してみました。 これらの技術を使い、ソフトウェア開発要件を自動分解しGitHub Issueを作成させてみたので、その方法を紹介します。 注記: 本記事の執筆開始時は「Azure AI Foundry」というサービス名称でしたが、2025年11月18</description>
-    </item>
-    <item>
-      <title>NotebookLMとGemini、どちらにスライドを作ってもらう？｜dora_e_m</title>
-      <link>https://note.com/dora_e_m/n/n4ce2c4f9ed7f</link>
-      <pubDate>2025/12/14 12:37</pubDate>
-      <description>Nano Banana Proで作成した当連載登場モデルの明日来子さん。2024年1月に1枚の画像から始まった彼女は、ついに自由に服もポーズも登場場所も変えられるようになった（筆者作成） 今回のテーマは、2025年の画像・動画生成AIまとめです。2022年に誰でも利用可能な形で登場した画像AI、動画AIは、ついに長年の課題だった“一貫性の壁”を突破しました。シーンや状況を変えても、登場人物の顔や服装に連続性を保ったまま、表現を変えたり、別の服装にしたり、角度を変えたりといったことが容易にできるようになってきました。8月に発表されたグーグルの「Nano Banana」、それをさらに上回る性能の11月の「Nano Banana Pro」が最大級の驚きでした。画像AIではバイトダンス「Seedream」、アリババ「Qwen-Image-Edit-2509」などが、動画AIではOpenAI「Sor</description>
-    </item>
-    <item>
-      <title>スマートホーム“ガチ勢”向け「SwitchBot AIハブ」を試す　映像内の“出来事”をトリガーに家電操作できるAIカメラ実現</title>
-      <link>https://www.itmedia.co.jp/pcuser/articles/2512/15/news040.html</link>
-      <pubDate>2025/12/15 14:24</pubDate>
-      <description>2025年、一番ハマったものは「バイブコーディング」──将棋棋士の藤井聡太竜王・名人はある番組でそう語った。バイブコーディングとは、人間が全てのソースコードを書くのではなく、AIに「これを作りたい」と自然言語で指示し、AIが主体となってコーディングを行うソフトウェアの開発手法のことだ。 藤井竜王・名人がこう語ったのは、12月14日にABEMAで配信した日本将棋連盟による番組「SUNTORY将棋オールスター東西対抗戦2025 決勝戦」。藤井竜王・名人は参加棋士たちによる「今年ハマったもの」をテーマとしたトークショーの中でバイブコーディングに触れ、以下のような所感を話した。 「（バイブコーディングという言葉に）聞きなじみのない方もいると思うが、これはAIにコードを書いてもらうこと。生成AIの技術進歩は本当に著しく、そういった知識がなくても、日本語で作ってほしいものを伝えると、良い感じにそういっ</description>
-    </item>
-    <item>
-      <title>Google、Gemini活用で翻訳・会話能力を強化　イヤホンでのリアルタイム翻訳も改善</title>
-      <link>https://www.itmedia.co.jp/news/articles/2512/15/news062.html</link>
-      <pubDate>2025/12/15 12:42</pubDate>
-      <description>着々とゲーム開発におけるAI活用が広がる中で、「100％AIで制作されたゲーム」がSteamに登場しました。 Here&amp;#39;s &amp;quot;the world&amp;#39;s first fully playable game created 100% through AI&amp;quot; | Eurogamer.net https://www.eurogamer.net/heres-the-worlds-first-fully-playable-game-created-100-through-ai This roguelite claims to have the dubious honor of being &amp;#39;the world&amp;#39;s first fully playable game created 100% through AI&amp;#39; in a milestone for slop everywhere | PC Gamer</description>
-    </item>
-    <item>
-      <title>【西川和久の不定期コラム】 画像生成AIの「ノード地獄」にサヨナラ。ComfyUIを快適に使う技と超簡単インストール法</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2070854.html</link>
-      <pubDate>2025/12/16 06:26</pubDate>
-      <description>2025年は、生成AIが本格的に一般生活へ浸透した年となった。AIは一部のエンジニアや先進企業に限られた存在ではなく、日常の気軽な相談相手へと変化している。こうした中、人々の行動はどのように変化しているのだろうか。 企業のAIナレッジデータプラットフォームを提供するHelpfeel（京都市）は、AIを利用したことがある20代以上の男女1203人を対象に「日常の悩みや困りごとを『AI』と『人』のどちらに相談するか」をテーマとした実態調査を実施し、その結果を発表した。 「デジタルは若者中心」が崩れる？　60代以上女性がAI活用を牽引 調査結果によると、2025年、最も積極的にAIを活用しているのは「60代以上の女性」であることが分かった。この層は、献立づくりから投資、ダイエットまで幅広い生活シーンでAIを使う「先進層」であることも浮き彫りになった。 具体的な生活シーンでのAI利用率も、シニア層</description>
-    </item>
-    <item>
-      <title>イオンCTO山﨑賢×一休CTO伊藤直也が語る#3 AI時代の未来と、選ばれるデータの条件 </title>
-      <link>https://engineer-recruiting.aeon.info/aeon-tech-hub/interview_ItoNaoya_YamazakiKen_3</link>
-      <pubDate>2025/12/16 10:18</pubDate>
-      <description>Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world</description>
-    </item>
-    <item>
-      <title>コンテキストエンジニアリングを対人コミュニケーションにあてはめてみる - Insight Edge Tech Blog</title>
-      <link>https://techblog.insightedge.jp/entry/context-engineering-for-humans</link>
-      <pubDate>2025/12/16 10:29</pubDate>
-      <description>「Slackで何を言いたいのかわからない」「ドキュメントを書くのに異常に時間がかかる」 こういった人は組織に一人はいないだろうか。 マネージャーとして「言語化能力を鍛えてほしい」と思うことは多いとは思います。また、LLMを利用して業務を行う際には言語化能力が非常に重要となると考えております。 ですが、正直なところ、できていない人に対して、トレーニングでなんとかなるのか疑問に感じることもあるのではないでしょうか。 僕は23歳の頃、会社の先輩に「お前、何言ってるかわからないから話すのやめるわ」と言われたことがあります。かなりショックだったのですが、それ以来、「どう伝えればわかってもらえるか」を強く意識するようになりました。 その結果、今では言語化能力が高いと言われることもあります。（このようなnoteを書いていると言語化してもらうの助かるとも言われます。） このような経験から言語化能力は天性の</description>
-    </item>
-    <item>
-      <title>【海外記事紹介】AIエージェントがSaaSを食い尽くし始めている</title>
-      <link>https://techfeed.io/entries/694077f43837533862f5f4f5</link>
-      <pubDate>2025/12/16 06:05</pubDate>
-      <description>JavaScript祭2025での発表 https://javascript-fes.doorkeeper.jp/events/192774 サンプルはこちら https://github.com/n0bisuke/gemini-nano-browser-api-sample</description>
-    </item>
-    <item>
-      <title>トランプ政権、連邦機関のIT人材獲得目指し「Tech Force」を創設　Google、Apple、OpenAIなどが協力</title>
-      <link>https://www.itmedia.co.jp/news/articles/2512/16/news060.html</link>
-      <pubDate>2025/12/16 10:07</pubDate>
-      <description>2022年から毎年、エンジニアのあるふさんが主催されている『生成AI Advent Calender』に、その年生成AIについて考えたことをメモしています。今年も季節になったので、エントリーしてきました。 なお、自分は一介のイラストレーターです。 性質上、本アドベントカレンダーは毎年、生成AIの開発者の方や、利用者側の方の記事が多めですね。自分のような、かかわりが間接的な人間の参加は珍しいかも。 生成AIは大きな転換点であることはまちがいがないので、毎年何を考えて、自分の考えはどう変わって、何が起こって、何が出来るようになって、何が問題としてそのときあったのか、を振り返る必要があるなあと考えて毎年記事を書いています。 なお、私は生成AIに対しては是々非々の立場で、賛成反対それ以外、どの立場であっても、お互いを尊重した対話ができるようになるといいな、と考えています。 今年に入ってからの身の回</description>
-    </item>
-    <item>
-      <title>Amazon Bedrock AgentCore で実現する「Code excecution with MCP」 - Taste of Tech Topics</title>
-      <link>https://acro-engineer.hatenablog.com/entry/2025/12/16/120000</link>
-      <pubDate>2025/12/16 15:16</pubDate>
-      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。12月8日（月）～12月14日（日）〔2025年12月第2週〕のトップ30です*1。 順位 タイトル 1位 国立がん研究センターのがんになったら手にとるガイド：[国立がん研究センター がん情報サービス 一般の方へ] 2位 １．証券口座を開く ２．NISA一般枠（NISA成長投資枠）で一括購入 ３．積み立.. 3位 「株式会社ガイナックス」について | 株式会社カラー 4位 超面白かった歴史小説&amp;amp;歴史ノンフィクション６選｜ふろむだ 5位 残業キャンセル界隈と企業カルチャーの死 - megamouthの葬列 6位 畑中様 いつもSNSでの発信陰ながら拝見しております。 私は今他業種にいるのですが、どうしても漫画を作って生きていきたいと思い、読み切りを賞に投稿しようと考えています。これまでに何本か二次創</description>
-    </item>
-    <item>
-      <title>AI生成のOASからコード自動生成、作業時間とトークン削減の試み - asken テックブログ</title>
-      <link>https://tech.asken.inc/entry/20251217</link>
-      <pubDate>2025/12/16 17:09</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/649a9848c8f4d31c36789e4f74da9e60e357e6ed/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2071%2F584%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Claude Code に draw.io の図を描かせるコツ</title>
-      <link>https://zenn.dev/genda_jp/articles/2025-12-12-drawio-tips-claude-code</link>
-      <pubDate>2025/12/14 02:40</pubDate>
-      <description>Top &amp;gt; 学術＆研究 &amp;gt; 諸説あるAGIの定義をスタンフォード大などが明確化、「教養ある成人」がモデルケース──GPT-4は27%、GPT-5は約6割に到達と試算</description>
-    </item>
-    <item>
-      <title>【序論】なぜ今、監視は「再発見」されるのか</title>
-      <link>https://thinkit.co.jp/article/38701</link>
-      <pubDate>2025/12/14 13:06</pubDate>
-      <description>【大バズリ】NotebookLMスライドをパワポやGIF画像に即変換するCanvas。ん…Canvas！？【コード無料配布】 いや……投稿から1日経ってないのに まじん式v4 のいいね/インプの半数超えてるんだが…。 しかもこれ、 Geminiと30分くらいお喋りしてたら完成しました。 今回は、このアプリのソースコードを無料公開したいと思います！ また、どのようにGeminiと対話したのか？ そのバイブコーディングのテクニックについては、 メンバーシップ限定エリアに記載しますね、さすがに。 【無料公開】自分のGeminiで再現しよう！Gemini（思考モード）でCanvasをオンにして、 以下のプロンプトを送信してみてください。無料GeminiでもOK。 以下のコードをCanvasにそのままプレビューしてください。 --- [ソースコード] ソースコード（Xで公開したこちら）import</description>
     </item>
   </channel>
 </rss>
