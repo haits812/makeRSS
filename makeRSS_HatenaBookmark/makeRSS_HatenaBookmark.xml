@@ -5,6 +5,36 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>YouTube、AIで作った「偽の予告編」で計10億再生の2チャンネルを削除</title>
+      <link>https://japan.cnet.com/article/35241861/</link>
+      <pubDate>2025/12/19 14:24</pubDate>
+      <description>アップル株（AAPL）には、困難が待ち受けているかもしれない。 過去3年間で同社の株価は2倍以上に上昇し、2022年末の約130ドルから現在の過去最高値に近い275ドル付近まで上昇した。しかし、この期間中の売上高は比較的に横ばいのままだ。利益率はわずかに向上したものの、その改善は最小限にとどまっているためだ。 株価が2倍になったのは、PER（株価収益率）も2倍になったからだ。これを好ましいものだろうか？　我々はそうは思わない。以下でさらに詳しく説明しよう。 アップルの売上成長は鈍化している。過去3会計年度で、売上高は年間わずか約2.4％しか増加していない。今年のiPhone 17への買い替えサイクルによる押し上げ効果は一時的なものであり、長期的なトレンドではないと予想されている。 確かに、営業利益率は2022年の30.3％から現在の31.9％に上昇しているが、これは主に需要の改善ではなく製</description>
+    </item>
+    <item>
+      <title>【ゆる解説】AIが人間を騙しはじめた！？／LLMの「デセプション」とは／ハルシネーションとの違いは／不倫暴露で脅迫？！</title>
+      <link>https://www.youtube.com/watch?v=_cw3mGdIil0</link>
+      <pubDate>2025/12/20 10:04</pubDate>
+      <description>関連キーワード OSS | オープンソース | ITガバナンス 「費用削減のために無償のオープンソースソフトウェア（OSS）を採用する」。プロジェクトの発足時はその方針で固まっていたはずだった。しかし、いざ具体的な運用設計に入ると、「何かあったときの責任」を恐れるあまり、雲行きが怪しくなっていく。気付けば要件定義書には「プロプライエタリ（商用）製品同等の24時間365日サポート」が必須項目として書き加えられ、サポート契約を結んだ結果、当初の費用削減計画は崩れ去っていた――。こうした話は決して珍しくない。日本のOSS活用現場は今、矛盾した要求に引き裂かれている。 OSSの商業的な普及促進を目指す団体Linux Foundationは2025年12月、調査レポート「日本のオープンソースの現状 2025」を発表した。調査によると、日本企業の約9割が、無償のOSSに対してトラブル発生時の「12時間</description>
+    </item>
+    <item>
+      <title>経産省 国産AI開発へ 来年度から5年間 1兆円規模の支援検討へ | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015009831000</link>
+      <pubDate>2025/12/21 17:41</pubDate>
+      <description>AIとの連携により、タグ付けや詳細などのプロパティが作成できるファイル共有サーバー「Seafile」がオープンソースで公開されています。 Seafile - Open Source File Sync and Share Software https://www.seafile.com/en/home/ 今回は、Google CloudでUbuntu 24.04.3 LTSのインスタンスを作成しDockerを利用して構築します。Setup community editionを参考に、コンソールを起動してrootユーザーとして操作します。AI拡張機能を利用する場合は、メタデータサーバーと合わせて追加します。 mkdir /opt/seafile cd /opt/seafile wget -O .env https://manual.seafile.com/13.0/repo/docker/c</description>
+    </item>
+    <item>
+      <title>OpenAI、「ChatGPT Atlas」のインジェクション対策について説明　「完全に解決されることはまずない」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/23/news067.html</link>
+      <pubDate>2025/12/23 12:42</pubDate>
+      <description>OpenAIはChatGPTの利用履歴を振り返る新機能「Your Year with ChatGPT」（「あなたの1年間のChatGPTまとめ）」の提供を開始した。2025年のChatGPTとの会話内容や統計を振り返るというものだ。現在は英語圏を中心に順次展開されており、利用にはメモリ機能や履歴の設定、一定のアクティビティ基準を満たす必要がある。</description>
+    </item>
+    <item>
+      <title>10年続くブログをAIに評価してもらったら「構成と読みやすさ」に改善余地ありと言われた - Lean Baseball</title>
+      <link>https://shinyorke.hatenablog.com/entry/generative-ai-review-2025</link>
+      <pubDate>2025/12/23 13:25</pubDate>
+      <description>こんにちは、@shin0higuchi です😊 この記事は、Elastic Stack (Elasticsearch) Advent Calendar 2025の24日目の記事です。 昨年のアドベントカレンダーでは、Elasticsearchを用いたRAGに関する記事を執筆しました。 acro-engineer.hatenablog.com この1年でElasticsearchの inference API と retriever はさらに成熟し、実戦投入しやすい状態になりました。今回は、重要要素の1つであるリランクについて、Elasticsearchで現状できることを整理します。 2つの選択肢：外部APIか、内部モデルか？ Elasticsearchでリランク（Reranking）を導入する際、現在は大きく2つの選択肢があります。 現場では単純な機能比較だけではなく、コスト構造とレイテ</description>
+    </item>
+    <item>
       <title>FirefoxがAI機能を完全に無効化する「AIキルスイッチ」を開発していることが明らかに</title>
       <link>https://gigazine.net/news/20251222-firefox-add-ai-kill-switch/</link>
       <pubDate>2025/12/22 12:27</pubDate>
@@ -1842,36 +1872,6 @@
       <link>https://www.nikkei.com/article/DGXZQOUA179Y90X11C25A1000000/</link>
       <pubDate>2025/12/16 15:42</pubDate>
       <description>ケニア人のエッセイストが、自分の書く文章がChatGPTのものだと思われてしまうという話を共有しました。これはケニア人にありがちな問題だとして、エッセイストはなぜそう思われてしまうのかを分析しています。 I&amp;#39;m Kenyan. I Don&amp;#39;t Write Like ChatGPT. ChatGPT Writes Like Me. https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt ケニア人エッセイストのマーカス・オラン氏いわく、英語の文章を書き上げるとなぜかChatGPTで書いたものと思われることがあり、「もう少し人間味のある書き直しは可能でしょうか？ChatGPTが書いたような感じがします」と指摘されたこともあるそうです。 オラン氏は「これは、決して私がChatGPTっぽく書いているのではなく、Ch</description>
-    </item>
-    <item>
-      <title>NVIDIAが小型かつ高性能なオープンAIモデル「Nemotron 3」シリーズを発表</title>
-      <link>https://gigazine.net/news/20251216-nvidia-nemotron-3/</link>
-      <pubDate>2025/12/16 13:46</pubDate>
-      <description>Home Cyber Security Shannon – AI Pentesting Tool that Autonomously Checks for Code Vulnerabilities and...</description>
-    </item>
-    <item>
-      <title>メモリ高騰、“真犯人はサム・アルトマンCEO”説は真実か？　「40％を買い占め」の出どころは</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/15/news038.html</link>
-      <pubDate>2025/12/15 15:56</pubDate>
-      <description>「そのmdってどうやって用意するの？」という質問があったので、実際のツール運用レベルまで落としていきます。 この記事でやること↓ ・Obsidian で「案件ナレッジ倉庫」をつくる ・mdファイルを作る ・それらを ChatGPT の Projects にアップロード 「この案件なら、このプロジェクトを開けば全部そろっている」状態を作ります。 ちょっと難しそうに感じるかもしれませんが、 この記事でやっていくことは「Obsidianのフォルダを作る → 記事を書く → ChatGPT に渡す」という3ステップだけです。 Obsidian は「ローカルの Markdown ファイルをそのまま扱うノートアプリ」です。Windows / macOS / iOS / Android に対応していて、データは全部あなたのPCやスマホのフォルダに .md ファイルとして保存されます。 メモを書いたら、そ</description>
-    </item>
-    <item>
-      <title>Claude Skillsとは？ AIエージェント開発における新たなベストプラクティスをやさしく解説</title>
-      <link>https://codezine.jp/article/detail/22677</link>
-      <pubDate>2025/12/16 13:46</pubDate>
-      <description>ディズニーはOpenAIとライセンス契約を結び、ディズニーキャラクターを動画生成AIのSoraで描写できるようにしました。このライセンス契約の期間は3年間ではあるものの、独占期間は1年のみなので、それ以降は他のAI企業と同様の契約を結ぶことが可能であることが明らかになっています。 Disney&amp;#39;s OpenAI stake is &amp;#39;a way in&amp;#39; to AI, Iger tells CNBC https://www.cnbc.com/2025/12/11/disney-open-ai-iger-altman.html Disney&amp;#39;s OpenAI deal is exclusive for just one year -- then it&amp;#39;s open season | TechCrunch https://techcrunch.com/2025/12/15/disneys-open</description>
-    </item>
-    <item>
-      <title>データセンター投資の行方　軽量AIとポストGPU、勢力図変えるか - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOSG106P10Q5A211C2000000/</link>
-      <pubDate>2025/12/16 09:12</pubDate>
-      <description>本記事では、RAGの応答速度を速くするための「MixLM」という手法について、ざっくり理解します。 株式会社ナレッジセンスは、「エンタープライズ企業の膨大なデータを掘り起こし、活用可能にする」プロダクトを開発しているスタートアップです。 この記事は何 この記事は、RAGで必須の手法「リランキング」の速度を飛躍的に高める「MixLM」の論文[1]について、日本語で簡単にまとめたものです。 今回も「そもそもRAGとは？」については、知っている前提で進みます。確認する場合は、こちらの記事もご参考下さい。 本題 ざっくりサマリー 「MixLM」は、RAGの応答を高速にするための手法です。LinkedInの研究チームによって2025年11月に公開されました。 通常のRAGでは、リランキングという手法がよく使われます。これは何かというと、ベクトル検索で取ってきた文書を「ユーザーの質問との関連性」で並び</description>
-    </item>
-    <item>
-      <title>自民、ディープフェイク対策PT発足　台湾オードリー・タン氏から聴取 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA160JC0W5A211C2000000/</link>
-      <pubDate>2025/12/16 17:59</pubDate>
-      <description>TL;DR 画像圧縮の性能比較ができるWebインターフェイス作ったので見てね https://fukushimalab.github.io/spcp/ ランディングページが１００MB読み込み． いろいろスイッチしてデータを眺めるとトータルデータ量３GBくらいなので注意． この記事は，下記内容（画像圧縮・動画圧縮の国際会議）を元に書いたものです． 原稿は上記リンク先からたどれます． N. Fukushima, Y. Maeda, Y. Kameda, and O. Watanabe, &amp;quot;Benchmarking JPEG, MozJPEG, Jpegli, JPEG2000, JPEG XR, JPEG XL, WebP, HEIC, and AVIF-AOM/SVT: An Objective Quality and Coding Time Evaluation Across Encode</description>
     </item>
   </channel>
 </rss>
