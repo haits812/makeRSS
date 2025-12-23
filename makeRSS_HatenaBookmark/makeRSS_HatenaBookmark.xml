@@ -5,6 +5,36 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>「Skills？MCP？インストラクション？」仕組みからわかる GitHub Copilot のカスタマイズ戦略ガイド</title>
+      <link>https://zenn.dev/openjny/articles/91e88d7914e5bc</link>
+      <pubDate>2025/12/21 21:06</pubDate>
+      <description>ノーコードで業務自動化AIエージェントを作成できる「Google Workspace Studio」提供開始：「Google Apps Script」を使った拡張にも対応 Googleは、Google Workspace向けのAIエージェント設計ツール「Google Workspace Studio」の一般提供を開始した。ノーコードで日常業務や複雑なワークフローを自動化できるという。</description>
+    </item>
+    <item>
+      <title>GitHub - google/A2UI</title>
+      <link>https://github.com/google/A2UI</link>
+      <pubDate>2025/12/22 01:19</pubDate>
+      <description>観光業で人工知能（AI）時代への備えが本格化してきた。星野佳路・星野リゾート代表は「AIの普及でブランド力は効かなくなる」とみて、18億円かけて消費者のAI利用に対応した予約システムの構築に踏み切った。日本政府観光局（JNTO）もAI時代に向けた情報発信の準備を始めた。うまく活用すれば訪日客の地方分散に役立つという。AIは旅をどう変えるのだろう。星野リゾートは新予約システムを「FleBOL（フ</description>
+    </item>
+    <item>
+      <title>柏崎刈羽にデータセンター　東電計画、電源と一体　AI需要狙い収益改善 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGKKZO93385370T21C25A2MM8000/</link>
+      <pubDate>2025/12/23 03:54</pubDate>
+      <description>就職活動で企業に提出する「エントリーシート」をAI＝人工知能を使って作成する学生が増えています。その一方で、企業の間では、学生の記述内容が似かよったものになり選考が難しいとして、エントリーシートを廃止…</description>
+    </item>
+    <item>
+      <title>OpenAI、「あなたの1年間のChatGPTまとめ」ロールアウト</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/23/news061.html</link>
+      <pubDate>2025/12/23 08:31</pubDate>
+      <description>OpenAIが2025年10月にリリースしたウェブブラウザ「ChatGPT Atlas」にはAIエージェントが組み込まれており、情報収集やメール処理などの作業をAIに実行させることができます。そんなChatGPT Atlasのセキュリティを強化するべく、OpenAIのレッドチームは「有害なプロンプトインジェクション攻撃の手法を自動で編み出すAI」を構築して新型の攻撃手法を探索しています。 Continuously hardening ChatGPT Atlas against prompt injection attacks | OpenAI https://openai.com/index/hardening-atlas-against-prompt-injection/ AIシステムに対する攻撃手法の1つとして、不正なプロンプトを含むファイルなどをAIに読み込ませて意図しない動作を引き</description>
+    </item>
+    <item>
+      <title>勝手に輝いていた増田ブコメ大賞2025 - 誰かの肩の上</title>
+      <link>https://daydollarbotch.hatenablog.com/entry/2025/12/23/194714</link>
+      <pubDate>2025/12/23 19:48</pubDate>
+      <description>北米で人気のSNS、RedditのPythonチャンネルでは、年末に「新着有望ライブラリを紹介するスレッド」が立ち上がります。今回の記事では、2025年版から、今年新しくリリースされたたくさんのPythonライブラリのうち、有望なものを紹介したいと思います。 新しいライブラリを紹介することが目的なので、numpyやpandasのような定番ライブラリは含まれていません。一般用途／AI・ML・Dataそれぞれ上位5ライブラリについて、「どんな背景で生まれ、どんな場面で役立つのか」が具体的に伝わるよう、概要を掘り下げて解説します。 6位以下については、後ろの方に概略を紹介しています。みなさんの知らない有望なライブラリがきっとたくさんありますので、最後まで読んでみてくださいね。 一般用途上位5ライブラリまずは一般用途のライブラリから。一般用途のライブラリ群は、派手な新機能よりも、型・可読性・制御・</description>
+    </item>
+    <item>
       <title>YouTube、AIで作った「偽の予告編」で計10億再生の2チャンネルを削除</title>
       <link>https://japan.cnet.com/article/35241861/</link>
       <pubDate>2025/12/19 14:24</pubDate>
@@ -1839,39 +1869,6 @@
       <link>https://note.com/kojifukuoka/n/n1aac1f6958d0</link>
       <pubDate>2025/12/07 10:44</pubDate>
       <description>NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成 はじめに：NotebookLM の「スライド資料」、便利だけどかゆい所に手が届かない NotebookLM の「スライド資料」生成によって作成されるスライドがクオリティ高いと専らの話題のことと思います。 雑なメモや社内ドキュメントから、いい感じの構成を勝手に組んでくれる それなりに見栄えするので、たたき台として強い Google Workspace を契約していれば、社内で共有も安心 個人的に「スライドの構成能力がすごいな」と思うのが、入力が一文でもスライドになるところです。 例えば、 「カレーはシチューより美味しい」 みたいな雑な一文でも、NotebookLM は「主張 → 根拠 → まとめ」みたいな プレゼンの型に寄せてスライドを立ち上げにいきます。 もちろん</description>
-    </item>
-    <item>
-      <title>AI時代にWebエンジニアに必要なのは「検証力」</title>
-      <link>https://zenn.dev/aun_phonogram/articles/a8757102bc8ca8</link>
-      <pubDate>2025/12/13 12:52</pubDate>
-      <description>前回、前々回と、「NotebookLMを使ってスライドを生成しYAMLでデザインをコントロールする」という方法について書きましたが、今日はその番外編としてデザインがいい感じになった生成スライドにアニメーションを加える方法について書いてみようと思います。 前々回できたものがいい感じだったのでこれを動かしてみたくなったというのがそもそもの発端です。 これが、こんな感じで動くようになりました。この記事ではこの製作プロセスをご紹介していきます。 NotebookLMで生成できるのは画像状態のPDF目下、ユーザ目線で一番ネックになっているのがここですね。Google SlideやPowerPointで編集できればいいのに。。と。自分のようにアニメーション設定をしたい人にとっても、まずは画像状態のスライドをpptx化するところから始めなくてはです。 やりたいことをまとめると NotebookLMでYA</description>
-    </item>
-    <item>
-      <title>ダッシュボード構築に役立つ優れたオープンソース AI ツール 6 選 - Qiita</title>
-      <link>https://qiita.com/KikiYuan/items/6a822cd828ae0955b77d</link>
-      <pubDate>2025/12/16 06:33</pubDate>
-      <description>We spent fifteen years watching software eat the world. Entire industries got swallowed by software - retail, media, finance - you name it, there has been incredible disruption over the past couple of decades with a proliferation of SaaS tooling. This has led to a huge swath of SaaS companies - valued, collectively, in the trillions. In my last post debating if the cost of software has dropped 90%</description>
-    </item>
-    <item>
-      <title>GPT-5.2の性能をGemini 3 Proと比較してみた｜IT navi</title>
-      <link>https://note.com/it_navi/n/n338cd73b8d14</link>
-      <pubDate>2025/12/16 09:50</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4bdf4b54423d7b0b8e88052eacdb62599d392d5b/height=288;version=1;width=512/https%3A%2F%2Fimages.ctfassets.net%2Fct0aopd36mqt%2Fwp-thumbnail-6a331d7c70f1897ca2ef1ad4cbe7c6bf%2F78c556633ae5115aa065636cc4a1160a%2Feyecatch_gemini');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>AI の大きな弱点が発見されました。サルの脳にも劣ります。</title>
-      <link>https://www.vietnam.vn/ja/tim-thay-diem-yeu-lon-cua-ai-thua-ca-nao-khi</link>
-      <pubDate>2025/12/16 11:08</pubDate>
-      <description>この記事は AI Agent on AWS - Qiita Advent Calendar 2025 - Qiita 16日目の記事です。 1. はじめに こんにちは。データ分析エンジニアの木介です。 Anthropic が公開した「Code execution with MCP: building more efficient AI agents」では、MCP（Model Context Protocol）とコード実行環境を組み合わせて、コンテキスト消費を抑えながらツールを使うための新しい設計パターンとして Code execution with MCP が紹介されました。 今回は、この Code execution with MCP を Amazon Bedrock AgentCore と Strands Agents で実装し、直接MCPを実行するAgent と比較して、実行時間・消</description>
-    </item>
-    <item>
-      <title>格差広がるAI時代「速い政府を」　チームみらい・安野貴博党首 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA179Y90X11C25A1000000/</link>
-      <pubDate>2025/12/16 15:42</pubDate>
-      <description>ケニア人のエッセイストが、自分の書く文章がChatGPTのものだと思われてしまうという話を共有しました。これはケニア人にありがちな問題だとして、エッセイストはなぜそう思われてしまうのかを分析しています。 I&amp;#39;m Kenyan. I Don&amp;#39;t Write Like ChatGPT. ChatGPT Writes Like Me. https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt ケニア人エッセイストのマーカス・オラン氏いわく、英語の文章を書き上げるとなぜかChatGPTで書いたものと思われることがあり、「もう少し人間味のある書き直しは可能でしょうか？ChatGPTが書いたような感じがします」と指摘されたこともあるそうです。 オラン氏は「これは、決して私がChatGPTっぽく書いているのではなく、Ch</description>
     </item>
   </channel>
 </rss>
