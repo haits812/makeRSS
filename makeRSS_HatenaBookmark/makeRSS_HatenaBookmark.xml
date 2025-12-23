@@ -5,6 +5,60 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>FirefoxがAI機能を完全に無効化する「AIキルスイッチ」を開発していることが明らかに</title>
+      <link>https://gigazine.net/news/20251222-firefox-add-ai-kill-switch/</link>
+      <pubDate>2025/12/22 12:27</pubDate>
+      <description>高市早苗首相がコンテンツ業界との意見交換会で小室哲哉、デーモン閣下、こっちのけんとらと並ぶ写真が話題に。鍵盤、ボーカル、ボーカル、ドラムの布陣や「まるでバンド」「合成写真みたい」との反応が目立ち、趣味や会談内容への驚きや冗談交じりのツッコミが相次ぐ。一方で、デーモン閣下の礼儀正しい姿勢に感嘆する声も上がる。</description>
+    </item>
+    <item>
+      <title>高校の必修科目「数学Ⅰ」にAI関連の単元　文科省が新設検討 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUD221UC0S5A221C2000000/</link>
+      <pubDate>2025/12/22 18:06</pubDate>
+      <description>Top &amp;gt; ビジネス &amp;gt; 楽天、7000億パラメータの日本語LLM「Rakuten AI 3.0」発表──GENIAC支援で開発、国内最大規模</description>
+    </item>
+    <item>
+      <title>Qwen</title>
+      <link>https://qwen.ai/blog?id=qwen-image-layered</link>
+      <pubDate>2025/12/22 16:34</pubDate>
+      <description>この記事自体がアニメ化されました 「この記事を読んだあなたも、2日後には—— 何かを、作っているかもしれない。」 プロローグ 私は、絵が描けない。 正確には、棒人間すらまともに描けない。 脚本も書けない。声優でもない。 それでも——漫画動画を作りたかった。 そして、それができてしまった。 たった2日で。 これは、不可能が可能になった——2025年12月の話。 第1章：衝撃 ── NotebookLMのスライド生成機能 ある日、NotebookLMに「スライド生成」という機能が追加されているのに気づいた。 試しに使ってみた。 ……は？ なにこれ。 アニメ調のイラストが、スライドとして自動生成される。しかもクオリティが異常に高い。 「これ……漫画作れるんじゃないか？」 その瞬間、私の中で何かが動き出した。 第2章：構想 ── ChatGPT GPT-5.2との壁打ち 漫画を作るには、まずストー</description>
+    </item>
+    <item>
+      <title>GPT-1 から GPT-5.2 まで: LLM の特殊トークン徹底解説【2025年12月最新】</title>
+      <link>https://blog.asial.co.jp/6429/</link>
+      <pubDate>2025/12/23 09:59</pubDate>
+      <description>こんにちは。 InsightEdgeのShin Andrewです。 目次 はじめに 1. LLMにペルソナを持たせる 2. LLMにユーザのペルソナを推定させる まとめ この記事は、Insight Edge Advent Calendar 2025 23日目の記事です。 はじめに LLMを特定シナリオに合わせてペルソナを持たせる、ないしはユーザのペルソナを推定させるペルソナ推定（persona estimation）が近来注目されています。一律的な回答を超えて、様々な状況で様々なユーザにカスタマイズできることがメリットで、既に実際のサービスで幅広く用いられております。ペルソナ推定は大きく分けてLLMにペルソナを持たせるロールプレイング（role-playing）と、LLMにユーザのペルソナを推定させて的確に対応させるパーソナライゼーション（personalization）にわけることができ</description>
+    </item>
+    <item>
+      <title>不気味の谷から考える：違和感とユーザー体験 - iimon TECH BLOG</title>
+      <link>https://tech.iimon.co.jp/entry/2025/12/23</link>
+      <pubDate>2025/12/23 10:17</pubDate>
+      <description>はじめまして。 もうすぐクリスマスですね🎄✨ 最近、登山グッズを少しずつ集めることにハマっているえだまめです。 今回、 SEN Advent Calendar 2025の23日目の記事を担当します！ adventar.org はじめに 簡単に自己紹介すると、 これまでエンジニアとして約3年働き、現在は実務経験5ヶ月ほどの新米UIUXデザイナーとして働いています。 そんな私が、2025/11/22にUX検定基礎を受験し、 限られた期間の中で試行錯誤しながら合格できたので、 今回はその振り返り体験記を書いていこうと思います。 正直に言うと、私は資格勉強がかなり苦手です。 暗記は続かないし、テキストを読むだけの勉強はすぐに挫折してしまいます。 それでも今回、ChatGPTを活用することで理解を重視した学習に切り替えた結果、 なんとかUX検定に合格することができました。 ただ、今回のUX検定で一</description>
+    </item>
+    <item>
+      <title>生成AIが作った・編集した動画を見破れる ～「Gemini」アプリに「SynthID」の検出機能／アップロードしてたずねるだけ</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2073112.html</link>
+      <pubDate>2025/12/22 10:09</pubDate>
+      <description>生成ＡＩ（人工知能）を使った検索サービスについて、公正取引委員会が近く実態調査を始める方針であることがわかった。大手ＩＴ企業が報道機関の許可なしにニュース記事をＡＩの回答に使っている点などについて、独占禁止法の優越的地位の乱用などにあたる可能性もあるとみて実態を調べる。 【図解】一目でわかる…「ＡＩ検索」の仕組みと問題点 調査対象は米グーグルや米マイクロソフト、米新興企業パープレキシティ、ＬＩＮＥヤフーなどＡＩ検索を提供する事業者。対話型ＡＩサービス「チャットＧＰＴ」を提供する米オープンＡＩなども含まれる可能性がある。</description>
+    </item>
+    <item>
+      <title>就活エントリーシート 廃止の動きも AI利用で記述が似かよる | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015010831000</link>
+      <pubDate>2025/12/23 07:32</pubDate>
+      <description>【読売新聞】　生成ＡＩ（人工知能）を使った検索サービスについて、公正取引委員会が近く実態調査を始める方針であることがわかった。大手ＩＴ企業が報道機関の許可なしにニュース記事をＡＩの回答に使っている点などについて、独占禁止法の優越的地</description>
+    </item>
+    <item>
+      <title>ソフトウェアエンジニアの本質は“課題解決”なのか？ - mtx2s’s blog</title>
+      <link>https://mtx2s.hatenablog.com/entry/2025/12/22/195731</link>
+      <pubDate>2025/12/23 10:16</pubDate>
+      <description>東京電力ホールディングス（HD）は柏崎刈羽原子力発電所（新潟県）周辺でデータセンターを開発する方針だ。異業種と連携して電源と情報通信インフラを一体運営し、人工知能（AI）向けの電力需要を取り込む。原発の電気を次世代燃料の水素製造にも活用する。収益の拡大へ脱炭素電力を生かす。（関連記事総合2面に）柏崎刈羽原発をめぐっては23日にも再稼働に向けた地元同意の手続きが完了する。再稼働するのは1基にとど</description>
+    </item>
+    <item>
+      <title>AIブラウザ「ChatGPT Atlas」では「勝手に辞職メールを送信」など有害な攻撃を次々に編み出す自動ハッキングAIを使ってセキュリティが強化されている</title>
+      <link>https://gigazine.net/news/20251223-chatgpt-atlas-prompt-injection-attacks/</link>
+      <pubDate>2025/12/23 11:02</pubDate>
+      <description>株式会社MIXI 執行役員 CTO 開発本部長 吉野 純平 2008年、新卒エンジニアとして株式会社ミクシィ（現MIXI）に入社。SNS「mixi」のインフラ・アプリ運用を担当し、「モンスターストライク」では、急拡大するトラフィックを支えるためハイブリッド構成の構築を主導した。2023年より、執行役員CTOとして全社の技術戦略を統括。障害対応用にApple Watchを買ったことがある。 X：@junpei_y オンプレミス、ハイブリッド、競輪場。 MIXI社が抱えるインフラは事業の多角化に伴い、複雑かつ広範囲に広がっています。主要サービスを振り返ると、SNS「mixi」のオンプレミスサーバに始まり、「モンスターストライク」ではハイブリッドクラウド、「家族アルバム みてね」ではクラウドネイティブ。そして競輪・オートレース投票サービス「TIPSTAR」では、全国の競輪場に無数の物理回線やサー</description>
+    </item>
+    <item>
       <title>Slackワークフロー使いこなせてる？進化したトリガーとリストで実現するハック - エムスリーテックブログ</title>
       <link>https://www.m3tech.blog/entry/2025/12/20/120000</link>
       <pubDate>2025/12/20 12:20</pubDate>
@@ -1818,63 +1872,6 @@
       <link>https://www.nikkei.com/article/DGXZQOUA160JC0W5A211C2000000/</link>
       <pubDate>2025/12/16 17:59</pubDate>
       <description>TL;DR 画像圧縮の性能比較ができるWebインターフェイス作ったので見てね https://fukushimalab.github.io/spcp/ ランディングページが１００MB読み込み． いろいろスイッチしてデータを眺めるとトータルデータ量３GBくらいなので注意． この記事は，下記内容（画像圧縮・動画圧縮の国際会議）を元に書いたものです． 原稿は上記リンク先からたどれます． N. Fukushima, Y. Maeda, Y. Kameda, and O. Watanabe, &amp;quot;Benchmarking JPEG, MozJPEG, Jpegli, JPEG2000, JPEG XR, JPEG XL, WebP, HEIC, and AVIF-AOM/SVT: An Objective Quality and Coding Time Evaluation Across Encode</description>
-    </item>
-    <item>
-      <title>117韓国のAI軍</title>
-      <link>https://www.youtube.com/watch?v=754VHIQQH6w</link>
-      <pubDate>2025/12/16 20:28</pubDate>
-      <description>生成AIが実験段階から企業への導入に移行する今、2026年は日本のソフトウェア開発にとって重要な節目の年となります。GitLabが日本の経営層を対象に実施した調査「ソフトウェアイノベーションによる経済効果」によれば、経営層の85%が、3年以内にAIエージェントがソフトウェア開発での業界標準になると予想しており、AIエージェントへの移行は今後も加速していくでしょう。 AIエージェントの移行には、かつてないほどの生産性向上が期待される一方で、組織はガバナンスやセキュリティ、AIエージェント間の相互運用性、可視性といった新たな課題との両立の難しさを抱えることになります。こうした課題に対処できる組織は、競争優位を確立できる可能性がある一方で、AIエージェントを単なるツールとみなし課題に対処できない組織は、競争から取り残されるリスクを抱えます。 AIエージェントについて、今後1年間に起こるだろう、変</description>
-    </item>
-    <item>
-      <title>RAGで厄介なExcel文書を意味構造JSON化するOSSライブラリを作りました</title>
-      <link>https://zenn.dev/harumikun/articles/42e9cd55ab5960</link>
-      <pubDate>2025/12/15 22:02</pubDate>
-      <description>この記事は株式会社ヘンリー Advent Calendar 2025 15日目の記事です。 昨日はCEOの逆瀬川さん の「その仕事、感情が動いていますか？」でした！ みなさんサーマルプリンタ使ってますか？私は今年のブラックフライデーで2代目のサーマルプリンタを購入してから活用が進んでいます。 今回は子育てで活用する道が見えてきたので、どんな使い方をしているかを紹介していきたいと思います。 サーマルプリンタってなんだっけ？ レシート印刷や病院などで待ち受けの番号やバーコード・QRコードが印刷されてるやつで、感熱紙を使って熱で印刷するプリンタです！ 今回私が購入したのは下記の「MUNBYN サーマルプリンター 」で、5,000円から15,000円ほどで手に入る機種です。ただし日本語フォント非対応だったり、印刷するには事前の文字を画像化する必要があったりと、すこし工夫が必要です。 今回私はRas</description>
-    </item>
-    <item>
-      <title>高木浩光＠自宅の日記 - 知財検討会にまで及ぶAI規制の混迷──処遇AIと生成AIを混ぜると、全部壊れる</title>
-      <link>http://takagi-hiromitsu.jp/diary/20251216.html</link>
-      <pubDate>2025/12/17 06:26</pubDate>
-      <description>【ニューヨーク=川上梓】世界のコンサルティング大手で人員削減が広がっている。米マッキンゼー・アンド・カンパニーやアクセンチュアは間接部門を中心に数千〜数万人規模を削減する。人工知能（AI）の進化で基礎的な調査などコンサルが担う業務の約3割は代替できるとの指摘もある。各社は雇用を抑制しサービスの高度化を急ぐ。マッキンゼー、全体の1割削減「Deep research（ディープリサーチ）で調べられ</description>
-    </item>
-    <item>
-      <title>Notionで完結させるAI駆動PM｜すぅ | AI駆動PM</title>
-      <link>https://note.com/suh_sunaneko/n/n566f826c7ac4</link>
-      <pubDate>2025/12/13 08:52</pubDate>
-      <description>｢〇〇の能力でAIが人間を超えました｣ とかのニュースに必ず湧いてくるコメント 「でもAIには責任取れないよね。人間は責任が取れる。だから人間の仕事は奪われない」 これ聞くたびに思うんだけど、お前の言う「責任取る」って具体的に何？ 腹でも切ってんの？ 現代社会でお前が取ってる責任なんて、せいぜい謝罪か辞職、あとは賠償ぐらいでしょ その「責任」とやらに、わざわざカネ払う価値があるの？ 例としてタクシーに乗るならどっち選ぶん？ A：人間の運転手 車田宅士（58歳） 事故る確率：1% 人件費の分運賃は高いです 事故ったら涙ながらに「申し訳ありません！」とぬくもりのある謝罪をしてくれます 辞職してくれます 入ってる保険から賠償金もらえます B：自動運転AI Google5.8 事故る確率：0.1% 人件費ゼロなのでその分運賃は安いです 事故ったら｢申し訳アリマセン｣と合成音声で謝罪をしてくれます</description>
-    </item>
-    <item>
-      <title>複数のMacを束ねてAIクラスター化、「RDMA over Thunderbolt」機能サポートへ</title>
-      <link>https://news.mynavi.jp/article/20251215-3817615/</link>
-      <pubDate>2025/12/15 18:07</pubDate>
-      <description>はじめに これは「フィヨルドブートキャンプ Advent Calendar 2025」の15日目の記事です。 fjord-calendar.jp 昨日の記事は id:unikounio さんの「【Obsidian】Thinoで思考の整理を楽しもう」と、 id:hiroblogdesu さんの「フィヨルドブートキャンプに入会して丸2年が経ったのでモチベについて語らせてください」でした。 今回はメンターである僕、伊藤淳一がふだんの業務で生成AIをどんなふうに使っているのかを紹介したいと思います。 また、記事の後半ではフィヨルドブートキャンプ生に向けて、プログラミング初学者が生成AIを利用する際の注意点についても書いてみます。 【もくじ】 はじめに どんな生成AIを使っているのか どんなときに使うのか 自分でコードを書いてもいいが、ちょっと面倒なとき 自分で調べてもいいが、時間がかかりそうなとき</description>
-    </item>
-    <item>
-      <title>そんな使い道もあるのか！　GIGABYTE「AI TOP ATOM」は手が届く価格で、手のひらに乗る新しいAIスパコン[Sponsored]</title>
-      <link>https://internet.watch.impress.co.jp/docs/topic/special/2067933.html</link>
-      <pubDate>2025/12/16 08:36</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c9d0651879fe707118b7c61a66c2c60884272387/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2070%2F854%2FC00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>マッキンゼー、数千人規模の人員削減へ－AI時代に組織再構築 - Bloomberg</title>
-      <link>https://www.bloomberg.com/jp/news/articles/2025-12-15/T7B5XYT96OSH00</link>
-      <pubDate>2025/12/16 06:28</pubDate>
-      <description>限定記事や限定動画など特典が盛り沢山！将棋情報局ゴールドメンバーご入会はこちらから 2025年12月14日、SUNTORY将棋オールスター東西対抗戦2025が行われました。 このイベント内で恒例となっているのが参加棋士によるトークショー。 今回、藤井聡太竜王・名人のある回答が大きな話題になりました。 「今年ハマったものは？」という質問に藤井竜王・名人は「バイブコーディング」と答えたのです。 聞き慣れない言葉に、会場は「？」に包まれました。その後、早口でバイブコーディングについて語る藤井竜王・名人に、会場全員が置いていかれたのでした。 ･･････バイブコーディングって何？ 将棋情報局では早速、この謎のワードについて、将棋ソフト「やねうら王」の開発者であるやねうらおさんにインタビューしました。 それでは、どうぞ。 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ ――まず、バイブコーディングとは何かにつ</description>
-    </item>
-    <item>
-      <title>『生成AI不使用』を、どうやって客観的な資料で保証するか問題。（イラストレーター編）｜citrocube / 輝竜司</title>
-      <link>https://note.com/citrocube/n/n85241ab786ae</link>
-      <pubDate>2025/12/16 09:33</pubDate>
-      <description>12月16日、Martin Alderson氏が「AI agents are starting to eat SaaS」と題したブログ記事を公開し、海外で話題を呼んでいる。この記事では、AIエージェントがSaaS市場の需要構造とビジネスモデルを侵食しつつある状況と、その経済的・技術的な帰結について詳しく紹介されている。以下に、その内容を紹介する。 12月16日、Martin Alderson氏が「AI agents are starting to eat SaaS」と題したブログ記事を公開し、海外で話題を呼んでいる。この記事では、AIエージェントがSaaS市場の需要構造とビジネスモデルを侵食しつつある状況と、その経済的・技術的な帰結について詳しく紹介されている。以下に、その内容を紹介する。 「ソフトウェアが世界を食べた」の次に来るもの 過去15年ほど、「ソフトウェアが世界を食べる」というフ</description>
-    </item>
-    <item>
-      <title>今週のはてなブックマーク数ランキング（2025年12月第2週） - はてなブックマーク開発ブログ</title>
-      <link>https://bookmark.hatenastaff.com/entry/2025/12/16/120033</link>
-      <pubDate>2025/12/16 12:01</pubDate>
-      <description>米連邦政府は12月15日（現地時間）、Tech Forceと呼ぶ新たな人材プログラムの立ち上げを発表した。公式サイトによると、Tech Forceは約1000人規模の精鋭技術者集団を対象にした2年間の雇用プログラムで、ソフトウェア工学、AI、サイバーセキュリティ、データ分析などのスキルを持つ人材を連邦機関に配置し、政府の技術基盤の近代化を進めることを目的としているという。 参加者は連邦機関で実務に従事するほか、任期終了後に民間企業での採用機会が提供される可能性もあるとしている。政府内の最重要デジタル課題に取り組む「エリート技術集団」になるが、政治的任務を持たないと明記されている。 連邦政府の人事管理局（OPM）が主導し、複数の連邦機関と協調して実施される。参加者は2年間の任期で各機関に配属され、AI導入やアプリケーション開発、データモダナイゼーションといったプロジェクトに従事する計画だ。</description>
     </item>
   </channel>
 </rss>
