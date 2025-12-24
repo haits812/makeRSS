@@ -5,6 +5,36 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Conductor - Run a team of coding agents on your Mac</title>
+      <link>https://www.conductor.build/</link>
+      <pubDate>2025/12/20 22:08</pubDate>
+      <description>はじめに こんちくわ。ZOZOTOWN のレコメンド機能を管掌するチームでエンジニアリングマネージャーをやっている棚本（@i6tsux）です。 この記事では、映画好きが勢いだけで雑に作った 「今の気分に合う映画をおすすめするアプリ」 の話をつらつらと書いてゆきます。 背景 / 課題 映画が好きで、ほぼ毎日なにかしら観ています。 そんな中で 「見たいと思える映画に出会うのは、意外と難しい」 と感じます。 しかも、時間をかけて選んだはずなのに、 いざ観はじめると 「うーん、なんかハマらないなぁ」 となってしまうことも珍しくありません。 これが結構つらい。 やりたいこと やりたいことはすごくシンプルで、 今の自分が「観たい」と思える映画に出会えること 観はじめて「やっぱ違ったかも」とならないこと この2つを満たすことです。 振り返ってみると、 「わ〜、これは良いかったな、、、！」と思える作品は、</description>
+    </item>
+    <item>
+      <title>Agent Skillsを一番かんたんに作る方法（Claude Code + skill-creator）</title>
+      <link>https://zenn.dev/aun_phonogram/articles/475f3cca8f40a3</link>
+      <pubDate>2025/12/23 09:21</pubDate>
+      <description>インディーゲームアワード「Indie Game Award」を運営する米Six One Indieが12月22日までに、人気ゲーム「Clair Obscur: Expedition 33」（クレールオブスキュール：エクスペディション33）に与えた賞を剥奪した。18日（現地時間）の表彰式で最優秀賞など2つの賞を贈ったものの、規定で禁止している生成AIの利用が同日に発覚。賞を撤回したという。 Clair Obscur: Expedition 33はフランスのゲームスタジオSandfall Interactiveが手掛けるRPG。同スタジオのデビュー作でもあり、スタッフ30人未満という少規模な開発体制ながら大作ゲームに伯仲する演出やプレイフィールが話題になり、累計販売本数は10月時点で500万本を突破。「Golden Joystick Awards 2025」「The Game Awards 2</description>
+    </item>
+    <item>
+      <title>RAGの精度を上げる自己評価付き検索の設計 — Self-RAGで「検索＋自己採点」を回す</title>
+      <link>https://zenn.dev/lluminai_tech/articles/4ce39df484ae56</link>
+      <pubDate>2025/12/23 20:27</pubDate>
+      <description>こんにちは。希望あふれる優しいデジタル社会を未来に残していきたいtakkyyです。バクラク勤怠・バクラク給与などHCM領域*の事業責任者をしています。*HCM：Human Capital Management（人的資本マネジメント） 前職のスタートアップにて事業責任者を任せていただき、LayerX入社後は新規事業立ち上げから事業責任者という役割を担っています。決して経験が長いわけではありませんが、事業責任者を目指す中で意識していたことが誰かにとって意味あるものになればと思い言語化してみます。（MECEではない点はご容赦ください） 新規事業立ち上げに関する内容はこちらにもまとめております💁 特に、事業責任者を目指す20代・30代前半のみなさまにとって刺激や気づきとなる何かをお届けできれば幸いです。 01 目標設定を変える「事業責任者・PMMを目指しているのですが何をしたら良いですか？」とい</description>
+    </item>
+    <item>
+      <title>ATMがセックス求めてきたらホラーだよ</title>
+      <link>https://anond.hatelabo.jp/20251224031653</link>
+      <pubDate>2025/12/24 08:25</pubDate>
+      <description>2025年に読んだ技術書まとめ 1年で200冊以上本を読んだ 例年1日1冊以上のペースで本を読んでいました。今年は意図的に実装を増やしてインプットを減らす作戦が功を奏し、200冊ちょっとの本を読んだようです。読んだ技術書の中で面白かったものトップ10を紹介します。 10. グランドマスター三冠のKaggleノートブック開発術 AIエージェントブームで機械学習復習しておくとご利益あるかと思い購入。幅広くまとまっているのがいいですね。 類書にThe Kaggle Workbook 著名コンテストに学ぶ！競技トップレベルの思考と技術があります。 広義の競プロ繋がりだとAtCoder Heuristic First-step Vol.2も気になっています。 9. 7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性 ここ数年AIの発達で翻訳が楽になり一部日本企業の</description>
+    </item>
+    <item>
+      <title>巨人の肩に乗る</title>
+      <link>https://zenn.dev/ymd/articles/084336a54fb6d5</link>
+      <pubDate>2025/12/24 12:50</pubDate>
+      <description>Linux Daily Topics Firefoxを“モダンAIブラウザ”に ―Mozilla新CEOの就任メッセージにブラックボックス化を懸念する声 Chromeなど最近のモダンブラウザはAI機能がデフォルトでオンになっており、クエリを入力するたびに「AIによる概要」が最初に示されることが多い。しかし機能面に加え、プライバシーや信頼性の観点から「ブラウザにAI機能は不要」と思っているユーザも少なくなく、そうしたユーザにとってFirefoxは貴重な存在であるといえる。また、ソースコードも開発プロセスもオープンに公開されているFirefoxは、Linuxユーザにとっても日々の活動を支えるためのもっとも重要なソフトウェアコンポーネントだといっていい。そのFirefoxが現在、Mozillaの新CEO就任に伴って“⁠モダンAIブラウザ⁠”への方針変更が示されたことから、多くのユーザの間で不安と</description>
+    </item>
+    <item>
       <title>DuckDB をつかってローカルなRAGを実装する</title>
       <link>https://zenn.dev/ohtaman/articles/build-local-rag</link>
       <pubDate>2025/12/22 09:00</pubDate>
@@ -1841,39 +1871,6 @@
       <description>&lt;/p&gt;
           &lt;p class="entrylist-contents-thumb"&gt;
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/094e3f65928edbe227d8b31f3619b4fbece32284/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2072%2F116%2F1217.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>子どもの性的ディープフェイク被害　加害者の半数は同じ学校の生徒 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20251217/k00/00m/040/272000c</link>
-      <pubDate>2025/12/18 06:24</pubDate>
-      <description>「非エンジニアのClaude Code完全攻略」シリーズ第4回です。 今回はSkillsフォルダを使って、「学習するAI」を作る方法を解説します。 同じ質問を何度もしなくて済むようになります。 安心してください。Skillsファイルも、Claude Codeに作ってもらえます。 この記事でわかることSkillsとは何か Claude CodeにSkillsを作ってもらう方法 どんなSkillsを作ったか 自動参照の設定方法 Skillsとは？Skillsは、AIに覚えてほしい知識・ノウハウをまとめたファイルです。 プロジェクトの.claude/skills/フォルダに置きます。 my-project/ ├── CLAUDE.md ├── .claude/ │ └── skills/ │ ├── README.md │ ├── design-system.md │ ├── test-guid</description>
-    </item>
-    <item>
-      <title>Findy AI+の開発・運用を支えるMCP活用事例 ― AI Engineering Summit Tokyo 2025登壇レポート - Findy Tech Blog</title>
-      <link>https://tech.findy.co.jp/entry/2025/12/18/090000</link>
-      <pubDate>2025/12/18 09:07</pubDate>
-      <description>ヨルナ @Sage_Yothi @matsuzawa_s AIだろうがOCRだろうが、機械的な一括処理でフォントバラバラは100%ありえないので、手打ちしています。 訂正部分をコピペ挿入しているとなりやすい 2025-12-17 19:24:07</description>
-    </item>
-    <item>
-      <title>LLMを用いて長文ドキュメントを速く・安く・安全に構造化する試み - LayerX エンジニアブログ</title>
-      <link>https://tech.layerx.co.jp/entry/2025/12/16/194317</link>
-      <pubDate>2025/12/17 00:43</pubDate>
-      <description>はじめに こんちは！製造業で社内SE的なのやってる人です。 最近RAG分野にハマっていますが、Excel文書が厄介者すぎるということに最近気が付きました。ZennでもRAGにおいて、このExcel文書をいかに扱うかの記事は定期的に見かけます。 先人のエンジニアの方々が様々な有効打を提示してくれていますが、私も別のアプローチでこの課題に取り組んでみたので共有します🔥 TL;DR ExcelをCOM + xlwings/openpyxlで構造化する自作ライブラリ「exstruct」。セル値だけでなく図形・グラフ・ハイパーリンク・印刷範囲・罫線由来の表までJSON/YAML/TOON形式で出力。 画像認識なしでフローチャート矢印方向やグラフ軸・系列も抽出でき、RAGで失われがちな情報を補完してLLM復元精度が向上。 デモで表＋折れ線グラフ＋フローチャートをJSON化→Markdown/merm</description>
-    </item>
-    <item>
-      <title>ネットにあふれるAIの駄作「slop」が2025年の英単語に　辞典のメリアム・ウェブスター</title>
-      <link>https://japan.cnet.com/article/35241687/</link>
-      <pubDate>2025/12/16 12:57</pubDate>
-      <description>【ニューヨーク=川上梓】世界のコンサルティング大手で人員削減が広がっている。米マッキンゼー・アンド・カンパニーやアクセンチュアは間接部門を中心に数千〜数万人規模を削減する。人工知能（AI）の進化で基礎的な調査などコンサルが担う業務の約3割は代替できるとの指摘もある。各社は雇用を抑制しサービスの高度化を急ぐ。マッキンゼー、全体の1割削減「Deep research（ディープリサーチ）で調べられ</description>
-    </item>
-    <item>
-      <title>SpaceX・OpenAI・Anthropicの超大型IPOに備えよ - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOCB160LZ0W5A211C2000000/</link>
-      <pubDate>2025/12/17 07:08</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d5c2aca4a3985fac37aae0486e5aa438821043e6/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2071%2F905%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
   </channel>
