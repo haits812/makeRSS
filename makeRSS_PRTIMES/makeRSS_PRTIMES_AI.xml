@@ -5,6 +5,41 @@
     <description>https://prtimes.jp/index.rdfから特定のキーワードを含む記事を提供します。</description>
     <link>https://prtimes.jp/index.rdf</link>
     <item>
+      <title>DXYZ、日本ショッピングセンター協会主催「チャレンジピッチ2026 ～NEXT SC～」に登壇</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000145.000091732.html</link>
+      <description>[ディクシーズ／FreeiD]
+　DXYZ株式会社（本社：東京都新宿区、代表取締役社長：中西 聖、以下「DXYZ」）は、日本ショッピングセンター協会が主催する「チャレンジピッチ2026 ～NEXT SC～」において、プラットフォーム事業開発室 室長の...</description>
+      <pubDate>2025-12-24T12:40:30+09:00</pubDate>
+    </item>
+    <item>
+      <title>【歯科業界の新常識】生成AIでの医院検索が過半数（52.4%）を突破。株式会社エクスコア、歯科医院向け「AIO/LLMO（AI検索最適化）対策サービス」を開始</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000011.000012182.html</link>
+      <description>[株式会社エクスコア]
+[画像1: https://prcdn.freetls.fastly.net/release_image/12182/11/12182-11-5fca8c233df7ec02df375ee9c1a13211-1920x1080.jpg?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;am...</description>
+      <pubDate>2025-12-24T12:40:30+09:00</pubDate>
+    </item>
+    <item>
+      <title>【お正月特別企画】面白法人カヤック×生成AI、“ハイパーカジュアルおせちゲーム８品目”を 元旦より無料配信スタート</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000899.000014685.html</link>
+      <description>[株式会社カヤック]
+[画像1: https://prcdn.freetls.fastly.net/release_image/14685/899/14685-899-945355a3c9861dcb48f9007c1ed0e832-1920x1080.png?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;...</description>
+      <pubDate>2025-12-24T12:40:30+09:00</pubDate>
+    </item>
+    <item>
+      <title>ミガログループのDXYZ、日本ショッピングセンター協会主催「チャレンジピッチ2026 ～NEXT SC～」に登壇</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000300.000130175.html</link>
+      <description>[ミガロHD]
+　「デジタル」と「リアル」の融合で新たな価値を創造する企業、ミガロホールディングス株式会社(本社：東京都新宿区、代表取締役社長：中西 聖、証券コード：5535、以下「ミガロ HD」) のグループ会社DXYZ 株式...</description>
+      <pubDate>2025-12-24T12:40:30+09:00</pubDate>
+    </item>
+    <item>
+      <title>本当にこれが無料？全国約600自治体・20万人が使う行政向け生成AI「QommonsAI」が、過去最大の進化！使いやすさを徹底強化した年末大幅アップデート！</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000608.000088829.html</link>
+      <description>[ポリミル]
+生成AIの社会実装を牽引するPolimill株式会社（本社：東京都港区／代表取締役：伊藤あやめ・谷口野乃花）は、2025年12月23日、行政向け生成AI「QommonsAI（コモンズAI）」の最新バージョン ver.2.2 をリリースい...</description>
+      <pubDate>2025-12-24T10:15:20+09:00</pubDate>
+    </item>
+    <item>
       <title>神戸市中小企業DXセミナー参加者募集開始「攻めのDXにつながるデータ活用・AI活用の進め方」</title>
       <link>https://prtimes.jp/main/html/rd/p/000000053.000129729.html</link>
       <description>[公益財団法人こうべ産業・就労支援財団]
@@ -2103,43 +2138,6 @@ ANA X株式会社（所在地：東京都中央区、代表取締役社長：神
       <description>[株式会社ウイルテック]
 [画像1: https://prcdn.freetls.fastly.net/release_image/67902/46/67902-46-e846d295f3c205845c3ec5d4b6b644b1-300x250.png?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;amp;...</description>
       <pubDate>2025-11-20T14:00:00+09:00</pubDate>
-    </item>
-    <item>
-      <title>ANA XとADDIXが生成AIによるホテル・観光向け動画コンテンツの共同PoCを開始</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000422.000029572.html</link>
-      <description>[ANA X株式会社]
-　ANA X株式会社（所在地：東京都中央区、代表取締役社長：神田 真也、以下「ANA X」）と株式会社ADDIX（所在地：東京都港区、代表取締役社長：伊藤 雄剛、以下「ADDIX」）は、観光・ホテル業界における映像表現...</description>
-      <pubDate>2025-11-20T14:00:00+09:00</pubDate>
-    </item>
-    <item>
-      <title>飲食店向け経営管理ツール「FLARO」とfreee会計のAPI連携を開始　キャッシュレス決済比率30％越えに対応し、入金情報の連携で持続的な経営をサポート</title>
-      <link>https://prtimes.jp/main/html/rd/p/000001947.000006428.html</link>
-      <description>[freee]
-■マジ価値サマリー（このお知らせでお伝えしたいこと）
-- 飲食店向け経営管理ツール「FLARO」とfreee会計がAPI連携を開始しました&amp;lt;br/&amp;gt;- 仕訳登録が自動化され、「FLARO」の売上データをfreee会計に自動連携しま...</description>
-      <pubDate>2025-11-20T13:00:00+09:00</pubDate>
-    </item>
-    <item>
-      <title>研修内容を定着させる。日本初の研修定着AI「シェルパ」の提供を開始。</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000007.000152474.html</link>
-      <description>[シェルパス（SHERPATH）]
-シェルパス株式会社（本社：東京都渋谷区・代表取締役：新井 豪一郎）は、2025年11月20日に研修内容を定着させる、日本初（※1）の研修定着AI シェルパの提供を開始しましたことをお知らせいたします。
-■研修定着A...</description>
-      <pubDate>2025-11-20T09:00:18+09:00</pubDate>
-    </item>
-    <item>
-      <title>「地銀61行 DX推進状況レポート2025【第5回】」を発表。6割超でAI検索対応が進む。一方、Webアクセシビリティでは、7割超で弱視・ロービジョンユーザー向けの課題があり改善が求められる結果に</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000299.000000106.html</link>
-      <description>[メンバーズ]
-DX現場支援で顧客と共に社会変革をリードする株式会社メンバーズ（本社：東京都中央区、代表取締役社長：高野 明彦、東証プライム：2130、以下「メンバーズ」）は、全国の地方銀行61行を対象に「Webサイト体験」...</description>
-      <pubDate>2025-11-20T13:45:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>MEキャンパス、生成AI搭載「バーチャルコーチ」を正式導入</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000163.000045711.html</link>
-      <description>[株式会社スプリックス]
-株式会社Edutainment-Lab（本社：東京都渋谷区、代表取締役：鵜沢 修平）が運営するオンラインスクール「MEキャンパス」は、生成AIと画面共有技術を活用し、24時間いつでも専門家が隣にいるかのような学習体験を...</description>
-      <pubDate>2025-11-20T14:40:02+09:00</pubDate>
     </item>
   </channel>
 </rss>

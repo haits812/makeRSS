@@ -5,6 +5,96 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>DuckDB をつかってローカルなRAGを実装する</title>
+      <link>https://zenn.dev/ohtaman/articles/build-local-rag</link>
+      <pubDate>2025/12/22 09:00</pubDate>
+      <description>各AI企業はAIにトレンドやニュースを扱わせるために最新の情報を学習させていますが、一方でAIが生成した誤情報を別のAIが学習してまき散らす悪循環が発生するなど、新しい情報で汚染されてしまうケースもあります。チューリッヒ大学の研究者らが発表した「Ranke-4B」は、タイムスタンプ付きデータのみを使用した「History-LLMs」プロジェクトの一環としてリリースされており、100年以上前の社会における知識や見解などを表現できるAIとして構築されています。 history-llms/ranke-4b/prerelease_notes.md at main · DGoettlich/history-llms · GitHub https://github.com/DGoettlich/history-llms/blob/main/ranke-4b/prerelease_notes.md Gi</description>
+    </item>
+    <item>
+      <title>AI生成画像には「歴史的背景」がない。アーティストは形の奥にある物語を知っている（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2025/12/22/4790.html</link>
+      <pubDate>2025/12/22 12:16</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/af68d73991768c21c4e3cafe51af0cc01d371ee0/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2073%2F112%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>Claude Codeのコンテキストウィンドウを完全に理解する | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/12/get-started-claude-code-05</link>
+      <pubDate>2025/12/23 11:01</pubDate>
+      <description>OpenAI、「ChatGPT Atlas」のインジェクション対策について説明　「完全に解決されることはまずない」 米OpenAIは12月22日（現地時間）、AI統合型Webブラウザ「ChatGPT Atlas」での「プロンプトインジェクション攻撃」対策について説明した。プロンプトインジェクションは長期的課題で、Web上の詐欺やソーシャルエンジニアリングが巧妙化し続けるのと同様に「完全に解決されることはまずない」としている。 ChatGPT Atlasは、10月に公開された、Webページを閲覧し、クリックやキーストロークなどをユーザーの代わりにブラウザ内で実行する「ブラウザエージェント」を中核とする機能で、同社は「これまでにリリースした中で最も汎用的なエージェント機能の1つ」と位置付けている。 プロンプトインジェクションは、エージェントが処理するコンテンツ内に悪意ある指示を埋め込み、ユーザ</description>
+    </item>
+    <item>
+      <title>Elasticsearchのリランク最新事情 - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2025/12/23/070000</link>
+      <pubDate>2025/12/23 15:36</pubDate>
+      <description>この記事では、Figmaの生成AIツール「Figma Make」の機能や使い方について、基礎から応用まで体系的に解説します。プロンプトによるデザイン生成だけでなく、コードの書き出しや外部ツールとの連携など、実務で役立つ活用法を網羅しました。 これからFigma Makeを使い始める方や、デザイン業務の効率化を目指す方の参考になれば幸いです！ Figma MakeとはFigma Makeは、デザインツールのFigmaが提供する生成AIツールの一つです。最大の特徴は、自然言語による指示（プロンプト）を入力するだけで、UIデザインやインタラクティブなプロトタイプ、さらには実際に動作するフロントエンドのコードを自動生成できる点にあります。 デザイナーが静的なデザインを作り、エンジニアがそれをコードに書き起こすという、一連の手間が削減され、アイデアを瞬時に「動く形」で確認・検証できるようになります。</description>
+    </item>
+    <item>
+      <title>名古屋市が悩んだ「分散NAS」の限界と、全庁統合でHDD／SSD階層化を選んだ理由</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2512/23/news028.html</link>
+      <pubDate>2025/12/23 10:38</pubDate>
+      <description>pyspa Advent Calendar 202512/23のコンテンツです. 去年は「転職したやで」的な報告でネタが固まっていたのですが. 今年は決定的なネタに不足しており, 「近況報告」「技術ネタ」「書籍ネタ（これは前のエントリー）」から選ぼうと思っていましたが！？ shinyorke.hatenablog.com 職歴をAIに読み込ませて色々やった*1この話の続きで, 10年以上継続している老舗個人技術ブログである「Lean Baseball（このブログ）」をAIに評価してもらう 今年の記事の評価を客観的にしてもらう 上記の結果を公開することで「自分のブログのレベルを客観的に評価」「読み手にとっては一つのベンチマークとしてもらう」とかすると面白そう！ ...と, たった今思いついた&amp;amp;やったら案外楽しかったのでこちらでやってみようと思います. なお, 執筆はAIじゃなくて自分で書いて</description>
+    </item>
+    <item>
+      <title>2025年Python界の注目ライブラリ20選 #こまPy｜Atsushi Shibata</title>
+      <link>https://note.com/shibats/n/n53e6776f3dfa</link>
+      <pubDate>2025/12/23 11:31</pubDate>
+      <description>A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.</description>
+    </item>
+    <item>
+      <title>なぜフィジカルAIの象徴がヒューマノイドなのか＠2025国際ロボット展</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2512/23/news026.html</link>
+      <pubDate>2025/12/23 14:37</pubDate>
+      <description>中国の北京に拠点を置くAI企業のZ.aiがコーディング特化のAIモデル「GLM-4.7」を2025年12月22日にリリースしました。GLM-4.7はモデルデータを無料で公開するオープンモデルでありながら、一部のテストでGemini 3.0 ProやGPT-5.1 highを超える性能を示しています。 GLM-4.7: Advancing the Coding Capability https://z.ai/blog/glm-4.7 GLM-4.7は前世代のGLM-4.6と比べて大幅な性能向上を実現しており、生成するウェブページなどのUI品質も向上したとのこと。以下は前世代のGLM-4.6に「桜が目立つ庭園と仏塔を含むボクセルアートを単一のHTMLファイルで描画して」というプロンプトを入力した結果です。 同じプロンプトをGLM-4.7に入力した結果が以下。GLM-4.7の成果物の方が圧倒的に</description>
+    </item>
+    <item>
+      <title>パスワードマネージャの1PasswordとCursorが提携、1PasswordからCursorのAIエージェントにシークレットを安全に提供</title>
+      <link>https://www.publickey1.jp/blog/25/1passwordcursor1passwordcursorai.html</link>
+      <pubDate>2025/12/23 22:21</pubDate>
+      <description>Microsoft 365 Copilotを全社導入した内田洋行では、利用拡大が進む一方、ユーザー間の利用格差が課題となっていた。社内データ分析と実践から見えた原因を基に、5つの鉄則と具体的解決策を紹介する。 生成AIサービス「Microsoft 365 Copilot」（Copilot）は、使い慣れた業務アプリから自在に呼び出せることから、簡単に使える生成AIとして高い支持を集めている。内田洋行でも約1年半前に導入以降、利用は順調に拡大している。払い出しライセンスは600を超え（さらに「Microsoft 365」ライセンスでのCopilot利用者も550人を超える）で、アクティブ率は約95％。月1回以上の利用者は約500人、月間利用回数はおよそ3万8000回に上る。 一方で、社内でのCopilot活用を推進する太田浩史氏（内田洋行 エンタープライズエンジニアリング事業部）は現状を十分と</description>
+    </item>
+    <item>
+      <title>LINEヤフー川邊会長退任へ　「為すべき事は済んだ」</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2073808.html</link>
+      <pubDate>2025/12/23 21:59</pubDate>
+      <description>AIの進化によって、一からプログラムを入力しなくても自然言語でAIに指示してコーディングを行う「バイブコーディング」が可能になりました。OpenAIのGPT-5.2-Codex、AnthropicのClaude Code、GoogleのGemini CLI、Mistral AIのMistral Vibe CLIという4つのコーディングエージェントに地雷探しゲーム「マインスイーパー」を開発させた結果を、テクノロジー系メディアのArs Technicaが公開しています。 We asked four AI coding agents to rebuild Minesweeper—the results were explosive - Ars Technica https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-</description>
+    </item>
+    <item>
+      <title>Kaggle Solution Search</title>
+      <link>https://compsearch.dev/</link>
+      <pubDate>2025/12/23 19:27</pubDate>
+      <description>この記事は、LayerX Tech Advent Calendar 2025 の 23 日目の記事です。 tech.layerx.co.jp こんにちは。バクラク事業部 BizOps部 データグループの@civitaspoです。今年は子どもたちが入手困難なものをサンタさんにお願いしなかったので、心穏やかな気持ちでサンタさんを家に迎え入れることができそうです。 はじめに 今年も本日を入れて残り9日となりました。本記事では、データ基盤の2025年を締めくくるために、この1年でデータ基盤に起こった変化を振り返ります。 2023年の振り返りは以下の記事でまとめました。 tech.layerx.co.jp 一方で、2024年のまとめはなぜか書き忘れていました…😢 そのため本記事では、2024年後半から2025年にかけて起きたイベントやシステムの変化を軸に、データ基盤がどのような前提のもとで使われる</description>
+    </item>
+    <item>
+      <title>掛け声だけではない「AIオールイン」の実態。「現場のAI活用」発信とDeNAの2025年AI振り返り | フルスイング by DeNA</title>
+      <link>https://fullswing.dena.com/archives/100181/</link>
+      <pubDate>2025/12/23 11:57</pubDate>
+      <description>AIエージェントへの期待は、例えばこんなイメージだろう。 領収書を渡して「これ処理しといて」と言えば、あとは秘書のようによしなにやってくれる。確認が必要なときだけ聞いてくる。税理士に丸投げするような体験──。 本松氏は、この期待に冷や水を浴びせる。 チャットで20項目を聞かれる地獄 「経費精算には最大で20項目の入力が必要だ。90%の業務は6項目で済むかもしれない。でも100%の業務を回そうとすると、入力項目が20個に増える。AIエージェントがフロントになったとしても、この20項目分の情報はやっぱり必要になる」 問題は、その情報をどう集めるかだ。 「20項目のうち13項目をチャットベースでいちいち聞かれるのは、あまりいい体験じゃない。それだったらWebのUIで入れた方がいい」 SaaSのUIは、一見すると入力項目が多くて面倒に見える。だがそれは「業務に必要な情報を網羅的に入力できる」ように</description>
+    </item>
+    <item>
+      <title>Windows 11のNVMeドライバー有効化でSSD性能が最大85%向上へ - ギャズログ | GAZ:Log</title>
+      <link>https://gazlog.com/entry/windows11-nvme-native-driver-ssd-performance-boost/</link>
+      <pubDate>2025/12/23 22:17</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/521a796fc0648db0e99819489fd7765db33cb639/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2073%2F359%2FPhoto01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>2025年に読んだ技術書トップ10</title>
+      <link>https://zenn.dev/hiromichinomata/articles/1abd716dfba46f</link>
+      <pubDate>2025/12/24 04:22</pubDate>
+      <description>こんにちは。希望あふれる優しいデジタル社会を未来に残していきたいtakkyyです。バクラク勤怠・バクラク給与などHCM領域*の事業責任者をしています。*HCM：Human Capital Management（人的資本マネジメント） 前職のスタートアップにて事業責任者を任せていただき、LayerX入社後は新規事業立ち上げから事業責任者という役割を担っています。決して経験が長いわけではありませんが、事業責任者を目指す中で意識していたことが誰かにとって意味あるものになればと思い言語化してみます。（MECEではない点はご容赦ください） 新規事業立ち上げに関する内容はこちらにもまとめております💁 特に、事業責任者を目指す20代・30代前半のみなさまにとって刺激や気づきとなる何かをお届けできれば幸いです。 01 目標設定を変える「事業責任者・PMMを目指しているのですが何をしたら良いですか？」とい</description>
+    </item>
+    <item>
+      <title>PMがAI x ローコードツール（Retool）で業務システムを作ってみた | 令和トラベル Engineering Blog</title>
+      <link>https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20251224</link>
+      <pubDate>2025/12/24 10:36</pubDate>
+      <description>この記事は、Insight Edge Advent Calendar 2025の24日目の記事です！ 生成AIを活用した人事評価のモチベーション 今日はクリスマスイブですね！妻へのプレゼントに毎年悩む Insight Edge CTOの猪子です。 マネージャの仕事の中で、 「一番精神的に重い仕事」は何かと聞かれたら、多くの人が「人事評価」と答えるのではないでしょうか。 人事評価の中には以下の悩みが有るかと思います。 日常業務の合間に大量の評価資料を読む 評価の妥当性に悩む フィードバックで相手の人生に影響を与える責任 一方で、生成AI・AIエージェントを活用して、「人事評価」を効率化・活用していきたいという思いを持っているマネージャは多いかと思います。 では、評価という重要な責務を持つ仕事を、どこまでAIに任せてよいのか？ 本記事では、その問いに対して行った 人事評価 × AI の境界実験</description>
+    </item>
+    <item>
       <title>セキュリティ未経験の新卒が2ヶ月でセキュリティスキルの基礎を身につけた話 #NTTドコモ - ENGINEERING BLOG ドコモ開発者ブログ</title>
       <link>https://nttdocomo-developers.jp/entry/2025/12/19/090000_7</link>
       <pubDate>2025/12/19 19:21</pubDate>
@@ -1784,96 +1874,6 @@
       <description>&lt;/p&gt;
           &lt;p class="entrylist-contents-thumb"&gt;
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d5c2aca4a3985fac37aae0486e5aa438821043e6/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2071%2F905%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>このChrome「拡張機能」を今すぐ削除せよ、生成AIとの会話を収集し第三者に販売（Forbes JAPAN） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/6c1b738873ef22fe28431d9b07a462f4915ee325</link>
-      <pubDate>2025/12/17 12:49</pubDate>
-      <description>ブラウザーの拡張機能の中に、生成AIとの会話内容などを取得し、外部へ共有しているものがあることが発覚した。設定で止める手段はなく、削除が必要だ。該当拡張を入れている利用者は、2025年7月以降の会話が外部に渡った可能性を前提に対応すべきだ。 ChromeとEdgeの拡張機能が、生成AIとの会話内容を収集し第三者に販売最新の警告を発したのは、Koiだ。同社はつい最近、ユーザーのチャット内容を収集して第三者に販売していた、ChromeとEdgeの拡張機能を突き止めた。Koiは「医療に関する質問、財務の詳細、企業の専有コード、個人的な悩みごと、そのすべてが『マーケティング分析目的』で売られていたのです」と説明している。 対象の生成AIは8種類、ほぼすべての主要AIにリスクが及ぶ影響を受ける生成AIはChatGPTとGeminiだけではない。これらの拡張機能は特定のサービスをえこひいきしない。ブラ</description>
-    </item>
-    <item>
-      <title>太字で見る 三宅香帆の言語化能力｜AIと大喜利する</title>
-      <link>https://note.com/kyunkyun_p_d/n/n9cc45ed3d74b</link>
-      <pubDate>2025/12/17 14:18</pubDate>
-      <description>GPT-5.2登場　知識は2025年8月まで刷新、最高性能の“代償”とは：Deep Insider Brief ― 技術の“今”にひと言コメント OpenAIの最新モデル「GPT-5.2」が登場し、学習データの範囲が「2024年9月まで」から「2025年8月まで」にアップデートされた。最高性能を実現した一方でAPI価格は上昇しているので、筆者の視点から、その背景と現実的な使い分けの考え方を掘り下げる。 連載目次 GitHub CopilotやCursorのモデル選択画面に並ぶ現行モデルについては、これまでこのBrief（概説）連載の中で、できるだけ同じ書き方、同じ粒度で紹介してきた。ここ1カ月ほどは、週に何個も新しい言語モデルが登場する状況が続いており、正直なところ「もう把握し切れない」と感じて、少し疲れを感じている人も少なくないだろう。そんな中で、また新たなモデルが加わった。 そうした状</description>
-    </item>
-    <item>
-      <title>【10年前】イーロン・マスクとサム・アルトマンがOpenAI設立</title>
-      <link>https://www.gizmodo.jp/2025/12/openai_origin.html</link>
-      <pubDate>2025/12/16 23:15</pubDate>
-      <description>こんにちは。Ai Workforce事業部 FDEグループ エンジニアのkoseiと申します。 この記事はLayerX Tech Advent Calendar 2025 16日目の記事です。 本日は私たちの事業部が開発しているプロダクト「Ai Workforce」が扱うような長いドキュメントを構造化する方法として少し試していることについてお話しできればと思います。 背景 Ai Workforceではこれまで、エンタープライズのお客様にドキュメントワークを中心とした業務を効率化するユースケースを幅広く扱ってきました。 例えば、契約書のような200P以上に及ぶ長大なドキュメント同士の比較や、見積書からの全ての商品情報の抽出・分類など、様々な種類のドキュメントやユースケースを扱っています。 多くのドキュメント、特に文章量が多いドキュメントや、扱う問題が複雑になる場合に共通して、ユースケース実現</description>
-    </item>
-    <item>
-      <title>AntigravityとGemini 3でアプリ開発したら、めちゃくちゃ効率的だった話</title>
-      <link>https://blog.usize-tech.com/antigravity-gemini3-app-development/</link>
-      <pubDate>2025/12/17 08:53</pubDate>
-      <description>【ニューヨーク=谷本克之】人工知能（AI）の開発や運用に使うデータセンターの建設が米国で急増し、サーバーの冷却に使う水の大量消費への懸念が広がっている。米データセンターの年間水使用量は日本で50万人分の生活水に相当する660億リットルと9年で3倍となり、増え続けている。建設地では住民が地下水枯渇と干ばつにおびえている。巨大産業団地の半分がデータセンターに米西部ネバダ州の砂漠に位置するタホ・リ</description>
-    </item>
-    <item>
-      <title>AIチョットニガテなわたしが考える、AI時代のPdL・EMの在り方 - freee Developers Hub</title>
-      <link>https://developers.freee.co.jp/entry/pdl-em-role-in-ai-age</link>
-      <pubDate>2025/12/17 09:03</pubDate>
-      <description>こんにちは、アンドパッドセキュリティチームの小野寺です。この記事は ANDPAD Advent Calendar 2025 17 日目の記事です。 現在、セキュリティチームでは脆弱性診断の内製化に取り組んでいます。今回はセキュリティAIエージェントを活用して、Webアプリケーションに対する脆弱性診断を試験的に実施したお話をしたいと思います。 アンドパッドにおける脆弱性診断 アンドパッドはこれまで脆弱性診断の内製化は行っておらず、セキュリティベンダーに依頼して診断を実施していました。 しかし、アンドパッドが成長を続けていく中で、以下の課題が生じています。 マルチプロダクトを展開しており、年々プロダクト数が増えることによるコスト増加 セキュリティベンダーとのスケジュール調整が必要なため、タイムリーな診断実施が難しい こうした課題を解決するため、脆弱性診断の内製化に取り組み始めています。 もちろ</description>
-    </item>
-    <item>
-      <title>OpenAI、「ChatGPT Images 1.5」公開　生成速度4倍で「Nano Banana」に対抗</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/17/news069.html</link>
-      <pubDate>2025/12/17 10:27</pubDate>
-      <description>この記事は、NTT docomo Business Advent Calendar 2025 17日目の記事です。 はじめに 本記事は、コミュニケーション＆アプリケーションサービス部でビジネスdアプリの開発を担当している 立木・富田・西谷 の共同執筆です。 私たちは、ビジネスdアプリという、ビジネスパーソンの仕事や生活に役立つポータルアプリを開発しています。 ビジネスdアプリチームでは、モバイルアプリ・フロントエンド・バックエンドなどの開発とデザインの一部を社員で内製しており、以下の記事で以前記載したようにGoogle Cloudのサーバーレスサービスをフル活用しています。 サーバレスをフル活用したビジネスｄアプリのアーキテクチャ（前編） サーバレスをフル活用したビジネスｄアプリのアーキテクチャ（後編） このため、私たちのチームではGoogle Cloudのプロフェッショナルレベルの資格を</description>
-    </item>
-    <item>
-      <title>コミット数2倍でもレビュー品質を維持！AI時代のコードレビューフロー再設計</title>
-      <link>https://developers.cyberagent.co.jp/blog/archives/60882/</link>
-      <pubDate>2025/12/17 11:41</pubDate>
-      <description>Metaが音声分離AI「SAM Audio」を公開しました。SAM Audioには音声や動画を入力可能で、「文章で指示して特定の音を抜き出す」「動画内の『音声を発している被写体』を指定して音声を抜き出す」「動画内の特定のタイミングで鳴っている音を指定して抜き出す」といった操作が可能です。 SAM Audio https://ai.meta.com/samaudio/ Introducing SAM Audio: The First Unified Multimodal Model for Audio Separation | AI at Meta - YouTube SAM Audioは音声だけでなく動画も入力することが可能です。音楽セッションを記録した動画からギターの音だけを抜き出したい場合は、テキストで「guitar」と指示します。 これで動画内のギターの音だけを分離できます。 動画内</description>
-    </item>
-    <item>
-      <title>GPT-5.2登場　知識は2025年8月まで刷新、最高性能の“代償”とは</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/17/news024.html</link>
-      <pubDate>2025/12/17 07:55</pubDate>
-      <description>ブラウザーの拡張機能の中に、生成AIとの会話内容などを取得し、外部へ共有しているものがあることが発覚した。設定で止める手段はなく、削除が必要だ。該当拡張を入れている利用者は、2025年7月以降の会話が外部に渡った可能性を前提に対応すべきだ。 ChromeとEdgeの拡張機能が、生成AIとの会話内容を収集し第三者に販売最新の警告を発したのは、Koiだ。同社はつい最近、ユーザーのチャット内容を収集して第三者に販売していた、ChromeとEdgeの拡張機能を突き止めた。Koiは「医療に関する質問、財務の詳細、企業の専有コード、個人的な悩みごと、そのすべてが『マーケティング分析目的』で売られていたのです」と説明している。 対象の生成AIは8種類、ほぼすべての主要AIにリスクが及ぶ影響を受ける生成AIはChatGPTとGeminiだけではない。これらの拡張機能は特定のサービスをえこひいきしない。ブラ</description>
-    </item>
-    <item>
-      <title>Mozillaの新CEOがこれからのFirefoxを語る、「最高のブラウザ」を最優先しつつAIの統合も</title>
-      <link>https://gigazine.net/news/20251217-mozilla-new-ceo-talk-about-firefox/</link>
-      <pubDate>2025/12/17 16:00</pubDate>
-      <description>三宅香帆 『「好き」を言語化する技術：推しの素晴らしさを語りたいのに「やばい！」しかでてこない』 を読みました。 無内容でした。お勧めしません。 なぜ無内容なのかは説明できません。 無内容は無内容です。 本稿からやんわりと感じ取ってください。 この人の本が評価される理由が、僕には心底理解できませんでした。 世間はどうやら無意識のうちに、主張の論旨だけを見るようになっていて、それが自分の考えと近ければ、内容の検証など要らないという思考に陥っているのではないでしょうか。 誠にけしかりません、勝つまでは。 本稿で言いたいのは、著者の日本語力の低さです。 はっきり言って、文が崩壊しています。 これが京大文学部卒、文章を生業とする人物の、10作目、そしてベストセラーになった書籍だとは。 コンテクストがひとつも腹落ちしません。 というわけで、実際に文章を引用して指摘しようと思い、メモを取り始めたのです</description>
-    </item>
-    <item>
-      <title>AI agents are starting to eat SaaS</title>
-      <link>https://martinalderson.com/posts/ai-agents-are-starting-to-eat-saas/</link>
-      <pubDate>2025/12/15 14:34</pubDate>
-      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。12月8日（月）～12月14日（日）〔2025年12月第2週〕のトップ30です*1。 順位 タイトル 1位 国立がん研究センターのがんになったら手にとるガイド：[国立がん研究センター がん情報サービス 一般の方へ] 2位 １．証券口座を開く ２．NISA一般枠（NISA成長投資枠）で一括購入 ３．積み立.. 3位 「株式会社ガイナックス」について | 株式会社カラー 4位 超面白かった歴史小説&amp;amp;歴史ノンフィクション６選｜ふろむだ 5位 残業キャンセル界隈と企業カルチャーの死 - megamouthの葬列 6位 畑中様 いつもSNSでの発信陰ながら拝見しております。 私は今他業種にいるのですが、どうしても漫画を作って生きていきたいと思い、読み切りを賞に投稿しようと考えています。これまでに何本か二次創</description>
-    </item>
-    <item>
-      <title>【Gemini × NotebookLM】 スライド作成から案内文まで、AIと社内説明会の準備を進めてみた | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/gemini-notebooklm-ai-prepdocuments/</link>
-      <pubDate>2025/12/16 10:28</pubDate>
-      <description>オリジナルの公開場所: https://www.nocobase.com/ja/blog/6-best-open-source-ai-tools-to-build-dashboards 序論 昨年、私たちはコアアプリ向けダッシュボードツールのまとめを公開し、データ可視化に取り組むチームが直面しがちな課題について紹介しました。当時取り上げたのは、使い勝手の良い成熟した商用ツールが中心でしたが、ライセンス形態やデプロイ方法、拡張性にはどうしても制約があります。その後読者の方々と話す中で、より低コストで、自由度が高く、しかもセルフホストにも対応できるオープンソースの選択肢を求める声が多いことが分かりました。 💡おすすめ記事：開発者向けノーコード／ローコードの技術判断ガイド（2026） この一年で、オープンソースコミュニティの可視化系ツールは大きく進化しました。自然言語での検索、チャートの自動生</description>
-    </item>
-    <item>
-      <title>AIエージェントは本当に戦力になるのか　“AI部下”育成術をSakana AI研究者に聞いた</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2512/10/news108.html</link>
-      <pubDate>2025/12/17 09:16</pubDate>
-      <description>米OpenAIは12月16日（現地時間）、画像生成AIの新版「ChatGPT Images 1.5」をリリースしたと発表した。画像生成速度が最大4倍高速化するなどの改善が行われた。 ChatGPT Images 1.5は、OpenAIの新しい主力画像生成モデルによって提供されており、ゼロからの画像作成でも写真編集でも、思い描いた通りの出力を得られることを目指しているという。APIでも提供が開始されている。 強化・改善点は多岐にわたり、特にモデルの指示追従性と編集能力が大幅に向上した。アップロードされた画像に対して編集を依頼する際、ユーザーの意図にこれまで以上に忠実に従い、ライティング、構図、人物の見た目といった要素を一貫して維持しながら、要求された部分のみを正確に変更できるようになったとしている。これにより、より実用的な写真編集や、信憑性の高いバーチャル試着やヘアスタイルシミュレーション、</description>
-    </item>
-    <item>
-      <title>いろんな音が混ざった動画や音声から目的の音だけを分離できるAI「SAM Audio」をMetaが公開</title>
-      <link>https://gigazine.net/news/20251217-meta-sam-audio-ai/</link>
-      <pubDate>2025/12/17 12:50</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/d5c2aca4a3985fac37aae0486e5aa438821043e6/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2071%2F905%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>書籍『わが投資術』のネットキャッシュ比率の汎用性の検証</title>
-      <link>https://zenn.dev/morim34/articles/ff991f32187d96</link>
-      <pubDate>2025/12/16 10:45</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/649a9848c8f4d31c36789e4f74da9e60e357e6ed/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2071%2F584%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
     </item>
   </channel>
