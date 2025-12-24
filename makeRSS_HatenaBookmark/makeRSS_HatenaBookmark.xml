@@ -5,6 +5,90 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>セキュリティ未経験の新卒が2ヶ月でセキュリティスキルの基礎を身につけた話 #NTTドコモ - ENGINEERING BLOG ドコモ開発者ブログ</title>
+      <link>https://nttdocomo-developers.jp/entry/2025/12/19/090000_7</link>
+      <pubDate>2025/12/19 19:21</pubDate>
+      <description>Visaプリペイドカードが発行できて、アプリだけでも使用できます金融系・フィンテックのプロダクトデザインでは、UIの見た目以上に「言葉の正確さ」や「表記ルール」が重要になります。 何故ならば、”エンドユーザーのお金を直に扱う事業”だからです。トラブルにならないような表現方法と、デザインとして楽しく＆身近に感じてもらうようなエッセンスのバランスが必要だなと日々感じています。 ただ、スタートアップというフィールドは 表記ルールが人に依存していたり 例「担当デザイナーでボタンのCTA（Call To Action）が絶妙に違うやん」 ドメイン知識が属人化していたり 例「え、そんなルールあったんですか？知らんかった」 デザインの最終確認を毎回PM頼りになっていたり 例「PMの〇〇さんがチェックしてくれるし、なんとかなるだろ〜」 といった状態になりがちです笑（笑っている場合ではない） 実際に、PMの</description>
+    </item>
+    <item>
+      <title>機微情報OK！Open Notebookの仕組みと構築手順 - NotebookLM相当をローカルで実現 - Qiita</title>
+      <link>https://qiita.com/ntaka329/items/705fd24bfd07dab21550</link>
+      <pubDate>2025/12/21 10:51</pubDate>
+      <description>日々進化する Gemini ですが、Gemini Drop を見ればリリースの内容を簡単に把握できます。定期的にチェックして、機能の発表やプロダクトに関するヒント、コミュニティで Gemini がどのように活用され、創作や調査に利用されているかをご確認ください。</description>
+    </item>
+    <item>
+      <title>GitHub - ashishpatel26/500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrat</title>
+      <link>https://github.com/ashishpatel26/500-AI-Agents-Projects</link>
+      <pubDate>2025/12/23 06:06</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/18de25350bf4c8edb12ec4f6c339b1a8c16e6344/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2073%2F358%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>NVFP4: 4ビットの浮動小数点でLLMを学習する仕組み - エムスリーテックブログ</title>
+      <link>https://www.m3tech.blog/entry/4bit_float_llm</link>
+      <pubDate>2025/12/23 10:09</pubDate>
+      <description>Claude Code Meetup Tokyo LT登壇資料</description>
+    </item>
+    <item>
+      <title>Figma Makeとは？徹底解説します！ | iret.media</title>
+      <link>https://iret.media/180978</link>
+      <pubDate>2025/12/23 15:17</pubDate>
+      <description>「Claude Code」は、CLI上で動くLLMによるAIエージェントツールです。この記事は12月5日に発売された『Claude CodeによるAI駆動開発入門』に書ききれなかった応用的な内容や最新のアップデートについて解説します。書籍をあわせて読むとさらに理解が深まることでしょう。 コンテキストウィンドウを制するものは開発を制する Claude Codeの「コンテキストウィンドウ」とはなんでしょうか。 Anthropicの公式ドキュメントから答えると「LLMが新しいテキストを生成する際に参照できるテキストの全体量と、生成する新しいテキストを合わせたもの」です[1]。 簡単に言うと、コンテキストウィンドウの中身は、セッションの中のユーザーのメッセージ（プロンプト）とClaudeのレスポンスを合わせたものです。 下記のコンテキストウィンドウの概念図をご覧ください。 コンテキストウィンドウの</description>
+    </item>
+    <item>
+      <title>The AI workspace that works for you. | Notion</title>
+      <link>https://mango-garlic-eff.notion.site/Claude-Code-Meetup-Tokyo-Q-A-2d1e9c0d01e880538ffef01d86b19c9b</link>
+      <pubDate>2025/12/23 11:03</pubDate>
+      <description>行政デジタルトランスフォーメーション（DX）を進める名古屋市は、庁内のファイルサーバ運用を抜本的に見直した。同市は従来、各部署が個別に管理するネットワーク接続型ストレージ（NAS）を組み合わせてファイルサーバを運用してきた。この運用を見直し、職員約2万人が利用するデータインフラとして、全庁で共通利用するファイルサーバを新たに構築した。 「ファイルサーバは部署ごとのNASで足りる」という前提が崩れた 名古屋市は庁内のファイルサーバとして、部署単位でNASを導入・管理しており、結果として百数十台のNASが散在していた。NASごとに管理方法やセキュリティ設定が異なっていたことから、ファイルサーバ全体の運用が複雑化し、庁内横断のデータ活用や、共通のセキュリティポリシー適用が難しくなっていた。 行政DXの推進に伴い、名古屋市はインターネット接続を可能にする次期ネットワークモデルの移行を進めている。こ</description>
+    </item>
+    <item>
+      <title>コーディングに強い中国産AI「GLM-4.7」が登場、一部テストでGemini 3.0 Proを超えるオープンモデル</title>
+      <link>https://gigazine.net/news/20251223-glm-4-7-coding-ai/</link>
+      <pubDate>2025/12/23 12:17</pubDate>
+      <description>北米で人気のSNS、RedditのPythonチャンネルでは、年末に「新着有望ライブラリを紹介するスレッド」が立ち上がります。今回の記事では、2025年版から、今年新しくリリースされたたくさんのPythonライブラリのうち、有望なものを紹介したいと思います。 新しいライブラリを紹介することが目的なので、numpyやpandasのような定番ライブラリは含まれていません。一般用途／AI・ML・Dataそれぞれ上位5ライブラリについて、「どんな背景で生まれ、どんな場面で役立つのか」が具体的に伝わるよう、概要を掘り下げて解説します。 6位以下については、後ろの方に概略を紹介しています。みなさんの知らない有望なライブラリがきっとたくさんありますので、最後まで読んでみてくださいね。 一般用途上位5ライブラリまずは一般用途のライブラリから。一般用途のライブラリ群は、派手な新機能よりも、型・可読性・制御・</description>
+    </item>
+    <item>
+      <title>AI活用100本ノック（DeNA）</title>
+      <link>https://downloads.ctfassets.net/7mrdlclm9xss/m7XsAz2M3bT8WoDrfmYn3/8ee77c25f48de5dab3b792b428df5495/AI_100tips_slide.pdf</link>
+      <pubDate>2025/12/23 14:32</pubDate>
+      <description>なぜフィジカルAIの象徴がヒューマノイドなのか＠2025国際ロボット展：2025国際ロボット展レポート（後編）（1/3 ページ） 「2025国際ロボット展（iREX2025）」では、ヒューマノイドがこれまでになく注目を集めた。本稿では前後編の2回にわたって、会場横断でヒューマノイドの動向をレポートする。前編では中国勢を中心に紹介した。今回の後編では、日本勢の動向にスポットを当てる。 世界最大級の産業用ロボット見本市「2025国際ロボット展（iREX2025）」（2025年12月3～6日、東京ビッグサイト）において、これまでになく注目を集めたのが「ヒューマノイドロボット」（ヒト型ロボット、以下ヒューマノイド）だ。特に中国を中心としたヒューマノイドメーカーが数多く出展し、さまざまなデモンストレーションで来場者の関心を呼んだ。 本稿では前後編の2回にわたって、ヒューマノイドにフォーカスし、会場全</description>
+    </item>
+    <item>
+      <title>ビジネスモデル3.0図鑑 #全文公開チャレンジ｜図解総研</title>
+      <link>https://note.com/bizgram/n/n5bde4d5402d1</link>
+      <pubDate>2025/12/23 14:13</pubDate>
+      <description>2025年の良ブコメ*1。 基本的に1つ目のリンクが元記事（増田）、2つ目以降がブコメです。 過去の記事はこちら。 勝手に輝いていた増田ブコメ大賞 2019年上半期 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞 2019年下半期 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2020 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2021 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2022 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2023 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2024 - 誰かの肩の上 一般ネタ 婚活パーティーで「趣味は何ですか？」と聞かれると わかる、私も日本の作家の本はほとんど原書で読んでいる - nomitori のブックマーク 美味しそうな響きのスポーツを知りたい【追記】 カリカリに揚げたクリケットが結局いちばんうまい - Knoa</description>
+    </item>
+    <item>
+      <title>2025年、Claude Code と 1 人で 40 万行規模のフルスタック＋インフラを構築した話（あみださん）</title>
+      <link>https://zenn.dev/shusuke_o/articles/f63e1bf61363b8</link>
+      <pubDate>2025/12/23 16:07</pubDate>
+      <description>対象読者 Agent Skills が気になっているけど、まだ触れていない方 公式ドキュメントを読む前に、まず動かしてみたい方 細かい仕組みより「とりあえず作れる」を優先したい方 はじめに Claude Code には「Agent Skills」という機能があります。 Anthropic が開発した 「エージェントに新しい機能や専門知識を提供するためのフォーマット」 で、2025年12月にオープンスタンダードとしてリリースされ、Codex や Cursor など他の主要なAIツールでもサポートされはじめています。 Agent Skills は、Claude Code と skill-creator を使えば簡単に作ることができます。この記事では skill-creator のインストール方法と使い方を紹介します。 ちなみに skill-creator 自体もスキルで作られているので、「スキ</description>
+    </item>
+    <item>
+      <title>GPT-5.2-Codex・Claude Code・Gemini CLI・Mistral Vibeにマインスイーパーを開発させるとこうなる</title>
+      <link>https://gigazine.net/news/20251223-ai-coding-agent-test-minesweeper/</link>
+      <pubDate>2025/12/23 17:42</pubDate>
+      <description>パスワードマネージャの1PasswordとCursorが提携、1PasswordからCursorのAIエージェントにシークレットを安全に提供 人間の開発者と同じようにAIエージェントがさまざまなコードやデータを保持し、それらをコンパイラやビルドツール、テストツールなどを操作して開発を行うようになると、AIエージェントに対して適切な権限を付与するためのIDやパスワードなどのシークレットを付与する必要が生じます。 AIエージェントへのプロンプトや設定ファイルにこうしたシークレットを記述することは、セキュリティの面で望ましくありません。 今回の1PasswordとCursorの提携により、1PasswordはAIエージェントに対しても安全なシークレットの保存と提供を行うパスワードマネージャの機能を提供します。 以下はプレスリリースからの説明の引用です。 1Password has partner</description>
+    </item>
+    <item>
+      <title>「復帰」ではなく「変容」だった半年間</title>
+      <link>https://zenn.dev/dress_code/articles/eb8d9afcd86391</link>
+      <pubDate>2025/12/24 00:09</pubDate>
+      <description>この記事は、LayerX Tech Advent Calendar 2025 の 23 日目の記事です。 tech.layerx.co.jp こんにちは。バクラク事業部 BizOps部 データグループの@civitaspoです。今年は子どもたちが入手困難なものをサンタさんにお願いしなかったので、心穏やかな気持ちでサンタさんを家に迎え入れることができそうです。 はじめに 今年も本日を入れて残り9日となりました。本記事では、データ基盤の2025年を締めくくるために、この1年でデータ基盤に起こった変化を振り返ります。 2023年の振り返りは以下の記事でまとめました。 tech.layerx.co.jp 一方で、2024年のまとめはなぜか書き忘れていました…😢 そのため本記事では、2024年後半から2025年にかけて起きたイベントやシステムの変化を軸に、データ基盤がどのような前提のもとで使われる</description>
+    </item>
+    <item>
+      <title>拝啓、事業責任者を目指すみなさんへ。｜takkyy | LayerX - AI×HR</title>
+      <link>https://note.com/takkyy07/n/nf6976775ddf9</link>
+      <pubDate>2025/12/22 17:16</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/521a796fc0648db0e99819489fd7765db33cb639/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2073%2F359%2FPhoto01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
       <title>「Skills？MCP？インストラクション？」仕組みからわかる GitHub Copilot のカスタマイズ戦略ガイド</title>
       <link>https://zenn.dev/openjny/articles/91e88d7914e5bc</link>
       <pubDate>2025/12/21 21:06</pubDate>
@@ -1791,84 +1875,6 @@
           &lt;p class="entrylist-contents-thumb"&gt;
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/649a9848c8f4d31c36789e4f74da9e60e357e6ed/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2071%2F584%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
-    </item>
-    <item>
-      <title>Obsidianを「ChatGPTのナレッジ保管庫」にしよう｜ひつじ</title>
-      <link>https://note.com/hituji1234/n/nf82e2fa55f28</link>
-      <pubDate>2025/12/16 13:34</pubDate>
-      <description>NVIDIAは2025年12月15日に、特化型エージェントAI開発の強化、AI業界全体の透明性、効率性を目的として設計されたオープンAIモデル、データ、ライブラリの「Nemotron 3」ファミリーを発表しました。Nemotron 3は必要な部分のみを活性化させることで、マルチエージェントを効率的に稼働させながら、コストを削減することを可能としています。 NVIDIA Debuts Nemotron 3 Family of Open Models | NVIDIA Newsroom https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models/?ncid=so-twit-561360 Nemotron 3ファミリーは複数の専門的なエージェントを組み合わせたMoEモデルで、300億パラメータ</description>
-    </item>
-    <item>
-      <title>Mac Studio M3 Ultra（96GBメモリ）でローカルLLMを動かす / 開発者向けブログ・イベント | GMO Developers</title>
-      <link>https://developers.gmo.jp/technology/74987/</link>
-      <pubDate>2025/12/16 10:58</pubDate>
-      <description>ディズニーはOpenAIとライセンス契約を結び、ディズニーキャラクターを動画生成AIのSoraで描写できるようにしました。このライセンス契約の期間は3年間ではあるものの、独占期間は1年のみなので、それ以降は他のAI企業と同様の契約を結ぶことが可能であることが明らかになっています。 Disney&amp;#39;s OpenAI stake is &amp;#39;a way in&amp;#39; to AI, Iger tells CNBC https://www.cnbc.com/2025/12/11/disney-open-ai-iger-altman.html Disney&amp;#39;s OpenAI deal is exclusive for just one year -- then it&amp;#39;s open season | TechCrunch https://techcrunch.com/2025/12/15/disneys-open</description>
-    </item>
-    <item>
-      <title>RAGの「リランキング」を10倍速くする「MixLM」</title>
-      <link>https://zenn.dev/knowledgesense/articles/4eb785fd0e9a2b</link>
-      <pubDate>2025/12/16 12:46</pubDate>
-      <description>2025年10月16日、Anthropic社がClaude Skillsを公開し、ITエンジニア界隈で大きな話題となりました。本記事ではClaude Skillsの基本的な概念、それによって解決される課題、利用方法を解説します。大規模言語モデルの性能向上により、AIは知識レベルではすでにプロの研究者に匹敵するようになりましたが、特定分野のドメイン知識や作業手順といったコンテキストに依然として依存しています。Claude Skillsを使用することで、より専門性の高いAIエージェントを構築でき、本当の意味での属人化を回避する銀の弾丸となり得ます。 はじめに KDDI アジャイル開発センターに勤める上田です。コミュニティ界隈ではハリネズミというハンドルネームで活動しています。 本連載では、Claude Skillsについて解説します。第1回ではClaude Skillsの基本概念、それが解決す</description>
-    </item>
-    <item>
-      <title>画像圧縮するベストな方法（2025） - Qiita</title>
-      <link>https://qiita.com/fukushima1981/items/deaf8e97df2d1b9d6865</link>
-      <pubDate>2025/12/16 03:55</pubDate>
-      <description>米国の人工知能（AI）大手を中心に、大規模データセンター（DC）の建設競争がチキンレースさながらの様相を呈している。DC向けに画像処理半導体（GPU）を巨額の資金で調達し、高度なAIモデルをいち早く開発しようと各社が動く。一方で、AIモデルの軽量化が進み、省電力で高速処理が可能な光技術や量子技術を使った新たな計算手法も台頭しつつある。計算資源の拡大を前提とした従来の競争構図が、今後変わる可能性も</description>
-    </item>
-    <item>
-      <title>2026年、日本のソフトウェア開発を変える5つの潮流 | gihyo.jp</title>
-      <link>https://gihyo.jp/article/2025/12/5-trends-that-transform-software-development-in-japan-2026</link>
-      <pubDate>2025/12/16 16:37</pubDate>
-      <description>自民党は16日、偽の動画や画像を人工知能（AI）で生成する「ディープフェイク」対策の合同プロジェクトチーム（PT）を立ち上げた。初回の会合は有識者として台湾の初代デジタル発展相を務めた唐鳳（オードリー・タン）氏らから海外の対策事例を聴取した。オードリー氏は台湾の偽情報対策に関し、プラットフォーマーに連帯で賠償責任を負わせる法律を制定したことで被害が激減したことなどを紹介した。</description>
-    </item>
-    <item>
-      <title>そのKPI分析、まだ手動でやりますか？ メルペイが挑む要因分析自動化の現在地｜Mercari Analytics Blog</title>
-      <link>https://note.com/mercari_data/n/nd45f9256725c</link>
-      <pubDate>2025/12/16 23:25</pubDate>
-      <description>動画編集講座はこちら https://www.dogaedit.com ------------------------------------------------------------------------------------------------ DEEP DIVE HP https://deepdive.or.jp/ クラウドファンディング目標達成！ ご支援ありがとうございました！ https://camp-fire.jp/projects/821287/view ------------------------------------------------------------------------------------------------ 製作・運営：(株)ジェットストリーミング https://www.jetstreaming.jp/ #小原凡司　</description>
-    </item>
-    <item>
-      <title>マッキンゼーやアクセンチュア、進む人員削減　「AIが3割代替」 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN16CL90W5A211C2000000/</link>
-      <pubDate>2025/12/17 07:41</pubDate>
-      <description>はじめに こんちは！製造業で社内SE的なのやってる人です。 最近RAG分野にハマっていますが、Excel文書が厄介者すぎるということに最近気が付きました。ZennでもRAGにおいて、このExcel文書をいかに扱うかの記事は定期的に見かけます。 先人のエンジニアの方々が様々な有効打を提示してくれていますが、私も別のアプローチでこの課題に取り組んでみたので共有します🔥 TL;DR ExcelをCOM + xlwings/openpyxlで構造化する自作ライブラリ「exstruct」。セル値だけでなく図形・グラフ・ハイパーリンク・印刷範囲・罫線由来の表までJSON/YAML/TOON形式で出力。 画像認識なしでフローチャート矢印方向やグラフ軸・系列も抽出でき、RAGで失われがちな情報を補完してLLM復元精度が向上。 デモで表＋折れ線グラフ＋フローチャートをJSON化→Markdown/merm</description>
-    </item>
-    <item>
-      <title>AIデータセンター、50万人分の水がぶ飲み　米国で建設急増が招く枯渇 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUF2705X0X21C25A1000000/</link>
-      <pubDate>2025/12/17 04:27</pubDate>
-      <description>Twitterで、12月12日の「AI時代の知的財産権検討会（第10回）」の配布資料「AIの適切な利活用等に向けた知的財産の保護及び透明性に関するプリンシプル型コード（仮称）（案）」が、これはひどいと話題になっているのが流れてきたので、読んでみたところ、色々言いたいことが思い浮かんだ。本来ならば論文で指摘するべき話だが、他に先に書かないといけないことばかりで、いつになったらできるかわからない。今動いている話なので、急ぎここに記す必要があるが、書くのが面倒なので、生成AIに書かせた。自分で書けばぐちぐちと悩みながら2、3日かけるところだが、もはや生成AIのおかげで、気づいてから半日で完成だ。（どういうプロンプトで書かせたかは末尾に開示しておく。） 関係者の皆さんには読んでほしい。方向付けさえすれば自然にここまで言われてしまうという事態の深刻さを受け止めてほしい。 5月に「処遇AIと生成AIの</description>
-    </item>
-    <item>
-      <title>セキュリティAIエージェントによる脆弱性診断を試してみました - ANDPAD Tech Blog</title>
-      <link>https://tech.andpad.co.jp/entry/2025/12/17/100000</link>
-      <pubDate>2025/12/17 10:14</pubDate>
-      <description>AIこんにちは。SCSKの松渕です。 先日、発表されたばかりのGoogle Antigravityをインストール＆簡易WEBサイト構築してみましたが、 今回はもう少しアプリ開発をしてみた実体験をブログに書きます！ はじめに Antigravityとは AWSのKiroと同様に、AIエージェント型統合開発環境（Agentic IDE）と呼ばれるものです。 Antigravityのポイントとしては、特に以下の点になるかと思っております。 ・ AIによるブラウザ操作も可能 ・ AIによる自律的な実装 ・ アウトプット品質の高さ（これはGemini 3のポイントではありますが） ・ Google Cloud環境とのシームレスな連携 類似サービスとの比較は以下の通りです IDE/プラットフォーム 開発元 主な設計思想と特徴 類似サービスとの差別化ポイント Antigravity Google エージ</description>
-    </item>
-    <item>
-      <title>Google Cloud資格全冠達成のリアル！学習のコツと苦労点【社内座談会レポート】 - NTT docomo Business Engineers&amp;#39; Blog</title>
-      <link>https://engineers.ntt.com/entry/20251217-gcp-cert-roundtable/entry</link>
-      <pubDate>2025/12/17 09:40</pubDate>
-      <description>昨日の yuria3 の記事はどうでしたか？ClickHouseのホスティング選定プロセスだけでなく、SaaS版導入時のPrivateLinkやDNS制約といったリアルな「ハマりポイント」まで詳しく共有されており、これから導入するエンジニアにとって転ばぬ先の杖となる非常に実践的な記事ですね😊 さて、今回はEMになった osso が最近悩んでいることを書いてみたいと思います。 わたし、正直AIがチョットニガテなんですよね。 2025年はAIエージェント元年と言われています。昨年の今頃はまだ Chat に質問して回答を得るという使い方が主流でしたが、現在はAI駆動開発は当たり前で、さらに常に新しく出てくるモデルの特徴やAIエディタ、コーディングエージェント、仕様駆動開発といった新しい手法などにキャッチアップしながら、日々の開発フローをアップデートし続ける必要があります。もはや、AIを&amp;quot;うまく</description>
-    </item>
-    <item>
-      <title>MINISFORUM、MS-S1 MAXを4台連結して“非蒸留”のDeepSeek-R1 671Bを駆動</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2071905.html</link>
-      <pubDate>2025/12/17 11:41</pubDate>
-      <description>米OpenAIは12月16日（現地時間）、画像生成AIの新版「ChatGPT Images 1.5」をリリースしたと発表した。画像生成速度が最大4倍高速化するなどの改善が行われた。 ChatGPT Images 1.5は、OpenAIの新しい主力画像生成モデルによって提供されており、ゼロからの画像作成でも写真編集でも、思い描いた通りの出力を得られることを目指しているという。APIでも提供が開始されている。 強化・改善点は多岐にわたり、特にモデルの指示追従性と編集能力が大幅に向上した。アップロードされた画像に対して編集を依頼する際、ユーザーの意図にこれまで以上に忠実に従い、ライティング、構図、人物の見た目といった要素を一貫して維持しながら、要求された部分のみを正確に変更できるようになったとしている。これにより、より実用的な写真編集や、信憑性の高いバーチャル試着やヘアスタイルシミュレーション、</description>
-    </item>
-    <item>
-      <title>データセンターの電力消費問題を解決？　光の集積回路、NTTが開発：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASTDD3K68TDDUHBI00XM.html</link>
-      <pubDate>2025/12/14 21:50</pubDate>
-      <description>パナソニックホールディングス（HD）が新規事業の育成に苦戦している。人工知能（AI）を活用した消費者向けアプリの提供開始が計画から遅れているほか、2021年から手掛ける家事支援サービスも26年1月に終了する。1万人の人員削減と低収益事業の整理を軸とした構造改革に取り組む一方、将来の成長に向けた種まきに難航している。「Umi（ウミ）については一定の方向付けをしなければいけない状況にある」。パナソ</description>
-    </item>
-    <item>
-      <title>「宇宙際タイヒミュラー理論」の今―数学の検証はどこへ向かうのか｜福岡 浩二</title>
-      <link>https://note.com/kojifukuoka/n/n1aac1f6958d0</link>
-      <pubDate>2025/12/07 10:44</pubDate>
-      <description>NotebookLM のスライドを「編集できる資料」にするーGemini で YAML 化 → Google Slide 生成 はじめに：NotebookLM の「スライド資料」、便利だけどかゆい所に手が届かない NotebookLM の「スライド資料」生成によって作成されるスライドがクオリティ高いと専らの話題のことと思います。 雑なメモや社内ドキュメントから、いい感じの構成を勝手に組んでくれる それなりに見栄えするので、たたき台として強い Google Workspace を契約していれば、社内で共有も安心 個人的に「スライドの構成能力がすごいな」と思うのが、入力が一文でもスライドになるところです。 例えば、 「カレーはシチューより美味しい」 みたいな雑な一文でも、NotebookLM は「主張 → 根拠 → まとめ」みたいな プレゼンの型に寄せてスライドを立ち上げにいきます。 もちろん</description>
     </item>
   </channel>
 </rss>
