@@ -5,6 +5,66 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>表彰式当日に生成AIの利用発覚→賞を剥奪──人気インディーゲーム「Expedition 33」巡り海外アワードで騒動</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/22/news098.html</link>
+      <pubDate>2025/12/23 09:17</pubDate>
+      <description>2025年の良ブコメ*1。 基本的に1つ目のリンクが元記事（増田）、2つ目以降がブコメです。 過去の記事はこちら。 勝手に輝いていた増田ブコメ大賞 2019年上半期 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞 2019年下半期 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2020 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2021 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2022 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2023 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2024 - 誰かの肩の上 一般ネタ 婚活パーティーで「趣味は何ですか？」と聞かれると わかる、私も日本の作家の本はほとんど原書で読んでいる - nomitori のブックマーク 美味しそうな響きのスポーツを知りたい【追記】 カリカリに揚げたクリケットが結局いちばんうまい - Knoa</description>
+    </item>
+    <item>
+      <title>実務で使い倒したので cc-sdd の仕様駆動開発プロセスを丁寧に解説してみた</title>
+      <link>https://zenn.dev/tmasuyama1114/articles/cc_sdd_whole_flow</link>
+      <pubDate>2025/12/23 15:49</pubDate>
+      <description>Microsoft 365 Copilotを全社導入した内田洋行では、利用拡大が進む一方、ユーザー間の利用格差が課題となっていた。社内データ分析と実践から見えた原因を基に、5つの鉄則と具体的解決策を紹介する。 生成AIサービス「Microsoft 365 Copilot」（Copilot）は、使い慣れた業務アプリから自在に呼び出せることから、簡単に使える生成AIとして高い支持を集めている。内田洋行でも約1年半前に導入以降、利用は順調に拡大している。払い出しライセンスは600を超え（さらに「Microsoft 365」ライセンスでのCopilot利用者も550人を超える）で、アクティブ率は約95％。月1回以上の利用者は約500人、月間利用回数はおよそ3万8000回に上る。 一方で、社内でのCopilot活用を推進する太田浩史氏（内田洋行 エンタープライズエンジニアリング事業部）は現状を十分と</description>
+    </item>
+    <item>
+      <title>【特集】 AI巡るメモリ争奪戦――2026年はPC、スマホに“冬”が到来</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2073359.html</link>
+      <pubDate>2025/12/24 06:27</pubDate>
+      <description>※ 2025年7月1日〜12月時点のデータ（GitHub MCPツールにて集計） 弊社チームメンバーが書いた記事によると、Dress Codeでは1年間でリポジトリ規模が合計約130万行に成長し、年間3,900件以上のPRがマージされているそうです。 この圧倒的なスピード感の中で振り落とされず、ついていけるようになったのは大きな成長でした。 やりきったと感じた瞬間 フロントエンドからバックエンドまで一気通貫でプロダクトリリースをやりきった時、ようやく「人並みに成果を出せるようになった」と感じました。 具体的には、2025年10月にリリースした「ネットワーク管理/Networks」のプロダクト開発を担当しました。 今見ると改善したいところがたくさんありますが、リリースまで持っていけたこと、チームのスピードに追いつけたこと、他のメンバーのフォローなく完遂できたことが自信につながりました。 アン</description>
+    </item>
+    <item>
+      <title>評価プロセスを生成AIで （半）自動化する！人事評価 x AIの境界実験 - Insight Edge Tech Blog</title>
+      <link>https://techblog.insightedge.jp/entry/personnel-evaluation-by-ai</link>
+      <pubDate>2025/12/24 09:07</pubDate>
+      <description>ATMがセックス求めてきたらホラーだよ</description>
+    </item>
+    <item>
+      <title>Firefoxを“モダンAIブラウザ”に ―Mozilla新CEOの就任メッセージにブラックボックス化を懸念する声 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/12/daily-linux-251223</link>
+      <pubDate>2025/12/23 18:23</pubDate>
+      <description>QAエンジニア Osuからバトンを受け、「PMがAI x ローコードツールで業務システムを作ってみた」というテーマで執筆しました ✍</description>
+    </item>
+    <item>
+      <title>「実は借金を簡単に返済できる方法があるのに銀行はそのことを知られたくない」という大嘘のAI動画で情報弱者を狙い撃ちにする詐欺が急増</title>
+      <link>https://gigazine.net/news/20251224-debt-settlement-scam/</link>
+      <pubDate>2025/12/24 08:29</pubDate>
+      <description>本記事は、Ubie Tech Advent Calendar 2025 23日目の記事です。 はじめに はじめまして、11月にUbieにSREとして入社したumiyosh(海野嘉和)といいます。40代後半での転職になりますが、変化の激しさや実現しようとしている世界観に毎日ワクワクしながら過ごしています。何歳になっても新しい世界に飛び込むのは楽しいものです。 現在はオンボーディングをうけつつSRE業務をやりつつシステムの全体像を理解しようとしています。 オンボーディングを手厚くやってもらえたというのもあり、システム理解や業務理解は進みましたが、それでもやはり複数のサービスが複雑に絡み合う現代のシステムにおいては、その理解は一筋縄では行かないというのが正直なところです。 一方で今回の転職では、以前なら「ドキュメントを読みまくり」「人に聞きまくり」「実験or業務しまくる」ことで埋めていたギャップ</description>
+    </item>
+    <item>
+      <title>あらゆるアプリにAIテキスト編集を ～「Copilot Actions for Text Editing」が発表／「Copilot Vision」で共有したアプリのテキストに「Copilot」アプリがリライト提案</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2073473.html</link>
+      <pubDate>2025/12/23 13:05</pubDate>
+      <description>本記事は 仮想通貨 Advent Calendar 2025 の24日目の記事です。 はじめに はじめまして、ymdと申します。普段は、株や暗号資産の分析をし、マーケットが盛り上がったときに落ちているお金を拾っています。 今年のAdvent Calendarを眺めていると、DEXの分析やLLMを活用した自動トレード戦略作成など、非常に有益な記事が目白押しです。 これらを見て思い出したのが、ニュートンの「巨人の肩に乗る」という言葉。本記事では、この精神に倣い、AIの力と先人の知見という2つの「肩」を借りながら、お金拾いの方法を探っていきます。 AIの肩に乗る AI駆動開発の3つのアプローチ AIを活用した開発には、大きく3つの方向性があります： 情報収集の自動化：論文や API ドキュメントの要約 戦略生成の自動化：複数のアプローチを並行生成 コーディングの自動化：コードそのものを AI に</description>
+    </item>
+    <item>
+      <title>画像生成＆編集AI「Qwen-Image-Edit-2511」登場、人物やオブジェクトの一貫性が向上＆人気LoRAを内蔵してさらに高品質化</title>
+      <link>https://gigazine.net/news/20251224-qwen-image-edit-2511/</link>
+      <pubDate>2025/12/24 13:21</pubDate>
+      <description>井二かけるの追い解説 「こうしす！」シリーズ新編「ざおでんDX」の第4回。テーマは「クラウド破産」です。 生成AIが急速に普及しているけれど…… この1年で生成AI（人工知能）を用いたコーディングエージェントが急速に普及しています。 当初はおばかなコード補完しかできない、ありがた迷惑な機能だったのに、今ではチャット形式で「○○を作って」というだけで、それなりのものを実装できるようになりました。ダルい作業もお任せで、もはや開発業務に欠かせない存在となりつつあります。そんな中、登場したのが「バイブ（雰囲気）コーディング」という、いわばノリで開発する開発スタイルです。 これまで「アプリを開発しちゃってるオレ♪」のような軽いノリで開発できるノーコード／ローコード開発ツールは多々ありました。バイブコーディングが興味深いのは、必ずしもそうした専門のツールを使う必要がないという点です。 技術者が使用する</description>
+    </item>
+    <item>
+      <title>Macで人気のコマンドランチャー「Raycast」がWindowsに対応、β期間はAI機能がタダ／拡張機能で機能を拡充できる柔軟さが魅力</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2073823.html</link>
+      <pubDate>2025/12/24 14:18</pubDate>
+      <description>アップルはMacユーザーに対し、グーグルのChromeの使用をやめ、代わりに自社ブラウザーのSafariを使うよう警告している。「Chromeとは異なり、Safariは真にプライバシー保護に役立ちます」と同社はいう。Chrome利用者への警告はこれだけではない。マイクロソフトもWindowsユーザーにまったく同じことを言っている。 こうした警告には、明らかにマーケティングの狙いがある。アップルはユーザーにSafariを使い続けてもらいたいし、マイクロソフトはEdgeの控えめな市場シェアを伸ばしたい。だが、Digitainによる新たな報告書がこの話に刺激を加えたようだ。ユーザーのプライバシーという点で、主流ブラウザーの中ではChromeが最悪だと警告している。これより悪いのは、ChatGPT Atlas（2025年12月23日現在、macOS版のみ存在）だけだった。 Windows Repo</description>
+    </item>
+    <item>
+      <title>【アドベントカレンダー2025】Jira のコンテキストを Copilot に読ませようとして MCP サーバーを自作したが「ツールの引力」には勝てなかった話 - ぐるなびをちょっと良くするエンジニアブログ</title>
+      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251224-2/</link>
+      <pubDate>2025/12/24 16:40</pubDate>
+      <description>こんにちは。Elasticsearchテクニカルコンサルタントの江見です。 この記事は、Elastic Stack (Elasticsearch) Advent Calendar 2025の24日目の記事です。 ログの検索、売上データ、ユーザの行動履歴など、業務システムでタイムスタンプの範囲検索はほぼ必須の機能になります。 特に日単位で範囲指定をする場合は、yyyy-MM-ddのように日付のみを指定するのが人間にとっては直感的にわかりやすいと思います。 Elasticsearchで範囲検索を行う場合は、rangeクエリを使用するのが一般的ですが、yyyy-MM-ddの形式のままrangeクエリを使用した場合に 「ヒットするはずのドキュメントが返ってこない」「余分なドキュメントが返ってくる」などのケースが発生しがちです。 今回はyyyy-MM-ddでrangeクエリを使用した場合の挙動につい</description>
+    </item>
+    <item>
       <title>Conductor - Run a team of coding agents on your Mac</title>
       <link>https://www.conductor.build/</link>
       <pubDate>2025/12/20 22:08</pubDate>
@@ -1806,72 +1866,6 @@
       <link>https://gigazine.net/news/20251216-disney-openai-deal-exclusive-one-year/</link>
       <pubDate>2025/12/16 12:00</pubDate>
       <description>この記事を読むべき人 Claude Code をカスタマイズしようとして、こんな経験はありませんか？ 「このルール、CLAUDE.md に書く？Skills に書く？」と手が止まる Commands を作ったのに、結局 Skills との違いがわからない Subagents の存在は知っているけど、いつ使うか判断できない そして最近、Rules という機能まで登場しましたね。「また増えた...これどこに書くの？」 公式ドキュメントを読んでも、概念の使い分けがピンとこない。そんな人のために、RPGゲームで例えてみました。 冒険の始まり - あなたはプレイヤー あなたはモンスターを倒すRPGをプレイしています。 画面の中には主人公のキャラクターがいます。あなたはプレイヤーとして、この主人公に指示を出してゲームを進めます。 Claude Code で言うと： あなた（プレイヤー） = ユーザー</description>
-    </item>
-    <item>
-      <title>OpenAI、2026年1月15日をもって「ChatGPT for macOS」の音声機能を廃止。</title>
-      <link>https://applech2.com/archives/20251216-chatgpt-for-macos-voice-retirement-2026.html</link>
-      <pubDate>2025/12/16 17:44</pubDate>
-      <description>生成AIを使って巧妙な偽の画像や動画などを作る「ディープフェイク」への規制をめぐり、自民党の作業チームは法規制のあり方などの検討を進めたうえで、来月にも政府に提言を行うことを確認しました。 16日…</description>
-    </item>
-    <item>
-      <title>Anthropic、AIエージェント開発における”スキル”重視の新設計思想を提示──「IQ300数学の天才から経験豊富な税務専門家へ」、スキル中心アーキテクチャの全体像を解説 | Ledge.ai</title>
-      <link>https://ledge.ai/articles/anthropic_ai_agents_build_skills_paradigm</link>
-      <pubDate>2025/12/16 15:41</pubDate>
-      <description>はじめに こんちは！製造業で社内SE的なのやってる人です。 最近RAG分野にハマっていますが、Excel文書が厄介者すぎるということに最近気が付きました。ZennでもRAGにおいて、このExcel文書をいかに扱うかの記事は定期的に見かけます。 先人のエンジニアの方々が様々な有効打を提示してくれていますが、私も別のアプローチでこの課題に取り組んでみたので共有します🔥 TL;DR ExcelをCOM + xlwings/openpyxlで構造化する自作ライブラリ「exstruct」。セル値だけでなく図形・グラフ・ハイパーリンク・印刷範囲・罫線由来の表までJSON/YAML/TOON形式で出力。 画像認識なしでフローチャート矢印方向やグラフ軸・系列も抽出でき、RAGで失われがちな情報を補完してLLM復元精度が向上。 デモで表＋折れ線グラフ＋フローチャートをJSON化→Markdown/merm</description>
-    </item>
-    <item>
-      <title>SAM Audio</title>
-      <link>https://ai.meta.com/samaudio/</link>
-      <pubDate>2025/12/17 11:28</pubDate>
-      <description>GPT-5.2登場　知識は2025年8月まで刷新、最高性能の“代償”とは：Deep Insider Brief ― 技術の“今”にひと言コメント OpenAIの最新モデル「GPT-5.2」が登場し、学習データの範囲が「2024年9月まで」から「2025年8月まで」にアップデートされた。最高性能を実現した一方でAPI価格は上昇しているので、筆者の視点から、その背景と現実的な使い分けの考え方を掘り下げる。 連載目次 GitHub CopilotやCursorのモデル選択画面に並ぶ現行モデルについては、これまでこのBrief（概説）連載の中で、できるだけ同じ書き方、同じ粒度で紹介してきた。ここ1カ月ほどは、週に何個も新しい言語モデルが登場する状況が続いており、正直なところ「もう把握し切れない」と感じて、少し疲れを感じている人も少なくないだろう。そんな中で、また新たなモデルが加わった。 そうした状</description>
-    </item>
-    <item>
-      <title>大阪万博の「ヌルヌル」で見せたかった光景は“即今”、落合陽一氏が「パビリオン」を振り返る ～「人間の精神がトランスフォームするようなものを作りたかった」／AIと物理世界が溶け合った境地とは？ 特別講演レポート【AIフェスティバル 2025】【特集・集中企画】</title>
-      <link>https://forest.watch.impress.co.jp/docs/special/2070929.html</link>
-      <pubDate>2025/12/17 09:30</pubDate>
-      <description>はじめに Pydantic はとても便利である。だがこれを過信してドメインモデルの中心に据えると、責務の境界が曖昧になり、設計はたいてい溶ける。戦略なく溶け固まった巨大なコードベースは、ソフトウェアの迅速かつ安全な進化を困難にするだけでなく、LLM-based な AI の推論の安定性も低下させる。 LLM-based な AI エージェントは、構造が論理的に明示されたコード（型・境界・不変条件）ほど扱いやすい傾向がある。型定義には datetime と書いてあるのに、実態はバリデータで文字列を無理やり変換して受け入れるような「嘘」があると、コードだけを読む AI は挙動を正しく予測できない。 Pydantic がカバーしてくれる値検証と変換の責務は、静的型安全性 と Always-Valid なドメイン を志向すればするほど、自然とドメインから剥がれていく。 この話は「Pydantic</description>
-    </item>
-    <item>
-      <title>AI駆動開発ツールは、Cursorで決まりだと思う理由｜たにぐち まこと＠ともすた</title>
-      <link>https://note.com/tomosta/n/n5e808dc06a2e</link>
-      <pubDate>2025/12/17 13:34</pubDate>
-      <description>セキュリティ企業・Koi Securityの研究チームが、「AIプラットフォーム上でやり取りされる会話データを不正に収集するブラウザ拡張」に関する調査データを発表しました。調査では、ChromeとEdgeで取得できる数百万人規模のユーザーを抱えている拡張機能が、ユーザーのAIチャット内容をひそかに傍受して営利目的で販売していることが明らかになりました。 8 Million Users&amp;#39; AI Conversations Sold for Profit by &amp;quot;Privacy&amp;quot; Extensions | Koi Blog https://www.koi.ai/blog/urban-vpn-browser-extension-ai-conversations-data-collection Koi Securityの研究チームは、ブラウザ拡張がAIチャットプラットフォーム上の会話を読み取ること</description>
-    </item>
-    <item>
-      <title>サムスンがDDR5メモリの価格を100％以上引き上げ</title>
-      <link>https://gigazine.net/news/20251217-samsung-ddr5-memory/</link>
-      <pubDate>2025/12/17 17:53</pubDate>
-      <description>NEW! 2025.12.17 働き方 岩瀬義昌EMマネジメントチーム マネジャーになった途端、プレイヤー時代に培ってきた経験や自信が通用しなくなったーーそんな感覚に陥っている人はいないだろうか。 忙しさは増しているのに、成果が出ている実感がない。多くのタスクをこなしているはずなのに、達成感が得られない。その違和感はじわじわと心身を削り、やがて「自分は役に立っていないのでは」という錯覚を引き起こす。 そうなる前に知っておいてほしいのが、エネルギー管理の重要性だ。 タスク管理でも時間管理でもなく、自身の「エネルギー」というリソースの使い方こそが、マネジャーには欠かせないと、書籍『エンジニアリングリーダー 　技術組織を育てるリーダーシップとセルフマネジメント』（オライリー・ジャパン）では語られている。 今回は同書の訳者であり、エンジニアリングマネジャーとして長く現場に立ってきた岩瀬義昌さんに、</description>
-    </item>
-    <item>
-      <title>Anthropic SkillsからAIプロダクト開発者が学べること：Skillsは&amp;quot;業務マニュアル付きの道具箱&amp;quot;</title>
-      <link>https://zenn.dev/r_kaga/articles/810cc2e8326ca5</link>
-      <pubDate>2025/12/17 20:21</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/bb7fa90f0560ce998dc547eb8a0d099197c779ea/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2071%2F962%2Fjule.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Googleマップの「Gemini」新機能を試す--まるで助手席の友人？ 便利さに驚く</title>
-      <link>https://japan.cnet.com/article/35241696/</link>
-      <pubDate>2025/12/16 12:57</pubDate>
-      <description>市場調査企業のCounterpoint Researchが2025年12月16日(火)に公開した報告書の中で、AI需要によるメモリチップ不足が2026年にスマートフォンの販売価格の上昇を引き起こす可能性が高いと指摘しました。 2026 Smartphone Shipment Forecasts Revised Down as Memory Shortage Drives BoM Costs Up https://counterpointresearch.com/en/insights/2026-smartphone-shipment-forecasts-revised-down-as-memory-shortage-drives-bom-costs-up Smartphone prices to rise in 2026 due to AI-fueled chip shortage htt</description>
-    </item>
-    <item>
-      <title>GitHub Copilotにおける Agent / Instructions / Prompt の整理と活用方法</title>
-      <link>https://zenn.dev/thinkingsinc/articles/cd59e1ffc4f842</link>
-      <pubDate>2025/12/17 18:33</pubDate>
-      <description>OpenAIは2025年12月17日に、新しい画像生成モデル「GPT Image 1.5」を搭載した新バージョンの「ChatGPT Images」をリリースしました。この新モデルは、ゼロからの画像生成だけでなく、既存の写真の編集においてもユーザーの意図をより確実に反映できるよう設計されています。 The new ChatGPT Images is here | OpenAI https://openai.com/index/new-chatgpt-images-is-here/ OpenAI’s new flagship image generator AI is here | The Verge https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-</description>
-    </item>
-    <item>
-      <title>Amazon、OpenAIに1兆5000億円投資へ協議　米報道 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN1744S0X11C25A2000000/</link>
-      <pubDate>2025/12/17 16:44</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/094e3f65928edbe227d8b31f3619b4fbece32284/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2072%2F116%2F1217.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
     </item>
   </channel>
 </rss>
