@@ -5,6 +5,75 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>ChatGPT、Gemini、Copilot……使い分けの「最適解」は？　2025年の生成AIを総括</title>
+      <link>https://www.itmedia.co.jp/business/articles/2512/24/news022.html</link>
+      <pubDate>2025/12/24 11:16</pubDate>
+      <description>はじめに こんにちは。楽楽販売の開発を担当しているuemuraです。 楽楽販売では11月に、初のAI機能をリリースしました。 楽楽販売をご契約いただいたお客様が導入準備をスムーズに進められるように支援する、チャット形式の機能となっています。 プレスリリースはこちら。 本機能の開発PJは楽楽販売にとって（また私自身にとっても） 初のAI機能開発、初のアジャイル×スクラム開発 となっており、新しいこと尽くめでした。 AI機能を開発する難しさもさることながら、アジャイル×スクラム開発にもなかなか苦戦したため、その学びを残しておこうと思います。 目次 体制紹介 どのような流れで開発が進んだか フェーズ1：立ち上がり フェーズ2：仮説ドリブンの機能開発 フェーズ3：品質改善とリリース準備 良くなかった点 自転車操業に陥った インクリメントの品質を担保できていなかった 生成AIによるコーディングとの付</description>
+    </item>
+    <item>
+      <title>2025年にデザイナーがVibe Codingで作った、個人制作の記録｜Sakino Tomiura</title>
+      <link>https://note.com/sakinotomiura/n/n4e4edeb2c95f</link>
+      <pubDate>2025/12/23 15:09</pubDate>
+      <description>こんにちは、サイオステクノロジーの遠藤です。 クラウドAPIを使わず、手元のノートPCでLLMを動かしたいと思ったことはありませんか？ 2025年現在、軽量で高性能なモデルが続々と登場し、一般的なノートPCでも実用的なLLMを動かせるようになりました。本記事では、ノートPCで動作する主要なローカルLLMモデルを公式ソースをもとに徹底比較し、導入時の注意点まで解説します。 ローカルLLMとは？なぜ今注目されているのか ローカルLLMとは、クラウドサービスを介さず、自分のPC上で直接動作させる大規模言語モデルのことです。利用することで以下のようなメリットを得ることが出来ます。 プライバシー保護: データが外部サーバーに送信されない オフライン利用: インターネット接続なしで利用可能 コスト削減: API利用料が発生しない カスタマイズ性: ファインチューニングや独自の設定が可能 レイテンシ:</description>
+    </item>
+    <item>
+      <title>【AIで時短・効率化】Gemini × NotebookLMで実現するアンケートの「超・自動化」と「本質的分析」のための手順｜知野たける</title>
+      <link>https://note.com/life_learning/n/ne7931a7b3ae4</link>
+      <pubDate>2025/12/24 05:09</pubDate>
+      <description>2025年12月24日 18:00更新 Galen Hunt氏はLinkedinnに補足を追加しています。Hunt氏によると、彼のプロジェクトはあくまでプログラミング言語間での移行を可能にする先行研究を目的としているとのことで、将来的にWindows 11などにRustが全適用されるわけではないと補足説明をしています。 MicrosoftのWindows 11をはじめとする多くのソフトウェアは、1985年に登場した初代WindowsからCおよびC++言語で開発されています。カーネル部分は主にC言語、GUIコンポーネントはC++で記述されていますが、MicrosoftはこのCおよびC++言語で書かれたプログラムについて、AIを使って2030年までにすべてをRustへ書き換えることを目指しているようです。 MicrosoftがWindows 11含むすべてのプログラムからCとC++言語を廃止を</description>
+    </item>
+    <item>
+      <title>Xに画像の“AI加工機能”出現　他人のポストでも、1クリックで画像編集　「最悪なシステム」と物議に（ITmedia NEWS） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/e7ba0c51c92ed8ee55f40b8013e89a81d5c6a137</link>
+      <pubDate>2025/12/25 07:51</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/011903a5b72fff54b1341c11420a894f0a1c6ab7/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2074%2F241%2Fyajiuma-watch_1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>NotebookLMのスライド作成機能の斬新な使い方｜IT navi</title>
+      <link>https://note.com/it_navi/n/na61970ca1b7e</link>
+      <pubDate>2025/12/25 09:57</pubDate>
+      <description>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク年間ランキング」の2025年版を発表します。上位トップ100の記事をピックアップしました（集計期間：2024年12月11日～2025年12月10日）。 順位 タイトル 1位 【保存版】親が亡くなったらやること全52項目を解説！一覧チェックシート付き - リハコ 2位 はてなブックマーク20周年 3位 日本で一番わかりやすくてためになる小さな飲食店の始め方 ３００万円でお店をやろう｜林伸次 4位 声明文 - 脳外科医 竹田くん 5位 中小企業のための「生成AI」活用入門ガイド 6位 （内閣総理大臣所感）戦後 80 年に寄せて - 先の大戦の終結から、80 年が経ちました。 この 80 年間、我が国は一貫して、平和国家として歩み、世界の平和と繁栄に力を尽くしてまいりました── 7位 両親の入院と介護と看取りと相続につ</description>
+    </item>
+    <item>
+      <title>ToGの発想のもとに。AI時代に20周年の食べログが指し示す未来 - Tabelog Tech Blog</title>
+      <link>https://tech-blog.tabelog.com/entry/advent-calendar-20251225</link>
+      <pubDate>2025/12/25 09:32</pubDate>
+      <description>皆さんこんにちは。 Acroquest のデータサイエンスチーム「AcroYAMALEX」を率いるチームリーダー、@tereka114です。 AcroYAMALEX では、コンペティション参加・自社製品開発・技術研究に日々取り組んでいます。チーム紹介はこちら。 本記事は、「学習推論ライブラリ・フレームワーク Advent Calendar 2025」の25日目です。 qiita.com LLMは相変わらず新しいモデルが登場し世間を賑わせています。 しかし、モデル自体が重く、計算時間がかかります。そのため、LLMの推論では計算速度が重要となります。 「vLLM」では、LLMを効率的に推論する技術を用いて、推論の高速化を実現してきました。 ※以前、本ブログでも次の記事で「vLLM」による高速化について紹介しました。 acro-engineer.hatenablog.com 今回は「vLLM」と</description>
+    </item>
+    <item>
+      <title>Xに投稿した画像、誰でも“AI編集”簡単に　イラストレーターのX離れが進んでいるとの報告</title>
+      <link>https://ascii.jp/elem/000/004/362/4362903/</link>
+      <pubDate>2025/12/25 14:24</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/55362fda3d138dd6e1dcecef2ab26d5c13909859/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2074%2F365%2F01.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>デザイナーは生成AIとどう付き合えばいい？わたしなりの考えとリアルな活用例｜spicagraph</title>
+      <link>https://note.com/spicagraph/n/nff6b66491219</link>
+      <pubDate>2025/12/25 13:23</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9feadc7c576aa014138aa0c9d6408a239175be25/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2074%2F427%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>”AIで人間による人事評価の限界を超える” 生成AIに評価の基盤を任せ、人が事業成長に専念できる人事評価システムを開発</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000194.000048083.html</link>
+      <pubDate>2025/12/25 16:19</pubDate>
+      <description>生成AIの発達により、テキストプロンプトを入力するだけで誰でも簡単に画像を生成できるようになりました。一見すると、画像生成AIは多様で自由な表現を生み出せるように思えますが、スウェーデンの研究者らが発表した研究では、AI同士による自律的な生成を繰り返すと最初は多様に見えた画像が最終的にわずか「12種類のスタイル」へと収束してしまう可能性が示されています。 Autonomous language-image generation loops converge to generic visual motifs: Patterns https://www.cell.com/patterns/fulltext/S2666-3899(25)00299-5 AI Image Generators Default to the Same 12 Photo Styles, Study Finds http</description>
+    </item>
+    <item>
+      <title>開発者体験の指標を定量化したCost to Serve Software（CTS-SW）の紹介 - Qiita</title>
+      <link>https://qiita.com/takuma_yoshida/items/b7238c7cab5e1293ef21</link>
+      <pubDate>2025/12/25 19:52</pubDate>
+      <description>Hidekazu Konishi Hidekazu Konishi (小西秀和) is a prominent Japanese cloud architect and AWS expert, renowned as the six-time consecutive recipient from 2020 to 2025 of both the Japan AWS Top Engineer and Japan All AWS Certifications Engineer awards, earning him special recognition at AWS Summit Japan 2025 for his sustained technical excellence and contributions to Amazon Web Services (AWS) in Japan.[</description>
+    </item>
+    <item>
       <title>マイクロソフトの新しい日本語入力ソフト「Copilot Keyboard」はキュートで賢い／ベータ版として提供中【レビュー】</title>
       <link>https://forest.watch.impress.co.jp/docs/review/2073660.html</link>
       <pubDate>2025/12/25 08:39</pubDate>
@@ -1808,69 +1877,6 @@
       <link>https://www.nikkei.com/article/DGKKZO93316370Z11C25A2PD0000/</link>
       <pubDate>2025/12/19 08:12</pubDate>
       <description>そもそも開発工程において、多くの組織ではコーディング時間がボトルネックになったことはこれまでも実はありませんでした。コードを書くことよりも、要件定義、仕様把握、設計、実装により発見した課題への対処、レビュー等といったことに時間がかかっていました。 コーディングエージェントの登場によってボトルネックが取り除かれたように思いがちだが、そもそもコーディングがボトルネックだったことはない / “Writing Code Was Never The Bottleneck” https://t.co/avmbSq8cw4 — Takuto Wada (@t_wada) September 6, 2025 ■AIのインパクトが大きいのはコード以外の仕事Atlassianの2025 State of DevEx Survey（開発者体験調査） で、下記の内容が出ています。 開発者は16%しかコーディングし</description>
-    </item>
-    <item>
-      <title>GPT-5ローンチ失敗、 企業95%が成果出せず … 転換期を迎えたAIブーム</title>
-      <link>https://www.technologyreview.jp/s/374024/the-great-ai-hype-correction-of-2025/</link>
-      <pubDate>2025/12/19 09:47</pubDate>
-      <description>TOPインタビュー「AIと協働して書いた35万字の書籍」が示す未来とは。広木大地氏が考える“AI時代のエンジニアの生存戦略” 一般社団法人 日本CTO協会 理事 / 株式会社レクター 代表 広木 大地 2008年に株式会社ミクシィに入社。同社メディア開発部長、開発部部長、サービス本部長執行役員を務めた後、2015年退社。株式会社レクターを創業。技術経営アドバイザリー。著書『エンジニアリング組織論への招待』がブクログ・ビジネス書大賞、翔泳社技術書大賞受賞。一般社団法人日本CTO協会理事。朝日新聞社社外CTO。 AIの発展によって、エンジニアリングやソフトウェアのあり方はどのように変わっていくのか――2025年11月に刊行された『AIエージェント 人類と協働する機械』（リックテレコム社）は、その問いに正面から向き合った一冊。著者は『エンジニアリング組織論への招待』（技術評論社）を手掛けた広木大</description>
-    </item>
-    <item>
-      <title>【アドベントカレンダー2025】「cdk diffが長すぎる」問題をGitHub Modelsで攻略する！変更内容を自動要約するCI/CD構築 - ぐるなびをちょっと良くするエンジニアブログ</title>
-      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251219-1/</link>
-      <pubDate>2025/12/19 12:04</pubDate>
-      <description>こんにちは、Insight Edge アジャイル開発チームのk-kazukiです。 Insight Edge アドベントカレンダー、Insight Edge Advent Calendar 2025 の19日目です！ 今回の記事では、近年増加しているSNSの誹謗中傷の課題について、生成AIを利用して対策できないかをClaude Codeを用いて検証してみました。 本記事には検証用の架空の誹謗中傷サンプルが含まれます（実在の人物とは無関係です）。 不快な表現が含まれるためご注意ください。過激な部分は伏せ字（⚪︎⚪︎）または「&amp;lt;生命を脅かす表現&amp;gt;」と表記しています。 1. SNSにおける誹謗中傷の課題について 2. Claude Codeを活用した誹謗中傷検知システムの構築 2.1 対象とするSNSについて 2.2 Claude Codeサブエージェントによる役割分担と実装 ユーザー体験シミュ</description>
-    </item>
-    <item>
-      <title>Claude Code で要件定義をしながら社内システムを作ってみた</title>
-      <link>https://zenn.dev/mixi/articles/8901f322d942eb</link>
-      <pubDate>2025/12/16 10:52</pubDate>
-      <description>生成AIの活用フェーズは、単なる対話から、自律的にタスクを遂行する「AIエージェント」へと進化している。今、多くの企業が実装を目指すこの技術は、本当にビジネスの現場で「戦力」となるのか。Sakana AIでリサーチサイエンティストを務める秋葉拓哉氏に、AIエージェント活用の鍵となる技術トレンドと、人間が果たすべき役割について聞いた。</description>
-    </item>
-    <item>
-      <title>NVIDIAがジョブスケジューラー「Slurm」の開発企業を買収、AIやHPCのエコシステム強化へ</title>
-      <link>https://gigazine.net/news/20251216-nvidia-acquire-schedmd-slurm/</link>
-      <pubDate>2025/12/16 20:24</pubDate>
-      <description>リンク コトバンク 言語道断(ゴンゴドウダン)とは？ 意味や使い方 - コトバンク デジタル大辞泉 - 言語道断の用語解説 - ［名・形動］１ 仏語。奥深い真理は言葉で表現できないこと。２ 言葉で言い表せないほどひどいこと。とんでもないこと。また、そのさま。もってのほか。「人のものを盗むとは言語道断だ」「言語道断な（の）行い」３ 言葉で言いようもないほど... 5 リンク コトバンク 一刀両断(イットウリョウダン)とは？ 意味や使い方 - コトバンク デジタル大辞泉 - 一刀両断の用語解説 - １ ひと太刀で、まっぷたつに断ち切ること。２ すみやかに、はっきりとした処置をとること。「一刀両断の裁きを下す」[類語]（1）切る・切り付ける・切り捨てる・切りまくる・切り倒す・叩き切る・ぶった切る・なで切り・試し切り・袈裟懸け／... 1</description>
-    </item>
-    <item>
-      <title>マルチレポ vs モノレポ - Qiita</title>
-      <link>https://qiita.com/Ayumu_Usu/items/5a1f19de8f49578f9400</link>
-      <pubDate>2025/12/17 08:50</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ebf0104550f34e74e4918ce8f18bf0aa616f6822/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2070%2F929%2F02.JPG');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>「忙しいのに手応えがない」マネジャーに知ってほしい、エネルギー管理の重要性【岩瀬義昌】 - エンジニアtype | 転職type</title>
-      <link>https://type.jp/et/feature/29929/</link>
-      <pubDate>2025/12/17 18:10</pubDate>
-      <description>2025年は、間違いなく「AI駆動開発元年」と言える年になったと言えます。Visual Studio Codeに、GitHub Copilotが標準搭載され、CursorやWindsurf、KiroやTraeなどのVSCode派生エディタが登場、そしてClaude Codeや、Open AI Codexなどのコマンドラインによる開発ツールの登場に、年後半はAntigravityの登場や、CursorのUIの大幅変更などなど、とにかく話題に事欠かない1年でした。 筆者も、最初はJetbrain社のPhpStormを使っていましたが、さすがにVSCode系に移らねばと言うことで、VSCodeやCursor等を一通り触り、Claude Codeに移ってみたり、Jetbrainに戻ってみたり等、あれこれ試行錯誤していましたが、最終的にCursorに落ち着きました。 ここでは、Cursorに戻った理</description>
-    </item>
-    <item>
-      <title>「黄色いサイト」から「AIネイティブ」へ。新卒15年目が見た、食べログデザイン変遷記 - Tabelog Tech Blog</title>
-      <link>https://tech-blog.tabelog.com/entry/advent-calendar-20251217</link>
-      <pubDate>2025/12/17 18:23</pubDate>
-      <description>DIAMOND社から毎月刊行される雑誌「DIAMOND ハーバード・ビジネス・レビュー（日本語版）」を定期購読している。略してDHBRである。 ビジネス雑誌を定期購読している、というと「意識が高い」感じがしますね……自分でもそう思う。 『Harvard Business Review』とは 『Harvard Business Review』（HBR）は1922年、ハーバード大学の経営大学院「ハーバード・ビジネス・スクール」の教育理念に基づき創刊されたマネジメント誌です。英語版以外に、日本、中国、台湾、韓国、ドイツ、イタリア、フランスなど9の言語で翻訳されており、世界中のビジネスリーダーやプロフェッショナルに愛読されています。 DIAMOND ハーバード・ビジネス・レビュー｜DIAMOND ハーバード・ビジネス・レビュー 定期購読を開始したのは2018年なので、もう7年以上になる。きっかけは</description>
-    </item>
-    <item>
-      <title>【Hothotレビュー】 モニター内蔵ミニPCってどう使うの？AOOSTAR「G-FLIP AI370」を試す</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/hothot/2071665.html</link>
-      <pubDate>2025/12/18 09:11</pubDate>
-      <description>はじめにこんにちは、わたヤク（@ai_biostat）です。 抄読会のスライド作りって、正直ラクしたいですよね。 構成を考え、図表を切り出し、整列して、文字量を調整して…気づけば“PowerPoint職人”になっている。 でも本当に時間を使うべきなのは、そこではなくて、読み込みと議論の準備のほうです。 どうにか抄読会スライドの作成を効率化できないかな…と試行錯誤していたところ、最近起きた3つの技術的進歩により大きなブレイクスルーが起こりました。 NotebookLMのスライドに手元の画像をそのまま反映できる PDFスライドから瞬時に画像ファイルに変換するツールの登場 ChatGPTで画像ファイルから編集可能なPowerPointに変換できる これらの技術を組み合わせることでNotebookLMに入れたソースから編集可能なPowerPointスライドを作ることができます。 完成するスライドは</description>
-    </item>
-    <item>
-      <title>AI広告炎上でも止められない　コカ・コーラやGUESS、コスト削減優先 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOGN11DE70R11C25A2000000/</link>
-      <pubDate>2025/12/18 07:08</pubDate>
-      <description>こんにちは！アイレット広報の羽鳥です。 今回は、アイレットの事業推進本部 パートナーアライアンスグループで NotebookLM を活用して契約書検索業務を効率化した事例をご紹介します。 話を聞いたのは、2024年に新卒として入社した葭葉 杏奈。 実際に NotebookLM の導入を推進し、活用している本人から、具体的な効果や運用のコツを教えてもらいました。 事業推進本部 パートナーアライアンスグループ 葭葉 杏奈 間接部門での NotebookLM 活用法について詳しく解説していきます！ パートナーアライアンスグループの業務まず、パートナーアライアンスグループがどんな業務をしているのかを紹介します。 アイレットは、“クラウド特化型のシステムインテグレーター”として、AWS や Google Cloud、Oracle などのクラウドベンダーからパートナー認定を受けています。 こうしたパー</description>
-    </item>
-    <item>
-      <title>国会答弁作成に専用AI「源内」、全職員に配布へ　ブラック霞が関対策 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA184V70Y5A211C2000000/</link>
-      <pubDate>2025/12/18 18:19</pubDate>
-      <description>本記事では、オウンドメディアのメリットについて解説しています。 クリック単価の高騰やCPAの悪化など、Web広告の成果が頭打ちとなり、次の一手としてオウンドメディアを検討される方は多いです。 しかし、いざ社内で検討を始めると、「本当に成果が出るのか？」「いつ黒字化するのか？」「AI時代にわざわざ記事を書く意味があるのか？」といった、経営層からの鋭い問いに直面することになります。 ここでは、多くの企業のメディア運用を支援してきた知見をもとに、経営・実務視点での具体的な「オウンドメディアを運営するメリット」について徹底解説します。 貴社のメディア立ち上げや運営に、お役立ていただけましたら幸いです。 この記事で分かること 経営・実務視点で見たオウンドメディアの「13のメリット」 「広告（フロー型）」と「メディア（ストック型）」の決定的な費用対効果の違い 生成AI時代に「勝つメディア」と「負けるメ</description>
     </item>
   </channel>
 </rss>
