@@ -5,6 +5,30 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>マイクロソフトの新しい日本語入力ソフト「Copilot Keyboard」はキュートで賢い／ベータ版として提供中【レビュー】</title>
+      <link>https://forest.watch.impress.co.jp/docs/review/2073660.html</link>
+      <pubDate>2025/12/25 08:39</pubDate>
+      <description>本記事では2025年に特に注目を集めた、5つのAI駆動開発ツールの導入背景や活用事例を、Findy Toolsにお寄せ頂いた69社・82件のレビュー記事を元にまとめました。気になった事例については、各レビュー記事で詳細をご覧いただけます。ツール選定や更なる活用のアイディアとしてご参照いただければ幸いです。 ※ 各ツールの導入企業の声は、Findy Toolsにレビューが投稿された時点の情報になります。予めご了承ください GitHub CopilotGitHub Copilotは、GitHub上のリポジトリ全体を学習したコンテキストに基づき、インラインでのコード補完やチャット回答を行う事が特徴です。2025年のアップデートでは「自動モデル選択（Auto model selection）」機能が導入され、タスクの難易度に応じて最適なモデルが自動で割り当てられます。 VS Code、Visual</description>
+    </item>
+    <item>
+      <title>LLMサービングライブラリの LMDeploy と vLLM を比較した - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2025/12/25/120000_1</link>
+      <pubDate>2025/12/25 13:48</pubDate>
+      <description>11月20日、GoogleのNotebookLMにスライド作成機能が追加されました。収集した情報を美しいスライドに変換できるこの機能は、その利便性の高さから大きな注目を集めています。論文PDFやYouTube動画のスライド化はもちろんですが、実はまだ知られていない「裏技」的な使い道も存在します。 本記事では、NotebookLMのポテンシャルを最大限に引き出す、斬新な活用術を解説します。 １．ソース無しでもスライド作成実は、ほとんどソース無しでも、Geminiが最初から持っている知識を生かしてスライドを作成することができます。 (1) 「生成AI」をテーマとしたスライドの作成まず、NotebookLMにアクセスして、「ノートブックを新規作成」をクリックします。すると、以下のような画面が表示されます。 ここで、「コピーしたテキスト」を選択し、「生成AI」とだけ入力して挿入をクリックします。</description>
+    </item>
+    <item>
+      <title>新しい日本語IME「Copilot Keyboard」。「生成系AI」や「蛙化現象」など最新語彙に対応</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2074365.html</link>
+      <pubDate>2025/12/25 13:29</pubDate>
+      <description>『GTA』“東京”を舞台とするゲームが「ほぼ実現しかけていた」。日本のスタジオが『GTA: Tokyo』を制作予定だったと元ロックスター開発者が明かす。リオデジャネイロ、モスクワ、イスタンブールを舞台にしたアイデアもあったという X社は12月24日時点で、投稿された画像をAI編集するボタンを追加した。Web版やアプリの「X」で投稿された画像の右下に「画像を編集」というボタンが出現している。 本ボタンをクリックするとテキスト画面が出現する。そこからプロンプトを入力することで、AIが指示通りに画像を加工し、すぐに出力する機能となっている。現在、このボタンの追加によって他者の投稿もAI編集が容易になったことで、Xユーザーの間で懸念が広がっている。 画像の右下に「画像を編集」ボタンが追加されている編集部にて実際に確認したところ、ポスト内の画像を選択してテキスト指示を送るだけで、数秒のうちに文字色の</description>
+    </item>
+    <item>
+      <title>画像生成AIと画像認識AIの生成ループを実行すると最終的にどんな指示でも「12種類のスタイル」に収束してしまうことが判明</title>
+      <link>https://gigazine.net/news/20251225-ai-image-generators/</link>
+      <pubDate>2025/12/25 17:02</pubDate>
+      <description>sponsored ASRock「B850 Challenger WiFi ドスパラ限定モデル」はWi-Fi 7＆PCIe5.0対応でコスパ抜群！ 2.5Gbps有線LANも搭載し最上位CPUも安心 sponsored Backlogの「課題一覧」「ガントチャート」「ボード」を使って業務負荷を平準化しよう 「人手が足りない」は本当？ チーム内でのタスク分担をうまくやる方法 sponsored 「TOKYO Gaming-PC STREET 6」よりパソコンショップSEVENの展示／ステージの模様をレポート！ 「選び方のコツは、ない」 パソコンショップSEVENが語るBTO PCのケース選び方 sponsored Apple Watchユーザーの決定版！ベルキンの3-in-1モバイルバッテリー「BoostCharge Pro 10K」レビュー sponsored “業務用音響機器”と“ネット</description>
+    </item>
+    <item>
       <title>AIエージェント開発の神セッションが集結した「AI Builders Day」　最高のキーノートで幕を開ける (1/2)</title>
       <link>https://ascii.jp/elem/000/004/361/4361727/</link>
       <pubDate>2025/12/22 10:22</pubDate>
@@ -1847,33 +1871,6 @@
       <link>https://www.nikkei.com/article/DGXZQOUA184V70Y5A211C2000000/</link>
       <pubDate>2025/12/18 18:19</pubDate>
       <description>本記事では、オウンドメディアのメリットについて解説しています。 クリック単価の高騰やCPAの悪化など、Web広告の成果が頭打ちとなり、次の一手としてオウンドメディアを検討される方は多いです。 しかし、いざ社内で検討を始めると、「本当に成果が出るのか？」「いつ黒字化するのか？」「AI時代にわざわざ記事を書く意味があるのか？」といった、経営層からの鋭い問いに直面することになります。 ここでは、多くの企業のメディア運用を支援してきた知見をもとに、経営・実務視点での具体的な「オウンドメディアを運営するメリット」について徹底解説します。 貴社のメディア立ち上げや運営に、お役立ていただけましたら幸いです。 この記事で分かること 経営・実務視点で見たオウンドメディアの「13のメリット」 「広告（フロー型）」と「メディア（ストック型）」の決定的な費用対効果の違い 生成AI時代に「勝つメディア」と「負けるメ</description>
-    </item>
-    <item>
-      <title>動かして理解する。AI駆動型マルウェアとは ― デモ用PoCによる挙動検証 ― - NTT docomo Business Engineers&amp;#39; Blog</title>
-      <link>https://engineers.ntt.com/entry/202512-advent-calendar-day18/entry</link>
-      <pubDate>2025/12/18 17:47</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b8cba082d77faa96da98a75a4dda145705f63063/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2071%2F380%2F001.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>これまで読んだあらすじや登場人物をAIに質問できるKindleの新機能に賛否【やじうまWatch】</title>
-      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2072339.html</link>
-      <pubDate>2025/12/18 15:15</pubDate>
-      <description>義務教育以降では学習内容も高度になり、学生たちは当然苦労する。その苦労をAIを使って何とか…と考えるのは当然であろう。実際学生たちはどのようにAIを使い、またそのことに関してどのような意識でいるのか。 そうしたことを調査・研究したのが、仙台大学AI教育研究チームである。今年10月、「学生と教員を対象とした生成AIの教育利用状況と意識に関する全国調査 2024年－2025年比較調査」という報告書が公開された。 2024年と25年の調査であり、まだ1年間しか違いがないが、AIの発展スピードに対して利用者の意識がついていけるのかという点でも興味深い調査である。今回はこの調査をもとに、特に差分が大きい部分にフォーカスしながら、AIと高度な教育の関係はどうあるべきなのかを考えてみたい。 AI利用と依存への不安 この調査の対象となっているのは、15歳（高校生相当）以上の学生と、小中高校、専修学校、専門</description>
-    </item>
-    <item>
-      <title>「良い投稿をすればバズる」という時代は、ひっそりと終わっていた。</title>
-      <link>https://blog.tinect.jp/?p=90567</link>
-      <pubDate>2025/12/18 07:38</pubDate>
-      <description>A cross-industry study on recent trends in AI software development.</description>
-    </item>
-    <item>
-      <title>Cloudflareのレポートで「日本ではChatGPTが人気」「日本のトラフィックの57％がiOS端末」「全世界のトラフィックは2025年に19％増加」などインターネットのさまざまな統計が明らかに</title>
-      <link>https://gigazine.net/news/20251218-cloudflare-radar-2025-year-in-review/</link>
-      <pubDate>2025/12/18 16:04</pubDate>
-      <description>AI has transformed how we write code. The next transformation is how we run it. At Vercel, we’re building self-driving infrastructure that autonomously manages production operations, improves application code using real-world insights, and learns from the unpredictable nature of production itself. Our vision is a world where developers express intent, not infrastructure. Where ops teams set princi</description>
     </item>
   </channel>
 </rss>
