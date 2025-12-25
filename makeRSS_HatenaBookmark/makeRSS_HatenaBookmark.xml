@@ -5,6 +5,99 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>M365 Copilot、社内95％が使っても利用格差はなぜ起きる？　やって分かった定着の鉄則</title>
+      <link>https://kn.itmedia.co.jp/kn/articles/2512/23/news044.html</link>
+      <pubDate>2025/12/23 11:18</pubDate>
+      <description>ツールが進化するにつれ、より大きな単位で設計を考えられるようになりました。以下、各時代の詳細を紹介します。 GitHub Copilot Tab 補完時代 開発初期は GitHub Copilot の Tab 補完を主に使っていました。使い始めた当初は、今ほど一度に多くのコードが補完されず、精度も高くなかった記憶があります。 このときに気にしていたことは、関数単位でのプログラム設計です。適切な粒度と責務を意識し、適切な命名をすることを心がけていました。 あまりにも大きな役割の関数を作ろうとすると、意図しない機能が実装されてしまったり、関数内部で既存の実装と同様のコードが重複して生成されることが多発しました。 命名に関しては、内部実装まで透ける命名が重要です。例えば、ミリ秒単位で処理する関数を作ってもらいたいときは delayMs のように、命名に Ms をつけます。これは書籍「リーダブルコ</description>
+    </item>
+    <item>
+      <title>AIで得た情報｢自ら確認｣は10代で7割　60代は5割、電通調べ - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC19CNH0Z11C25A2000000/</link>
+      <pubDate>2025/12/23 09:10</pubDate>
+      <description>AIの進化によって、一からプログラムを入力しなくても自然言語でAIに指示してコーディングを行う「バイブコーディング」が可能になりました。OpenAIのGPT-5.2-Codex、AnthropicのClaude Code、GoogleのGemini CLI、Mistral AIのMistral Vibe CLIという4つのコーディングエージェントに地雷探しゲーム「マインスイーパー」を開発させた結果を、テクノロジー系メディアのArs Technicaが公開しています。 We asked four AI coding agents to rebuild Minesweeper—the results were explosive - Ars Technica https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-</description>
+    </item>
+    <item>
+      <title>チャットで経費精算？　それ、たぶん地獄だ――ラクスCAIOが語る&amp;quot;AIエージェント万能論&amp;quot;への違和感</title>
+      <link>https://www.itmedia.co.jp/business/articles/2512/23/news048.html</link>
+      <pubDate>2025/12/23 14:17</pubDate>
+      <description>日本新聞協会は23日、政府が2026年夏に「知的財産推進計画2026」をまとめるのに向け内閣府に提出した意見を公表した。生成AI（人工知能）による記事の無断収集について、ニュースサイトによる拒否表示の尊重を法的義務にするよう求めた。利用者が質問すると、生成AIがインターネット上の様々な引用元から情報を探し出し、組み合わせて回答する「検索拡張生成（RAG）」が急速に普及している。RAGはニュース</description>
+    </item>
+    <item>
+      <title>生成AIとオブザーバビリティ基盤をつないで事象分析を加速しよう</title>
+      <link>https://zenn.dev/ubie_dev/articles/1e983361cb053b</link>
+      <pubDate>2025/12/23 23:36</pubDate>
+      <description>Linux Daily Topics Firefoxを“モダンAIブラウザ”に ―Mozilla新CEOの就任メッセージにブラックボックス化を懸念する声 Chromeなど最近のモダンブラウザはAI機能がデフォルトでオンになっており、クエリを入力するたびに「AIによる概要」が最初に示されることが多い。しかし機能面に加え、プライバシーや信頼性の観点から「ブラウザにAI機能は不要」と思っているユーザも少なくなく、そうしたユーザにとってFirefoxは貴重な存在であるといえる。また、ソースコードも開発プロセスもオープンに公開されているFirefoxは、Linuxユーザにとっても日々の活動を支えるためのもっとも重要なソフトウェアコンポーネントだといっていい。そのFirefoxが現在、Mozillaの新CEO就任に伴って“⁠モダンAIブラウザ⁠”への方針変更が示されたことから、多くのユーザの間で不安と</description>
+    </item>
+    <item>
+      <title>散らばる情報を一元化！『Obsidian×AI 自分だけの知識のデータベースをつくる情報収集・活用テクニック』、発売</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000080.000016440.html</link>
+      <pubDate>2025/12/24 02:53</pubDate>
+      <description>こんにちは、「チームまじん」のやまじん です。 グループカレンダーでは多くのスキをいただき、ありがとうございます。 前回のやまじん記事はコチラ👇️ 今回は 「やまじん自身が業務効率化のために作って、愛用しているプロンプト」 を、こっそり共有させていただこうと思います。 これは Gemini 3 Pro（最新モデル） が来たからこそ実現できた、待望のプロンプトです。 なぜこのプロンプトを作ったのか？私は普段、仕事でデータ分析を行う機会が非常に多いのですが、これまでずっと「帯に短し襷に長し」な状況にモヤモヤしていました。 Excel・スプレッドシートを中心に、Looker Studioやその他BIツールを使ったり、データが読み込めそうであればGeminiにまとめてもらったりしていますが、それぞれ一長一短で以下のような不満がありました。 🛑 既存ツール（Excel/BI等）の 悩み 自分で分</description>
+    </item>
+    <item>
+      <title>Pythonを書くなら、Ruffのルールページは最高の教材だと思う（AI時代の学び方）</title>
+      <link>https://zenn.dev/layerx/articles/28498105e81a4f</link>
+      <pubDate>2025/12/24 07:12</pubDate>
+      <description>20年以上断続的にこのブログを書き継いできたインフラコモンズ代表の今泉大輔です。NVIDIAのフィジカルAIの世界が日本の上場企業多数に時価総額増大の事業機会を1つだけではなく複数与えることを確信してこの名前にしました。ネタは無限にあります。何卒よろしくお願い申し上げます。 日本でジョン・キンダーバーグの【ゼロトラスト思想】に基づくゼロトラストアーキテクチャを本格的に導入しようとすると、手がけたSIerの絶対数が圧倒的に少ないため、消去法的にインドのAWAインテグレーター最大手（彼らは国際的な最大手です）であり、Amazon AWSからも公式に最大手AWSインテグレーターとして認められているTSC、Infosys、WiproなどのAWSに頭抜けて強いプレイヤーに依頼しないと、まず導入が進みません。色んな調査をかけてわかった事実です。 AWSが公式に配布している以下のようなゼロトラストアーキ</description>
+    </item>
+    <item>
+      <title>『【特集】 AI巡るメモリ争奪戦――2026年はPC、スマホに“冬”が到来』へのコメント</title>
+      <link>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/topic/feature/2073359.html</link>
+      <pubDate>2025/12/24 16:50</pubDate>
+      <description>AI企業のMiniMaxがマルチモーダルモデル「MiniMax M2.1」を発表しました。「エージェント時代の最強オープンソースモデル」をうたっており、一部のベンチマークではGemini 3 ProやClaude 4.5 Sonnetを上回るスコアを記録しています。 MiniMax M2.1: Significantly Enhanced Multi-Language Programming, Built for Real-World Complex Tasks - MiniMax News https://www.minimax.io/news/minimax-m21 MiniMax M2.1 is officially live🚀 Built for real-world coding and AI-native organizations — from vibe builds to</description>
+    </item>
+    <item>
+      <title>Xに画像をAI編集するボタンが実装　他人の画像も簡単に加工できてしまう</title>
+      <link>https://kai-you.net/article/94220</link>
+      <pubDate>2025/12/24 19:10</pubDate>
+      <description>こんにちは、カカクコムCTOの京和です。 この記事は 食べログアドベントカレンダー2025 の24日目の記事です🎅🎄 2025年、食べログはサービス開始から20周年を迎えました。本記事では食べログのサービス黎明期を当時の私の視点で振り返りつつ、20周年を経て、AI時代のこれからについて書きたいと思います。 食べログ黎明期の振り返り 食べログは今から20年前、2005年3月にサービスを開始しました。 当初は現在のような検索・予約サイトではなく、「レストランの口コミサイト」としてスタートしました。 時代を感じる当時の食べログトップページ そして2025年、食べログは日本の誰もが知る日本最大級のグルメサイトへと成長し、20周年を迎えることができました。20周年を記念したムービーが公開されていますので、既に見たことがある人も、まだ見たことがない人もぜひご覧ください。 私は2007年から2012</description>
+    </item>
+    <item>
+      <title>[追記] MicrosoftがWindows 11含むコード類からC/C++を全廃。2030年までにAIでRustへ書き換え - ギャズログ | GAZ:Log</title>
+      <link>https://gazlog.com/entry/microsoft-c-language-to-rust-by-ai/</link>
+      <pubDate>2025/12/24 13:07</pubDate>
+      <description>こんにちは、サイオステクノロジーの遠藤です。 クラウドAPIを使わず、手元のノートPCでLLMを動かしたいと思ったことはありませんか？ 2025年現在、軽量で高性能なモデルが続々と登場し、一般的なノートPCでも実用的なLLMを動かせるようになりました。本記事では、ノートPCで動作する主要なローカルLLMモデルを公式ソースをもとに徹底比較し、導入時の注意点まで解説します。 ローカルLLMとは？なぜ今注目されているのか ローカルLLMとは、クラウドサービスを介さず、自分のPC上で直接動作させる大規模言語モデルのことです。利用することで以下のようなメリットを得ることが出来ます。 プライバシー保護: データが外部サーバーに送信されない オフライン利用: インターネット接続なしで利用可能 コスト削減: API利用料が発生しない カスタマイズ性: ファインチューニングや独自の設定が可能 レイテンシ:</description>
+    </item>
+    <item>
+      <title>【特集】 「年末年始にPCは買える？」主要BTOを緊急調査、受注停止や納期2月など異変も</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2074073.html</link>
+      <pubDate>2025/12/24 20:04</pubDate>
+      <description>米Googleは12月23日（現地時間）、個人向けサブスクリプション「Google AI Pro」の新規ユーザー向けキャンペーンを開始した。通常は3万4800円の年額料金を期間限定で割り引き、1万4500円（月額換算で2900円→1408円）で提供する。期限は明らかにしていない。 Google AI Proは、同社のAI機能を利用できるプランの一つ。例えばチャットAIツール「Gemini」で、無料版では使えない高性能なAIモデルが利用できる他、GoogleドキュメントやGoogleスライド上でAIのサポートを受ける機能が使えたり、AIメモアプリ「NotebookLM」でよりたくさんのノート（情報を集約するスペース）を作成可能になったりする。 AIエージェント開発プラットフォーム「Google Antigravity」も使える他、画像生成AI「Nano Banana Pro」やGeminiの</description>
+    </item>
+    <item>
+      <title>NotebookLMで60ページ超の登壇スライド作成してみた - Qiita</title>
+      <link>https://qiita.com/simdroid/items/236886451b6aef7162b5</link>
+      <pubDate>2025/12/24 08:06</pubDate>
+      <description>Top &amp;gt; 学術＆研究 &amp;gt; 「知能爆発」へ“10年以内”の現実味──オックスフォード大の哲学者MacAskill氏らの警告、AIが「数年で1世紀分」の技術進歩を起こし得る</description>
+    </item>
+    <item>
+      <title>みのもんたさん AIで元日番組に - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/pickup/6563601</link>
+      <pubDate>2025/12/24 23:27</pubDate>
+      <description>本記事は、 マケデコ Advent Calendar 2025 25日目の記事です。 マケデコとはマケデコ（Market API Developer Community）というコミュニティがあります。株式投資やシステムトレードに取り組む投資家・エンジニアが集まり、データ分析や機械学習などの知見が共有されています。 このコミュニティでは毎年12月にアドベントカレンダーが企画され、参加者が惜しげもなく知見を公開しています。2023年から2025年にかけて蓄積された記事は60本を超えます。 記事一覧: advent_calendar_links.csv 次のような、トレード戦略を考える上で参考になる知見が凝縮されています。 機械学習モデルの設計とオーバーフィット対策 確率的ボラティリティモデル 寄り引けロングショート戦略 リバーサル戦略の検証 ファクター分析 LLMのトレーディング活用 人の褌で</description>
+    </item>
+    <item>
+      <title>【法務 DX 成功事例】導入2週間で契約書作成を3時間→10分に！Gemini Enterprise の活用術 | iret.media</title>
+      <link>https://iret.media/179722</link>
+      <pubDate>2025/12/25 10:37</pubDate>
+      <description>こんにちは、Findy Freelanceでフロントエンドエンジニアをしている主計（かずえ）です。 この記事は、ファインディエンジニア #3 Advent Calendar 2025の25日目の記事です。 adventar.org Dependabotが作成するPRの対応、皆さんはどのように運用していますか？依存パッケージの更新は地味ながら継続的に発生する作業で、特に少人数チームでは対応工数の比率が無視できません。 この記事では、私たちのチームがDependabot PR対応を手動運用からDevin、そしてClaude Code Actionへと段階的に改善してきた過程を紹介します。それぞれのアプローチで得られた知見と、最終的にClaude Code Actionに落ち着いた理由をお伝えします。 Dependabot PRの対応フローを効率化したい方、AIツールを活用したコードレビューの自</description>
+    </item>
+    <item>
+      <title>はてな民、逆張りが過ぎないかって話。 高市叩きが当たり前みたいになって..</title>
+      <link>https://anond.hatelabo.jp/20251225072754</link>
+      <pubDate>2025/12/25 07:30</pubDate>
+      <description>この記事は Laravel Advent Calendar 2025 - Qiita 最終日の記事です． 今年過疎すぎワロタ． はじめに 5 年前の Laravel アドベントカレンダー最終日に投稿されたこの記事を皆さんはご存知でしょうか． この記事は Zenn の Laravel トピックで歴代ランキング 1 位をキープし，日本の Laravel コミュニティではおなじみの記事となっています． Laravel の使いやすさを保ちつつ，できるだけテスタブルで，保守性を高めるためにクリーンアーキテクチャのエッセンスを一部取り込んだ，大変実用性の高いアーキテクチャを提案する価値ある記事です． 僕は 2021 年新卒のときにこの記事を初めて読み，それ以来何度もこの記事に助けられてきました． また，この記事の著者であり，「なんちゃってクリーンアーキテクチャ」の提唱者である @mpyw 氏は新卒時代</description>
+    </item>
+    <item>
+      <title>数字で振り返る freee の AI 駆動開発 - 後編 - freee Developers Hub</title>
+      <link>https://developers.freee.co.jp/entry/ai-driven-development-2025-report</link>
+      <pubDate>2025/12/25 12:12</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/011903a5b72fff54b1341c11420a894f0a1c6ab7/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2074%2F241%2Fyajiuma-watch_1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
       <title>FDEというあり方── エンジニアキャリアと経営・CTOをつなぐ新たな一歩として｜Matsumoto Yuki</title>
       <link>https://note.com/y_matsuwitter/n/ne4c741ad9a17</link>
       <pubDate>2025/12/22 09:24</pubDate>
@@ -1778,99 +1871,6 @@
       <link>https://zenn.dev/jnch/articles/3d84fb9c428544</link>
       <pubDate>2025/12/13 12:51</pubDate>
       <description>米国の人工知能（AI）大手を中心に、大規模データセンター（DC）の建設競争がチキンレースさながらの様相を呈している。DC向けに画像処理半導体（GPU）を巨額の資金で調達し、高度なAIモデルをいち早く開発しようと各社が動く。一方で、AIモデルの軽量化が進み、省電力で高速処理が可能な光技術や量子技術を使った新たな計算手法も台頭しつつある。計算資源の拡大を前提とした従来の競争構図が、今後変わる可能性も</description>
-    </item>
-    <item>
-      <title>値上げを提案された家賃の交渉とその結果 - 紙屋研究所</title>
-      <link>https://kamiyakenkyujo.hatenablog.com/entry/2025/12/17/095906</link>
-      <pubDate>2025/12/17 14:48</pubDate>
-      <description>はじめに Pydantic はとても便利である。だがこれを過信してドメインモデルの中心に据えると、責務の境界が曖昧になり、設計はたいてい溶ける。戦略なく溶け固まった巨大なコードベースは、ソフトウェアの迅速かつ安全な進化を困難にするだけでなく、LLM-based な AI の推論の安定性も低下させる。 LLM-based な AI エージェントは、構造が論理的に明示されたコード（型・境界・不変条件）ほど扱いやすい傾向がある。型定義には datetime と書いてあるのに、実態はバリデータで文字列を無理やり変換して受け入れるような「嘘」があると、コードだけを読む AI は挙動を正しく予測できない。 Pydantic がカバーしてくれる値検証と変換の責務は、静的型安全性 と Always-Valid なドメイン を志向すればするほど、自然とドメインから剥がれていく。 この話は「Pydantic</description>
-    </item>
-    <item>
-      <title>800万人超のユーザーのAIチャットがChromeとEdgeの拡張機能で傍受されて営利目的で販売されていることが発覚</title>
-      <link>https://gigazine.net/news/20251217-ai-conversations-sold/</link>
-      <pubDate>2012/01/28 19:46</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ebf0104550f34e74e4918ce8f18bf0aa616f6822/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2070%2F929%2F02.JPG');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>DINOは『顔』を見分けられるのか？ LoRAで顔認証モデルを作ってみた - SEN PRODUCT BLOG</title>
-      <link>https://productblog.sencorp.co.jp/entry/dino-lora-fr</link>
-      <pubDate>2025/12/18 09:15</pubDate>
-      <description>※この記事は、2025 Speee Advent Calendar 18 日目の記事です。昨日の記事はこちら はじめに こんにちは、DX 事業本部でエンジニアをしている 22 新卒の高島です。社内ではたかてぃーと呼ばれています。 大学院では機械学習の研究をしていましたが、入社後は既存プロダクトの保守運用や新規事業のアプリケーション開発を経験しました。2024 年 11 月からは、不動産領域で AI/LLM を活用した R&amp;amp;D プロジェクトをリードしています。 この 1 年間、AI エージェントに関する研究開発に取り組んできましたが、決して順調ではありませんでした。特に最初の半年間は、成果が見えない苦しい時期が続きました。 本記事では、私が R&amp;amp;D プロジェクトで試行錯誤した経験と、そこから見えてきた「地に足をつける進め方」についてまとめます。 こんな方に向けて書いています： ゴールが曖昧な</description>
-    </item>
-    <item>
-      <title>AIウォッシング（AI Washing）とは？</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/18/news019.html</link>
-      <pubDate>2025/12/18 09:08</pubDate>
-      <description>ほぼ２年ぶりに記事を書きます。先月19日にリリースされたGemini 3の能力は本当にすごい。会う人ごとに、そのすさまじさを伝えていますが、知り合いの研究者で使い込んでいる人は、今のところほぼ皆無です（今のところ長年の友人のMIさんだけ）。具体的な例を紹介すれば、使い手が増えるだろうと思い、今日書き始めた論文の執筆経過を紹介します。 Gemini 3のCanvasという機能を立ち上げ、以下のように依頼しました。 ＜ニワトコ属の日本産種は、ニワトコとソクズの2種に分類されてきました。しかし私は、日本全国でこの属の標本を採集し、MIG-seqにもとづく高精度系統解析の結果から、ニワトコが1種ではなく、少なくとも14種に分化しているという証拠を得ました。この結果を報告する論文の執筆を手伝ってください。まず、タイトルは以下の案で良いでしょうか？ From one species to fourte</description>
-    </item>
-    <item>
-      <title>AIを使って英語論文を短期間で書く方法とは？　京大教授が教える9つの原則　2023年に発表</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/18/news030.html</link>
-      <pubDate>2025/12/18 12:28</pubDate>
-      <description>こんにちは、木村です。 本記事はiimonアドベントカレンダー18日目の記事となります。 最近Claude Codeを使用し始めたんですが、AIって便利ですね！全肯定でAIを使うのは良くないとは思うのですが、できることが多くて試しきれないと思うこの頃です。 Claude Codeへの指示プロンプトを手探りで作っていたら先輩に「学習モード」なるものを教えてもらったので、気になって調べてみました。２年目でまだまだいろんな分野への理解が浅い自分ですが、これを利用して勉強をより効率的にできたらと思い手を動かしながら記事を書いたので、ちょっと気になる…という方のきっかけなどになれば幸いです。 output-style Claude Codeでは、output-style 機能を提供しています。これは、Claude Codeとユーザーのやり取りの方法をカスタマイズすることができる機能です。 説明型（E</description>
-    </item>
-    <item>
-      <title>AIによるヒューリスティック評価の精度検証：Webサイト画像1枚からどこまで分析できるのか - Insight Edge Tech Blog</title>
-      <link>https://techblog.insightedge.jp/entry/ai-heuristic-evaluation</link>
-      <pubDate>2025/12/18 09:27</pubDate>
-      <description>この記事は、以下の Advent Calendar の 18 日目における投稿です。 Japan AWS Top Engineers - Qiita Advent Calendar 2025 - Qiita AIエージェント構築＆運用 - Qiita Advent Calendar 2025 - Qiita こんにちは、 YAMALEX の駿です。 今回は re:Invent で発表された Amazon Nova 2 Sonic と StrandsAgents の新機能である Bidirectional Agent を使って、 音声対話をとおして Bedrock Knowledge Base から情報を取得できるエージェントを作成しました。 Nova 2 Sonic の応答がとても速くて驚きました。 返答までの待ち時間が短く、会話としてほとんどストレスを感じません。 また、アシスタントが話</description>
-    </item>
-    <item>
-      <title>メモリー高騰　「言葉もない」3カ月で5倍も　AIブームで企業取り合い　PCも価格上昇か（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/b51a1f5336b0f6883846357268cc774587cda847</link>
-      <pubDate>2025/12/18 14:18</pubDate>
-      <description>はじめに こんにちは、ぐるなびの江口です。 ついに登場したGemini 3、皆さんはもう試されましたか？ Google独自のTPUを活用した処理速度もさることながら、新機能のCanvasが非常に強力です。 今回は、このGemini 3とCanvasを使って、「社内テンプレートのデザインに限りなく近づけ、実用十分な&amp;quot;90点&amp;quot;を目指してスライド資料を完全自動生成する」という試みについて共有します。 これまでGoogle Apps Script (GAS) を書いて行っていた転記作業が、プロンプト一つで不要になった、というお話です。 この記事でわかること Gemini 3のGem + Canvasによるスライド作成の進化。 従来の「GAS転記」プロセスからの脱却。 デザイン崩れを防ぐ「画像分析HTML化」と「英語プロンプト」のテクニック。 はじめに この記事でわかること 背景：これまでのスライド</description>
-    </item>
-    <item>
-      <title>自民 生成AI「ディープフェイク」の規制 来月にも政府に提言へ | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/na-k10015005301000</link>
-      <pubDate>2025/12/16 13:40</pubDate>
-      <description>動画編集講座はこちら https://www.dogaedit.com ------------------------------------------------------------------------------------------------ DEEP DIVE HP https://deepdive.or.jp/ クラウドファンディング目標達成！ ご支援ありがとうございました！ https://camp-fire.jp/projects/821287/view ------------------------------------------------------------------------------------------------ 製作・運営：(株)ジェットストリーミング https://www.jetstreaming.jp/ #小原凡司　</description>
-    </item>
-    <item>
-      <title>プロンプトやエージェントを自動的に作る方法</title>
-      <link>https://speakerdeck.com/shibuiwilliam/puronputoyaezientowozi-dong-de-nizuo-rufang-fa</link>
-      <pubDate>2025/12/16 17:25</pubDate>
-      <description>記事内に広告が含まれています。This article contains advertisements. OpenAIが2026年1月15日をもって「ChatGPT for macOS」の音声機能を廃止すると発表しています。詳細は以下から。 米OpenAIは現地時間2025年12月15日(リリースノートは11日付け)、来年01月15日をもって同社のAIチャットボットChatGPTのMac用デスクトップアプリ「ChatGPT for macOS」で音声機能を廃止すると発表しています。 We’re retiring the Voice experience in the ChatGPT macOS app on January 15, 2026. This change allows us to focus on more unified and improved voice experien</description>
-    </item>
-    <item>
-      <title>ty: An extremely fast Python type checker and language server</title>
-      <link>https://astral.sh/blog/ty</link>
-      <pubDate>2025/12/17 09:26</pubDate>
-      <description>Metaが音声分離AI「SAM Audio」を公開しました。SAM Audioには音声や動画を入力可能で、「文章で指示して特定の音を抜き出す」「動画内の『音声を発している被写体』を指定して音声を抜き出す」「動画内の特定のタイミングで鳴っている音を指定して抜き出す」といった操作が可能です。 SAM Audio https://ai.meta.com/samaudio/ Introducing SAM Audio: The First Unified Multimodal Model for Audio Separation | AI at Meta - YouTube SAM Audioは音声だけでなく動画も入力することが可能です。音楽セッションを記録した動画からギターの音だけを抜き出したい場合は、テキストで「guitar」と指示します。 これで動画内のギターの音だけを分離できます。 動画内</description>
-    </item>
-    <item>
-      <title>OpenAIが画像生成モデル「GPT Image 1.5」を搭載した「ChatGPT Images」を公開、画像生成が最大4倍高速化でGoogleのNano Banana Proに対抗</title>
-      <link>https://gigazine.net/news/20251217-chatgpt-images-1-5/</link>
-      <pubDate>2025/12/17 11:16</pubDate>
-      <description>サム・アルトマンの10年超の発言を追跡すると、未解決の問いにも答えが出ているかのように語り、AIを「救済」にも「破滅」にも描き分けて資金調達してきた手法が見えてくる。その誇大宣伝が現在のAIブームを作り上げた。 by James O&amp;#39;Donnell2025.12.17 0 この記事の3つのポイント サム・アルトマンはChatGPT公開を機にAI能力の誇大宣伝を世界規模で展開した シリコンバレーで資金調達者として未解決問題にも確定的回答を提示し続けてきた 技術的限界に関わらずテクノ・ユートピア信念が資金調達の根拠となっている summarized by Claude 3 人工知能（AI）が何を可能にするかについて、常識外れとも言える考えを耳にするたびに、それを最初に明確に表現したのがサム・アルトマンではないにしても、少なくとも最も説得力があり、影響力のある声の主だったことが判明することが多い</description>
-    </item>
-    <item>
-      <title>「正直、何を言ってるのか──」　SmartHR社長が斬る“SaaS is Dead”論の致命的な勘違い</title>
-      <link>https://www.itmedia.co.jp/business/articles/2512/17/news016.html</link>
-      <pubDate>2025/12/17 11:59</pubDate>
-      <description>【シリコンバレー=清水孝輔】米アマゾン・ドット・コムが米オープンAIに100億ドル（約1兆5500億円）を投資する方向で協議していることが16日、わかった。米ネットメディアのジ・インフォメーションなど複数の米欧メディアが報じた。オープンAIはアマゾンが手がける人工知能（AI）向け半導体の導入も検討する。報道によると、アマゾンはオープンAIの企業価値の評価額を5000億ドル以上として投資に向けた</description>
-    </item>
-    <item>
-      <title>夜を制する者が “AI Agent 大民主化時代” を制する</title>
-      <link>https://speakerdeck.com/icoxfog417/generative-ai-agent-should-work-in-night</link>
-      <pubDate>2025/12/17 23:33</pubDate>
-      <description>「非エンジニアのClaude Code完全攻略」シリーズ第4回です。 今回はSkillsフォルダを使って、「学習するAI」を作る方法を解説します。 同じ質問を何度もしなくて済むようになります。 安心してください。Skillsファイルも、Claude Codeに作ってもらえます。 この記事でわかることSkillsとは何か Claude CodeにSkillsを作ってもらう方法 どんなSkillsを作ったか 自動参照の設定方法 Skillsとは？Skillsは、AIに覚えてほしい知識・ノウハウをまとめたファイルです。 プロジェクトの.claude/skills/フォルダに置きます。 my-project/ ├── CLAUDE.md ├── .claude/ │ └── skills/ │ ├── README.md │ ├── design-system.md │ ├── test-guid</description>
-    </item>
-    <item>
-      <title>Gemini 3 Flash: frontier intelligence built for speed</title>
-      <link>https://blog.google/products/gemini/gemini-3-flash/</link>
-      <pubDate>2025/12/18 02:56</pubDate>
-      <description>生成人工知能（AI）などで偽の性的画像を加工する「性的ディープフェイク」による子どもの被害のうち半数は、同じ中学・高校の生徒が加害者となっている。こうした傾向が、警察庁の集計で判明した。警察庁は、性的画像の安易な拡散は罪に問われる可能性があるとして、中高生への注意喚起を進める。 性的ディープフェイクの被害拡大を受け、警察庁は18歳未満の時の写真を性的画像に加工された被害の状況を調査。初集計となった2024年、被害の相談や申告は、全国の警察に110件寄せられていた。 今年は9月までに前年同期より3件多い79件の相談や申告があり、警察庁は内容を分析した。 79件のうち生成AIが使用されたのは14件で、全体の17・7％だった。63件（79・7％）は作成方法が「不明」だが、大半は生成AIが使われたとみられる。</description>
-    </item>
-    <item>
-      <title>性的ディープフェイク 半数余りが同級生らが作成 警察庁まとめ | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/na-k10015006881000</link>
-      <pubDate>2025/12/18 06:45</pubDate>
-      <description>ヨルナ @Sage_Yothi @matsuzawa_s AIだろうがOCRだろうが、機械的な一括処理でフォントバラバラは100%ありえないので、手打ちしています。 訂正部分をコピペ挿入しているとなりやすい 2025-12-17 19:24:07</description>
     </item>
   </channel>
 </rss>
