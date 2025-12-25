@@ -5,6 +5,63 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>AIエージェント開発の神セッションが集結した「AI Builders Day」　最高のキーノートで幕を開ける (1/2)</title>
+      <link>https://ascii.jp/elem/000/004/361/4361727/</link>
+      <pubDate>2025/12/22 10:22</pubDate>
+      <description>pyspa Advent Calendar 202512/23のコンテンツです. 去年は「転職したやで」的な報告でネタが固まっていたのですが. 今年は決定的なネタに不足しており, 「近況報告」「技術ネタ」「書籍ネタ（これは前のエントリー）」から選ぼうと思っていましたが！？ shinyorke.hatenablog.com 職歴をAIに読み込ませて色々やった*1この話の続きで, 10年以上継続している老舗個人技術ブログである「Lean Baseball（このブログ）」をAIに評価してもらう 今年の記事の評価を客観的にしてもらう 上記の結果を公開することで「自分のブログのレベルを客観的に評価」「読み手にとっては一つのベンチマークとしてもらう」とかすると面白そう！ ...と, たった今思いついた&amp;amp;やったら案外楽しかったのでこちらでやってみようと思います. なお, 執筆はAIじゃなくて自分で書いて</description>
+    </item>
+    <item>
+      <title>アップルが警告、Macでの「Chrome使用をやめよ」──その理由は？ | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/87899</link>
+      <pubDate>2025/12/24 13:41</pubDate>
+      <description>この記事は LayerX Tech Advent Calendar 2025 23日目の記事です。 Ai Workforce事業部 プロダクト部 FDEグループ エンジニアの 堤 です。 本記事では、プログラムを書き始めたばかりの頃に Pythonの静的解析ツールである Ruff のエラー修正を通じて学んだ経験と、それを踏まえて作った ruff-tutor-mcp というMCPサーバー、そしてAIコーディング時代の学び方について書きたいと思います。 最近、エンジニアのみなさんはコーディングエージェントを使っているのではないでしょうか。特に、Claude Codeがリリースされてからその流れが加速したように感じます。私自身も、特にClaude Opus 4.5が出て以来、本当に自分でコードを書くことが減りました。Claude Codeにコンテキストとして与える要件をマークダウンで書く時間が圧</description>
+    </item>
+    <item>
+      <title>【最新調査レポートを一部公開】AIにかけてる金額は？エンジニアが注目する企業は？ - Findy Media</title>
+      <link>https://findy-code.io/media/articles/202512_engineer_report</link>
+      <pubDate>2025/12/23 13:52</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9167f5612b439a2f846822b0b0932fdd0154f08a/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2073%2F823%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>https://fullswing.dena.com/pdf/AI_100tips_slide.pdf</title>
+      <link>https://fullswing.dena.com/pdf/AI_100tips_slide.pdf</link>
+      <pubDate>2025/12/24 19:29</pubDate>
+      <description>今年３月１日に８０歳で死去したタレント・みのもんたさんが、来年１月１日放送のフジテレビ系クイズ番組「クイズ＄ミリオネア」（午後５時）にＡＩの姿で登場する。２４日に同局が発表した。「ファイナルアンサー？」という決めセリフで一世を風靡した初代司会者・みのさん。２代目司会者・二宮和也との２ショットが実現する。</description>
+    </item>
+    <item>
+      <title>AI時代のDependabot対応。手動からDevin、そしてClaude Code Actionへ - Findy Tech Blog</title>
+      <link>https://tech.findy.co.jp/entry/2025/12/25/070000</link>
+      <pubDate>2025/12/25 10:04</pubDate>
+      <description>本記事では2025年に特に注目を集めた、5つのAI駆動開発ツールの導入背景や活用事例を、Findy Toolsにお寄せ頂いた69社・82件のレビュー記事を元にまとめました。気になった事例については、各レビュー記事で詳細をご覧いただけます。ツール選定や更なる活用のアイディアとしてご参照いただければ幸いです。 ※ 各ツールの導入企業の声は、Findy Toolsにレビューが投稿された時点の情報になります。予めご了承ください GitHub CopilotGitHub Copilotは、GitHub上のリポジトリ全体を学習したコンテキストに基づき、インラインでのコード補完やチャット回答を行う事が特徴です。2025年のアップデートでは「自動モデル選択（Auto model selection）」機能が導入され、タスクの難易度に応じて最適なモデルが自動で割り当てられます。 VS Code、Visual</description>
+    </item>
+    <item>
+      <title>5年間 Laravel を使って辿り着いた，AI 時代に考える「なんちゃってクリーンアーキテクチャ」のその先</title>
+      <link>https://zenn.dev/yumemi_inc/articles/ebc6e634fa57a1</link>
+      <pubDate>2025/12/25 09:05</pubDate>
+      <description>アイレットは、全社的に生成 AI の活用を推進しており、2025年9月に従業員1,300人超に「Gemini Enterprise」を全社導入しました。この取り組みは単なる最新技術の導入ではなく、生成 AI の活用が各部門の働き方そのものを変革する DX 戦略の一環です。 前回の法務 DX のインタビュー「【法務 DX の成功事例】契約書レビューを数時間→30分に短縮した NotebookLM 活用法」では、Google の AI ノートツール「NotebookLM」を活用し、数時間かかっていた契約書レビューを30分以内に短縮した法務部門の成功事例を紹介しました。 今回は、「Gemini Enterprise」の全社導入からわずか2週間で、法務部門の日常的な問い合わせ対応や、複雑なドキュメント作成の効率化を実現した事例について、前回に引き続き法務・コンプライアンスグループのリーダー 山内</description>
+    </item>
+    <item>
+      <title>職場でのAI活用事例を100個まとめたスライド、DeNAが無料公開で絶賛の声多数【やじうまWatch】</title>
+      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2074241.html</link>
+      <pubDate>2025/12/25 10:45</pubDate>
+      <description>はてな民、逆張りが過ぎないかって話。 高市叩きが当たり前みたいになってるけど、 若者支持が高いって数字は普通に出てくる。 死刑も世間全体では賛成が多数派。 これ、別に極端な話じゃない。 他にも例はいくらでもある。 原発は全部悪。 でも現実では再稼働容認が多数派。 自衛隊は違憲。 でも災害が起きれば感謝されるし、存在自体を否定してる人は少数。 夫婦別姓は最重要争点。 でも世論調査では生活や経済、安全保障の方が圧倒的に優先されてる。 LGBT政策は進めないと遅れてる。 でも急進的な制度変更には慎重派が多い。 移民は受け入れるべき。 でも治安や賃金への不安を持つ人の方が現実には多い。 こういう話を総合すると、 日本社会が急進リベラル一色みたいな認識の方がズレてる。 なのに、はてなだけ見てると 世間はもう完全に逆の価値観で固まってるように語られる。 さすがにエコーチェンバーが強すぎる。 結局やって</description>
+    </item>
+    <item>
+      <title>2025年「はてなブックマーク年間ランキング」トップ100 - はてなニュース</title>
+      <link>https://hatenanews.com/articles/hatenabookmark2025</link>
+      <pubDate>2025/12/25 12:16</pubDate>
+      <description>こんにちは! この記事は freee Developers Advent Calendar 2025 の 25日目の記事🎅 です。 adventar.org freee AI駆動開発 (AI-Driven Development) チームのJaeSoon (ジェスン)です。 AI活用がプロダクト開発を超えて全社推進へと拡大する中、私の担当範囲も広がりました。基盤開発や技術アドバイジングはもちろん、BizチームやSuccessチームとも協業し、プロセス整備や検証目的の確立といった組織レベルのEnabling活動も行っています。 最近個人的にはF1のレゴブロックにハマっています 🏎️ 1. 概要 1.1. はじめに 1.2. 2025年のタイムライン 本格的なスタート Claude Code全社導入とAI開発マニア制度 2. 詳細指標 2.1. 爆発的な成長 全体利用量の急増 ユニーク利用</description>
+    </item>
+    <item>
+      <title>Xに画像を「AI編集」する機能が追加。他者の投稿した画像を勝手に加工でき、さらにウォーターマークやサインも外せてしまうと危惧広がる。悪用や著作権侵害などのリスクが懸念</title>
+      <link>https://news.denfaminicogamer.jp/news/251225m</link>
+      <pubDate>2025/12/25 14:40</pubDate>
+      <description>皆さんこんにちは。 Acroquest のデータサイエンスチーム「AcroYAMALEX」を率いるチームリーダー、@tereka114です。 AcroYAMALEX では、コンペティション参加・自社製品開発・技術研究に日々取り組んでいます。チーム紹介はこちら。 本記事は、「学習推論ライブラリ・フレームワーク Advent Calendar 2025」の25日目です。 qiita.com LLMは相変わらず新しいモデルが登場し世間を賑わせています。 しかし、モデル自体が重く、計算時間がかかります。そのため、LLMの推論では計算速度が重要となります。 「vLLM」では、LLMを効率的に推論する技術を用いて、推論の高速化を実現してきました。 ※以前、本ブログでも次の記事で「vLLM」による高速化について紹介しました。 acro-engineer.hatenablog.com 今回は「vLLM」と</description>
+    </item>
+    <item>
       <title>M365 Copilot、社内95％が使っても利用格差はなぜ起きる？　やって分かった定着の鉄則</title>
       <link>https://kn.itmedia.co.jp/kn/articles/2512/23/news044.html</link>
       <pubDate>2025/12/23 11:18</pubDate>
@@ -1817,60 +1874,6 @@
       <link>https://gigazine.net/news/20251218-cloudflare-radar-2025-year-in-review/</link>
       <pubDate>2025/12/18 16:04</pubDate>
       <description>AI has transformed how we write code. The next transformation is how we run it. At Vercel, we’re building self-driving infrastructure that autonomously manages production operations, improves application code using real-world insights, and learns from the unpredictable nature of production itself. Our vision is a world where developers express intent, not infrastructure. Where ops teams set princi</description>
-    </item>
-    <item>
-      <title>Claude CodeからPull Requestのレビュー操作を便利に行うClaude Skillsを作った - $shibayu36-&amp;gt;blog;</title>
-      <link>https://blog.shibayu36.org/entry/2025/12/17/173000</link>
-      <pubDate>2025/12/17 18:05</pubDate>
-      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 前書き 私がこの記事を書く理由は、近年、生成AIによる実装が当たり前になりつつあり、AIに対する「指示書」としてのドキュメントが改めて注目されていると感じているからです。その流れの中で、「仕様書駆動開発」という考え方も登場してきました。 自律型のAIエージェントがプロジェクト全体のコードを理解するためには、コードが一つのディレクトリ階層にまとまっている方が都合がよく、その文脈から「モノレポの方がAI時代には有効ではないか」という意見も増えています。 一方で、私自身の経験を振り返ると、モノレポには運用フェーズに入ってから顕在化する欠点が少</description>
-    </item>
-    <item>
-      <title>Googleの自律型コーディングAI「Jules」、開発者の指示がなくても働く機能を導入／TODOコメントをもとに実装を提案、定期的な定型雑務を肩代わり</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2071962.html</link>
-      <pubDate>2025/12/17 18:03</pubDate>
-      <description>AI需要の急増に伴うメモリの価格上昇はとどまるところを知りません。新たに、SamsungがDDR5メモリの契約価格を倍増させたと伝えられました。 DRAM漲勢主導權換手！ 16Gb DDR5合約價逼近20美元，南亞科DDR5過驗證且金士頓全包產能！ - 新聞分類 - TechNOW Voice https://technowvoice.com/article_detail/%E5%8D%97%E4%BA%9E%E7%A7%91DDR5%E9%81%8E%E9%A9%97%E8%AD%89%E4%B8%94%E9%87%91%E5%A3%AB%E9%A0%93%E5%85%A8%E5%8C%85%E7%94%A2%E8%83%BD Samsung hikes DDR5 prices 100%, reshaping device pricing in 2026 https://interest</description>
-    </item>
-    <item>
-      <title>AI需要によるチップ不足で2026年にはスマホの販売価格が6.9％上昇するとの予測</title>
-      <link>https://gigazine.net/news/20251217-smartphone-prices-rise-2026-ai-chip-shortage/</link>
-      <pubDate>2025/12/17 16:25</pubDate>
-      <description>AnthropicのSkillsが発表された時、皆様はどう思いましたか？ 「Tool Use（Function Calling）とは何が違うんだ...？」 「また違いの説明が求められる新しい用語が増えたのか...？」 というのが私の最初の正直な感想でした。 ただ、全くToolと同じということもないはずです。 そこで遅ればせながら、既存のTool Useとの差分や、なぜこの「Skills」という構造が必要だったのか？ プロダクト開発視点では何を持ち帰れば良いのか？について考えてみました。 AIエージェント開発の変遷とコンテキストウィンドウの限界 まず、これまでのAIエージェント開発を振り返ってみましょう。 Toolによる能力拡張 (Capability Extension) オライリーのAIエンジニアリングでも、AIエージェントは 「環境」と、それに作用する「ツール」 が最も中心的な構成要素</description>
-    </item>
-    <item>
-      <title>RAGの検索精度を上げる&amp;quot;HyDE&amp;quot;の論文を読んでDifyで試してみました。#RAG #AI #Dify - CCCMKホールディングス TECH LABの Tech Blog</title>
-      <link>https://techblog.cccmkhd.co.jp/entry/2025/12/16/104152</link>
-      <pubDate>2025/12/17 06:30</pubDate>
-      <description>皆さん、GitHub Copilotは利用されていますでしょうか？ 私は、コスパが良いのと複数のモデルを利用できる点に魅力を感じたため、仕事だけでなくプライベートの開発でも利用しています。 しかし、使い込んでいく中で一つ壁に当たることがありました。それは、Agent・Instructions・Promptといった複数のファイルタイプが存在し、それぞれがどのように影響し合い、どのように使い分けるべきかが分かりにくいという点です。 そこで本記事では、私自身の備忘録も兼ねて、これらの概念と実際の検証結果を踏まえた活用方法について解説します。 GitHub Copilotとは GitHub Copilotは、AIを活用したコーディング支援ツールとして登場しました。当初はVSCodeエディタ上でのコード補完が主要な機能でしたが、現在では GitHub Web上でのチャット機能、プルリクエスト（PR）</description>
-    </item>
-    <item>
-      <title>ハーバード・ビジネス・レビューを定期購読しているが… - 大西ブログ</title>
-      <link>https://onishi.hatenablog.com/entry/2025/12/18/081806</link>
-      <pubDate>2025/12/18 08:19</pubDate>
-      <description>この記事は、以下の Advent Calendar の 18 日目における投稿です。 Japan AWS Top Engineers - Qiita Advent Calendar 2025 - Qiita AIエージェント構築＆運用 - Qiita Advent Calendar 2025 - Qiita こんにちは、 YAMALEX の駿です。 今回は re:Invent で発表された Amazon Nova 2 Sonic と StrandsAgents の新機能である Bidirectional Agent を使って、 音声対話をとおして Bedrock Knowledge Base から情報を取得できるエージェントを作成しました。 Nova 2 Sonic の応答がとても速くて驚きました。 返答までの待ち時間が短く、会話としてほとんどストレスを感じません。 また、アシスタントが話</description>
-    </item>
-    <item>
-      <title>ローカルRAGの回答品質を向上する「Advanced RAG」 違いと実装の手順</title>
-      <link>https://ascii.jp/elem/000/004/359/4359790/</link>
-      <pubDate>2025/12/18 07:17</pubDate>
-      <description>この記事はInsight Edge Advent Calendar 2025の18日目です。 はじめまして。Insight EdgeでUI/UXデザイナーとして参画している追分です。 今回はデザイナー観点での記事になりますが、皆さんの業務にも役立つような記事にしたいと思います！ はじめに 使用したツールと評価手法 ChatGPT 4o ヒューリスティック評価 事前準備 検証結果 出力例（一部抜粋） 良かった点 懸念点・改善点 ユースケース検討 まとめ はじめに UXデザイナーとして日々ユーザーのニーズの調査や分析、画面の設計、評価などに取り組む中で、もっと手軽でスピーディーにできないかと感じることがよくあります。最近では生成AIがデザイン領域でも活用されはじめ、ペルソナやカスタマージャーニーマップを生成する事例や、画面のUIデザインを出力してくれるようなケースはよく見られるようになってきま</description>
-    </item>
-    <item>
-      <title>契約書の検索時間を約85%削減！NotebookLM で実現したパートナーアライアンス業務効率化 | iret.media</title>
-      <link>https://iret.media/176546</link>
-      <pubDate>2025/12/18 15:41</pubDate>
-      <description>はじめにこんにちは、わたヤク（@ai_biostat）です。 抄読会のスライド作りって、正直ラクしたいですよね。 構成を考え、図表を切り出し、整列して、文字量を調整して…気づけば“PowerPoint職人”になっている。 でも本当に時間を使うべきなのは、そこではなくて、読み込みと議論の準備のほうです。 どうにか抄読会スライドの作成を効率化できないかな…と試行錯誤していたところ、最近起きた3つの技術的進歩により大きなブレイクスルーが起こりました。 NotebookLMのスライドに手元の画像をそのまま反映できる PDFスライドから瞬時に画像ファイルに変換するツールの登場 ChatGPTで画像ファイルから編集可能なPowerPointに変換できる これらの技術を組み合わせることでNotebookLMに入れたソースから編集可能なPowerPointスライドを作ることができます。 完成するスライドは</description>
-    </item>
-    <item>
-      <title>コーディング変革！「仕様駆動開発（SDD）」の手引き【開発者と読み解くAIの世界】</title>
-      <link>https://forest.watch.impress.co.jp/docs/serial/aidev/2071380.html</link>
-      <pubDate>2025/12/18 12:00</pubDate>
-      <description>政府は2025年度中に中央省庁に生成AI（人工知能）ツールを本格導入する。デジタル庁が25年に開発した行政向けAI基盤「源内」を全職員に配布する。国会審議での政府答弁の作成などに活用する。事務作業を効率化し、職員の負担軽減につなげる。高市早苗首相が19日、首相官邸で開くAI戦略本部の会合で省庁での本格的なAIの運用開始を表明する。5月にデジタル庁など一部で先行導入した生成AIの業務活用を全省庁</description>
-    </item>
-    <item>
-      <title>TitansとMIRAS とは？Transformerの限界を超える「長期記憶モデル」の仕組みを噛み砕いて解説する</title>
-      <link>https://zenn.dev/jnch/articles/3d84fb9c428544</link>
-      <pubDate>2025/12/13 12:51</pubDate>
-      <description>米国の人工知能（AI）大手を中心に、大規模データセンター（DC）の建設競争がチキンレースさながらの様相を呈している。DC向けに画像処理半導体（GPU）を巨額の資金で調達し、高度なAIモデルをいち早く開発しようと各社が動く。一方で、AIモデルの軽量化が進み、省電力で高速処理が可能な光技術や量子技術を使った新たな計算手法も台頭しつつある。計算資源の拡大を前提とした従来の競争構図が、今後変わる可能性も</description>
     </item>
   </channel>
 </rss>
