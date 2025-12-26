@@ -5,6 +5,54 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Wikipediaより優秀と宣伝する「Grokipedia」。Grokがファクトチェック</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2058551.html</link>
+      <pubDate>2025/10/28 14:40</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/784f1bc6f78a537173842b5421f85436489ef542/height=288;version=1;width=512/https%3A%2F%2Fi.ytimg.com%2Fvi%2FCrdbsmjL0G4%2Fhqdefault.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>xAI、AI版Wikipedia「Grokipedia」を立ち上げ</title>
+      <link>https://www.watch.impress.co.jp/docs/news/2058995.html</link>
+      <pubDate>2025/10/29 15:03</pubDate>
+      <description>xAI「Grokipedia」始動か？──イーロン・マスク、AIによる再構成でWikipedia超えの知識基盤構築を宣言 イーロン・マスクがAIスタートアップxAI社のチャットボットGrokを活用した「Grokipedia」というWikipedia代替プラットフォームの開発を示唆した。Grokはsynthetic corrections（合成修正）という手法を用いて、Wikipedia、書籍、ウェブサイトから収集した情報の不正確さを自動検出し、エラーやバイアスを取り除いた記事に書き直す。イーロン・マスクは2022年に「不況」の定義をめぐる編集論争でWikipediaをバイアスがあると批判し、2023年には創設者Jimmy Walesと中立性について衝突するなど、長年Wikipediaに不満を抱いてきた。一方、2024年の研究では、チャットボットは複雑な質問への回答や正確な参照の引用に課題が</description>
+    </item>
+    <item>
+      <title>Web 標準動向 2025年12月版</title>
+      <link>https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202512</link>
+      <pubDate>2025/12/25 07:36</pubDate>
+      <description>Gemini Enterprise 徹底解説！Gemini 3 で実現する Agentic AI の企業実装 こんにちは、Google の AI「Gemini（ジェミニ）」公式 note 編集部です。 多くの企業で生成 AI の導入が進みましたが、現場からはこんな声も聞こえてきます。「チャットボットは便利だけど、業務プロセス全体が変わったわけではない」「結局、AI で作った文章をコピペして、別のシステムに登録する手作業が残っている」。 もし日々の業務が「チャット → コピペ → 手作業」で止まっているなら、そこにはまだ改善の余地があります。 次に求められるのは、単に対話するだけの AI から、実際の業務プロセスを自律的に実行する「Agentic AI（エージェント型 AI）」への進化です。 今回は、最新モデル Gemini 3 の登場によってその能力がさらに加速した、Google の組織用</description>
+    </item>
+    <item>
+      <title>「呪術廻戦」の“パクリゲー”出現で製作委員会が注意喚起　素材の無断使用に「厳正に対処する」</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/25/news108.html</link>
+      <pubDate>2025/12/25 19:50</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ce8f82d0cb31814cae6cf6a3b55e40b5dff18d46/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2074%2F307%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>ソフトバンクのAIメモリー開発、富士通が参画　省電力で国産復活狙う - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC05AXO0V00C25A6000000/</link>
+      <pubDate>2025/12/26 09:52</pubDate>
+      <description>エンジニア採用・組織づくりのトレンド予測2026〜大手もAI活用で採用強者に、生産性のジレンマ、AI疲れ対策など〜 生成AIの進化スピードについていけるか、開発組織のAI対応がCTOだけでなくCEOのイシューにAI活用の中でも最も進化が早い領域がエンジニアが担うコーディング領域ではないでしょうか。日進月歩の言葉通り、新しいツールの誕生、進化を含めてすごいスピードで進んでいます。 先日、Findyが主催したAI Engineering Summit Tokyo 2025で登壇したCursorのVP of Developer ExperienceであるLee氏が講演で語っていた話では、2025年だけで「最も良いツール」が7回変わったとのことでした。 同カンファレンス内で、ZOZOのCTOそのっつさんの登壇セッションでは「社内でできる限り多くのAIツールを使えるようにしており、月によって使われて</description>
+    </item>
+    <item>
+      <title>クリスマスカード 2025 (写真からのAI生成クリスマスカード比較：ChatGPT, Gemini Nano Banana Pro, Grok) - Chiezaru’s diary</title>
+      <link>https://chiezaru.hatenablog.com/entry/2025/12/24/203135</link>
+      <pubDate>2025/12/24 20:33</pubDate>
+      <description>2025年も終わりが近づいてきた。暦の関係上、12月27日から1月4日まで、最大9連休を取って年末年始をゆっくりと過ごす人も多いだろう。一方、まとまった休暇は、猛烈な勢いで進化する生成AI技術や活用法などをキャッチアップする良いタイミングでもある。そこで、企業や団体が無料で公開しているAI関連の資料や動画を紹介する。 今回は、25年にITmedia AI＋で取り上げた記事の中から、12点を紹介する。「大規模言語モデル」（LLM）の基本から、実践的なAIの活用法まで幅広く取り上げた。 まずはここから　LLMについて学ぶ 東京大学の松尾・岩澤研究室が公開しているのは、LLMに関する講義資料だ。LLMの基本的な仕組みに始まり、RAG（検索拡張生成）や事前学習などLLMに関する知識も解説している。資料は、同研究室が24年9月から11月にかけ、「東京大学サマースクール2024」の一環として実施した講</description>
+    </item>
+    <item>
+      <title>購入商品の写真をAIで加工、粗悪品として返金を求める詐欺が横行【中国】 - ナゾロジー</title>
+      <link>https://nazology.kusuguru.co.jp/archives/189890</link>
+      <pubDate>2025/12/26 14:15</pubDate>
+      <description>Goでフルスクラッチ実装したLLMエージェントによって、セキュリティアラート分析を自動化する方法を解説します。LangChainなどのフレームワークを使わず、LLM APIのみを使って実践的なエージェントを構築する手順を基礎から応用まで紹介します。</description>
+    </item>
+    <item>
       <title>みのもんたさん、ＡＩの姿で「クイズ＄ミリオネア」登場決定　２代目・二宮和也と２ショット実現「みのさんも見届けてほしい」 - スポーツ報知</title>
       <link>https://hochi.news/articles/20251224-OHT1T51002.html</link>
       <pubDate>2025/12/24 11:08</pubDate>
@@ -1852,48 +1900,6 @@
       <link>https://www.itmedia.co.jp/aiplus/articles/2512/19/news093.html</link>
       <pubDate>2025/12/19 15:18</pubDate>
       <description>Googleは2025年12月11日（米国時間）、フルマネージドなリモートMCP（Model Context Protocol）サーバを、全てのGoogleサービスおよびGoogle Cloud製品群において提供する方針を発表した。 MCPは、LLM（大規模言語モデル）アプリケーションやAI（人工知能）エージェントが、外部のツールやデータソースと接続するためのオープンプロトコル。 開発者は、AIエージェントや「Google Gemini」などの標準的なMCPクライアントと、Googleが提供するサービスを簡単に連携させることができるようになるという。 「Google マップ」や「BigQuery」など4サービスでMCPサーバを利用可能に Googleは、AIがエージェントがユーザーに代わって目標を追求して現実世界の問題を解決するには、単なる知能だけでなく、ツールやデータと確実に連携させる必</description>
-    </item>
-    <item>
-      <title>macOS 26.2：Thunderbolt 5接続した複数台Mac Studio (2025)をAIクラスタリング使用する | Mac OS X | Mac OTAKARA</title>
-      <link>https://www.macotakara.jp/mac_os_x/entry-50145.html</link>
-      <pubDate>2025/12/19 16:58</pubDate>
-      <description>祝・実験終了 🎉 Linux カーネルの Rust 採用が正式化！ C から Rust へ ─ AI コードエージェントが Linux カーネルコードを書き換えるとどうなるか？sddSwarmCodingCodeGraphMUSUBI 📝 本記事について 本記事は、実際に MUSUBI（仕様駆動開発フレームワーク）と CodeGraph MCP Server を使用し、Linux カーネルコードの解析・変換を実験した結果をもとに、MUSUBI が自動作成した文章です。AI コードエージェントがどのように大規模コードベースを理解し、C から Rust への変換を行うかを、実践を通じてお伝えします。 目次 はじめに Linux カーネルにおける Rust サポートの歴史 「実験的」タグが外れた意味 Rust for Linux とは なぜ Linux カーネルに Rust が必要なのか C</description>
-    </item>
-    <item>
-      <title>OpenAI、コーディング特化の「GPT-5.2-Codex」提供　高度AIに限定アクセス</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2072780.html</link>
-      <pubDate>2025/12/19 14:19</pubDate>
-      <description>生成AIを活用したQA工数削減の試み。スクエニと東大・松尾研究室の共同研究を紹介するセッションをレポート［CEDEC+KYUSHU 2025］ ライター：大陸新秩序 2025年11月29日，福岡・九州産業大学にてコンピューターエンターテイメント開発者向けのカンファレンス「CEDEC＋KYUSHU 2025」が開催された。本稿では，その中から「生成AIが切り開くゲームプレイAIの新境地とゲーム開発への活用」と題されたセッションをレポートする。 スクウェア・エニックスのAI＆エンジン開発ディビジョンに所属する狩野竜示氏と城所 憲氏，そして東京大学 松尾・岩澤研究室の奥村悠希氏の3名が登壇したこのセッションでは，ゲームAI研究の歴史と最新の研究，そしてスクウェア・エニックスと東京大学の共同研究による，ゲームプレイAIエージェントの実験結果などの解説が行われた。 スクウェア・エニックス AI＆エン</description>
-    </item>
-    <item>
-      <title>「考えなくていいUI」を考える｜ritar</title>
-      <link>https://note.com/ritar/n/n9e960988c8c8</link>
-      <pubDate>2025/12/19 23:33</pubDate>
-      <description>自己紹介 お世話になっております。 練馬区区政改革担当部区政改革担当課区政改革担当係（GovTech東京派遣研修）のイケダと申します。 「いきなり誰だお前は」「なんだその仰々しい肩書きは」となると思いますが、肩書のとおりわたしは練馬区役所の職員として今年１年間GovTech東京へ研修という形でお邪魔している身分でございます。 なんの変哲もない文系大学を卒業し練馬区へ入庁、福祉部で窓口業務を４年間、そのあと教育委員会にて補助金給付業務に２年間携わり、７年目になる今年、GovTech東京へ派遣、という職歴となっております。 「GovTech（ガブテック）」とは「Government」と「Technology」が掛け合わさった言葉です。そう、わたしは「GovTech東京」の”Gov”と”東京”の部分はぼちぼちの経験がありますが”Tech”の部分は全くの門外漢です。今の肩書きこそ強そうですが、これ</description>
-    </item>
-    <item>
-      <title>Parameters Tuning — LightGBM 4.6.0.99 documentation</title>
-      <link>https://lightgbm.readthedocs.io/en/latest/Parameters-Tuning.html</link>
-      <pubDate>2021/09/10 02:54</pubDate>
-      <description>アメリカ合衆国エネルギー省(DOE)が、AIの力を活用して科学的な発見を加速し、国家安全保障を強化し、エネルギー革新を推進する国家的取り組み「ジェネシス・ミッション」の推進に向け、関心を持つ24団体との合意を取り付けたと発表しました。 Energy Department Announces Collaboration Agreements with 24 Organizations to Advance the Genesis Mission | Department of Energy https://www.energy.gov/articles/energy-department-announces-collaboration-agreements-24-organizations-advance-genesis ジェネシス・ミッションは2025年11月24日にドナルド・トランプ大統</description>
-    </item>
-    <item>
-      <title>Claude Codeと一緒に行う学習方法を試してみる - iimon TECH BLOG</title>
-      <link>https://tech.iimon.co.jp/entry/2025/12/18</link>
-      <pubDate>2025/12/18 08:56</pubDate>
-      <description>製品やサービスのマーケティングにおいて、実際にはAI技術が中核的に使われていないにもかかわらず、「AI活用」「AI搭載」「生成AI対応」などの表現によって、あたかも高度なAIが主要な価値であるかのように見せる行為や傾向。AIブームの広がりとともに、ホワイトウォッシングやグリーンウォッシングと同様、表現と実態のズレを捉えるための言葉として使われている。 連載目次 用語解説 AIウォッシング（AI Washing）とは、製品やサービスのマーケティングにおいて、実際にはAI技術が中核的に使われていないにもかかわらず、「AI活用」「AI搭載」「生成AI対応」などの表現によって、あたかも高度なAIが主要な価値であるかのように見せる行為や傾向を指す言葉である。一般には、誇大や誤解を招きかねない表現を問題視する文脈で用いられる。 この用語は、壁の汚れを白く塗って隠す行為になぞらえ、不都合な事実や問題点を</description>
-    </item>
-    <item>
-      <title>OpenAIのChatGPTとApple Musicが連携可能に | AppleMusic | Mac OTAKARA</title>
-      <link>https://www.macotakara.jp/etc/AppleMusic/entry-50138.html</link>
-      <pubDate>2025/12/18 10:22</pubDate>
-      <description>A cross-industry study on recent trends in AI software development.</description>
-    </item>
-    <item>
-      <title>大好きだったDevinと疎遠になるまで</title>
-      <link>https://zenn.dev/globis/articles/21034710f4b6d7</link>
-      <pubDate>2025/12/18 15:47</pubDate>
-      <description>政府は2025年度中に中央省庁に生成AI（人工知能）ツールを本格導入する。デジタル庁が25年に開発した行政向けAI基盤「源内」を全職員に配布する。国会審議での政府答弁の作成などに活用する。事務作業を効率化し、職員の負担軽減につなげる。高市早苗首相が19日、首相官邸で開くAI戦略本部の会合で省庁での本格的なAIの運用開始を表明する。5月にデジタル庁など一部で先行導入した生成AIの業務活用を全省庁</description>
     </item>
   </channel>
 </rss>
