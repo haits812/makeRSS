@@ -5,6 +5,93 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Elasticsearchにおける日付範囲検索時の落とし穴 - Taste of Tech Topics</title>
+      <link>https://acro-engineer.hatenablog.com/entry/2025/12/25/120000</link>
+      <pubDate>2025/12/24 16:04</pubDate>
+      <description>Findyでは2025年11月に「エンジニアのキャリア・AIに関するアンケート」調査を実施しました。 この記事では、毎回多くの方に反響をいただく内容を抜粋して、その内容をお伝えさせていただきます。 なお、調査レポートの全文は、Findy内の「メディア」ページからご覧いただけます。このブログで触れていない内容もたくさんありますので、ぜひご覧ください！ エンジニアが使っているコーディングAIランキング（2025年・冬）まず、2025年のエンジニアリング業界といえば、Coding Agentの利用が爆発的に普及した1年でした。昨年から利用が活発だったGitHub Copilotに加えて、Claude CodeやCodex, AWS Kiro など新たなツールが登場した結果、2025年初冬時点でのエンジニアの利用率は以下のようになりました。 結果は、引き続きGitHub Copilotの利用率が高</description>
+    </item>
+    <item>
+      <title>LLMは数理最適化がおおたまんよりも得意...かも？</title>
+      <link>https://zenn.dev/ohtaman/articles/opt-mcp-and-demo</link>
+      <pubDate>2025/12/24 16:34</pubDate>
+      <description>みのもんたさん、ＡＩの姿で「クイズ＄ミリオネア」登場決定　２代目・二宮和也と２ショット実現「みのさんも見届けてほしい」 今年３月１日に８０歳で死去したタレント・みのもんたさんが、来年１月１日放送のフジテレビ系クイズ番組「クイズ＄ミリオネア」（午後５時）にＡＩの姿で登場する。２４日に同局が発表した。「ファイナルアンサー？」という決めセリフで一世を風靡した初代司会者・みのさん。２代目司会者・二宮和也との２ショットが実現する。 「クイズ＄ミリオネア」は２０００年から２００７年までレギュラー放送され、その後１３年まで不定期で特番放送された伝説のクイズ番組。司会者・みのもんたさんの決めゼリフ「ファイナルアンサー？」で一世風靡（ふうび）した。賞金１０００万円を懸けた挑戦者がみのさんと対峙し、張り詰めた空気の中で１問ずつクリアしていくというもの。挑戦者がやっとの思いで答えを決めた時、絶妙な“間”と“沈黙</description>
+    </item>
+    <item>
+      <title>新卒3年目が、AIフル活用で設計力が爆あがりした話</title>
+      <link>https://zenn.dev/ourly_tech_blog/articles/9301cc0acdd09c</link>
+      <pubDate>2025/12/24 21:46</pubDate>
+      <description>皆さんこんにちは。 Acroquest のデータサイエンスチーム「AcroYAMALEX」を率いるチームリーダー、@tereka114です。 AcroYAMALEX では、コンペティション参加・自社製品開発・技術研究に日々取り組んでいます。チーム紹介はこちら。 本記事は、「学習推論ライブラリ・フレームワーク Advent Calendar 2025」の25日目です。 qiita.com LLMは相変わらず新しいモデルが登場し世間を賑わせています。 しかし、モデル自体が重く、計算時間がかかります。そのため、LLMの推論では計算速度が重要となります。 「vLLM」では、LLMを効率的に推論する技術を用いて、推論の高速化を実現してきました。 ※以前、本ブログでも次の記事で「vLLM」による高速化について紹介しました。 acro-engineer.hatenablog.com 今回は「vLLM」と</description>
+    </item>
+    <item>
+      <title>ディズニーとOpenAIが提携、日本のIPはどうなる？【生成AIストリーム】</title>
+      <link>https://forest.watch.impress.co.jp/docs/serial/aistream/2073815.html</link>
+      <pubDate>2025/12/24 18:01</pubDate>
+      <description>はじめに メリークリスマス！🎄 Tabelog Advent Calendar 2025、アンカーの25日目を担当します。 食べログカンパニー長の鴻池です。 今年は「食べログ20周年 食べログのこれまでと、これからの未来」をテーマに、25日間にわたって様々な記事をお届けしてきました。 2005年のサービス開始から20年。 赤ん坊が成人するほどのこの長い月日の中で、食べログは日本の外食シーンを支えるサービスとして成長してきました。 最終日となる今回は、改めて私たちが歩んできた「泥臭い」道のりと、現在進行形で取り組んでいるインバウンド事業の急成長、そしてそれらの資産をすべて注ぎ込んで挑む「AI時代の食べログ」について語らせてください。 1. 「予約」の裏側にある、徹底して泥臭いカルチャー 食べログの歴史を振り返ると、フェーズは大きく2つに分かれます。 前半は「失敗しないお店選び」を支援する、</description>
+    </item>
+    <item>
+      <title>他人の投稿画像もAI編集できてしまう。Xの新機能が物議</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2074427.html</link>
+      <pubDate>2025/12/25 15:14</pubDate>
+      <description>sponsored ASRock「B850 Challenger WiFi ドスパラ限定モデル」はWi-Fi 7＆PCIe5.0対応でコスパ抜群！ 2.5Gbps有線LANも搭載し最上位CPUも安心 sponsored Backlogの「課題一覧」「ガントチャート」「ボード」を使って業務負荷を平準化しよう 「人手が足りない」は本当？ チーム内でのタスク分担をうまくやる方法 sponsored 「TOKYO Gaming-PC STREET 6」よりパソコンショップSEVENの展示／ステージの模様をレポート！ 「選び方のコツは、ない」 パソコンショップSEVENが語るBTO PCのケース選び方 sponsored Apple Watchユーザーの決定版！ベルキンの3-in-1モバイルバッテリー「BoostCharge Pro 10K」レビュー sponsored “業務用音響機器”と“ネット</description>
+    </item>
+    <item>
+      <title>社内 BigQuery にアクセスして Deep Research してくれるエージェントを作る - Commune Engineer Blog</title>
+      <link>https://tech.commune.co.jp/entry/google-adk-bigquery-deep-research</link>
+      <pubDate>2025/12/25 13:30</pubDate>
+      <description>デザイナーのみなさん、AIを活用していますか？ わたしは調べ物や悩み事の相談など、ひとには話しにくいことをAIに助けてもらうことも多くなりました。 でも、仕事に取り入れるとなると「どうやって活用しよう」「AIにどこまで任せていいの？」など、まだ手探りという方も多いのではないでしょうか。 また、心のどこかで「AIに仕事が奪われるかも」という不安を感じているひともいるかもしれません。 この記事では、わたしがデザイナーとして「AIとどう付き合っているのか」「AIのリアルな活用事例」などをご紹介します。 ※今回の記事はアドビ社のPR企画「みんなのAI活用」に参加して執筆しています。 デザイナーはAIとどう付き合えばいい？近年の AI 技術の発展は目を見張るものがあります。 ますますスピードが加速し、1年前にできなかったことができるように、半年前には、1ヶ月前には・・・と、どんどん進化を続けています</description>
+    </item>
+    <item>
+      <title>RAGが苦手な「膨大な会話データ」を検索可能に</title>
+      <link>https://zenn.dev/knowledgesense/articles/c2baff28b7b2fa</link>
+      <pubDate>2025/12/25 12:48</pubDate>
+      <description>生成AIの発達により、テキストプロンプトを入力するだけで誰でも簡単に画像を生成できるようになりました。一見すると、画像生成AIは多様で自由な表現を生み出せるように思えますが、スウェーデンの研究者らが発表した研究では、AI同士による自律的な生成を繰り返すと最初は多様に見えた画像が最終的にわずか「12種類のスタイル」へと収束してしまう可能性が示されています。 Autonomous language-image generation loops converge to generic visual motifs: Patterns https://www.cell.com/patterns/fulltext/S2666-3899(25)00299-5 AI Image Generators Default to the Same 12 Photo Styles, Study Finds http</description>
+    </item>
+    <item>
+      <title>Hidekazu Konishi</title>
+      <link>https://grokipedia.com/page/hidekazu-konishi</link>
+      <pubDate>2025/12/25 18:37</pubDate>
+      <description>”AIで人間による人事評価の限界を超える” 生成AIに評価の基盤を任せ、人が事業成長に専念できる人事評価システムを開発 「テクノロジーで人々を適切な医療に案内する」をミッションに掲げるUbie株式会社（本社：東京都中央区、共同代表取締役：阿部吉倫・久保恒太、以下「Ubie」）は、生成AIを活用した新たな評価システムを自社開発し、2026年1月より運用を開始します。本システムでは生成AIが全職種・全社員の日々の業務ログから「客観的な事実」を網羅的に集約し、評価の基礎資料となる活動サマリと評価素案を自動作成します。個人の広範な実績を正確に把握・整理・記憶できるという生成AIの特性を活かすことで、事業成長に資する成果や行動を正しく評価に反映し、公平性と納得感を飛躍的に向上させます。これにより人間が実施するには限界があった評価制度の新たな可能性を広げます。同時に評価プロセスにおける業務負荷を最小化</description>
+    </item>
+    <item>
+      <title>新人AI禁止令と、その結果の答え合わせ - Qiita</title>
+      <link>https://qiita.com/WdknWdkn/items/9b7dea889fec59194df5</link>
+      <pubDate>2025/12/25 15:57</pubDate>
+      <description>「来週の会議までにスライド20枚」「明日の提案資料を今日中に」――。こんな依頼を受けて、白紙のPowerPointを前に固まった経験は誰にでもあるだろう。構成を考え、デザインを整え、図表を配置する。気づけば3時間、4時間と過ぎていく。 【写真で見る】NotebookLMが生成したスライド。ゲーミングデバイスらしい世界観が統一されたビジュアルが完成 この作業、AIに任せられないか。そう考えて試行錯誤した結果、筆者はGoogleのGemini、NotebookLM、ChatGPTを組み合わせる方法にたどり着いた。簡単な指示と約30分の待ち時間で、10枚のスライドが完成する。しかも「とりあえずの叩き台」ではなく、配色もレイアウトも整った状態で出てくる。 ■3つのAIに何を任せるか Geminiには「構成案の作成」と「デザイン仕様の言語化」を頼む。手元にある企画書やプレスリリースを読み込ませて、ス</description>
+    </item>
+    <item>
+      <title>JSConf JP 2025｜サイボウズ株式会社｜大規模プロダクトで実践するAI活用の仕組みづくり</title>
+      <link>https://www.youtube.com/watch?v=CrdbsmjL0G4</link>
+      <pubDate>2025/12/25 11:34</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? あっという間に1年が過ぎ去ろうとしています。 今年もGemini(nano banana)/OpenAI/ClaudeによってSREやソフトウェアエンジニアの現場は本当に大きく流れが変わりました。 昨年は補助的なコーディングやデバッグに留まるケースが多かったですが、今では主は生成AIに任せつつ、人間はより上流の役割や最終判断に回ることが多くなりました。 これにより多くのエンジニアリングの現場は体験が向上したと思います。また引き続きそこに対して、企業は大きな投資を実行していくでしょう。 一方で... 開発体験向上に対してどこまで投資してい</description>
+    </item>
+    <item>
+      <title>xAI「Grokipedia」始動か？──イーロン・マスク、AIによる再構成でWikipedia超えの知識基盤構築を宣言</title>
+      <link>https://innovatopia.jp/ai/ai-news/67674/</link>
+      <pubDate>2025/10/01 19:02</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/c3a542918e2d186bfa16793d4d17e34950f8ad44/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2058%2F551%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>AIと考える Part.2 – 「壁打ち」としてのAI活用</title>
+      <link>https://blog.szk.cc/2025/12/25/thinking-with-ai-part2/</link>
+      <pubDate>2025/12/26 00:01</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/91c759ba25bc074f841f4a4769a2c9e22f49a50d/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2058%2F995%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>｢若者の結婚離れ｣は大ウソ…｢出会いがないからでもモテないからでもない｣彼らが結婚できない本当の理由</title>
+      <link>https://president.jp/articles/-/106748</link>
+      <pubDate>2025/12/26 00:33</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/efad59a5857d8d07fd2e88954451e7207c5e10d1/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2074%2F558%2F03.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
       <title>ChatGPT、Gemini、Copilot……使い分けの「最適解」は？　2025年の生成AIを総括</title>
       <link>https://www.itmedia.co.jp/business/articles/2512/24/news022.html</link>
       <pubDate>2025/12/24 11:16</pubDate>
@@ -1796,87 +1883,6 @@
       <link>https://blog.3qe.us/entry/2025/12/17/164524</link>
       <pubDate>2025/12/18 11:16</pubDate>
       <description>Cloudflareが2025年を通じて観察されたインターネットの傾向とパターンをレビューする「2025 Cloudflare Radar Year in Review」を発表しました。 Cloudflare Radar 2025 Year in Review https://radar.cloudflare.com/year-in-review/2025 The 2025 Cloudflare Radar Year in Review: The rise of AI, post-quantum, and record-breaking DDoS attacks https://blog.cloudflare.com/radar-2025-year-in-review/ Cloudflareは世界125以上の国や地域の330都市に拠点を構え、広大なネットワークを展開しています。このネットワ</description>
-    </item>
-    <item>
-      <title>AIレイオフによる【ITエンジニア失業論】の誤解｜片山良平＠paiza会長</title>
-      <link>https://note.com/rk611/n/n0409a9735954</link>
-      <pubDate>2025/12/18 18:57</pubDate>
-      <description>As I write this post, cached input tokens are 10x cheaper in dollars per token than regular input tokens for both OpenAI and Anthropic&amp;#39;s APIs. Anthropic even claim that prompt caching can reduce latency &amp;quot;by up to 85% for long prompts&amp;quot; and in my own testing I found that for a long enough prompt, this is true. I sent hundreds of requests to both Anthropic and OpenAI and noticed a substantial reducti</description>
-    </item>
-    <item>
-      <title>AI検索が「公式窓口」を偽造する時代へ。「LLM電話番号汚染」が生む、新しい詐欺の入り口【読めば身に付くネットリテラシー】</title>
-      <link>https://internet.watch.impress.co.jp/docs/column/netliteracy/2072149.html</link>
-      <pubDate>2025/12/19 07:43</pubDate>
-      <description>A simple, open format for giving agents new capabilities and expertise. Agent Skills are folders of instructions, scripts, and resources that agents can discover and use to do things more accurately and efficiently. Why Agent Skills? Agents are increasingly capable, but often don’t have the context they need to do real work reliably. Skills solve this by giving agents access to procedural knowledg</description>
-    </item>
-    <item>
-      <title>「AIと協働して書いた35万字の書籍」が示す未来とは。広木大地氏が考える“AI時代のエンジニアの生存戦略” | レバテックラボ（レバテックLAB）</title>
-      <link>https://levtech.jp/media/article/interview/detail_772/</link>
-      <pubDate>2025/12/19 10:35</pubDate>
-      <description>政府は2025年度中に中央省庁に生成AI（人工知能）ツールを本格導入する。デジタル庁が25年に開発した行政向けAI基盤「源内」を全職員に配布する。国会審議での政府答弁の作成などに活用する。事務作業を効率化し、職員の負担軽減につなげる。高市早苗首相が19日、首相官邸で開くAI戦略本部の会合で省庁での本格的なAIの運用開始を表明する。5月にデジタル庁など一部で先行導入した生成AIの業務活用を全省庁</description>
-    </item>
-    <item>
-      <title>LLMを機能不全に追い込む新型DoS攻撃「ThinkTrap」、論文からコードを生成するAI「DeepCode」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2025/12/19/4788.html</link>
-      <pubDate>2025/12/19 11:23</pubDate>
-      <description>この記事はLivetoon Tech Advent Calendar 2025の17日目の記事です。 本日はCTOの長嶋が、技術ではなくポエムを書きます。 毎回技術ネタ書いてると尽きるので・・・。 宣伝 今回のアドベントカレンダーでは、LivetoonのAIキャラクターアプリのkaiwaに関わるエンジニアが、アプリの話からLLM・合成音声・インフラ監視・GPU・OSSまで、幅広くアドベントカレンダーとして書いて行く予定です。 ぜひkaiwa使ってみてください。 この問いについて 「リーダーは技術者であるべきか」 テック業界で古今東西、繰り返し議論されてきたテーマだ。 技術がわかる人間がトップに立つべきか、それとも経営のプロに任せるべきか。 スティーブ・ジョブズはエンジニアではなかったが、プロダクトへの執着は誰よりも強かった。 一方でGoogleのラリー・ペイジやFacebookのザッカーバ</description>
-    </item>
-    <item>
-      <title>Google、AIに「長期記憶」を与える新アーキテクチャ「Titans」と設計理論のフレームワーク「MIRAS」を発表 | Ledge.ai</title>
-      <link>https://ledge.ai/articles/google_ai_long_term_memory_titans_miras</link>
-      <pubDate>2025/12/15 16:17</pubDate>
-      <description>Top &amp;gt; エンジニアリング &amp;gt; Anthropic、AIエージェント開発における”スキル”重視の新設計思想を提示──「IQ300数学の天才から経験豊富な税務専門家へ」、スキル中心アーキテクチャの全体像を解説</description>
-    </item>
-    <item>
-      <title>オードリー・タン氏「台湾は対策立法で被害激減」　自民党が台湾の初代デジタル相招き「ディープフェイク」対策を議論（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/23d9778fb5d3bdade435941223751642b5874a37</link>
-      <pubDate>2025/12/16 15:32</pubDate>
-      <description>通常、新規株式公開（IPO）ブームを生み出すには3社だけでは不十分だ。だがその3社が、米宇宙開発のスペースX、対話型AI（人工知能）「Chat（チャット）GPT」を手掛ける米オープンAI、そしてAI開発の米アンソロピックだとしたら、後世に語り継がれるIPOブームが近く米ウォール街にやってくるかもしれない。黒字化に多くの資金必須最も価値のある未上場テック企業の一部が、上場に向けて動き出している</description>
-    </item>
-    <item>
-      <title>このChrome「拡張機能」を今すぐ削除せよ、生成AIとの会話を収集し第三者に販売 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/87234</link>
-      <pubDate>2025/12/17 10:09</pubDate>
-      <description>この記事は CyberAgent Developers Advent Calendar 2025 の17日目の記事です。 こんにちは！ハノイ開発センターに所属しているminhquangです。普段はAI事業本部の協業リテールメディアカンパニーで、小売企業様向けアプリ開発のバックエンド開発を担当しています。 CyberAgentではエンジニア一人あたり200ドルの開発AIエージェント費用サポートが全社展開されました。私のチームでも半年ほど前からCursorやClaude CodeやCodexなどのAIツールを導入しています。導入後、チーム全体のコミット数が導入前の約2倍になり、AIエージェントによる生産性向上の効果が数字としても表れています。 一方で、コード量が倍増したことにより、レビュー負荷も跳ね上がりました。それに対し、エンジニアのレビューに割く工数を2倍にするような対応はしづらいので、こ</description>
-    </item>
-    <item>
-      <title>【コピペOK】GitHub Copilotを&amp;quot;DeepWiki化&amp;quot;するドキュメント指示書を作成してみた - Qiita</title>
-      <link>https://qiita.com/a32-suzuki/items/c3540da3e009dab1bf97</link>
-      <pubDate>2025/12/17 12:59</pubDate>
-      <description>With SAM Audio, you can use simple text prompts to accurately separate any sound from any audio or audio-visual source.</description>
-    </item>
-    <item>
-      <title>論文抄読会のスライド作成をNotebookLM→ChatGPTで95%自動化する方法｜わたヤク</title>
-      <link>https://note.com/ai_biostat/n/na3718f244fba</link>
-      <pubDate>2025/12/18 12:14</pubDate>
-      <description>はじめに この記事は、「ローカル環境でRAG（Retrieval-Augmented Generation）をやってみたい人」に向けた技術メモです。 大学時代、私はローカルLLMを使って「ドキュメントを検索して答えてもらうシステム」を作っていました。 「動けばOK」の精神で構築していましたが、最近あらためて調べ直すと、私が作っていたシンプルな構成は 「Naive RAG」、そこに工夫を加えたものは 「Advanced RAG」 と呼ばれていることを知りました。 本記事では、過去に実装した「Naive RAGの構成と課題」、そして今ならこうする「Advanced RAGの改善アイデア」をざっくり紹介します。 かつて作った「Naive RAG」の構成 私が実装していたのは、最もシンプルな構成です。 ・分割：ドキュメントを一定の文字数（固定長）で機械的にチャンク分割 ・保存：チャンクをベクトル化</description>
-    </item>
-    <item>
-      <title>オウンドメディアのメリット13選｜広告費を削減し“売上資産”に変える！AI時代の運用戦略 - オウンドメディア戦略ラボ by はてな</title>
-      <link>https://www.hatena.ne.jp/ownedmedia/article/ownedmedia-merit</link>
-      <pubDate>2025/12/18 11:00</pubDate>
-      <description>※ この5%は実装・レビュー工程における割合です。プロジェクト全体で見ると、テスト計画の策定、AI への指示出し、テスト修正の依頼といったプロジェクトマネジメント業務を含めて、人間の関与は約30%となります。 特筆すべき点として、Devin による大量の Pull Request 作成（80%の実装）と Claude Code による品質向上（15%の改善）を組み合わせることで、開発速度と品質担保を両立できました。 Go 版の行数が増加（約1.7倍）した主な理由は以下の通りです： 明示的なエラーハンドリング: Go の if err != nil パターンによる詳細なエラー処理 型定義の追加: 構造体とインターフェイス定義による型安全性の向上 階層構造の導入: レイヤードアーキテクチャ（Handler/Service/Repository 層）による保守性の向上 1. プロジェクト概要：移</description>
-    </item>
-    <item>
-      <title>7割近くの学生が課題などにAI使用　避けられない教育現場、新時代の“学び”をどう評価するか</title>
-      <link>https://www.itmedia.co.jp/news/articles/2512/18/news116.html</link>
-      <pubDate>2025/12/18 17:18</pubDate>
-      <description>この記事は、NTT docomo Business Advent Calendar 2025 18日目の記事です。 みなさんこんにちは、イノベーションセンターの田口です。 普段はOffensive Securityプロジェクトのメンバーとして攻撃技術の調査・検証に取り組んでいます。 私たちのチームでは定期的に技術LTと称して、各メンバーが自由に技術的知見を共有する時間を設けています。 この記事では、私が技術LTの場で発表したAI駆動型マルウェア1の動作デモと、発表後のチーム内議論の様子について紹介します。 この記事では、AI駆動型マルウェアの概念を理解するために、実害のないデモ用PoCを作成してその挙動を確認しています。 また、PoC悪用の可能性を考慮して検証の中で作成したコードやプロンプトの全体公開は控えさせていただきます。 Offensive Securityプロジェクトについて AI</description>
-    </item>
-    <item>
-      <title>The State of AI Coding 2025 | Greptile</title>
-      <link>https://www.greptile.com/state-of-ai-coding-2025</link>
-      <pubDate>2025/12/18 07:30</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/4e8c37a1303d649e6a61313b62ad192d2a89293d/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2072%2F339%2Fyajiuma-watch_1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>国会答弁作成に専用AI「源内」　政府が全職員に配布　負担軽減狙う - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGKKZO93316370Z11C25A2PD0000/</link>
-      <pubDate>2025/12/19 08:12</pubDate>
-      <description>そもそも開発工程において、多くの組織ではコーディング時間がボトルネックになったことはこれまでも実はありませんでした。コードを書くことよりも、要件定義、仕様把握、設計、実装により発見した課題への対処、レビュー等といったことに時間がかかっていました。 コーディングエージェントの登場によってボトルネックが取り除かれたように思いがちだが、そもそもコーディングがボトルネックだったことはない / “Writing Code Was Never The Bottleneck” https://t.co/avmbSq8cw4 — Takuto Wada (@t_wada) September 6, 2025 ■AIのインパクトが大きいのはコード以外の仕事Atlassianの2025 State of DevEx Survey（開発者体験調査） で、下記の内容が出ています。 開発者は16%しかコーディングし</description>
     </item>
   </channel>
 </rss>
