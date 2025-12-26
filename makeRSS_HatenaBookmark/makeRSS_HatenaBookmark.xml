@@ -5,6 +5,74 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>みのもんたさん、ＡＩの姿で「クイズ＄ミリオネア」登場決定　２代目・二宮和也と２ショット実現「みのさんも見届けてほしい」 - スポーツ報知</title>
+      <link>https://hochi.news/articles/20251224-OHT1T51002.html</link>
+      <pubDate>2025/12/24 11:08</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? この投稿は、私が所属するKDDIテクノロジーで行っているアドベントカレンダーの12月23日分の記事となります。他の記事はこちらです。 本エントリーはGoogleが公開しているNotebookLMを用いて、60ページを超える登壇資料を作成した記録を残したものとなります。取り組みから得られた知見や、苦労した点を共有したくてエントリーさせてもらいました。 なお、本稿は嶋是一個人の見解に基づくものであり、所属団体およびその組織の総意を代表するものではありません。また本文中に引用されている自動生成されたスライドは、生成過程の説明のためのスライドサ</description>
+    </item>
+    <item>
+      <title>「壁打ち」をして「壁」を作ろう</title>
+      <link>https://zenn.dev/dress_code/articles/b085b7826f1c56</link>
+      <pubDate>2025/12/25 00:05</pubDate>
+      <description>今回はLLMから数理最適化ソルバーを呼び出す 数理最適化MCP（ReMIP MCP） とそれを使ったデモを作ったので紹介します。 数理最適化MCPについては、先日開催されたDevFest Tokyo 2025のLTでも紹介しました。 MCPクラインアント側で、以下のように設定すると使えます（実験的に作っている段階なのでnpmパッケージとして公開はしていません）。 { &amp;quot;mcpServers&amp;quot;: { &amp;quot;remip-mcp&amp;quot;: { &amp;quot;command&amp;quot;: &amp;quot;npx&amp;quot;, &amp;quot;args&amp;quot;: [ &amp;quot;-y&amp;quot;, &amp;quot;github:ohtaman/remip-mcp&amp;quot;, &amp;quot;--start-remip-server&amp;quot; ] } } } デモは Streamlit のチャットアプリで、AIに自然言語で依頼すると、自動的に数理最適化問題に定式化して解いてくれるものです。LLMモデルは Gemini、数理最適化のソルバー</description>
+    </item>
+    <item>
+      <title>Elon Musk Could &amp;#39;Drink Piss Better Than Any Human in History,&amp;#39; Grok Says</title>
+      <link>https://www.404media.co/elon-musk-could-drink-piss-better-than-any-human-in-history-grok-says/</link>
+      <pubDate>2025/12/24 13:18</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+          </description>
+    </item>
+    <item>
+      <title>ビジネスパーソンの6割「画像生成AI、週に1回は業務に利用」　アドビ調査</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/24/news085.html</link>
+      <pubDate>2025/12/24 17:47</pubDate>
+      <description>本記事では2025年に特に注目を集めた、5つのAI駆動開発ツールの導入背景や活用事例を、Findy Toolsにお寄せ頂いた69社・82件のレビュー記事を元にまとめました。気になった事例については、各レビュー記事で詳細をご覧いただけます。ツール選定や更なる活用のアイディアとしてご参照いただければ幸いです。 ※ 各ツールの導入企業の声は、Findy Toolsにレビューが投稿された時点の情報になります。予めご了承ください GitHub CopilotGitHub Copilotは、GitHub上のリポジトリ全体を学習したコンテキストに基づき、インラインでのコード補完やチャット回答を行う事が特徴です。2025年のアップデートでは「自動モデル選択（Auto model selection）」機能が導入され、タスクの難易度に応じて最適なモデルが自動で割り当てられます。 VS Code、Visual</description>
+    </item>
+    <item>
+      <title>NVIDIAがAI半導体スタートアップ・Groqとのライセンス契約に合意、契約規模は約3兆円で過去最大の取引か</title>
+      <link>https://gigazine.net/news/20251225-nvidia-buy-groq-for-about-20-billion/</link>
+      <pubDate>2025/12/25 11:14</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/efad59a5857d8d07fd2e88954451e7207c5e10d1/height=288;version=1;width=512/https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fimg%2Fktw%2Flist%2F2074%2F558%2F03.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>NVIDIA、推論チップ開発企業Groqとライセンス契約を締結</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2074307.html</link>
+      <pubDate>2025/12/25 12:31</pubDate>
+      <description>Gemini Enterprise 徹底解説！Gemini 3 で実現する Agentic AI の企業実装 こんにちは、Google の AI「Gemini（ジェミニ）」公式 note 編集部です。 多くの企業で生成 AI の導入が進みましたが、現場からはこんな声も聞こえてきます。「チャットボットは便利だけど、業務プロセス全体が変わったわけではない」「結局、AI で作った文章をコピペして、別のシステムに登録する手作業が残っている」。 もし日々の業務が「チャット → コピペ → 手作業」で止まっているなら、そこにはまだ改善の余地があります。 次に求められるのは、単に対話するだけの AI から、実際の業務プロセスを自律的に実行する「Agentic AI（エージェント型 AI）」への進化です。 今回は、最新モデル Gemini 3 の登場によってその能力がさらに加速した、Google の組織用</description>
+    </item>
+    <item>
+      <title>AIを禁止して気づいた エンジニアの基礎体力 - Qiita</title>
+      <link>https://qiita.com/nakaharayuto/items/cc169738fe1124a7c859</link>
+      <pubDate>2025/12/22 09:08</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>Claude Codeアドベントカレンダー: 24 Tipsまとめ</title>
+      <link>https://zenn.dev/oikon/articles/cc-advent-calendar</link>
+      <pubDate>2025/12/26 08:58</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9be318f20220c4d8235e8f69cc4b9774a8f66c8d/height=288;version=1;width=512/https%3A%2F%2Fav.watch.impress.co.jp%2Fimg%2Favw%2Flist%2F2073%2F370%2F5.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>FDE募集開始から半年の振り返りと2026年の展望</title>
+      <link>https://tech.layerx.co.jp/entry/fde-2025E</link>
+      <pubDate>2025/12/26 10:11</pubDate>
+      <description>誰が話してる？ AI好きな2人でお届けしています。 ・あやみ（https://x.com/ayami_marketing） ・かずま（https://x.com/books_kazuma） 最新動向をウォッチしている人以外にも、AIを身近に感じられるコンテンツを作りたいと思いPodcastを始めました。 エピソードの内容を記事にしてお送ります。 NotebookLMは多機能になりすぎた 今回はNotebookLMの後編です。 前回は基本的な使い方やGeminiとの使い分けについて話しましたが、今回は具体的な機能の総ざらいと、私たちの実際のユースケースを紹介していきます。 最近のNotebookLMはちょっと多機能になりすぎていて、いろんなことができるようになっています。これを機にぜひ整理して、改めて使いこなしてもらえればと思います。 NotebookLMの基本構造：ノートとソース まず基本</description>
+    </item>
+    <item>
+      <title>検索の減少・SEO死亡説は誤り 多くのデータで探るSEOと検索エンジンの今とこれから - Web &amp;gt; SEO</title>
+      <link>https://webweb.hatenablog.com/blog/seo/search-2025</link>
+      <pubDate>2025/12/26 14:25</pubDate>
+      <description>エンジニア採用・組織づくりのトレンド予測2026〜CEO/CTOが&amp;quot;AI活用推進&amp;quot; vs&amp;quot;生産性が上がらない組織&amp;quot;のジレンマと戦う1年〜 生成AIの進化スピードについていけるか、開発組織のAI対応がCTOだけでなくCEOのイシューにAI活用の中でも最も進化が早い領域がエンジニアが担うコーディング領域ではないでしょうか。日進月歩の言葉通り、新しいツールの誕生、進化を含めてすごいスピードで進んでいます。 先日、Findyが主催したAI Engineering Summit Tokyo 2025で登壇したCursorのVP of Developer ExperienceであるLee氏が講演で語っていた話では、2025年だけで「最も良いツール」が7回変わったとのことでした。 同カンファレンス内で、ZOZOのCTOそのっつさんの登壇セッションでは「社内でできる限り多くのAIツールを使えるようにしてお</description>
+    </item>
+    <item>
       <title>「新規事業のセンスない」と言われた僕が、初めてARR1億円を超えたときの話｜大野峻典 | Algomatic CEO</title>
       <link>https://note.com/ono_shunsuke/n/n44019b9c661f</link>
       <pubDate>2025/12/25 12:19</pubDate>
@@ -1826,66 +1894,6 @@
       <link>https://zenn.dev/globis/articles/21034710f4b6d7</link>
       <pubDate>2025/12/18 15:47</pubDate>
       <description>政府は2025年度中に中央省庁に生成AI（人工知能）ツールを本格導入する。デジタル庁が25年に開発した行政向けAI基盤「源内」を全職員に配布する。国会審議での政府答弁の作成などに活用する。事務作業を効率化し、職員の負担軽減につなげる。高市早苗首相が19日、首相官邸で開くAI戦略本部の会合で省庁での本格的なAIの運用開始を表明する。5月にデジタル庁など一部で先行導入した生成AIの業務活用を全省庁</description>
-    </item>
-    <item>
-      <title>「AIが駆け出しの開発者に取って代わることができない3つの理由」をAWSのCEOが説明</title>
-      <link>https://gigazine.net/news/20251219-ai-cannot-replace-junior-developers/</link>
-      <pubDate>2025/12/19 07:02</pubDate>
-      <description>TOPインタビュー「AIと協働して書いた35万字の書籍」が示す未来とは。広木大地氏が考える“AI時代のエンジニアの生存戦略” 一般社団法人 日本CTO協会 理事 / 株式会社レクター 代表 広木 大地 2008年に株式会社ミクシィに入社。同社メディア開発部長、開発部部長、サービス本部長執行役員を務めた後、2015年退社。株式会社レクターを創業。技術経営アドバイザリー。著書『エンジニアリング組織論への招待』がブクログ・ビジネス書大賞、翔泳社技術書大賞受賞。一般社団法人日本CTO協会理事。朝日新聞社社外CTO。 AIの発展によって、エンジニアリングやソフトウェアのあり方はどのように変わっていくのか――2025年11月に刊行された『AIエージェント 人類と協働する機械』（リックテレコム社）は、その問いに正面から向き合った一冊。著者は『エンジニアリング組織論への招待』（技術評論社）を手掛けた広木大</description>
-    </item>
-    <item>
-      <title>【やってみる】 Claude Codeで実現するSNS誹謗中傷対策 - 4人のペルソナで効果を検証してみた - Insight Edge Tech Blog</title>
-      <link>https://techblog.insightedge.jp/entry/defamation-countermeasures</link>
-      <pubDate>2025/12/19 09:08</pubDate>
-      <description>The great AI hype correction of 2025 GPT-5ローンチ失敗、 企業95%が成果出せず … 転換期を迎えたAIブーム ChatGPT登場から3年、生成AIが転換点を迎えた。GPT-5は期待外れ、企業の95%がAI導入で価値を見出せず、元オープンAIの主任科学者も限界を認める。バブルの懸念もあるが、期待値を調整し、技術を現実的に評価する好機と捉えるべきだ。 by Will Douglas Heaven2025.12.19 3 この記事の3つのポイント オープンAIのGPT-5が期待を下回る性能で登場し、AI業界に幻滅の空気が広がった 企業のAI導入率は頭打ちで95％が価値を見出せず、誇大宣伝への反動が顕在化 研究は活発化しており、期待値修正を経てAI技術の真の価値創出段階に移行中 summarized by Claude 3 いくらかの幻滅は避けられない運</description>
-    </item>
-    <item>
-      <title>リーダーは技術者が良いか否か</title>
-      <link>https://zenn.dev/livetoon/articles/b6b696841b604e</link>
-      <pubDate>2025/12/19 09:54</pubDate>
-      <description>こんにちは。ぐるなびでバックエンド開発を担当している小林です。 この記事では、AWS CDKの変更差分（cdk diff）をGitHub Modelsを用いて自動的に要約し、プルリクエストにコメントとして通知するCI/CDパイプラインの構築方法を解説します。 IaC（Infrastructure as Code）運用において、cdk diff は変更内容を確認するための生命線です。しかし、大規模な変更やIAMポリシーの修正が含まれる場合、出力される生の差分（JSON/YAML）は膨大で読みづらく、レビューの心理的ハードルを上げる原因になります。 今回紹介する方法は、この「diffが長すぎて辛い」という課題に対し、AIを活用してレビューを効率化する一つのアプローチです。 ただし、あらかじめお伝えしておきたい重要な点があります。この方法は「銀の弾丸」ではありません。 AIモデルには入力できる文</description>
-    </item>
-    <item>
-      <title>医療業界で突然LLMを使ってくれと言われたら</title>
-      <link>https://zenn.dev/livetoon/articles/ba4536e4722187</link>
-      <pubDate>2025/12/19 13:20</pubDate>
-      <description>2014年から先端テクノロジーの研究を論文単位で記事にして紹介しているWebメディアのSeamless（シームレス）を運営し、執筆しています。 この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第124回）は、API経由でクローズド大規模言語モデル（LLM）にDoS攻撃できる手法「ThinkTrap」や、論文からコードを生成するAI「DeepCode」を取り上げます。 また、動かしたい軌跡を指定するだけで画像から動画を生成するAI「Wan-Move」と、ブラウザ上でリアルタイムに3DGSを表示できるプラットフォーム「Visionary」をご紹介します。 そして、生成AIウィークリーの中でも特に興味深いAI技術や研究にスポットライトを当てる「生成AIクローズアップ」では、AIエージェントと人間のサイバーセキュリティ専門家が実際のネットワー</description>
-    </item>
-    <item>
-      <title>ゴリラが派手に破壊するためのアルゴリズム 〜よく知られたアルゴリズムをゲーム開発へ応用する時の考え方〜 - KAYAC Engineers&amp;#39; Blog</title>
-      <link>https://techblog.kayac.com/gorilla-crash-algorithm</link>
-      <pubDate>2025/12/16 10:06</pubDate>
-      <description>この記事は CyberAgent Developers Advent Calendar 2025 の17日目の記事です。 こんにちは！ハノイ開発センターに所属しているminhquangです。普段はAI事業本部の協業リテールメディアカンパニーで、小売企業様向けアプリ開発のバックエンド開発を担当しています。 CyberAgentではエンジニア一人あたり200ドルの開発AIエージェント費用サポートが全社展開されました。私のチームでも半年ほど前からCursorやClaude CodeやCodexなどのAIツールを導入しています。導入後、チーム全体のコミット数が導入前の約2倍になり、AIエージェントによる生産性向上の効果が数字としても表れています。 一方で、コード量が倍増したことにより、レビュー負荷も跳ね上がりました。それに対し、エンジニアのレビューに割く工数を2倍にするような対応はしづらいので、こ</description>
-    </item>
-    <item>
-      <title>「Gemini」対「Copilot」--日常タスクで7番勝負、勝敗の行方は？</title>
-      <link>https://japan.zdnet.com/article/35241640/</link>
-      <pubDate>2025/12/16 13:00</pubDate>
-      <description>OpenAIは2025年12月17日に、新しい画像生成モデル「GPT Image 1.5」を搭載した新バージョンの「ChatGPT Images」をリリースしました。この新モデルは、ゼロからの画像生成だけでなく、既存の写真の編集においてもユーザーの意図をより確実に反映できるよう設計されています。 The new ChatGPT Images is here | OpenAI https://openai.com/index/new-chatgpt-images-is-here/ OpenAI’s new flagship image generator AI is here | The Verge https://www.theverge.com/ai-artificial-intelligence/845558/openais-new-flagship-image-generation-</description>
-    </item>
-    <item>
-      <title>Prompt caching: 10x cheaper LLM tokens, but how? | ngrok blog</title>
-      <link>https://ngrok.com/blog/prompt-caching/</link>
-      <pubDate>2025/12/18 17:07</pubDate>
-      <description>この記事ははてなエンジニアアドベントカレンダー2025の15日目の記事だ。遅くなってすみません。 qiita.com HNSWというデータ構造がある。 en.wikipedia.org このデータ構造は、あるクエリした点からの（近似的な）近傍のデータを求めるのに最適化されている。なにが近傍かというと、高次元なベクトル空間における距離（距離空間が定義できればなんでもよいはず）が近い、という意味だ。 埋め込みベクトル便利だね 距離の話は簡単なことで、たとえば、3次元ベクトルでは典型的にはユークリッド距離が入れられてユークリッド空間として近いか遠いかを考えられるようになる。 そして、最近は埋め込みベクトルが一般的な技術として浸透してきた。これは文章や画像などの特徴を1000次元くらいの実数ベクトルに押し込んでしまうものだ。 次元がいくら増えてもベクトル同士の距離が定義できることに変わりはないし、</description>
-    </item>
-    <item>
-      <title>Overview - Agent Skills</title>
-      <link>https://agentskills.io/home</link>
-      <pubDate>2025/12/19 07:24</pubDate>
-      <description>そもそも開発工程において、多くの組織ではコーディング時間がボトルネックになったことはこれまでも実はありませんでした。コードを書くことよりも、要件定義、仕様把握、設計、実装により発見した課題への対処、レビュー等といったことに時間がかかっていました。 コーディングエージェントの登場によってボトルネックが取り除かれたように思いがちだが、そもそもコーディングがボトルネックだったことはない / “Writing Code Was Never The Bottleneck” https://t.co/avmbSq8cw4 — Takuto Wada (@t_wada) September 6, 2025 ■AIのインパクトが大きいのはコード以外の仕事Atlassianの2025 State of DevEx Survey（開発者体験調査） で、下記の内容が出ています。 開発者は16%しかコーディングし</description>
-    </item>
-    <item>
-      <title>ブラウザだけで高速かつ無限に文章・音声・画像のAIを使う事ができるGemini Nanoを試してみる</title>
-      <link>https://zenn.dev/finatext/articles/236a27fa78817d</link>
-      <pubDate>2025/12/17 10:25</pubDate>
-      <description>「夜のブルーオーシャン」における AI エージェント稼働率が差別化された生産性となること、夜に行うべきタスクと遂行するための &amp;quot;FRONTIER AGENTS&amp;quot; を紹介しています。</description>
-    </item>
-    <item>
-      <title>意外と便利なNano Banana🍌</title>
-      <link>https://qiita.com/b-mente/items/b62ba6b073c8b77860b4</link>
-      <pubDate>2025/12/16 09:19</pubDate>
-      <description>※この記事は、2025 Speee Advent Calendar 18 日目の記事です。昨日の記事はこちら はじめに こんにちは、DX 事業本部でエンジニアをしている 22 新卒の高島です。社内ではたかてぃーと呼ばれています。 大学院では機械学習の研究をしていましたが、入社後は既存プロダクトの保守運用や新規事業のアプリケーション開発を経験しました。2024 年 11 月からは、不動産領域で AI/LLM を活用した R&amp;amp;D プロジェクトをリードしています。 この 1 年間、AI エージェントに関する研究開発に取り組んできましたが、決して順調ではありませんでした。特に最初の半年間は、成果が見えない苦しい時期が続きました。 本記事では、私が R&amp;amp;D プロジェクトで試行錯誤した経験と、そこから見えてきた「地に足をつける進め方」についてまとめます。 こんな方に向けて書いています： ゴールが曖昧な</description>
     </item>
   </channel>
 </rss>
