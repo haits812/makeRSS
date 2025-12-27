@@ -5,6 +5,54 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>仕事を断れない優しい人が自分を守りながら働くための仕事整理術を解説した書籍が発売／『ヒトもAIも仕事は“引き受け方”が9割　断らずに信頼されるための仕事整理術』【Book Watch/ニュース】</title>
+      <link>https://forest.watch.impress.co.jp/docs/bookwatch/news/2073014.html</link>
+      <pubDate>2025/12/24 17:37</pubDate>
+      <description>新規事業って、どうすれば上手くいくのかわからない。 これは、僕だけじゃなく、スタートアップの代表も、事業責任者も、多くの人が抱えている普遍的なモヤモヤではないかと思います。 僕はいま、自身2度目の起業となるAlgomaticというスタートアップで、仲間と一緒に新規事業を同時多発的に立ち上げています。 もちろん、その中には失敗もたくさんありますが、昨年度は、営業AIエージェント「アポドリ」や、採用AIエージェント「リクルタAI」や、小さな検証も含めると12個のサービスをリリースしました。 なぜこのスピードで、事業の種を作れているのか。 それは、僕が最初に起業した会社での「ある失敗と気づき」が、今の僕の行動指針になっているからです。 「新規事業のセンスないと思う」1社目の会社で新しい事業をつくろうとしていたとき、僕は「新規事業のセンスがない」と言われたことがありました。 当時、人材領域でサービ</description>
+    </item>
+    <item>
+      <title>楽天モバイルがついに1000万回線を突破、三木谷会長「単なる通過点、次は衛星とAIで世界を変える」</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/2074558.html</link>
+      <pubDate>2025/12/25 19:22</pubDate>
+      <description>Web エンジニアが JavaScript で AI Agent を作る / JSConf JP 2025 sponsor session</description>
+    </item>
+    <item>
+      <title>【Google Gemini】Gemのカスタム指示のベストプラクティス</title>
+      <link>https://zenn.dev/mavericks/articles/creating-custom-gems-with-gemini</link>
+      <pubDate>2025/12/25 08:49</pubDate>
+      <description>AIアクセラレータを開発する半導体企業のGroqが、Groqの推論技術に関してNVIDIAと非独占ライセンス契約を締結したと発表しました。この契約の一貫として、Groqの創設者兼CEOであるジョナサン・ロス氏やサニー・マドラ社長をはじめとするGroqの主要幹部はNVIDIAに合流します。 Groq and Nvidia Enter Non-Exclusive Inference Technology Licensing Agreement to Accelerate AI Inference at Global Scale | Groq is fast, low cost inference. https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreem</description>
+    </item>
+    <item>
+      <title>GitHub - openai/skills: Skills Catalog for Codex</title>
+      <link>https://github.com/openai/skills</link>
+      <pubDate>2025/12/26 06:48</pubDate>
+      <description>OpenAIがChatGPT向けに、「Skills」と呼ばれる新機能のテストを実施していることが報じられました。これはAnthropicがClaudeで提供している同名の機能に類似したもので、特定の能力やワークフロー、あるいは特定の分野に関する知識をAIに教え込むための、フォルダーベースの指示セットです。 OpenAI is reportedly testing Claude-like Skills for ChatGPT https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/ Skills are also coming to ChatGPT (codename &amp;quot;hazelnuts&amp;quot;), avail</description>
+    </item>
+    <item>
+      <title>自分の中で「録音」の意味が変わった1年 by西田 宗千佳</title>
+      <link>https://av.watch.impress.co.jp/docs/topic/pb2025/2073370.html</link>
+      <pubDate>2025/12/26 09:11</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに この記事は「新人にAIを使わせるべきか」というよくある議論に対して、 エンジニア1年目の自分が AIを使っていた時期 と 使わなかった時期 を比較し、 どのような変化があったのかを実体験ベースでまとめた成長記録です。 新人にAIは使わせない方がいいという意見がある一方で、 成長が速くなるのでAIは積極的に使うべきだ、という意見もありますが 今回、この議論について実体験から感じた結論を書いてみます。 ※ちなみに本内容にてProgate BARに登壇しました 【増枠】AIでスキルとキャリアを加速する！- Progate BAR 若</description>
+    </item>
+    <item>
+      <title>AI BPO - Ambient Agent(アンビエントエージェント) + Human in the Loopで実現するAIエージェントの新標準｜福島良典 | LayerX</title>
+      <link>https://comemo.nikkei.com/n/n76970e72afde</link>
+      <pubDate>2025/12/26 17:28</pubDate>
+      <description>多くの国で、ネットショッピングで届いた商品に不備があった場合には、返品や返金が可能です。 しかし、その「購入者保護」の仕組みを逆手に取った詐欺行為が、いま中国で深刻な問題になっています。 中国では近年、人工知能（AI）を使って商品写真を劣化したように加工し、「壊れて届いた」と偽って返金を求める行為が相次いで報告されています。 果物や衣類、日用品まで幅広い商品が対象となっており、出品者だけでなく、電子商取引（EC）プラットフォーム全体の信頼性を揺るがす事態となっています。 目次 中国で、届いた商品の写真をAIで加工し、粗悪品として返金を求める詐欺が横行AI詐欺による対策は進んでいるのか？AI時代の相互不信の構図とは？ 中国で、届いた商品の写真をAIで加工し、粗悪品として返金を求める詐欺が横行 今回問題になっている詐欺の最大の特徴は、商品そのものではなく、「証拠写真」が偽造されている点にありま</description>
+    </item>
+    <item>
+      <title>2025　増田文学300</title>
+      <link>https://anond.hatelabo.jp/20251227014745</link>
+      <pubDate>2025/12/27 02:57</pubDate>
+      <description>勉強を始めた当初、模試のスコアは 600点でした。 そこから、仕事終わりに1日1時間の勉強を3ヶ月続け、 TOEIC 875点 を取ることができました！！！ この過程で、TOEICひいては英語力を身につけるための &amp;quot;最強勉強法&amp;quot; がマジで分かっちゃいました。 そこで、本記事ではそのときに辿り着いた勉強法と考え方を共有したいと思います！ そもそもエンジニアにとって英語力は必要なのか エンジニアに英語力が必要な理由は、いくつもあります。 良い技術情報ほど英語で書かれている 価値の高い情報ほど、最初に英語で公開されます。日本語情報は劣化コピーになりがち です。読解力がつくと判断が速く、正確になります。 エンジニア市場は実質「グローバル市場」 高単価な仕事、面白いプロダクトは英語前提 になりやすい(全世界をターゲットにできるため)です。英語ができないだけで、最初から選べない仕事やポジションが増えて</description>
+    </item>
+    <item>
+      <title>「バイブコーディング」は崩壊する？　CursorのCEOが“AI丸投げ開発”に警告</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/27/news041.html</link>
+      <pubDate>2025/12/27 10:27</pubDate>
+      <description>自分以外全部AI版のはてブみたいなの作ったらみんな使ってくれる？ 反対意見もいい感じに生成して、それに対する論破が星を集めて気持ち良くなれるようにしてさ こういうサービスって需要あるんかな</description>
+    </item>
+    <item>
       <title>書評や要約は「圧縮」ではなく「変換」であり、「変換」に価値がある。 - じゃあ、おうちで学べる</title>
       <link>https://syu-m-5151.hatenablog.com/entry/2025/12/23/111651</link>
       <pubDate>2025/12/23 15:57</pubDate>
@@ -1849,57 +1897,6 @@
       <link>https://gigazine.net/news/20251218-google-gemini-3-flash-released/</link>
       <pubDate>2025/12/18 11:48</pubDate>
       <description>As I write this post, cached input tokens are 10x cheaper in dollars per token than regular input tokens for both OpenAI and Anthropic&amp;#39;s APIs. Anthropic even claim that prompt caching can reduce latency &amp;quot;by up to 85% for long prompts&amp;quot; and in my own testing I found that for a long enough prompt, this is true. I sent hundreds of requests to both Anthropic and OpenAI and noticed a substantial reducti</description>
-    </item>
-    <item>
-      <title>ZoomのAIが「最先端のベンチマークを達成した」と発表するも専門家は「他社AIの寄せ集め」と批判の声</title>
-      <link>https://gigazine.net/news/20251218-zoom-ai/</link>
-      <pubDate>2025/12/18 12:51</pubDate>
-      <description>そもそも開発工程において、多くの組織ではコーディング時間がボトルネックになったことはこれまでも実はありませんでした。コードを書くことよりも、要件定義、仕様把握、設計、実装により発見した課題への対処、レビュー等といったことに時間がかかっていました。 コーディングエージェントの登場によってボトルネックが取り除かれたように思いがちだが、そもそもコーディングがボトルネックだったことはない / “Writing Code Was Never The Bottleneck” https://t.co/avmbSq8cw4 — Takuto Wada (@t_wada) September 6, 2025 ■AIのインパクトが大きいのはコード以外の仕事Atlassianの2025 State of DevEx Survey（開発者体験調査） で、下記の内容が出ています。 開発者は16%しかコーディングし</description>
-    </item>
-    <item>
-      <title>｢ChatGPTで稼げる人｣と｢勝負もさせてもらえない人｣がとりあえず明らかに</title>
-      <link>https://www.gizmodo.jp/2025/12/openai_chatgpt_app_submission_reqirements.html</link>
-      <pubDate>2025/12/18 21:08</pubDate>
-      <description>A simple, open format for giving agents new capabilities and expertise. Agent Skills are folders of instructions, scripts, and resources that agents can discover and use to do things more accurately and efficiently. Why Agent Skills? Agents are increasingly capable, but often don’t have the context they need to do real work reliably. Skills solve this by giving agents access to procedural knowledg</description>
-    </item>
-    <item>
-      <title>文章が溢れる時代に、最後は人に戻っていく - Sakak&amp;#39;s Gadget Blog</title>
-      <link>https://sakak.hatenablog.com/entry/2025/12/18/183646</link>
-      <pubDate>2025/12/18 18:51</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/ca8eaebc5edf593aa610df3502f792f10048d364/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2072%2F149%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Claude Codeの Agent Skills は設定したほうがいい - じゃあ、おうちで学べる</title>
-      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/19/173309</link>
-      <pubDate>2025/12/19 19:34</pubDate>
-      <description>カーネル開発に刺激は求めない ―Linus TorvaldsがOpen Source Summit Japan 2025で語ったLinux開発のこだわり 12月9日、Linux Foundation主催の「Open Source Summit Japan」の会場となった東京・虎ノ門ヒルズのフロアは早朝から多くの人々であふれていました。参加者のお目当ては2年ぶり[1]の来日となった“⁠Linux ＆ Gitクリエーター⁠”ことLinus Torvalds氏と聞き手役のDirk Hohndel氏（Verison所属、以下Dirk）によるトークセッションです。 2年ぶりの日本でのトーク、Linus Torvalds氏（左）とDirk Hohndel氏 めったにインタビューやキーノートに登壇することがないLinusのリアルな声を聞くことができる貴重な機会である本セッションは今回で29回目、東京は他</description>
-    </item>
-    <item>
-      <title>No AI* Here - A Response to Mozilla&amp;#39;s Next Chapter - Waterfox Blog</title>
-      <link>https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/</link>
-      <pubDate>2025/12/19 16:43</pubDate>
-      <description>生成AIを活用したQA工数削減の試み。スクエニと東大・松尾研究室の共同研究を紹介するセッションをレポート［CEDEC+KYUSHU 2025］ ライター：大陸新秩序 2025年11月29日，福岡・九州産業大学にてコンピューターエンターテイメント開発者向けのカンファレンス「CEDEC＋KYUSHU 2025」が開催された。本稿では，その中から「生成AIが切り開くゲームプレイAIの新境地とゲーム開発への活用」と題されたセッションをレポートする。 スクウェア・エニックスのAI＆エンジン開発ディビジョンに所属する狩野竜示氏と城所 憲氏，そして東京大学 松尾・岩澤研究室の奥村悠希氏の3名が登壇したこのセッションでは，ゲームAI研究の歴史と最新の研究，そしてスクウェア・エニックスと東京大学の共同研究による，ゲームプレイAIエージェントの実験結果などの解説が行われた。 スクウェア・エニックス AI＆エン</description>
-    </item>
-    <item>
-      <title>私が生み出したGemini Gemたちをご紹介します</title>
-      <link>https://zenn.dev/genda_jp/articles/1706acefe03af8</link>
-      <pubDate>2025/12/20 11:03</pubDate>
-      <description>2025-12-17 社内向け LT 資料（公開版） Socrates : 社内向けデータ分析 LLM エージェント</description>
-    </item>
-    <item>
-      <title>個人図解、Nano Banana Proに任せたらここまでできた｜このみ｜生成AI × SNS講師</title>
-      <link>https://note.com/konomi_aisensei/n/n4b74bfd1ced0</link>
-      <pubDate>2025/12/15 22:21</pubDate>
-      <description>12月18日、AIコードレビュー／検索ツールを提供する Greptile が「State of AI Coding 2025」 と題したレポートを公開した。 本レポートは、Greptile が収集した GitHub 上の実開発データをもとに、AI コーディングツールがソフトウェア開発に与えている影響を定量的に分析した調査レポートである。 PR サイズや変更行数、SDK の利用状況など、感覚論ではなく 数字で語っている点が特徴だ。 AIは生産性を上げたのか？ レポートによると、AI コーディングツールの普及以降、 PR あたりの変更行数は約 30% 増 開発者 1 人あたりのアウトプットは約 76% 増 6〜15 人規模のチームでは最大 89% 増 という結果が示されている。 注目すべきは、単にコミット回数が増えたのではなく、 1 回の PR がより大きく、より多くの作業を含むようになった</description>
-    </item>
-    <item>
-      <title>What Actually Is Claude Code’s Plan Mode?</title>
-      <link>https://lucumr.pocoo.org/2025/12/17/what-is-plan-mode/</link>
-      <pubDate>2025/12/19 16:54</pubDate>
-      <description>Claude Codeを使い始めて、様々な発信をしてきました。今回は「Agent Skills」について。これも設定しておくと、Claude Codeがグッと使いやすくなる機能です。 Claude Code の settings.json は設定した方がいい - じゃあ、おうちで学べる Claude Code の CLAUDE.mdは設定した方がいい - じゃあ、おうちで学べる Claude Code の .claude/commands/**.md は設定した方がいい - じゃあ、おうちで学べる Claude CodeのHooksは設定したほうがいい - じゃあ、おうちで学べる Claude CodeのSubagentsは設定したほうがいい - じゃあ、おうちで学べる はじめに 「このプロジェクトではpython-pptxを使ってスライドを作って」「SQLは必ずこのフォーマットで書いて」</description>
     </item>
   </channel>
 </rss>
