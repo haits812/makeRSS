@@ -5,6 +5,42 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>GitHub、「Copilotメモリ」をGitHub Copilot Pro/Pro+プランでパブリックプレビュー提供開始 ——エージェントをより活用するためにリポジトリのコンテキストを記憶 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/12/copilot-memory</link>
+      <pubDate>2025/12/23 08:04</pubDate>
+      <description>2025年12月24日 18:00更新 Galen Hunt氏はLinkedinnに補足を追加しています。Hunt氏によると、彼のプロジェクトはあくまでプログラミング言語間での移行を可能にする先行研究を目的としているとのことで、将来的にWindows 11などにRustが全適用されるわけではないと補足説明をしています。 MicrosoftのWindows 11をはじめとする多くのソフトウェアは、1985年に登場した初代WindowsからCおよびC++言語で開発されています。カーネル部分は主にC言語、GUIコンポーネントはC++で記述されていますが、MicrosoftはこのCおよびC++言語で書かれたプログラムについて、AIを使って2030年までにすべてをRustへ書き換えることを目指しているようです。 MicrosoftがWindows 11含むすべてのプログラムからCとC++言語を廃止を</description>
+    </item>
+    <item>
+      <title>Alibaba、画像を複数レイヤーに分解、編集できるAIモデル「Qwen-Image-Layered」をオープンソースとしてリリース | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/12/qwen-image-layered</link>
+      <pubDate>2025/12/23 23:05</pubDate>
+      <description>sponsored 日本マイクロソフトのハッカソン「GitHub Copilot Quest」をレポート レガシーアプリをGitHub Copilotでハックせよ！ 若手SIerらがモダナイゼーションチャレンジ sponsored 2026年こそ健康的な生活を送りたい貴方！ 今回のセールでスマートウォッチ買いましょう　さらにイヤホンも！ 年末年始はスマートウォッチを始める大チャンス！ バッテリー長持ちが魅力のファーウェイ製品、どれが買いか教えます sponsored MSI「Claw A8 BZ2EM」レビュー 15万円でここまで快適プレイ！Ryzen Z2 Extreme搭載ポータブルゲーミングPCの実力を検証。ジャンル別の設定も教えます sponsored 要注目のULTRA PLUSブランドから高リフレッシュレートモデルが登場！ 27型WQHD液晶ゲーミングモニターは今が買い！ 18</description>
+    </item>
+    <item>
+      <title>Rustは生成AI時代の覇権言語になる説</title>
+      <link>https://zenn.dev/ryugotoo/articles/691c08f844a5e1</link>
+      <pubDate>2025/12/24 09:29</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? あっという間に1年が過ぎ去ろうとしています。 今年もGemini(nano banana)/OpenAI/ClaudeによってSREやソフトウェアエンジニアの現場は本当に大きく流れが変わりました。 昨年は補助的なコーディングやデバッグに留まるケースが多かったですが、今では主は生成AIに任せつつ、人間はより上流の役割や最終判断に回ることが多くなりました。 これにより多くのエンジニアリングの現場は体験が向上したと思います。また引き続きそこに対して、企業は大きな投資を実行していくでしょう。 一方で... 開発体験向上に対してどこまで投資してい</description>
+    </item>
+    <item>
+      <title>Visual Studio 2026 で GitHub Copilot 用の設計ドキュメントを整備するときの注意点</title>
+      <link>https://zenn.dev/microsoft/articles/github-copilot-vs2026</link>
+      <pubDate>2025/12/26 18:51</pubDate>
+      <description>Vue Fes Japan 2025レポート ～Evan Youが描く⁠⁠、JavaScript開発ツールの理想郷 2025年11月、東京で開催された「Vue Fes Japan 2025⁠」⁠。7回目を迎える日本最大のVueカンファレンスには、過去最多となる800人超の開発者が集まった。オープニングでは、今年はブランドロゴ刷新などのリブランディングが行われ、VueやNuxtに限らないより包括的な祭典であることが強調された。 本記事では当日の様子をダイジェストで紹介する。 Keynote Vue Vite Update（Evan You氏） KeynoteではVue.js/Viteの作者でありVoidZeroのCEOであるEvan You氏が、Vue.jsエコシステムとビルドツールチェーンの最新動向について発表を行った。 Evan You氏 Vueは今、非常に安定し、成熟したフレームワーク</description>
+    </item>
+    <item>
+      <title>散在する社内ドキュメントをNotebookLMで「話せるマニュアル」に変える | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/turn-scattered-internal-documents-into-a-talkable-manual-with-notebooklm/</link>
+      <pubDate>2025/12/27 09:42</pubDate>
+      <description>【ニューヨーク=谷本克之】購買履歴や所得などに基づき個別に価格を設定する「パーソナライズドプライシング」の規制議論が米国で広がる。ニューヨーク州は11月、全米で初めて規制を始めた。人工知能（AI）による行き過ぎた個人データの活用で、物価高騰や消費者に不利益な扱いが広がることへの警戒が強まっている。【この記事のポイント】・郵便番号など個人データで価格設定・Mac利用者には高いホテル料金提示・信用スコアが低い人に不利益の恐れ</description>
+    </item>
+    <item>
+      <title>統計から異常検知まで 〜実践につながる学習ロードマップ〜 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/12/practical-knowledge-for-anomaly-detection</link>
+      <pubDate>2025/12/27 13:13</pubDate>
+      <description>こんにちは。IT企業で人材育成・組織開発をやりつつAI活用推進もやっているうえむらです。本記事では、Gemini3以降に書かれた記事のうち、特に参考になった記事（Xでの紹介時にインプレッション数1万以上、100いいね以上）を厳選してご紹介します。 はじめに: Gemini3の衝撃2025年11月に登場したGemini3.0はビジネスシーンに大きな影響をもたらしました。 テキストやスライドに加えて画像、音声、動画をシームレスに扱うマルチモーダル機能の強化、複雑な文脈を理解した上で多角的に思考する推論能力の向上、素早い応答と深い思考をシーンに沿って直感的に使い分ける処理速度の最適化。 Google Workspaceの各アプリにGeminiが自然な形で共存していることも見逃せません。結果として、日々の仕事の多くをGeminiと共に過ごす場面が増えています。 まずはGemini3.0によって新た</description>
+    </item>
+    <item>
       <title>無人戦闘機に「ヒトのこころ」は必要か？ 世界が直面「AIにどこまで任せるか問題」 決めなければ“とんでもないリスク”に!? | 乗りものニュース</title>
       <link>https://trafficnews.jp/post/617947</link>
       <pubDate>2025/12/23 10:07</pubDate>
@@ -1858,45 +1894,6 @@
       <link>https://qiita.com/mu7kata/items/c325740e4710120b0963</link>
       <pubDate>2025/12/20 06:10</pubDate>
       <description>この記事は？本記事は研究コミュニティ cvpaper.challenge Advent Calendar 2025の19日目の記事です。 筆者は修士卒業後に8年程度企業で働いたあとに、退職して博士課程進学するという、トチ狂…思い切った決断をした。何年か企業で働いた後に退職して博士課程進学（以後「退職D進」と呼ぶ）することは、修士から直接進学する場合と比較して、何が良さそうなのか、どういったことが辛いのかを書いていく。D進する人もしない人も、参考になれば幸いである。 ちなみに、ヘッダー画像はChatGPTで生成した。 補足情報のため、筆者のキャリアの概説を下に記す。 修士時代: 理学研究科物理学専攻。修士論文は「 DFTという材料シミュレーションを使った電池の研究」的なもの。 電子部品メーカー新卒就職: 電池の部署もDFTの部署もあり、どちらなのか楽しみだった。しかし、なぜか化学実験系の部署</description>
-    </item>
-    <item>
-      <title>生成AI時代に&amp;quot;読書すること&amp;quot;の価値を考える。 - 世界のねじを巻くブログ</title>
-      <link>https://www.nejimakiblog.com/entry/ai-era-book-reading-meaning-dokusho</link>
-      <pubDate>2025/12/20 23:50</pubDate>
-      <description>こんにちは、Ubieの橋山です。 この記事は「Ubie 生成AI Advent Calendar 2025」12/20の投稿です。 本稿ではその続編として、この構想がどのように設計・実装されているかという具体的な試行錯誤についてお話しします。 目標設定時の情報収集を楽にしたいUbieには「変化進化会」という、目標設定や成長について所属組織のLeadと対話する場があります。その準備として、過去の活動を振り返る作業があるのですが、なんとかこれを効率化できないかというのが事の発端でした。 そこで、すでに社内で活用が進んでいた JIRA / Notion / Slack の情報が取得できるMCPサーバーを経由して、振り返りの情報を「よしなに」取得するワークフローを作りました。 MCPツールを使って社内の情報を収集するワークフロー（抜粋）情報の取得精度が低いしかし、出力された情報はおおまかにはその人</description>
-    </item>
-    <item>
-      <title>AI時代の異常系テストについて考える - じゃあ、おうちで学べる</title>
-      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/16/102227</link>
-      <pubDate>2025/12/16 11:11</pubDate>
-      <description>APIの状況 本記事執筆時点(2025年12月現在)でChromeの最新バージョンは 143.0.7499.110 となっており、既にChromeではTranslator API，Language Detector API、Summarizer APIが実験的な機能として使用できる状況です。 Writer API、Rewriter API、Prompt API、Proofreader APIを使用した機能を提供したい場合は、Chrome Origin Trialに参加する必要があります。 https://developer.chrome.com/docs/ai/built-in-apis?hl=ja より APIを動かしてみる フラグの有効化 現時点でオリジントライアルに参加が必要なAPIを動作させるには、Chromeウェブブラウザのフラグを有効化する必要があります。 chrome://f</description>
-    </item>
-    <item>
-      <title>AIデータセンター建設反対集会に100人以上が集結</title>
-      <link>https://gigazine.net/news/20251217-against-ai-data-center/</link>
-      <pubDate>2025/12/17 20:39</pubDate>
-      <description>AI has transformed how we write code. The next transformation is how we run it. At Vercel, we’re building self-driving infrastructure that autonomously manages production operations, improves application code using real-world insights, and learns from the unpredictable nature of production itself. Our vision is a world where developers express intent, not infrastructure. Where ops teams set princi</description>
-    </item>
-    <item>
-      <title>楽天、7000億パラメータの日本語LLM「Rakuten AI 3.0」</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2072366.html</link>
-      <pubDate>2025/12/18 17:58</pubDate>
-      <description>こんにちは。LINEヤフーのFoundation Models研究開発チームです。われわれのチームでは、画像と言語のマルチモーダル基盤モデルの研究開発を行っています。 この記事ではわれわれが開発した日本語マルチモーダル基盤モデル「clip-japanese-base-v2」について紹介します。弊チームでは以前「clip-japanese-base」を公開しましたが、今回は学習データと学習方法の改善によって高性能化したモデルを公開します。商用利用可能なApache-2.0 ライセンスで公開していますので、ぜひ気軽にご利用ください。 公開するリソース：clip-japanese-base-v2 はじめに CLIPは画像と言語の代表的なマルチモーダル基盤モデルで、インターネットから収集した大規模データで学習することでゼロショットでの分類や検索が可能となりました。高い汎用性と拡張性をもつCLIPは</description>
-    </item>
-    <item>
-      <title>開発工数の8割減を実現させた「バイブコーディング」実装論、ジュニアエンジニアが上流工程をこなす新しい開発フローとは？</title>
-      <link>https://codezine.jp/article/detail/22685</link>
-      <pubDate>2025/12/19 12:51</pubDate>
-      <description>Jeff GeerlingのBlogより macOS 26.2から、Thunderbolt 5対応MacをThunderbolt 5ケーブルで複数台接続し、クラスタリング処理を可能にする「RDMA over Thunderbolt」が搭載されています。 プログラマのJeff Geerling氏が、Appleから借りた、32コアCPU、80コアGPUのMac Studio (2025)/M3 Ultra/256GBメモリ/4TB SSDを2台、Mac Studio (2025)/M3 Ultra/512GBメモリ/8TB SSDを2台の合計4台を使用し、RDMA over ThunderboltをサポートしたAIクラスタを構築できる「EXO 1.0」を使用したレポートを公開しています。 RDMA を有効にするには、回復モードで起動し、次のコマンドを実行する必要があります。 ・Mac Stud</description>
-    </item>
-    <item>
-      <title>仕様書だけが降ってきた――「自治体システム標準化」で現場の混乱を招いた“完成図なき改革”</title>
-      <link>https://www.itmedia.co.jp/business/articles/2512/19/news029.html</link>
-      <pubDate>2025/12/19 08:55</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b373dd3602b7d933aca714ada0a6a68bd3732687/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2072%2F780%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
     </item>
   </channel>
 </rss>
