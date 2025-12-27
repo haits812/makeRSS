@@ -5,6 +5,42 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Googleの親会社AlphabetがAIの推進力強化のため電力インフラのIntersect Powerを買収</title>
+      <link>https://gigazine.net/news/20251223-alphabet-acquire-intersect/</link>
+      <pubDate>2025/12/23 12:14</pubDate>
+      <description>今回はLLMから数理最適化ソルバーを呼び出す 数理最適化MCP（ReMIP MCP） とそれを使ったデモを作ったので紹介します。 数理最適化MCPについては、先日開催されたDevFest Tokyo 2025のLTでも紹介しました。 MCPクラインアント側で、以下のように設定すると使えます（実験的に作っている段階なのでnpmパッケージとして公開はしていません）。 { &amp;quot;mcpServers&amp;quot;: { &amp;quot;remip-mcp&amp;quot;: { &amp;quot;command&amp;quot;: &amp;quot;npx&amp;quot;, &amp;quot;args&amp;quot;: [ &amp;quot;-y&amp;quot;, &amp;quot;github:ohtaman/remip-mcp&amp;quot;, &amp;quot;--start-remip-server&amp;quot; ] } } } デモは Streamlit のチャットアプリで、AIに自然言語で依頼すると、自動的に数理最適化問題に定式化して解いてくれるものです。LLMモデルは Gemini、数理最適化のソルバー</description>
+    </item>
+    <item>
+      <title>LLMの「内部表現」を可視化する：Gemma Scope 2を用いたアニメ・漫画領域での安全性メカニズム検証｜CyberAgent AI事業本部公式note</title>
+      <link>https://note.com/cyberagent_ai/n/n111eaa3b772c</link>
+      <pubDate>2025/12/26 22:52</pubDate>
+      <description>Podcast こんにちは、Amebaのデザインシステム「Spindle」でテックリードをしている原 (@herablog) です。 本記事では「Spindle 2025」と題し、今年の変化と具体的な取り組みを振り返ります。 ※ 本文は2025年時点の活動を振り返った内容のため、現在の状況とは一部異なる場合があります。 2024年から2025年への変化 2024年までの Spindle は、「人と人の協業」を軸に、ブランドガイドラインやデザイントークン、UIライブラリを整備してきました。特に UI ライブラリでは、デザイナーとエンジニアが Design Doc を共に作り、実装・運用まで進めることで、職種をまたいだコミュニケーションの円滑化に注力してきました。 2025年からは、この流れに AI が本格的に加わりました。要件整理や事例収集、デザイン案や命名支援、Design Doc のドラ</description>
+    </item>
+    <item>
+      <title>Mac利用者に高いホテル料金…　AI提案の個人別価格、NY州が規制 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUF170DK0X11C25A2000000/</link>
+      <pubDate>2025/12/27 06:26</pubDate>
+      <description>立場はぼかすけど、もう限界に近い。例もミックスするけど介護疲れとかの事案ね。あれマジで酒飲まないとやってられん。 法廷って独特の埃っぽい匂いがすんのよ。その中で、被告人の爺さんが小さくなって座ってるわけ。 調書見ればわかるよ。10年だよ？10年以上。下の世話して、徘徊止めて、自分も体壊して。行政の窓口に行っても「申請主義なんで」とか何とか言われて追い返されて。そんで最後、極限の選択に迫られた。 それに対して、あの黒い服着た裁判官が最後に何て言ったと思う？ 「お母様も、あなたが罪を償って生きることを望んでいますよ」 は？お前、苦労した人生の先輩に対して、どのツラ下げてそれ言ってんの？ 壇上の「高いところ」から見てる育ちの良いお前に何がわかるの？ 「罪を償う」とかそういう次元じゃねーだろ。 それを、さも「自分が魂を救済しました」みたいな聖人顔で説諭垂れてんじゃねえよ。 お前がその爺さんの立場な</description>
+    </item>
+    <item>
+      <title>【Gemini／NotebookLM】Gemini3以降で業務に役立つ生成AI実践記事13選｜うえむら</title>
+      <link>https://note.com/uemura_hr/n/n6e775ec0cc0b</link>
+      <pubDate>2025/12/27 11:16</pubDate>
+      <description>散在し検索しにくい社内ドキュメントを、Google NotebookLMを活用して一本化する方法についてまとめます。AIを用いた資料の統合手順から、表記揺れにも強い対話型検索の構築、管理者・社員双方のメリットについて触れています。 利用されにくい社内ドキュメント 社内ドキュメントが十分に活用されない背景として、多くの場合、以下の2つの要素がありえます。 情報の散在による視認性の低下　歴史的経緯でPDFやドキュメントが継ぎ足され、どのファイルが最新の情報なのか判別しにくい状況です。 キーワード検索のハードル　リモートワークについて調べたいのに、規程に含まれる語句が「在宅勤務」であるためにヒットしないなど、同義語や類義語では目的の情報に辿り着けないケースがあります。 こうした課題へのアプローチとして、GoogleのNotebookLMを 情報の統合 および 対話型の検索エンジン として利用して</description>
+    </item>
+    <item>
+      <title>AIエージェントのためのコンテキストエンジニアリング：Manus構築から得た教訓｜Manus 公式（マナス）</title>
+      <link>https://note.com/manusai_jp/n/n3ceacf089164</link>
+      <pubDate>2025/12/27 11:06</pubDate>
+      <description>年末年始のような長期休みを利用して、データサイエンスを体系的に学び直したいと考えている方も多いのではないでしょうか。 「データサイエンスの核となる知識は何か？」と聞かれたら、多くの方は統計学（statistics）と答えると思います。一方で、 統計の本は読んだが、実務でどう使えばいいかわからない 数式や理論は理解したつもりだが、応用のイメージが湧かない と感じた経験がある方も少なくないはずです。 このような統計の知識を実務に結びつける応用先としておすすめなのが、異常検知（anomaly detection）です。こちらの記事でも紹介したように、異常検知は製造業・セキュリティ・金融・医療などの幅広い分野で活用されており、統計的な考え方を実践的に学ぶ題材としても非常に適しています。 筆者が2025年10月に刊行した『まるごと学べる 異常検知の実践知』も、このような統計理論を「理解する」だけでな</description>
+    </item>
+    <item>
+      <title>2025年、AI時代の要件定義について考える - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2025/12/27/140231</link>
+      <pubDate>2025/12/27 17:19</pubDate>
+      <description>現代ではさまざまな労働分野でAIが普及しており、2025年の調査では88％の企業が少なくとも1つの業務で定期的にAIを使用し、約3分の1がAIプログラムの規模拡大を開始していると回答しています。しかし、AIにかけられる高い期待にもかかわらずAIの導入が失敗し、結果的にコスト増大に直面する企業も増えているとのこと。不用意なAI導入が裏目に出る理由について、南オーストラリア大学のマーケティング学講師であるGediminas Lipnickas氏が解説しました。 The ‘doorman fallacy’: why careless adoption of AI backfires so easily https://theconversation.com/the-doorman-fallacy-why-careless-adoption-of-ai-backfires-so-easily-26</description>
+    </item>
+    <item>
       <title>GitHub、「Copilotメモリ」をGitHub Copilot Pro/Pro+プランでパブリックプレビュー提供開始 ——エージェントをより活用するためにリポジトリのコンテキストを記憶 | gihyo.jp</title>
       <link>https://gihyo.jp/article/2025/12/copilot-memory</link>
       <pubDate>2025/12/23 08:04</pubDate>
@@ -1858,42 +1894,6 @@
       <link>https://gihyo.jp/article/2025/12/chatgpt-images-with-gpt-image-1.5</link>
       <pubDate>2025/12/17 17:54</pubDate>
       <description>パソコン専門店で購入制限客 「値段がアホみたいに上がってる。どうしたもんかな」 「何倍にも高くなっていて、手が届きにくくなっている」 パソコン販売の聖地・秋葉原。今年の師走の風は、特に冷たく感じられます。 店頭には「1日お一人様につき4枚まで」とメモリー製品の購入制限の貼り紙が貼ってあります。 このパソコン専門店では、買い占めや転売を防ぐため、メモリー製品の販売数を制限する事態に至っています。 容量が多ければ多いほどパソコンの処理スピードが上がり、性能に大きな影響を持つメモリー。今、急激に高騰しているのです。 ドスパラの運営会社　サードウェーブ 永井正樹社長 「3カ月前に比べ約3倍になった。急激に上がったのは、この1カ月。なるべく多くのお客様に利用してほしいので、購入制限をしている」 3カ月で3倍の値上げという異常事態。中には、5倍近く上昇したメモリーもあります。 価格を見て、あぜんとする</description>
-    </item>
-    <item>
-      <title>Your job is to deliver code you have proven to work</title>
-      <link>https://simonwillison.net/2025/Dec/18/code-proven-to-work/</link>
-      <pubDate>2025/12/19 00:36</pubDate>
-      <description>こんにちは、スーパーマーケットが大好きなコンサルティング部の神野です。 クラスメソッド AI駆動開発 Advent Calendar 2025、18日目の記事です！ 今回はClaude Codeのカスタムスラッシュコマンドについての記事です。普段はAgentCoreの話ばかりしていますが、今日はAI駆動開発がテーマということで、カスタムスラッシュコマンドがコーディング以外の定型作業でも便利だった話を紹介したいと思います。 カスタムスラッシュコマンド カスタムスラッシュコマンドは、定義しておくと /command のように呼び出し可能で、毎回同じプロンプトを書かずとも、一連のプロンプトを読みこませてAIにタスクを実行させることができる機能です。 ソースコードの変更状況を読み取ってPRを作成するコマンドなどがよく例として挙げられますが、ふと「これってコーディング以外でも繰り返しする作業に使える</description>
-    </item>
-    <item>
-      <title>2025年11月くらいのAWS最新情報ブログとかをキャッチアップする – AWSトレンドチェック勉強会用資料 - その2 | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/aws-trendcheck-202511-2/</link>
-      <pubDate>2025/12/16 13:55</pubDate>
-      <description>こんにちは、Insight Edge アジャイル開発チームのk-kazukiです。 Insight Edge アドベントカレンダー、Insight Edge Advent Calendar 2025 の19日目です！ 今回の記事では、近年増加しているSNSの誹謗中傷の課題について、生成AIを利用して対策できないかをClaude Codeを用いて検証してみました。 本記事には検証用の架空の誹謗中傷サンプルが含まれます（実在の人物とは無関係です）。 不快な表現が含まれるためご注意ください。過激な部分は伏せ字（⚪︎⚪︎）または「&amp;lt;生命を脅かす表現&amp;gt;」と表記しています。 1. SNSにおける誹謗中傷の課題について 2. Claude Codeを活用した誹謗中傷検知システムの構築 2.1 対象とするSNSについて 2.2 Claude Codeサブエージェントによる役割分担と実装 ユーザー体験シミュ</description>
-    </item>
-    <item>
-      <title>「AI歌手」誕生、思い立って3カ月でビルボード1位　音楽は誰のものか - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUF1106J0R11C25A2000000/</link>
-      <pubDate>2025/12/19 11:47</pubDate>
-      <description>自己紹介 お世話になっております。 練馬区区政改革担当部区政改革担当課区政改革担当係（GovTech東京派遣研修）のイケダと申します。 「いきなり誰だお前は」「なんだその仰々しい肩書きは」となると思いますが、肩書のとおりわたしは練馬区役所の職員として今年１年間GovTech東京へ研修という形でお邪魔している身分でございます。 なんの変哲もない文系大学を卒業し練馬区へ入庁、福祉部で窓口業務を４年間、そのあと教育委員会にて補助金給付業務に２年間携わり、７年目になる今年、GovTech東京へ派遣、という職歴となっております。 「GovTech（ガブテック）」とは「Government」と「Technology」が掛け合わさった言葉です。そう、わたしは「GovTech東京」の”Gov”と”東京”の部分はぼちぼちの経験がありますが”Tech”の部分は全くの門外漢です。今の肩書きこそ強そうですが、これ</description>
-    </item>
-    <item>
-      <title>MUSUBI ではじめる仕様駆動開発入門 - Vibe CodingからSDD（Specification Driven Development）へ - Qiita</title>
-      <link>https://qiita.com/hisaho/items/322d0b21779d312318db</link>
-      <pubDate>2025/11/18 06:28</pubDate>
-      <description>2025 has been a strong and eventful year of progress in LLMs. The following is a list of personally notable and mildly surprising &amp;quot;paradigm changes&amp;quot; - things that altered the landscape and stood out to me conceptually. 1. Reinforcement Learning from Verifiable Rewards (RLVR)At the start of 2025, the LLM production stack in all labs looked something like this: Pretraining (GPT-2/3 of ~2020) Supervi</description>
-    </item>
-    <item>
-      <title>ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード</title>
-      <link>https://www.gizmodo.jp/2025/12/openai-defaults-free-users-to-cheapest-model-to-cut-back-on-costs.html</link>
-      <pubDate>2025/12/20 04:18</pubDate>
-      <description>会議では日本で初めてとなるAI基本計画案が取りまとめられた。高市首相はAI関連施策の推進に1兆円規模の投資を行う方針も表明。物理法則を理解し、ロボットを制御する「フィジカルAI」を念頭に、国産の汎用基盤モデルの開発に向けた企業と連携するよう赤沢亮正経済産業大臣に指示した。 関連記事 「ガバメントAI」って何？　デジタル庁が解説動画を公開 デジタル庁は、政府が活用するAI基盤「ガバメントAI」を解説するYouTube動画を公開した。 生成AIはマーケティングにどう使える？　博報堂DYグループが考える3つの事例 博報堂DYホールディングスが、生成AIとクリエイティビティについて考える同連載。今回は「AIが変革するマーケティングの新しい顧客体験」と題し、同社が取り組むマーケティングにおける、AIとクリエイティブワークの新しい形を紹介する。 デジ庁、「国産LLM」の公募開始　行政向けAIに実装へ</description>
-    </item>
-    <item>
-      <title>意外と知らない！？Claude Codeで使える小技集 - Qiita</title>
-      <link>https://qiita.com/mu7kata/items/c325740e4710120b0963</link>
-      <pubDate>2025/12/20 06:10</pubDate>
-      <description>この記事は？本記事は研究コミュニティ cvpaper.challenge Advent Calendar 2025の19日目の記事です。 筆者は修士卒業後に8年程度企業で働いたあとに、退職して博士課程進学するという、トチ狂…思い切った決断をした。何年か企業で働いた後に退職して博士課程進学（以後「退職D進」と呼ぶ）することは、修士から直接進学する場合と比較して、何が良さそうなのか、どういったことが辛いのかを書いていく。D進する人もしない人も、参考になれば幸いである。 ちなみに、ヘッダー画像はChatGPTで生成した。 補足情報のため、筆者のキャリアの概説を下に記す。 修士時代: 理学研究科物理学専攻。修士論文は「 DFTという材料シミュレーションを使った電池の研究」的なもの。 電子部品メーカー新卒就職: 電池の部署もDFTの部署もあり、どちらなのか楽しみだった。しかし、なぜか化学実験系の部署</description>
     </item>
   </channel>
 </rss>
