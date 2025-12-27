@@ -5,6 +5,20 @@
     <description>https://prtimes.jp/index.rdfから特定のキーワードを含む記事を提供します。</description>
     <link>https://prtimes.jp/index.rdf</link>
     <item>
+      <title>小中学校における生成AI活用の実態を調査</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000524.000036930.html</link>
+      <description>[学校法人先端教育機構]
+社会人向け総合専門職大学院 社会構想大学院大学（学校法人先端教育機構、東京都港区、学長：吉國浩二）の中川哲教授と上越教育大学大学院の榊原範久教授の研究チームは、生成AIの教育利用に関する実態調査を実施...</description>
+      <pubDate>2025-12-27T13:15:20+09:00</pubDate>
+    </item>
+    <item>
+      <title>『生成AI投資の教科書』（著：ジョン・シュウギョウ）読書会開催に関するお知らせ</title>
+      <link>https://prtimes.jp/main/html/rd/p/000000139.000158730.html</link>
+      <description>[少数株ドットコム株式会社]
+少数株ドットコム株式会社（本社：東京都練馬区、代表取締役会長：山中 裕）は、ジョン・シュウギョウ著『生成AI投資の教科書』（ソーテック社）をテーマとした読書会を、練馬政治研究会および民事８部監視委員会...</description>
+      <pubDate>2025-12-27T14:15:17+09:00</pubDate>
+    </item>
+    <item>
       <title>動画生成AI「NoLang」、ホテル・観光業界へ本格展開。既存の観光記事やホテルの資料を多言語対応された動画へと変換し、集客力向上およびフロント業務削減を実現</title>
       <link>https://prtimes.jp/main/html/rd/p/000000075.000129953.html</link>
       <description>[Mavericks Inc.]
@@ -2127,20 +2141,6 @@ AI/InfoSec統括部 エンゲージメント推進室 Executive AI Director 川�
       <description>[日本ナレッジ株式会社]
 [画像1: https://prcdn.freetls.fastly.net/release_image/39167/20/39167-20-70c84ad552efec3a20fc818d4c157a98-800x342.jpg?width=536&amp;amp;amp;quality=85%2C75&amp;amp;amp;format=jpeg&amp;amp;amp;auto=webp&amp;amp;amp;fit=bounds&amp;amp;amp;...</description>
       <pubDate>2025-11-21T16:40:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>GMOグローバルサイン「電子印鑑ソリューションDSS byGMO」が「Anyflow Embed」と連携、バックオフィス業務のDXを加速</title>
-      <link>https://prtimes.jp/main/html/rd/p/000005131.000000136.html</link>
-      <description>[GMOインターネットグループ]
-　GMOインターネットグループのGMOグローバルサイン・ホールディングス株式会社の連結企業群で、電子認証サービスを展開するGMOグローバルサイン株式会社（代表取締役社長：中條 一郎　以下、GMOグローバルサイン...</description>
-      <pubDate>2025-11-21T16:40:02+09:00</pubDate>
-    </item>
-    <item>
-      <title>野村総合研究所とTDAI Lab、生成AIを活用した社会調査に関する共同研究を開始</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000021.000050703.html</link>
-      <description>[株式会社TDAI Lab]
-株式会社野村総合研究所（以下「NRI」）と株式会社TDAI Lab（以下「TDAI Lab」）は、生成AIを活用した社会調査・世論分析に関する共同研究を2025年10月に開始しました。両社は、これまで培ってきたアンケート調査...</description>
-      <pubDate>2025-11-21T13:23:51+09:00</pubDate>
     </item>
   </channel>
 </rss>

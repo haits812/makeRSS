@@ -5,6 +5,66 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>無人戦闘機に「ヒトのこころ」は必要か？ 世界が直面「AIにどこまで任せるか問題」 決めなければ“とんでもないリスク”に!? | 乗りものニュース</title>
+      <link>https://trafficnews.jp/post/617947</link>
+      <pubDate>2025/12/23 10:07</pubDate>
+      <description>GitHub⁠⁠、「Copilotメモリ」をGitHub Copilot Pro/Pro+プランでパブリックプレビュー提供開始 —⁠—エージェントをより活用するためにリポジトリのコンテキストを記憶 GitHubは2025年12月19日、エージェントをより活用するために、リポジトリごとのコードのコンテキストを記憶する「Copilotメモリ」をGitHub CopilotのPro/Pro+プランのユーザー向けにパブリックプレビューとして提供を開始した。 Copilot memory early access for Pro and Pro+ - GitHub Changelog What is Copilot memory - GitHub Community Copilotメモリを使用すると、エージェントはリポジトリのコードベースから学習して、その固有の情報（アーキテクチャ、命名規則、コーデ</description>
+    </item>
+    <item>
+      <title>Gemini Enterprise 徹底解説！Gemini 3 で実現する Agentic AI の企業実装｜Gemini - Google の AI</title>
+      <link>https://note.com/google_gemini/n/nb7be1d6582b6</link>
+      <pubDate>2025/12/25 15:30</pubDate>
+      <description>はじめに GeminiのGem機能は、特定のタスクに特化したAIアシスタントを作成できる非常に強力な機能です。 しかし、いざ自分だけのGemを作ろうとすると、どのような指示（プロンプト）を書けば意図通りに動作するのか迷ってしまうことがあります。 プロンプトエンジニアリングという言葉があるように、AIへの指示出しにはコツが必要だと思われがちだからです。 この記事では、そうした悩みを解決するための、より効率的で確実なアプローチを紹介します。 なお、こちらの記事で私がよく使っているGemたちを紹介しています！！ この記事で伝えたいこと↓↓↓ 全体像解説 Geminiにカスタム指示を作らせる カスタムGemを作成する際、必ずしも最初から完璧な命令文を人間が記述する必要はありません。 自分がGeminiを通じて実現したいことの概要をGeminiに伝え、それをAIが解釈しやすい形式（システムプロンプト</description>
+    </item>
+    <item>
+      <title>OpenAIはChatGPT向けにClaudeのSkillsに似た機能をテストしている</title>
+      <link>https://gigazine.net/news/20251225-openai-chatgpt-skills/</link>
+      <pubDate>2025/12/25 21:43</pubDate>
+      <description>アニメ「呪術廻戦」の製作委員会は12月25日、呪術廻戦の素材を無断使用したゲームアプリが各ゲームプラットフォーム上で配信されているとして注意喚起した。プラットフォームに配信停止を申し入れるなど「厳正に対処」するとしている。 製作委員会のポストではアプリ名を公表していないが、Xユーザーの間で問題のゲームとみられているのは「呪術覚醒：呪いの力」というアプリ。Google Playではデベロッパー名が異なる2つの同名アプリが存在し、いずれも呪術廻戦とみられる素材を使用している。 一方、App Storeでは「呪術覚醒」というアプリは確認できないものの、同じアイコンを使用した「特級呪術師」というアプリなどがあった。これらのアプリは著作権表記がないか、あっても原作者名や集英社の名前が入っていない。 製作委員会は「上記ゲームアプリケーションにおける『呪術廻戦』関連コンテンツの素材使用、また、『呪術廻戦</description>
+    </item>
+    <item>
+      <title>「AIで作ったやつも表彰されるのかぁ」という声が生々しい…『探偵！ナイトスクープ』で放送された「AIに頼りすぎる12歳の娘」が神回だと話題に</title>
+      <link>https://togetter.com/li/2643026</link>
+      <pubDate>2025/12/26 12:45</pubDate>
+      <description>この連載について これまでどの時代でも、時代に適応した者だけが生き残ってきました。 テクノロジーの急速な進化、経済見通しの不透明さ、地政学リスクの顕在化、そして前例なき気候変動――。これまでの経験や常識が通用しにくいこの時代は、まさに「新しい乱世」と言えるでしょう。 今、企業に求められているのは、混迷の中を生き抜いていくために必要な次の一手を見極める力です。 そのための羅針盤となるのが、経営とビジネスを根本から変革し得るエンタープライズITなのです。 本連載では、アイ・ティ・アールの入谷光浩氏（シニア・アナリスト）がエンタープライズITにまつわるテーマについて、その背景を深掘りしつつ全体像を分かりやすく解説します。「新しい乱世」を生き抜くためのITの羅針盤を、入谷氏とともに探っていきましょう。 生成AIの進化に加え、AIエージェントの実用化が現実のものになりつつあります。AIは、文章生成や</description>
+    </item>
+    <item>
+      <title>「AIフェスティバル」は単なる技術展示会ではない、“本気のAIで遊ぶ大人”の背中を見せてくれる／AIコミュニティを醸成する「AIの文化祭」は2026年、新たなスタートラインへ【特集・集中企画】</title>
+      <link>https://forest.watch.impress.co.jp/docs/special/2073746.html</link>
+      <pubDate>2025/12/26 09:15</pubDate>
+      <description>はじめに 本記事は、クラスメソッド AI駆動開発 Advent Calendar 2025の最終日の記事になります。 2025年は、AI駆動開発が本格的に始まった年でもあったと思います。生成AIによる開発プロセスの変革、すなわちAI駆動開発（AI-Driven Development: AIDD）は、一部のアーリーアダプターによる「実験」から、企業の競争力を左右する「標準装備」へとフェーズが変わってきました。 しかし、未だ多くの現場では、個人の活用や、検討段階に留まっている会社もあるのではないでしょうか。AI駆動開発は、個人の生産性向上だけでなく、全社で推進し、開発文化そのものをアップデートすることに本質があります。 本記事では、AI駆動開発を全社に浸透させ、組織の力に変えるための具体的な指針をクラスメソッドでの実践も踏まえて解説させていただきます。 1. 【組織】トップダウンとボトムアッ</description>
+    </item>
+    <item>
+      <title>GitHub Copilot Chat の Ask/Edit/Agent モードをコードレベルで理解して使い分ける</title>
+      <link>https://zenn.dev/openjny/articles/5487004a195051</link>
+      <pubDate>2025/12/26 21:41</pubDate>
+      <description>私流の表現をするなら「多くの問題は解かれるのを待っている状態」です。生成AIにはすでに多くの問題を解くケイパビリティがあり、問題のほうが解かれるのを待っています。ボトルネックはAIの地頭ではなく、AIにどうやって仕事の仕方を教えるか、という我々の方にあります。 この記事では、この課題を解決する実践的手法「AI BPO」について解説します。 なおAI BPOに関しては下記記事にて、今年の4月にも言及していますが、この1年の学びを入れて更にブラッシュアップしたものが本記事になります。 AI BPO -AIエージェント時代のスタンダードなビジネスモデルAI BPOとはAI BPO（AI Business Process Outsourcing）とは、AIエージェントが業務を自律的に実行し、人が確認・修正した最終アウトプットを返すサービス形態です。 LayerXでは、Ambient Agent（ア</description>
+    </item>
+    <item>
+      <title>【TOEIC600→875】仕事終わり1日1時間×3ヶ月で270点伸ばした“本当に効いたAI活用勉強法” - Qiita</title>
+      <link>https://qiita.com/shotaloss/items/3542e1d186e888c0482f</link>
+      <pubDate>2025/12/26 13:35</pubDate>
+      <description>AIコーディング前提の開発プロセスを仕組み化 はじめまして。松尾研究所の中川です。 AIコーディングを前提に、提案から開発・運用までを一気通貫で進めるスタイルは増えつつあります。弊社のプロジェクトでも、AIコーディングは単なる「補助」ではなく、開発プロセスの中核として扱われる場面も多くなってきました。 私も小規模体制で開発速度と品質を両立するために、Claude Codeの運用における 並列化・プロンプト運用・レビュー自動ループ・ナレッジ一元化・インストラクション（Skills） の5点を“仕組み”として作っています。 この記事では、Claude Code中心のAIコーディング手法をまとめます。 開発対象 Claude Codeの実務運用で開発したWebアプリ構成です。 フロントエンド： React + Vite + TypeScript バックエンド： FastAPI 非同期処理ワーカー</description>
+    </item>
+    <item>
+      <title>【山田祥平のRe:config.sys】 30年分のメールを集めたらローカルAI処理には絶望的な量だと言われて途方に暮れながら2025年が終わる</title>
+      <link>https://pc.watch.impress.co.jp/docs/column/config/2074919.html</link>
+      <pubDate>2025/12/27 08:06</pubDate>
+      <description>備考独断で決めた為おかしいのある前提で 「三大」「教えて」「ネタがすぎるやつ」「挙げてけ」「政治」は除外 増田の皆さま、良いお年を リンクランキングNoはてブ数リンク11610絶対に怒らない人の思考の仕方を教えてもらった話21435男がキャバクラに行く意味がわかった31242転職したら話し相手がいなかったんだけど41211東大卒だけど、チームみらいは苦手だ。51086人生単位で見て買ってよかったもの61049エンジニアってなんか性格悪い人多くね？7992おっさんどもに告ぐ。頼むから知り合い程度の独身女性を何回も食事に誘...8900 労働基準監督官だった頃の思い出9900 卒論指導してるんだが、色々ともう難しいかもしれない10898 ヤリチンを始めて、やめた11894 35歳 健康診断オールAだったけど脳梗塞で障害が残ったよ12883 ある日起きたら、片耳の聴力を失った話13882 仕事終</description>
+    </item>
+    <item>
+      <title>ブクマカ「AIが書いたか人間が書いたかなんでどうでも良くね？お気持ち？」←これ</title>
+      <link>https://anond.hatelabo.jp/20251227082315</link>
+      <pubDate>2025/12/27 08:37</pubDate>
+      <description>Podcast こんにちは、Amebaのデザインシステム「Spindle」でテックリードをしている原 (@herablog) です。 本記事では「Spindle 2025」と題し、今年の変化と具体的な取り組みを振り返ります。 ※ 本文は2025年時点の活動を振り返った内容のため、現在の状況とは一部異なる場合があります。 2024年から2025年への変化 2024年までの Spindle は、「人と人の協業」を軸に、ブランドガイドラインやデザイントークン、UIライブラリを整備してきました。特に UI ライブラリでは、デザイナーとエンジニアが Design Doc を共に作り、実装・運用まで進めることで、職種をまたいだコミュニケーションの円滑化に注力してきました。 2025年からは、この流れに AI が本格的に加わりました。要件整理や事例収集、デザイン案や命名支援、Design Doc のドラ</description>
+    </item>
+    <item>
+      <title>法廷のあの「高い場所」にいる奴ら、全員AIに変えてくれ</title>
+      <link>https://anond.hatelabo.jp/20251226210222</link>
+      <pubDate>2025/12/26 21:03</pubDate>
+      <description>AIコードエディタを手掛ける米Cursorの共同創業者でCEOのマイケル・トゥルエル（25）は、いわゆる「バイブコーディング」への過度な依存に警鐘を鳴らした。米Fortuneが12月25日（現地時間）付の記事で報じた。 同氏は、「バイブコーディングとは、AIを使ったコーディング手法を指し、目を閉じてコードを全く見ずに、AIにただプロダクトを作るように指示するだけです」と語り、こうしたAIに全てを任せてコードの中身を確認しない開発手法は、コードの論理構造がブラックボックス化する「不安定な基盤」を積み重ねることになり、規模が大きくなるにつれて「やがて崩れ始める」と述べた。 トゥルエル氏は、Fortune主催の「Fortune Brainstorm AI」カンファレンスで、生成AIの登場によってプログラミングの在り方が大きく変化していると説明した。AIにエンドツーエンドの作業を依頼できる場面は増</description>
+    </item>
+    <item>
       <title>仕事を断れない優しい人が自分を守りながら働くための仕事整理術を解説した書籍が発売／『ヒトもAIも仕事は“引き受け方”が9割　断らずに信頼されるための仕事整理術』【Book Watch/ニュース】</title>
       <link>https://forest.watch.impress.co.jp/docs/bookwatch/news/2073014.html</link>
       <pubDate>2025/12/24 17:37</pubDate>
@@ -1837,66 +1897,6 @@
           &lt;p class="entrylist-contents-thumb"&gt;
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/b373dd3602b7d933aca714ada0a6a68bd3732687/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2072%2F780%2F1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
-    </item>
-    <item>
-      <title>科学的発見のためにAI活用を促進するアメリカ政府の「ジェネシス・ミッション」にMicrosoft・Google・NVIDIA・OpenAI・AWS・AMDなど24社が参加</title>
-      <link>https://gigazine.net/news/20251219-us-genesis-mission-24-organizations/</link>
-      <pubDate>2025/12/19 23:11</pubDate>
-      <description>自己紹介 お世話になっております。 練馬区区政改革担当部区政改革担当課区政改革担当係（GovTech東京派遣研修）のイケダと申します。 「いきなり誰だお前は」「なんだその仰々しい肩書きは」となると思いますが、肩書のとおりわたしは練馬区役所の職員として今年１年間GovTech東京へ研修という形でお邪魔している身分でございます。 なんの変哲もない文系大学を卒業し練馬区へ入庁、福祉部で窓口業務を４年間、そのあと教育委員会にて補助金給付業務に２年間携わり、７年目になる今年、GovTech東京へ派遣、という職歴となっております。 「GovTech（ガブテック）」とは「Government」と「Technology」が掛け合わさった言葉です。そう、わたしは「GovTech東京」の”Gov”と”東京”の部分はぼちぼちの経験がありますが”Tech”の部分は全くの門外漢です。今の肩書きこそ強そうですが、これ</description>
-    </item>
-    <item>
-      <title>Google GeminiアプリでGoogleのAI生成動画を判別可能に、実際にやってみた</title>
-      <link>https://gigazine.net/news/20251219-google-ai-video-gemini-synth-id/</link>
-      <pubDate>2025/12/19 23:06</pubDate>
-      <description>AI企業のAnthropicは自動販売機に自社製AIを組み込んで経営を任せる「Project Vend」という実験を行っています。2025年6月の初期報告に続いて、2025年12月18日には機能改善などを取り入れたフェーズ2の実験結果が公開されました。また、実験にはウォール・ストリート・ジャーナルも参加しており、ジャーナリストらの独創的なプロンプトによってAIが混乱に陥ってしまう様子が報告されています。 Project Vend: Phase two \ Anthropic https://www.anthropic.com/research/project-vend-2 We Let AI Run a Vending Machine. It Lost All the Money. | WSJ - YouTube Project Vendはオフィスに設置するタイプの自動販売機にAI機能を加</description>
-    </item>
-    <item>
-      <title>データ活用 3.0 with Socrates</title>
-      <link>https://speakerdeck.com/na0/detahuo-yong-3-dot-0-with-socrates</link>
-      <pubDate>2025/12/19 12:26</pubDate>
-      <description>Parameters Tuning This page contains parameters tuning guides for different scenarios. List of other helpful links Parameters Python API FLAML for automated hyperparameter tuning Optuna for automated hyperparameter tuning Tune Parameters for the Leaf-wise (Best-first) Tree LightGBM uses the leaf-wise tree growth algorithm, while many other popular tools use depth-wise tree growth. Compared with</description>
-    </item>
-    <item>
-      <title>手書きの筆記体も認識してテキストに変換可能なOCRモデル「Mistral OCR 3」が登場</title>
-      <link>https://gigazine.net/news/20251219-mistral-ocr-3/</link>
-      <pubDate>2025/12/20 00:03</pubDate>
-      <description>高市早苗首相は19日、首相官邸で人工知能（AI）戦略本部の会議に出席した。AIの活用や開発に関する政府の方針となる初の基本計画をとりまとめた。首相は「AIをつくる官民投資を日本成長戦略における危機管理投資として力強く推進してほしい」と話した。政府方針として、AIに関連する施策へ国から1兆円を投資すると表明した。各国のAIの開発にふれ「日本の質の高いデータをいかし、信頼性を備えたAIを戦略的に開</description>
-    </item>
-    <item>
-      <title>2025 LLM Year in Review</title>
-      <link>https://karpathy.bearblog.dev/year-in-review-2025/</link>
-      <pubDate>2025/12/20 10:58</pubDate>
-      <description>はじめに 皆さんこんにちは！ 株式会社GENDA IT戦略部所属CorpEngのアサノです！ これは GENDA Advent Calendar 2025 シリーズ 2の18日目の記事です 今回は、私が生み出したGeminiのカスタムAI、「Gem」たちをご紹介します。 想定読者 ・Google Workspace　利用者 ・Gemini　利用者 実は、12月頭には ”もうGmailの未読は溜めない！「Workspace Studio」で始めるAI Workflowの第一歩” という大作記事を書き上げていました。 しかし、12/8に「Workspace Flows」が「Workspace Studio」へと名称変更されると同時に、書き上げた記事のコア部分であったWebhook送信のActionが無くなり、記事はお蔵入りとなったのでした。。（おのれ…ディケイド） 12/7には書き上げきってい</description>
-    </item>
-    <item>
-      <title>Claude Code の LSP サポート</title>
-      <link>https://azukiazusa.dev/blog/claude-code-lsp-support/</link>
-      <pubDate>2025/12/20 19:41</pubDate>
-      <description>会議では日本で初めてとなるAI基本計画案が取りまとめられた。高市首相はAI関連施策の推進に1兆円規模の投資を行う方針も表明。物理法則を理解し、ロボットを制御する「フィジカルAI」を念頭に、国産の汎用基盤モデルの開発に向けた企業と連携するよう赤沢亮正経済産業大臣に指示した。 関連記事 「ガバメントAI」って何？　デジタル庁が解説動画を公開 デジタル庁は、政府が活用するAI基盤「ガバメントAI」を解説するYouTube動画を公開した。 生成AIはマーケティングにどう使える？　博報堂DYグループが考える3つの事例 博報堂DYホールディングスが、生成AIとクリエイティビティについて考える同連載。今回は「AIが変革するマーケティングの新しい顧客体験」と題し、同社が取り組むマーケティングにおける、AIとクリエイティブワークの新しい形を紹介する。 デジ庁、「国産LLM」の公募開始　行政向けAIに実装へ</description>
-    </item>
-    <item>
-      <title>政府、AIに1兆円投資へ　基盤モデル国産化やフィジカルAI実装めざす - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA194VB0Z11C25A2000000/</link>
-      <pubDate>2025/12/19 22:36</pubDate>
-      <description>2025-12-17 社内向け LT 資料（公開版） Socrates : 社内向けデータ分析 LLM エージェント</description>
-    </item>
-    <item>
-      <title>SwiftUIで「推し活カレンダー」アプリを作ってみた - iimon TECH BLOG</title>
-      <link>https://tech.iimon.co.jp/entry/2025/12/20/080000</link>
-      <pubDate>2025/12/20 14:37</pubDate>
-      <description>2025 has been a strong and eventful year of progress in LLMs. The following is a list of personally notable and mildly surprising &amp;quot;paradigm changes&amp;quot; - things that altered the landscape and stood out to me conceptually. 1. Reinforcement Learning from Verifiable Rewards (RLVR)At the start of 2025, the LLM production stack in all labs looked something like this: Pretraining (GPT-2/3 of ~2020) Supervi</description>
-    </item>
-    <item>
-      <title>NVIDIA、オープンソースLLM「Nemotron 3」発表--Metaの影響力低下で主導権狙う</title>
-      <link>https://japan.zdnet.com/article/35241701/</link>
-      <pubDate>2025/12/17 08:28</pubDate>
-      <description>OpenAIは2025年12月16日、これまで同社が提供していた画像生成モデルから大幅に能力を向上させた新しい画像生成モデルとそのAPI「gpt-image-1.5」を発表した。あわせて、ChatGPT内に新しい画像生成・編集用のページ「ChatGPT Images」を導入した。 The new ChatGPT Images is here - OpenAI News Image generation - OpenAI Platform gpt-image-1.5は、指示追従性と編集精度の向上、密度の高いテキストレンダリング、質感や細部表現の改善、そして従来比で最大4倍の生成高速化を特徴としている。入力画像のライティングや構図、人物の顔立ちといった重要要素を保持しつつ指定部分のみを正確に変更できるため、複数回の編集でも一貫した結果を得やすいという。 今回のgpt-image-1.5の発表に</description>
-    </item>
-    <item>
-      <title>GoogleがGemini 3 Flashをリリース、Gemini 3 Pro級の高度な推論能力を維持しながらより高速で価格は約4分の1</title>
-      <link>https://gigazine.net/news/20251218-google-gemini-3-flash-released/</link>
-      <pubDate>2025/12/18 11:48</pubDate>
-      <description>As I write this post, cached input tokens are 10x cheaper in dollars per token than regular input tokens for both OpenAI and Anthropic&amp;#39;s APIs. Anthropic even claim that prompt caching can reduce latency &amp;quot;by up to 85% for long prompts&amp;quot; and in my own testing I found that for a long enough prompt, this is true. I sent hundreds of requests to both Anthropic and OpenAI and noticed a substantial reducti</description>
     </item>
   </channel>
 </rss>
