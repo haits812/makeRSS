@@ -5,6 +5,60 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Groq and Nvidia Enter Non-Exclusive Inference Technology Licensing Agreement to Accelerate AI Inference at Global Scale</title>
+      <link>https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale</link>
+      <pubDate>2025/12/25 08:35</pubDate>
+      <description>背景 12月に入ると技術記事のアドベントカレンダーを目にするようになります。さまざまな技術トピックを12月1日〜12月24日まで（25日までのケースもある）、エンジニア達が交代で技術記事を書いていきます。 そんな中でAnthropicの方が、Xでアドベントカレンダーを始めているのを目にしました。 このポストを見て、自分も普段Claude Codeについて発信しているのでやってみようと思ったのがきっかけです。 もともと自分の中で検証が足りていないと感じていた機能を、調査できる良い機会だと思いました。 Claude Code アドベントカレンダー Day1 ~ Day24までの内容の再掲と、それぞれについて補足をしていきます。 おそらく1つくらいは参考になる話もあると思うので、良かったら眺めてみてください。 トピック一覧(再掲)</description>
+    </item>
+    <item>
+      <title>Vue Fes Japan 2025レポート ～Evan Youが描く、JavaScript開発ツールの理想郷 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2025/12/vuefes-japan-2025-report</link>
+      <pubDate>2025/12/26 14:59</pubDate>
+      <description>Fuck you people. Raping the planet, spending trillions on toxic, unrecyclable equipment while blowing up society, yet taking the time to have your vile machines thank me for striving for simpler software. Just fuck you. Fuck you all. I can&amp;#39;t remember the last time I was this angry.</description>
+    </item>
+    <item>
+      <title>「手作り RAG システム」で RAG の仕組みを学び直す</title>
+      <link>https://zenn.dev/google_cloud_jp/articles/e699bda0a298d6</link>
+      <pubDate>2025/12/27 10:28</pubDate>
+      <description>何か映画を見たくなった際に、人気の話題作や人からオススメを聞いても今の気分と合わなくてあまり楽しめなかった経験のある人も多いはず。かといって、詳細に情報を集めてしまうとネタバレを踏んで楽しめなくなるのも怖いものです。映画好きのエンジニアである棚本氏が作成した映画オススメアプリ「WHILM」は、5つの簡単な質問に答えていくことで、「今の気分に合う映画」をネタバレなしでオススメしてくれます。 whilm.com/ https://whilm.com/ 「良い映画」より「今の自分に合う映画」に出会いたい ── 気分ベースの映画推薦アプリを作った話 #機械学習 - Qiita https://qiita.com/yutatanamoto/items/fd8a3928fcb316fd8ae2 WHILMはブラウザから無料で使うことができます。サイトにアクセスしたら「映画診断を始める」をクリック。 1</description>
+    </item>
+    <item>
+      <title>MarkdownでPDF資料をつくる&amp;amp;便利Tips</title>
+      <link>https://zenn.dev/zenzoe/articles/eaa49c7a630aaa</link>
+      <pubDate>2025/12/27 12:05</pubDate>
+      <description>はじめに：中年での情シス配属。「今さらレガシーなIT技術の勉強なんて無理だ」と感じている人へ 私は、37歳で情報システム部に配属され、メインフレームやIBM i（AS/400）、COBOLやRPGといった長年使われ続けてきたシステムの保守を任されました。 画面は黒か緑。 ソースコードは何十年も前のもの。 設計書は断片的で、当時の担当者はすでにいない。 VBAや簡単なSQLは書けれども、独特の言語はわからない。 勉強しようにも、自費で勉強できるようなUdemyなどプラットフォーム上のオンライン講座も少ない。 そんな状況を前にして、 「これを全部理解しろと言われても無理だ」 そう感じるのは、極めて自然な反応です。 世の中では、DX、クラウド、AIといった言葉が当たり前のように語られ、エンジニアが新しい技術を次々と習得していく姿が目に入る。 一方で、自分はどうか。 家庭の事情があり、仕事が終われ</description>
+    </item>
+    <item>
+      <title>Autify上のE2EテストをPlaywrightに移行しました | PR TIMES 開発者ブログ</title>
+      <link>https://developers.prtimes.jp/2025/12/26/autify-to-playwright/</link>
+      <pubDate>2025/12/27 16:47</pubDate>
+      <description>AI を活用するための技術というのはとりわけ新しいものではなく、過去の知見を基盤として構築されていることが多いです。それゆえに、AI 時代だからこそ基礎的な知識を体系的に学ぶことができる書籍に学ぶことに価値を求めるのです。この記事では 2025 年に読んで特に印象に残った本をいくつか紹介します。 2025 年はとりわけ AI 関連の書籍が多く出版された年であったように感じました。しかし AI を活用するための技術というのはとりわけ新しいものではなく、過去の知見を基盤として構築されていることが多いです。コーディングの分野でも AI によるコード生成を魔法として捉えるのではなく、自分のプログラマーとしての能力を増幅させるためのツールとして捉え、ツールを熟達し磨き上げより良いものにすることが重要なのです。このことはまさに 達人プログラマー に書かれている内容と通じるものがあります。AI 時代だか</description>
+    </item>
+    <item>
+      <title>APIをそのままMCPサーバーにするな</title>
+      <link>https://zenn.dev/ncdc/articles/c1d65b6e939185</link>
+      <pubDate>2025/12/27 12:07</pubDate>
+      <description>“意図せぬAI学習からイラストを守る”と謳うSNS「Wick」の代表取締役・中道慶謙さんが12月26日、非常勤取締役をつとめるストリーマー・けんきさんの配信活動に対し懸念の声が出ている件について、Xで声明を発表した。 けんきさんを巡っては、生成AI関連のコンテンツを配信内で度々取り上げていたことについて、一部のSNSユーザーから不安視する声が上がっていた。 声明の中で、中道慶謙さんは「個人の配信活動が経営方針や公式な見解を示すものではございません」と言及。その上で「弊社サービス『Wick』の内容や運営方針に影響を及ぼすことは一切ございません」と説明している。 “クリエイターが安心して創作し、自由に発信できる環境”を目標に掲げる「Wick」「Wick」は、“クリエイターが安心して創作し、自由に発信できる環境”を目標に掲げる、国産のSNS統合型プラットフォーム。 開発・運営は、インディーゲーム</description>
+    </item>
+    <item>
+      <title>規約ベースのフレームワークはAI処理に不利だと思う - きしだのHatena</title>
+      <link>https://nowokay.hatenablog.com/entry/2025/12/28/045145</link>
+      <pubDate>2025/12/28 09:34</pubDate>
+      <description>チャットAIを頻繁に使っていると、文章やアプリ、コードに特有の「AIっぽさ」が判別できるようになる。部分的に手直しされた生成文やAIらしい変数名・構造は見抜きやすく、慣れた人には一目で分かる。作成者の意図や修正の跡が透けて見えるため、AI活用の場面と使い方を慎重に選ぶべきだと感じる。</description>
+    </item>
+    <item>
+      <title>キオクシア、25年は断トツの株価7倍　26年もAI期待で株高継続か - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOFL260KMTW5A221C2000000/</link>
+      <pubDate>2025/12/28 11:26</pubDate>
+      <description>皆さまこんにちは、株式会社ベースマキナの代表取締役社長を務めております高橋（@__timakin__）です。 2025年12月18日、AnthropicがAgent Skillsをオープンスタンダードとして発表しました。MCPに続く標準化の動きとして注目を集めています。 面白いのは、発表からわずか数日でOpenAIがCodex CLIとChatGPTに同規格を採用し、GitHub Copilotも対応を発表したこと。Anthropicが仕様を公開し、競合が追従する——MCPで見た流れが再び起きています。さすがAnthropicという感じで、一気に業界標準となりつつありますね。 この記事では、発表から約2週間で話題になっているスキルを厳選して紹介します。 この記事でわかることAgent Skillsの概要 カテゴリ別おすすめスキル10選 インストール方法と注意点 Agent Skillsとは</description>
+    </item>
+    <item>
+      <title>自分で考えることが、贅沢なことになってきている気がする。 - 犬だって言いたいことがあるのだ。</title>
+      <link>https://inujin.hatenablog.com/entry/2025/12/28/090000</link>
+      <pubDate>2025/12/28 09:34</pubDate>
+      <description>■ 代替可能性を欠く「AIプリンシプル・コード」——スチュワードシップ・コードの劣化コピーが日本のソフトローを破壊する 前々回の日記で触れた「プリンシプル・コード」がパブコメにかけられた。意見作成に向けてClaude Sonnet 4.5で分析してみた。結論パートはここから。長くて読めないなら、右上角の音声（NotebookLMによる音声解説）をどうぞ。 私：今巷で話題沸騰の「生成AIの適切な利活用等に向けた知的財産の保護及び透明性に関するプリンシプル・コード（仮称）（案）」を批判的に分析しましょう。まずは内容を把握してください。 https://www.kantei.go.jp/jp/singi/titeki2/ikenboshu_20251226.html Claude：[考え中...] 内容を把握します。URLをフェッチしますね。 [考え中...] 文字化けしていますね。PDFファイ</description>
+    </item>
+    <item>
       <title>生成AI,AI新世紀：「お家芸」が勝ち筋？　出遅れ国産AI「米中と同じ土俵に乗らない」 | 毎日新聞</title>
       <link>https://mainichi.jp/articles/20251223/k00/00m/020/284000c</link>
       <pubDate>2025/12/24 08:29</pubDate>
@@ -1840,63 +1894,6 @@
       <link>https://note.com/michiomochi/n/nffa93191b5e9</link>
       <pubDate>2025/12/21 17:03</pubDate>
       <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? TL;DR ( 忙しい人のための 3 行まとめ ) 量子化 ( Quantization ) は、重みの精度（ ビット数 ）を下げることで、メモリ消費を激減させ推論を高速化する技術。 GPTQ / AWQ / GGUF など、用途や実行環境（ GPU / CPU ）によって最適なフォーマットを選択する必要がある。 最新トレンドは 1-bit 量子化 ( BitNet )。精度を維持しつつ、スマホや PC での「 完全ローカル動作 」が現実味を帯びている。 Introduction 「 最新の強力な LLM を試したいけれど、 GPU メ</description>
-    </item>
-    <item>
-      <title>資料作成の救世主？Gemini の「Canvas」でスライド自動生成｜Gemini - Google の AI</title>
-      <link>https://note.com/google_gemini/n/nacb57461efd3</link>
-      <pubDate>2025/12/18 09:30</pubDate>
-      <description>Googleは2025年12月11日（米国時間）、フルマネージドなリモートMCP（Model Context Protocol）サーバを、全てのGoogleサービスおよびGoogle Cloud製品群において提供する方針を発表した。 MCPは、LLM（大規模言語モデル）アプリケーションやAI（人工知能）エージェントが、外部のツールやデータソースと接続するためのオープンプロトコル。 開発者は、AIエージェントや「Google Gemini」などの標準的なMCPクライアントと、Googleが提供するサービスを簡単に連携させることができるようになるという。 「Google マップ」や「BigQuery」など4サービスでMCPサーバを利用可能に Googleは、AIがエージェントがユーザーに代わって目標を追求して現実世界の問題を解決するには、単なる知能だけでなく、ツールやデータと確実に連携させる必</description>
-    </item>
-    <item>
-      <title>AIとの対話ログ - FastAPI + HTMXって何がいいの？基礎用語から理解する</title>
-      <link>https://zenn.dev/ryugotoo/articles/39128fa78621dc</link>
-      <pubDate>2025/12/19 21:16</pubDate>
-      <description>AI開発企業のMistral AIが、スキャンしたドキュメントや手書き文字を認識してテキストデータに変換できるAIモデル「Mistral OCR 3」を発表しました。Mistral OCR 3の精度はエンタープライズ向けの文書処理ソリューションやAIを用いたOCRソリューションを上回り、読みにくい筆記体も認識できるとのことです。 Introducing Mistral OCR 3 | Mistral AI https://mistral.ai/news/mistral-ocr-3 Mistral OCR 3は、前モデルの「Mistral OCR 2」を大幅にアップグレードしたモデルで、筆記体や活字の上に注釈として書き込まれた手書きのコンテンツも正確に読み取ることが可能。また、密集したレイアウトや入力フォームなどの検出能力も改善され、さまざまな契約文書の読み取りにも適しているとのこと。さらに</description>
-    </item>
-    <item>
-      <title>【FastAPI基礎】モデル・スキーマ・CRUD・依存性注入・ルーターを体験してみた - Qiita</title>
-      <link>https://qiita.com/mukku928/items/267699ba03fe8191df5a</link>
-      <pubDate>2025/12/19 21:19</pubDate>
-      <description>はじめに 「GitHub CopilotやClaude Codeを使えば、もう設計書なんていらないよね？」 そう思っているあなた、ちょっと待ってください。確かにAIコーディングアシスタントの登場で、コーディング速度は飛躍的に向上しました。しかし、速く書けることと正しく作れることは別問題です。 この記事では、AIコーディング時代に真に必要な「仕様駆動開発（SDD）」と、それを実現する究極のツール「MUSUBI」の使い方を、実践を交えながらステップバイステップで解説します。 初心者の方へ: MUSUBIには25の専門エージェントがありますが、最初は @orchestrator（オーケストレーター）だけ覚えればOK です。orchestratorがあなたの代わりに適切な専門エージェントを呼び出してくれます。 Vibe Coding vs SDD（Specification Driven Deve</description>
-    </item>
-    <item>
-      <title>政府職員10万人超が生成AI基盤「源内」活用へ　高市首相が方針示す</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/19/news133.html</link>
-      <pubDate>2025/12/20 09:26</pubDate>
-      <description>Update: We&amp;#39;ve published Agent Skills as an open standard for cross-platform portability. (December 18, 2025) Since launching Skills, two of the biggest questions we’ve heard from customers are: &amp;quot;How do skills and MCP work together? When should I use one versus the other?&amp;quot; Model Context Protocol (MCP) connects Claude to third-party tools, and skills teach Claude how to use them well. When you combi</description>
-    </item>
-    <item>
-      <title>NVIDIAのLLM、Nemotron 3 Nanoは賢いけどコーディングには向かないかも。Mamba 2の特性が悪く出てる？ - きしだのHatena</title>
-      <link>https://nowokay.hatenablog.com/entry/2025/12/16/042030</link>
-      <pubDate>2025/12/21 10:43</pubDate>
-      <description>The Indie Game Awardsを主催するSix One Indieは『Clair Obscur: Expedition 33』のGame of the Year受賞が撤回された理由について声明を発表した。「生成AIの利用」がポリシーに抵触したためだという。</description>
-    </item>
-    <item>
-      <title>Gemini Drop - Gemini に関する最新情報</title>
-      <link>https://gemini.google/jp/gemini-drops/?hl=ja</link>
-      <pubDate>2025/12/21 13:21</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/e63df3dc4c9bde62a87b10ac77b369224c82a2c2/height=288;version=1;width=512/https%3A%2F%2Fwww.gamespark.jp%2Fimgs%2Fogp_f%2F1070387.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Android 用ランチャーアプリ Niagara Launcher を1年使っている - 大西ブログ</title>
-      <link>https://onishi.hatenablog.com/entry/2025/12/20/091601</link>
-      <pubDate>2025/12/20 09:17</pubDate>
-      <description>ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード2025.12.19 19:0055,932 AJ Dellinger - Gizmodo US ［原文］ （ 中川真知子 ） ChatGPTを無料で使っている人、あるいは、日本を除く一部地域で提供されている月5ドルの｢ChatGPT Go｣を使っている人は、知らないうちに使っているAIが変わっているかもしれません。 OpenAIがChatGPTの仕様をサイレントダウングレード。無料ユーザーとGoユーザーは、デフォルトで最も軽量かつ低コストなモデルを使う形に切り替わりました。 この変更は、ChatGPTのリリースノートに記載されていた内容で、米メディアのWiredが発見して明らかになりました。 自動で｢賢いモデル｣に切り替わらなくなったこれまでChatGPTでは、質問の内容の難易度に応じて自動的に｢Thinking（推論能力の</description>
-    </item>
-    <item>
-      <title>GitHub Copilotにも追加されたAgent Skillsとは | ドクセル</title>
-      <link>https://www.docswell.com/s/yuma/5RE1Q3-2025-12-20-dotnetlab</link>
-      <pubDate>2025/12/20 20:19</pubDate>
-      <description>世界的な需要の増加により、PCのメモリの価格が高騰している。これを受けて、旧世代のあるCPUへの人気が高まっているようだ。海外メディアTom’s Hardwareが報じている。 昨今ではAI分野での需要急増により、世界的にメモリが品薄となっている。そのなかではたとえば米国の半導体大手Micronが「Crucial」ブランドとして展開していたコンシューマー向け事業から撤退することを発表（関連記事）。またSamsungやSK Hynixなどの競合大手は2027年上半期まで供給不足は続くとの見方を示しつつ、供給過剰に陥るリスクを避けるためにも増産への投資には消極的のようだ（Wccftech）。 こうしたメモリ価格高騰の影響を受けて、BTOのPCメーカー各社では想定を大きく上回る量の注文が寄せられているという。工場のひっ迫やパーツ不足が発生し、受注を一時停止する措置もとられている（関連記事）。 一</description>
-    </item>
-    <item>
-      <title>なぜC++からRustへ移行したか (生成AI時代の開発体験)</title>
-      <link>https://zenn.dev/h_shinaoka/articles/203fb232cc3f61</link>
-      <pubDate>2025/12/20 22:24</pubDate>
-      <description>数ヶ月前の「Serena MCPはClaude Codeを救うのか？」で「Claude Code本体にLanguageServer統合を追加する可能性も考えられます」と書きましたが、その機能が2.0.74で有効になりました。 導入方法は「Claude Code の LSP サポート」が詳しいので参照ください。まとめるとanthropics/claude-plugins-official 経由でインストールするか、.claude-plugin/plugin.json にLSPサーバのコマンドを記述して自作プラグインとして起動します。 Claude Code の LSP サポートClaude Code のバージョン 2.0.74 から LSP（Language Server Protocol）サポートが追加されました。LSP サポートにより、Claude Code はコードベースに対してシンボ</description>
     </item>
   </channel>
 </rss>
