@@ -5,6 +5,42 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>GitHub Copilot エージェントの作成はエージェントに任せよう</title>
+      <link>https://zenn.dev/openjny/articles/264b7b02b406f0</link>
+      <pubDate>2025/12/26 01:41</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>2025 年に読んでよかった本</title>
+      <link>https://azukiazusa.dev/blog/books-i-liked-in-2025/</link>
+      <pubDate>2025/12/27 19:16</pubDate>
+      <description>はじめに AIエージェントの性能発達により、最近はいろんな書類作成をAIツールに頼るようになりました。 特にMarkdownはエージェントによる添削が便利！ 表の作成やフォーマットの調整をAIに手伝ってもらうことでかなり効率が上がりました。 ここではMarkdownで作った資料をPDF出力する方法と、資料作成時に便利な小技をいくつかまとめました。 1. VScodeの拡張機能でPDFを出力する 拡張機能markdown-pdfを使用します。 yzane/vscode-markdown-pdf - 拡張機能のREADME markdown-pdf をインストール コマンドパレットまたは右クリックからPDF出力を選択 コマンドパレット Markdown ファイルを開きます F1 キーを押すか、Ctrl+Shift+P キーを入力します export と入力し以下を選択します markdown-</description>
+    </item>
+    <item>
+      <title>Gemini！Google マップ「この場所についてマップに質問する」日本国内展開開始</title>
+      <link>https://jetstream.blog/2025/12/27/google-maps-gemini-answer-questions-about-a-place-japan-rollout/</link>
+      <pubDate>2025/12/27 23:35</pubDate>
+      <description>チャットAIを頻繁に使っていると、文章やアプリ、コードに特有の「AIっぽさ」が判別できるようになる。部分的に手直しされた生成文やAIらしい変数名・構造は見抜きやすく、慣れた人には一目で分かる。作成者の意図や修正の跡が透けて見えるため、AI活用の場面と使い方を慎重に選ぶべきだと感じる。</description>
+    </item>
+    <item>
+      <title>高木浩光＠自宅の日記 - 代替可能性を欠く「AIプリンシプル・コード」——スチュワードシップ・コードの劣化コピーが日本のソフトローを破壊する</title>
+      <link>http://takagi-hiromitsu.jp/diary/20251227.html</link>
+      <pubDate>2025/12/28 10:09</pubDate>
+      <description>東京株式市場でキオクシアホールディングスの株高が際立っている。人工知能（AI）需要の拡大を背景にメモリーの価格上昇が続くとの見方が増えている。データの長期記憶に使う主力のNAND型フラッシュメモリーはAI分野へ活躍舞台が広がり、2027年3月期（来期）の業績拡大期待が強い。キオクシアは25年に入って騰勢を強め、26日前引け時点で株価は1万1320円と、24年末比で6.90倍になった。東証株価</description>
+    </item>
+    <item>
+      <title>25/12/27 第18回サイゼミ：フロクロP来る！ - LWのサイゼリヤ</title>
+      <link>https://saize-lw.hatenablog.com/entry/2025/12/27/190000</link>
+      <pubDate>2025/12/27 21:20</pubDate>
+      <description>重要なポイントは「対象」の違いです。 技術負債はコードそのものの問題、つまり「物」の問題です。 コードが複雑すぎる、設計が不適切、テストが不足している。 これらはリファクタリングやコード改善で解決できます。 一方、理解負債はエンジニアの理解の問題、つまり「人」の問題です。 コードは動作するし、テストも通る。 しかし、誰もそのロジックを説明できない。 なぜその実装になっているのか分からない。 これは単なるコード修正では解決できません。 理解負債は、AI生成コードに特有の新しい形態の技術的負債です。 「動くコード」だからこそ見過ごされやすく、気づいたときには手遅れになっていることが多いのです。 1.3 理解負債の具体例 - 現場で起きている3つのシーン 理解負債が実際の開発現場でどのように現れるのか、3つの典型的なシーンを見ていきましょう。 以下具体例は、分かりやすく説明するための架空のシーン</description>
+    </item>
+    <item>
+      <title>Claude Codeを使った情報整理術</title>
+      <link>https://speakerdeck.com/knishioka/claude-codewoshi-tutaqing-bao-zheng-li-shu</link>
+      <pubDate>2025/12/28 16:36</pubDate>
+      <description>2023年から段階的にAIを開発フローに組み込み、2025年は試行錯誤とツールの大きな変化、そしてエージェント化を経て、私のソフトウェア開発の進め方は明確に変化しました。 ここで言う「変化」とは、単に作業が速くなった、便利になったという話ではありません。 より具体的には「コードをタイピングする時間よりも、間接作業の比重と抽象的な思考・ロジックが増えた」という意味での変化です。 より深刻なのは文字入力回数の増大です。その結果、マイクに向かって話したり、タイピングの練習といったプリミティブな活動を取り入れるようになりました。 この変化は私だけのものではありません。Addy Osmaniは『Beyond Vibe Coding』で「開発者の役割はコードを書くことから、コードを指示すること（directing）へシフトしている」と述べ、アーキテクチャやデザインパターンといったシステム思考への集中を</description>
+    </item>
+    <item>
       <title>Groq and Nvidia Enter Non-Exclusive Inference Technology Licensing Agreement to Accelerate AI Inference at Global Scale</title>
       <link>https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale</link>
       <pubDate>2025/12/25 08:35</pubDate>
@@ -1858,42 +1894,6 @@
       <link>https://ascii.jp/elem/000/004/360/4360578/</link>
       <pubDate>2025/12/17 11:50</pubDate>
       <description>こんにちは。LINEヤフーのFoundation Models研究開発チームです。われわれのチームでは、画像と言語のマルチモーダル基盤モデルの研究開発を行っています。 この記事ではわれわれが開発した日本語マルチモーダル基盤モデル「clip-japanese-base-v2」について紹介します。弊チームでは以前「clip-japanese-base」を公開しましたが、今回は学習データと学習方法の改善によって高性能化したモデルを公開します。商用利用可能なApache-2.0 ライセンスで公開していますので、ぜひ気軽にご利用ください。 公開するリソース：clip-japanese-base-v2 はじめに CLIPは画像と言語の代表的なマルチモーダル基盤モデルで、インターネットから収集した大規模データで学習することでゼロショットでの分類や検索が可能となりました。高い汎用性と拡張性をもつCLIPは</description>
-    </item>
-    <item>
-      <title>Introducing Mistral OCR 3 | Mistral AI</title>
-      <link>https://mistral.ai/news/mistral-ocr-3</link>
-      <pubDate>2025/12/20 00:01</pubDate>
-      <description>会議では日本で初めてとなるAI基本計画案が取りまとめられた。高市首相はAI関連施策の推進に1兆円規模の投資を行う方針も表明。物理法則を理解し、ロボットを制御する「フィジカルAI」を念頭に、国産の汎用基盤モデルの開発に向けた企業と連携するよう赤沢亮正経済産業大臣に指示した。 関連記事 「ガバメントAI」って何？　デジタル庁が解説動画を公開 デジタル庁は、政府が活用するAI基盤「ガバメントAI」を解説するYouTube動画を公開した。 生成AIはマーケティングにどう使える？　博報堂DYグループが考える3つの事例 博報堂DYホールディングスが、生成AIとクリエイティビティについて考える同連載。今回は「AIが変革するマーケティングの新しい顧客体験」と題し、同社が取り組むマーケティングにおける、AIとクリエイティブワークの新しい形を紹介する。 デジ庁、「国産LLM」の公募開始　行政向けAIに実装へ</description>
-    </item>
-    <item>
-      <title>アップル株、2026年に40％下落する可能性 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/87568</link>
-      <pubDate>2025/12/20 21:16</pubDate>
-      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?</description>
-    </item>
-    <item>
-      <title>GitHub Copilot Agent Skills 入門</title>
-      <link>https://zenn.dev/openjny/articles/a9d4f6ec2a05c2</link>
-      <pubDate>2025/12/20 21:14</pubDate>
-      <description>こんにちは、Ubieの橋山です。 この記事は「Ubie 生成AI Advent Calendar 2025」12/20の投稿です。 本稿ではその続編として、この構想がどのように設計・実装されているかという具体的な試行錯誤についてお話しします。 目標設定時の情報収集を楽にしたいUbieには「変化進化会」という、目標設定や成長について所属組織のLeadと対話する場があります。その準備として、過去の活動を振り返る作業があるのですが、なんとかこれを効率化できないかというのが事の発端でした。 そこで、すでに社内で活用が進んでいた JIRA / Notion / Slack の情報が取得できるMCPサーバーを経由して、振り返りの情報を「よしなに」取得するワークフローを作りました。 MCPツールを使って社内の情報を収集するワークフロー（抜粋）情報の取得精度が低いしかし、出力された情報はおおまかにはその人</description>
-    </item>
-    <item>
-      <title>Google が2025年の AI 機能振り返りとヒントを公開。Gemini や Pixel の活用40選 | HelenTech</title>
-      <link>https://helentech.jp/news-79930/</link>
-      <pubDate>2025/12/20 13:27</pubDate>
-      <description>LINEヤフーが社内のシステム開発に必要なプログラミングコードの作成などに、生成AI（人工知能）を活用している。自社に最適化した開発支援基盤を用意することで、社内ルールにのっとって安全にエンジニアの作業効率を高める。世界のテック大手がAIによるコーディング支援に取り組む中、AIで速さと品質を両立させることは競争力を保つのに欠かせないが人材育成に課題もある。コードの生成や校正のほか、仕様書の作成まで</description>
-    </item>
-    <item>
-      <title>【Cursor✖️Figma】非エンジニアでも出来た！金融系UIデザインをAIで効率化する方法｜吉澤カレン</title>
-      <link>https://note.com/chankar_e_/n/n2557449b5a5b</link>
-      <pubDate>2025/12/20 20:41</pubDate>
-      <description>【読売新聞】　官民による総額３兆円規模の国産ＡＩ（人工知能）開発計画の全容が判明した。来春にもソフトバンクなどの日本企業十数社が出資して新会社を設立し、国内最大規模のＡＩ基盤モデルの開発を目指す。ＡＩ開発は米中が性能面で大きくリード</description>
-    </item>
-    <item>
-      <title>AIを活用したドキュメント執筆技術｜michiomochi</title>
-      <link>https://note.com/michiomochi/n/nffa93191b5e9</link>
-      <pubDate>2025/12/21 17:03</pubDate>
-      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? TL;DR ( 忙しい人のための 3 行まとめ ) 量子化 ( Quantization ) は、重みの精度（ ビット数 ）を下げることで、メモリ消費を激減させ推論を高速化する技術。 GPTQ / AWQ / GGUF など、用途や実行環境（ GPU / CPU ）によって最適なフォーマットを選択する必要がある。 最新トレンドは 1-bit 量子化 ( BitNet )。精度を維持しつつ、スマホや PC での「 完全ローカル動作 」が現実味を帯びている。 Introduction 「 最新の強力な LLM を試したいけれど、 GPU メ</description>
     </item>
   </channel>
 </rss>
