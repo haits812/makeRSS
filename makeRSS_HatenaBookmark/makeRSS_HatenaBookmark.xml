@@ -5,6 +5,27 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>サイバーエージェントが実践する「生成AI活用の舞台裏」</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/25/news010.html</link>
+      <pubDate>2025/12/25 09:45</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/9be318f20220c4d8235e8f69cc4b9774a8f66c8d/height=288;version=1;width=512/https%3A%2F%2Fav.watch.impress.co.jp%2Fimg%2Favw%2Flist%2F2073%2F370%2F5.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>rob pike (@robpike.io)</title>
+      <link>https://bsky.app/profile/robpike.io/post/3matwg6w3ic2s</link>
+      <pubDate>2025/12/26 18:40</pubDate>
+      <description>勉強を始めた当初、模試のスコアは 600点でした。 そこから、仕事終わりに1日1時間の勉強を3ヶ月続け、 TOEIC 875点 を取ることができました！！！ この過程で、TOEICひいては英語力を身につけるための &amp;quot;最強勉強法&amp;quot; がマジで分かっちゃいました。 そこで、本記事ではそのときに辿り着いた勉強法と考え方を共有したいと思います！ そもそもエンジニアにとって英語力は必要なのか エンジニアに英語力が必要な理由は、いくつもあります。 良い技術情報ほど英語で書かれている 価値の高い情報ほど、最初に英語で公開されます。日本語情報は劣化コピーになりがち です。読解力がつくと判断が速く、正確になります。 エンジニア市場は実質「グローバル市場」 高単価な仕事、面白いプロダクトは英語前提 になりやすい(全世界をターゲットにできるため)です。英語ができないだけで、最初から選べない仕事やポジションが増えて</description>
+    </item>
+    <item>
+      <title>ChatGPT使いすぎて、文章見ると『あ、これChatGPTに書かせて一部だけ訂正したやつだな』というのが大体分かるようになってきてしまった</title>
+      <link>https://togetter.com/li/2643830</link>
+      <pubDate>2025/12/28 07:36</pubDate>
+      <description>はじめに：中年での情シス配属。「今さらレガシーなIT技術の勉強なんて無理だ」と感じている人へ 私は、37歳で情報システム部に配属され、メインフレームやIBM i（AS/400）、COBOLやRPGといった長年使われ続けてきたシステムの保守を任されました。 画面は黒か緑。 ソースコードは何十年も前のもの。 設計書は断片的で、当時の担当者はすでにいない。 VBAや簡単なSQLは書けれども、独特の言語はわからない。 勉強しようにも、自費で勉強できるようなUdemyなどプラットフォーム上のオンライン講座も少ない。 そんな状況を前にして、 「これを全部理解しろと言われても無理だ」 そう感じるのは、極めて自然な反応です。 世の中では、DX、クラウド、AIといった言葉が当たり前のように語られ、エンジニアが新しい技術を次々と習得していく姿が目に入る。 一方で、自分はどうか。 家庭の事情があり、仕事が終われ</description>
+    </item>
+    <item>
       <title>Googleの親会社AlphabetがAIの推進力強化のため電力インフラのIntersect Powerを買収</title>
       <link>https://gigazine.net/news/20251223-alphabet-acquire-intersect/</link>
       <pubDate>2025/12/23 12:14</pubDate>
@@ -1876,24 +1897,6 @@
       <link>https://automaton-media.com/articles/newsjp/ryzen-7-5800x3d-20251220-382648/</link>
       <pubDate>2025/12/20 16:14</pubDate>
       <description>本を読む意味とは どうも、ねじまきです。 数秒で答えを取り出せる人工知能の時代に&amp;quot;わざわざ１冊何時間をかけて本を読むことの意味って何なのか？&amp;quot;を少し考えてみました。 (※この記事は 生成AI Advent Calendar 2025 - Adventar 19日目のブログ記事です) nazology.kusuguru.co.jp 海外でも話題になっていた記事だけど「毎日趣味で読書をしていた人の割合が、40%以上も減少していた」という研究結果が出たらしい。(どこまで信用おけるデータ化はさておき) 1冊読むのに何時間もかかる本、一見タイパもコスパも悪いのに、なぜ Kindleハイライトを検索して、&amp;quot;読書の意義&amp;quot;みたいなものについて考えさせてくれる本をいくつか引用してみようかなと。 ・『読書の価値 / 森博嗣』 つまり、自分の時間と空間内では経験できないことであっても、他者と出会うことによって、</description>
-    </item>
-    <item>
-      <title>Claude CodeにLSPツールが追加</title>
-      <link>https://blog.lai.so/claude-code-lsp/</link>
-      <pubDate>2025/12/21 00:45</pubDate>
-      <description>[.NET Conf 2025 Tokyo Osaka Fukuoka - connpass](https://dotnetlab.connpass.com/event/371159/) のLT登壇スライドです。オープンスタンダードになったAgent Skillsの説明と使い分け、GitHub Copilotでの使い方についてまとめています</description>
-    </item>
-    <item>
-      <title>官民で国産ＡＩ開発、ソフトバンクなど出資で新会社…世界潮流の「１兆パラメーター」目指す</title>
-      <link>https://www.yomiuri.co.jp/economy/20251220-GYT1T00281/</link>
-      <pubDate>2025/12/21 05:44</pubDate>
-      <description>なぜC++からRustへ移行したか (生成AI時代の開発体験) まとめ C++は統合されたパッケージシステムが弱く, 依存関係の管理と成果の再利用が難しい. Rustはcargoを中心に成果をcrateとして分割・共有しやすく, エコシステムを協力して育てやすい. Python/Julia/Fortranから呼び出す用途では, RustはC-API経由で連携しやすく, バックエンドをメモリ安全に保ちやすい. 生成AI支援を前提にすると, Rustの学習コストや設計変更時の修正負担を下げられる. Rustは堅牢な基盤実装, Juliaは試行錯誤に向き, C-FFIを介して組み合わせるとよい. まえがき 前回の記事 C++を使った数値計算ライブラリの整備で辛かったこと の続編である. C++で開発していた libsparseir をRustへ移行した. その経験を基に, なぜC++からRust</description>
-    </item>
-    <item>
-      <title>OpenAI、画像生成モデルAPI「gpt-image-1.5」を発表 ——新しい画像生成・編集用ページChatGPT Imagesも提供開始 | gihyo.jp</title>
-      <link>https://gihyo.jp/article/2025/12/chatgpt-images-with-gpt-image-1.5</link>
-      <pubDate>2025/12/17 17:54</pubDate>
-      <description>パソコン専門店で購入制限客 「値段がアホみたいに上がってる。どうしたもんかな」 「何倍にも高くなっていて、手が届きにくくなっている」 パソコン販売の聖地・秋葉原。今年の師走の風は、特に冷たく感じられます。 店頭には「1日お一人様につき4枚まで」とメモリー製品の購入制限の貼り紙が貼ってあります。 このパソコン専門店では、買い占めや転売を防ぐため、メモリー製品の販売数を制限する事態に至っています。 容量が多ければ多いほどパソコンの処理スピードが上がり、性能に大きな影響を持つメモリー。今、急激に高騰しているのです。 ドスパラの運営会社　サードウェーブ 永井正樹社長 「3カ月前に比べ約3倍になった。急激に上がったのは、この1カ月。なるべく多くのお客様に利用してほしいので、購入制限をしている」 3カ月で3倍の値上げという異常事態。中には、5倍近く上昇したメモリーもあります。 価格を見て、あぜんとする</description>
     </item>
   </channel>
 </rss>
