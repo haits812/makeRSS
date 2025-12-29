@@ -5,6 +5,36 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>松尾研LLM講座2025 応用編Day3「軽量化」 講義資料</title>
+      <link>https://speakerdeck.com/aratako/song-wei-yan-llmjiang-zuo-2025-day3-qing-liang-hua-jiang-yi-zi-liao</link>
+      <pubDate>2025/12/26 12:57</pubDate>
+      <description>26th December 2025 Rob Pike (that Rob Pike) is furious. Here’s a Bluesky link for if you have an account there and a link to it in my thread viewer if you don’t. Fuck you people. Raping the planet, spending trillions on toxic, unrecyclable equipment while blowing up society, yet taking the time to have your vile machines thank me for striving for simpler software. Just fuck you. Fuck you all. I ca</description>
+    </item>
+    <item>
+      <title>レベルファイブ日野社長、「ゲーム制作でのAI使用は悪」とする論調に言及　「テクノロジーの発展遅れかねない」</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/26/news112.html</link>
+      <pubDate>2025/12/27 00:45</pubDate>
+      <description>“意図せぬAI学習からイラストを守る”と謳うSNS「Wick」の代表取締役・中道慶謙さんが12月26日、非常勤取締役をつとめるストリーマー・けんきさんの配信活動に対し懸念の声が出ている件について、Xで声明を発表した。 けんきさんを巡っては、生成AI関連のコンテンツを配信内で度々取り上げていたことについて、一部のSNSユーザーから不安視する声が上がっていた。 声明の中で、中道慶謙さんは「個人の配信活動が経営方針や公式な見解を示すものではございません」と言及。その上で「弊社サービス『Wick』の内容や運営方針に影響を及ぼすことは一切ございません」と説明している。 “クリエイターが安心して創作し、自由に発信できる環境”を目標に掲げる「Wick」「Wick」は、“クリエイターが安心して創作し、自由に発信できる環境”を目標に掲げる、国産のSNS統合型プラットフォーム。 開発・運営は、インディーゲーム</description>
+    </item>
+    <item>
+      <title>全人類に告ぐ！Chrome拡張を作れ！｜けいすけ</title>
+      <link>https://note.com/konho/n/nc338642fbcd8</link>
+      <pubDate>2025/12/28 07:35</pubDate>
+      <description>Chrome→DuckDuckGoに乗り換えて驚いた。プライバシーの心配がなくなる「快適すぎるブラウザ」</description>
+    </item>
+    <item>
+      <title>このAI時代に、私がもう一度文系・未経験からセキュリティ業界に入るなら - Qiita</title>
+      <link>https://qiita.com/yamada_sec/items/1b5b9a9f4cc375c79c32</link>
+      <pubDate>2025/12/28 11:34</pubDate>
+      <description>どこもかしこもAIが作った文章だらけだ。 他人が送ってくる企画書も、どうせAIがまとめたんだろうと思うと、目を通す気になれない。 明らかに「この人、こんな言葉づかいしないよな」と感じる文章がたくさん混じっている。 人が書く文章は、その人の顔と同じように、特徴的な輪郭があって、しわやしみがあって、左右対称でもない、いびつなものだ。 そのいびつさを味わうのが文章を読む楽しさの大きな部分を占めていると思う。 企画書だって読み物である。 だけどAIに書かせた企画書にはその人の味がない。 なので、「この人はどんな人なのだろうか」「そして今どんなことを感じているのだろうか」ということがわからない。 企画書にそんなものは要らないと思われるかもしれないけど、やっぱり大切だと思う。 ぼくは企画書が欲しいのではない。 要は、その人と一緒に仕事してみたいと思えるか、だけなのである。 とはいえ、たとえばものすごく</description>
+    </item>
+    <item>
+      <title>2025-12-27 Claude CodeでPRレビュー対応を効率化する@機械学習社会実装勉強会第54回</title>
+      <link>https://speakerdeck.com/nakamasato/2025-12-27-claude-codedeprrebiyudui-ying-woxiao-lu-hua-suru-at-ji-jie-xue-xi-she-hui-shi-zhuang-mian-qiang-hui-di-54hui</link>
+      <pubDate>2025/12/28 21:41</pubDate>
+      <description>米OpenAIのサム・アルトマンCEOは12月27日（現地時間）、Xで新たな役職「Head of Preparedness」（直訳すれば「準備責任者」）の募集を告知した。この役職は、同社の「Safety Systems」チームにおいて、フロンティアモデルがもたらす深刻なリスクを追跡し、それに対処するための「Preparedness」（準備）フレームワークの技術戦略と実行を統括するポジションという。 具体的には、モデルの能力評価、脅威モデルの構築、サイバー攻撃や生物学的リスクなど、社会に重大な被害を及ぼし得る領域に対する緩和策の策定を指揮し、その評価結果を製品のリリース判断やポリシー決定に直結させる役割を担う。 OpenAIがこの役職を募集する背景には、AIモデルの能力が飛躍的に向上し続ける中で、安全基準をシステムの進化に合わせてスケールさせる必要性が高まっているという現状がある。アルトマン</description>
+    </item>
+    <item>
       <title>GitHub Copilot エージェントの作成はエージェントに任せよう</title>
       <link>https://zenn.dev/openjny/articles/264b7b02b406f0</link>
       <pubDate>2025/12/26 01:41</pubDate>
@@ -1864,36 +1894,6 @@
       <link>https://zenn.dev/mizchi/articles/markdown-incremental-preview</link>
       <pubDate>2025/12/21 20:57</pubDate>
       <description>162ページのAIドリブン経営白書2026があまりにも長すぎる、解説が欲しいぞ！とリクエスト頂きましたので、著者が自分で解説し始めたシリーズの5回目。 そう、気付いてしまったんです。 もうすでに解説の方が長いことになってると言う矛盾😅 でも、気にせず頑張っていきたいと思います。 次は年内に5,000ダウンロードを目指してますので、応援の程よろしくお願いいたします📣 この記事で学べること組織のAI活用成熟度を測る「5つのフェーズ」 なぜフェーズ3が「経営関与の分水嶺」なのか AI時代に求められる人事制度の再設計 はじめに：しくじりの先にあるもの前回は、当社が経験した「3つのしくじり」をお伝えしました。 社内でAIが使われない ゼロリスク主義で止まる 「仕事を奪う」という誤解 3つの壁これらの壁を乗り越えた先に、何があるのでしょうか？ 今回は、組織がAI活用で目指すべきゴールと、そこに至る</description>
-    </item>
-    <item>
-      <title>「良い映画」より「今の自分に合う映画」に出会いたい ── 気分ベースの映画推薦アプリを作った話 - Qiita</title>
-      <link>https://qiita.com/yutatanamoto/items/fd8a3928fcb316fd8ae2</link>
-      <pubDate>2025/12/21 16:51</pubDate>
-      <description>わたくしめちゃくちゃに音楽が好きなのですが、好きであることは必ずしも研究熱心であることを意味しておらず、新しい音源の発掘は配信サービスのレコメンド頼りという受動的な態度で聴くようになって久しいです。人々がChatGPTの優しい応答に依存しバージョンアップに伴う性格変更に暴動を起こすようになるはるか以前から、僕はよりクラシックなAIであるところの機械学習によるレコメンドエンジンに支配されているわけです。何ならサブスク音楽配信が始まる前から、Amazonの「これを買った人はこれも買っています」でCD買ってましたからね、俺。AI操られの先駆者なので。 で、そういう聴き方をしていると新譜情報に疎くなるんですが、たまたま今年ひさしぶりにわりと新譜を聴いた気がするので、2025年リリースのよかった音源を書きたいと思います。 みんなに聴いてほしいと思って書いてるので気になるのがあったらどんどん聴いてくれ</description>
-    </item>
-    <item>
-      <title>Anthropic、AIエージェントにタスクの手順や知識を組み込める「Agent Skills」をオープンスタンダードに。早くもVS CodeやCursorなどがサポート</title>
-      <link>https://www.publickey1.jp/blog/25/anthropicaiagent_skillsvs_codecursor.html</link>
-      <pubDate>2025/12/21 23:39</pubDate>
-      <description>AIとの連携により、タグ付けや詳細などのプロパティが作成できるファイル共有サーバー「Seafile」がオープンソースで公開されています。 Seafile - Open Source File Sync and Share Software https://www.seafile.com/en/home/ 今回は、Google CloudでUbuntu 24.04.3 LTSのインスタンスを作成しDockerを利用して構築します。Setup community editionを参考に、コンソールを起動してrootユーザーとして操作します。AI拡張機能を利用する場合は、メタデータサーバーと合わせて追加します。 mkdir /opt/seafile cd /opt/seafile wget -O .env https://manual.seafile.com/13.0/repo/docker/c</description>
-    </item>
-    <item>
-      <title>高校の「数学」再編へ　AIの学び重視しA、B、Cの区分なくす方向：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASTDN55SJTDNUTIL02ZM.html</link>
-      <pubDate>2025/12/22 06:06</pubDate>
-      <description>「Nano Banana Pro」で ストーリー漫画の作成を試してみました。 1. Nano Banana Pro で ストーリー漫画の作成を試す作成した漫画は、次のとおりです。 2. Nano Banana Pro で ストーリー漫画の作成手順2-1. キャラクター設定画像の作成「Nano Banana Pro」でキャラクター設定画像 (1K) を作成します。 設定は「ChatGPT」と相談して作成しました。 キャラクター設定の画像を作成して。 ## 琴音こだま（主人公） - 高校1年生女子 - 極度のコミュ障／人見知り - 身長150cm - ピンクロング、猫背ぎみ - ストリートファイター2の異様な上手さが取り柄 - ゲームパッドを抱えて生活している - ふだんはぼそぼそ喋るが、対戦中は豹変 # 美咲（サブキャラ／友達役） - 同級生女子 - 黄色ポニーテール - 明るい／人当たりが</description>
-    </item>
-    <item>
-      <title>ソフトウェア開発でAI丸投げがダメな理由</title>
-      <link>https://gigazine.net/news/20251222-why-outsourcing-ai-software-development-bad/</link>
-      <pubDate>2025/12/22 09:21</pubDate>
-      <description>オープンソース開発者のSimon Willison氏はこれまでに、150件以上の便利なウェブアプリを開発してきました。HTML・JavaScript・CSSを単一のファイルにまとめた自作のウェブアプリを「HTMLツール」と命名し、これまでHTMLツールを開発してきた過程で見出した便利なパターンについてブログにまとめています。 Useful patterns for building HTML tools https://simonwillison.net/2025/Dec/10/html-tools/ ◆HTMLツールのあるべき姿 Willison氏がこれまでに開発したHTMLツールの例には以下のものがあります。 ・svg-render：SVGコードをダウンロード可能なJPEGやPNGにレンダリングするツール ・pypi-changelog：異なるPyPIパッケージリリース間で差分を作成し</description>
-    </item>
-    <item>
-      <title>来たーッッ！！ChatGPTが“Nano Banana超え”の画像生成AI搭載！</title>
-      <link>https://ascii.jp/elem/000/004/360/4360578/</link>
-      <pubDate>2025/12/17 11:50</pubDate>
-      <description>こんにちは。LINEヤフーのFoundation Models研究開発チームです。われわれのチームでは、画像と言語のマルチモーダル基盤モデルの研究開発を行っています。 この記事ではわれわれが開発した日本語マルチモーダル基盤モデル「clip-japanese-base-v2」について紹介します。弊チームでは以前「clip-japanese-base」を公開しましたが、今回は学習データと学習方法の改善によって高性能化したモデルを公開します。商用利用可能なApache-2.0 ライセンスで公開していますので、ぜひ気軽にご利用ください。 公開するリソース：clip-japanese-base-v2 はじめに CLIPは画像と言語の代表的なマルチモーダル基盤モデルで、インターネットから収集した大規模データで学習することでゼロショットでの分類や検索が可能となりました。高い汎用性と拡張性をもつCLIPは</description>
     </item>
   </channel>
 </rss>
