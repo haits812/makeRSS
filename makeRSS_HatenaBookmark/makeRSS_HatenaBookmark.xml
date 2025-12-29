@@ -5,6 +5,42 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>GitHub - hkjarral/Asterisk-AI-Voice-Agent: An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology</title>
+      <link>https://github.com/hkjarral/Asterisk-AI-Voice-Agent</link>
+      <pubDate>2025/12/25 11:19</pubDate>
+      <description>AI Coding.Infoの話 私はAI Coding.InfoというAI Coding Agentの利用動向を毎日集計しているサイトを公開しています。 最近は、こんな発表をしてきました。 このAI Coding.Infoは以下のような特徴があります。 Githubの公開リポジトリを9,000リポジトリを毎日調査 プログラミング言語毎のGithub スター数のTOP 300 プログラミング言語は30種類から調査 AI Coding Agent 16種類を対象 各種AI Coding Agentの利用するルールファイルがGithubリポジトリにある場合のみ、AI Coding Agentを利用していると判断 このような特徴のため、毎日Githubのデータをクローリングする必要があります。このクローラー運用をしてみて色々なことが起こったことをお話ししようと思います。 Github Actio</description>
+    </item>
+    <item>
+      <title>外部機能との連携とMCPへの展開――Tool Callingの基礎をSpring AIで理解する</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/25/news001.html</link>
+      <pubDate>2025/12/25 23:31</pubDate>
+      <description>Microsoft「2030年 脱C/C++」宣言の深層：AIとRustによる「1ヶ月100万行」書き換え構想と、その後の“火消し”が意味するもの 2025年の年末、テクノロジー業界に衝撃的なニュースが駆け巡った。Microsoftの傑出したエンジニア（Distinguished Engineer）であるGalen Hunt氏が、LinkedIn上で「2030年までにMicrosoft社内のすべてのCおよびC++コードを排除する」という野心的な目標を公言したのだ。 さらに注目を集めたのは、その実行手段と生産性目標である。「AIとアルゴリズムの融合」により、「エンジニア1人あたり、1ヶ月で100万行のコード」を処理するという、従来のソフトウェアエンジニアリングの常識を覆す数値が提示された。 しかし、この投稿が拡散された数日後、事態は急展開を見せる。同氏は投稿を更新し、これが「公式な製品ロード</description>
+    </item>
+    <item>
+      <title>自然言語だけでWorkFlowが完成する時代: WorkFlow DevOpsへの変革 - Algomatic Tech Blog</title>
+      <link>https://tech.algomatic.jp/entry/2025/12/27/121807</link>
+      <pubDate>2025/12/27 23:17</pubDate>
+      <description>相川晴（HAL） @halproject00 チャッピー使いすぎて、文章見ると「あ、これチャッピーに書かせて一部だけ訂正したやつだな」というのが大体わかるようになってきてしまった。 私はあなたの書いた文章が読みたい…… 2025-12-27 16:45:08</description>
+    </item>
+    <item>
+      <title>A Guide to Claude Code 2.0 and getting better at using coding agents</title>
+      <link>https://sankalp.bearblog.dev/my-experience-with-claude-code-20-and-how-to-get-better-at-using-coding-agents/</link>
+      <pubDate>2025/12/29 03:15</pubDate>
+      <description>会議の議事録作成、企画書の下書き、得意先に送るメール—— 気づけば、生成AIに頼らなければ仕事が回らない日々。 たしかに業務は効率化されたものの、ふと「そういえば、自分で考えることが減ったかも……」と不安になったことはないでしょうか。 じつは、AIで思考停止する人と、むしろ考えが深まる人がいます。その違いはたった3つ。AIの回答への「向き合い方」、問いの「立て方」、そして「対話の重ね方」です。 本記事では、思考力を鈍らせないAIとの付き合い方を、専門家の知見とともに解説します。 1. AIの回答を「鵜呑みにするか・確かめるか」 ファクトチェックの練習法 2. AIへの問いは「そのまま聞くか・仮説を立てるか」 仮説を立てて問うコツ 3. AIを「答えの道具にするか・対話の相手にするか」 AIと対話を深めるヒント よくある質問（FAQ） Q1. 生成AIを使うと思考力は低下しますか？ Q2.</description>
+    </item>
+    <item>
+      <title>【ついに来る】AIの進化が“2026年”に止まる？ データ枯渇よりヤバい「本当の限界」（ビジネス＋IT） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/59b3d3976892e88249fe008b9cdd97eacb8b5706</link>
+      <pubDate>2025/12/29 09:25</pubDate>
+      <description>北極よりインシデント報告：サンタがaiコードレビューを導入した理由North Pole incident report: Why Santa now uses AI code reviewsの意訳です。 機密ポストモーテム — NP-SEV1-1224機密区分：TINSEL RED（最高機密・祝祭レベル） エグゼクティブサマリー 2024年12月24日 03:14（UTC-Pole）、北極の本番環境において、ギフト配布パイプライン（Gift Distribution Pipeline, GDP）で重大なセキュリティ侵害が発生しました。ウィスコンシン州在住の11... Ai駆動開発時代における本当に重要なものを測定する私が話すエンジニアリングリーダーは、例外なく同じ質問をしています。「AIは本当に、私たちをより良くしているのか？」 「AIを使っているかどうか」ではありません（皆すでに使ってい</description>
+    </item>
+    <item>
+      <title>【年末年始まとめ読み】2025年の「年間総合はてなブログランキング」トップ100と「はてな匿名ダイアリー」トップ50を一挙公開！ - 週刊はてなブログ</title>
+      <link>https://blog.hatenablog.com/entry/2025-ranking</link>
+      <pubDate>2025/12/29 12:03</pubDate>
+      <description>キャラクターAIをもっと自由に扱えないか。そんなニーズに応えるように「SillyTavern（シリー・タバーン／直訳すると、おバカな居酒屋）」というLLM用のフロントエンドアプリが人気を集めています。欧米圏や中国で、数百万ユーザーを抱えていると推測されています。キャラクターAIの人格や世界観を、LLMでできるだけ自由に扱えるように、様々な機能の開発が続けられています。さらに、ユーザー間でキャラクターAIのデータが活発に交換されるエコシステムも登場しています。カウンターカルチャーとして成長を続ける、キャラクターAIの世界をご紹介します。 SillyTavernの仕組みとカスタマイズ性 SillyTavernはあくまで多数の機能を搭載したLLMのフロントエンドアプリです。バックエンドは、ChatGPTやGeminiなどにAPI経由で接続したり、ローカルLLM用のアプリ「LM Studio」とい</description>
+    </item>
+    <item>
       <title>【無料】NotebookLMスライドから「音声&amp;amp;字幕付き動画」が作れる&amp;quot;プロンプト&amp;quot;｜まじん</title>
       <link>https://note.com/majin_108/n/n28cebe38881d</link>
       <pubDate>2025/12/27 08:55</pubDate>
@@ -1858,42 +1894,6 @@
       <link>https://github.blog/changelog/2025-12-19-copilot-memory-early-access-for-pro-and-pro/</link>
       <pubDate>2025/12/21 09:50</pubDate>
       <description>162ページのAIドリブン経営白書2026があまりにも長すぎる、解説が欲しいぞ！とリクエスト頂きましたので、著者が自分で解説し始めたシリーズの5回目。 そう、気付いてしまったんです。 もうすでに解説の方が長いことになってると言う矛盾😅 でも、気にせず頑張っていきたいと思います。 次は年内に5,000ダウンロードを目指してますので、応援の程よろしくお願いいたします📣 この記事で学べること組織のAI活用成熟度を測る「5つのフェーズ」 なぜフェーズ3が「経営関与の分水嶺」なのか AI時代に求められる人事制度の再設計 はじめに：しくじりの先にあるもの前回は、当社が経験した「3つのしくじり」をお伝えしました。 社内でAIが使われない ゼロリスク主義で止まる 「仕事を奪う」という誤解 3つの壁これらの壁を乗り越えた先に、何があるのでしょうか？ 今回は、組織がAI活用で目指すべきゴールと、そこに至る</description>
-    </item>
-    <item>
-      <title>AWS re:Invent 2025 参加レポート - 参加して感じた、AIOpsの本格的な到来 - Findy Tech Blog</title>
-      <link>https://tech.findy.co.jp/entry/2025/12/21/070000</link>
-      <pubDate>2025/12/21 08:08</pubDate>
-      <description>人生で5度目ぐらいの Markdown Editor 実装をしました。今回が最速です。 ここで試せます。 実際に地上最速かはいろんなパフォーマンスの軸があるのでなんとも言えないんですが、少なくともエディタ上のインクリメンタルコンパイルという視点では、他に負けないと思います。(ベンチマークは記事後半にあります) 自分で言うのもなんですが、とにかく速いです。差分コンパイルなので分量が多くても耐えます。プレビューと編集の自動同期が便利で。試しに20000文字突っ込んでも表示ラグはなく、 60fps を維持しています。 FFIを使わないピュアなMoonbit実装なので、js/wasm/native でライブラリとしていずれの環境でも使えます。 というわけで、今回は Moonbit による実装の可能性を皆さんに見せつけたい、と思ってこの記事を書いています。その js ビルドを npm の @mizc</description>
-    </item>
-    <item>
-      <title>Claude Codeの50回制限を20倍に拡張するclaude-mem - コンテキスト枯渇問題の解決策</title>
-      <link>https://zenn.dev/tenormusica/articles/claude-mem-endless-mode-context-limit-2025</link>
-      <pubDate>2025/12/21 18:15</pubDate>
-      <description>AIとの連携により、タグ付けや詳細などのプロパティが作成できるファイル共有サーバー「Seafile」がオープンソースで公開されています。 Seafile - Open Source File Sync and Share Software https://www.seafile.com/en/home/ 今回は、Google CloudでUbuntu 24.04.3 LTSのインスタンスを作成しDockerを利用して構築します。Setup community editionを参考に、コンソールを起動してrootユーザーとして操作します。AI拡張機能を利用する場合は、メタデータサーバーと合わせて追加します。 mkdir /opt/seafile cd /opt/seafile wget -O .env https://manual.seafile.com/13.0/repo/docker/c</description>
-    </item>
-    <item>
-      <title>AWS re:Invent 2025 参加レポート - ラスベガスの街がAWSに染まる1週間を体験してきた - Findy Tech Blog</title>
-      <link>https://tech.findy.co.jp/entry/2025/12/22/070000</link>
-      <pubDate>2025/12/22 07:43</pubDate>
-      <description>オープンソース開発者のSimon Willison氏はこれまでに、150件以上の便利なウェブアプリを開発してきました。HTML・JavaScript・CSSを単一のファイルにまとめた自作のウェブアプリを「HTMLツール」と命名し、これまでHTMLツールを開発してきた過程で見出した便利なパターンについてブログにまとめています。 Useful patterns for building HTML tools https://simonwillison.net/2025/Dec/10/html-tools/ ◆HTMLツールのあるべき姿 Willison氏がこれまでに開発したHTMLツールの例には以下のものがあります。 ・svg-render：SVGコードをダウンロード可能なJPEGやPNGにレンダリングするツール ・pypi-changelog：異なるPyPIパッケージリリース間で差分を作成し</description>
-    </item>
-    <item>
-      <title>AIやツールで運用業務を効率化した先に見えた次のステップ - Findy Tech Blog</title>
-      <link>https://tech.findy.co.jp/entry/2025/12/22/092922</link>
-      <pubDate>2025/12/22 09:42</pubDate>
-      <description>Datasetteの開発者であるソフトウェアエンジニアのサイモン・ウィリソン氏が、ソフトウェア開発においてAIに丸投げすることがダメな理由を解説しています。 Your job is to deliver code you have proven to work https://simonwillison.net/2025/Dec/18/code-proven-to-work/ 生成AIの普及により、Microsoft製品のコードの30％はAIで書かれていたり、開発者の92％がAIコーディングツールを愛用していたりと、ソフトウェア開発の世界にもAIは着々と浸透しつつあります。 しかし、何かしらのAIツールを利用する権限を与えられた若手エンジニアが、AIを用いてソフトウェア開発を行ない、動作テストなどをコードレビュープロセスに丸投げするケースがあるそうです。このような行為について、ウィリソン氏</description>
-    </item>
-    <item>
-      <title>【西川和久の不定期コラム】 卓上サイズでVRAM 128GB搭載ミニPC、ASUS「ASCENT GX10」を遊び尽くしてみた</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/nishikawa/2072125.html</link>
-      <pubDate>2025/12/22 09:25</pubDate>
-      <description>・倍率35倍の人気、東洋大の新入試が物議　「ルール違反」と文科省（朝日新聞） 「大学受験地図が一変する…」東洋大学の「常識を覆す」新しい学校推薦選抜に教育現場が揺れるワケ（ダイヤモンド教育ラボ） →　2024年の12月に東洋大学が新しい学校推薦型選抜を導入した件について。朝日新聞の方は舌足らず，ダイヤモンドの方は長いので，少し要約する。大学入試では，学力試験中心の一般選抜は2月以降に，小論文・面接中心の総合型選抜・学校推薦型選抜は12月までに実施するのが文科省の定めたルールであった。このため後者はまとめて年内入試と呼ばれている。ところで，「年内入試では学力が担保されない」という世間的な批判は以前から存在していた。このため文科省が年内入試で受験生の学力を測ること&amp;quot;も&amp;quot;実施するよう大学に指示した。これを逆手に取ったのが東洋大学で，学校推薦型の試験を堂々と学力試験のみとしたのだ。 →　この東洋大</description>
-    </item>
-    <item>
-      <title>35年動く巨大システムをどう変える？ 三菱UFJ銀行が挑む「VS Code×生成AI」によるメインフレーム開発革命</title>
-      <link>https://codezine.jp/article/detail/22719</link>
-      <pubDate>2025/12/18 12:57</pubDate>
-      <description>はじめに 「うちの病院でも生成AIを活用したい」 「電子カルテの要約をAIでできないか」 医療機関のDX推進担当者や、外部のシステム開発者がこのような相談を受けることが増えています。しかし医療分野でLLMを活用する場合、一般的なWebサービスとは異なる厳格なデータの要件があります。 本記事では、2025年12月時点で日本国内の医療機関がLLMを本番利用する際に知っておくべき、規制要件とクラウドプロバイダーの選択肢について、網羅的に解説します。 ちなみに私は元医師で、現在株式会社LivetoonでCTOとしてAI開発をしている長嶋と申します。 また東大病院循環器内科にも所属しており、医療AI開発に携わっております。 ※筆者注: 情報は2025年12月時点のものであり、今後変更される可能性があります。またベンダー側のドキュメントも新旧入り乱れており、下記情報が完璧に正確である保証はいたしません</description>
     </item>
   </channel>
 </rss>
