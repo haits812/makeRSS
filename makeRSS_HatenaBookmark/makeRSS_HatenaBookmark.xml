@@ -5,6 +5,48 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>ChatGPTにできる“お願い”がもっと強力に。新機能｢Apps｣の使い方</title>
+      <link>https://www.gizmodo.jp/2025/12/how_to_use_chatgpt_apps.html</link>
+      <pubDate>2025/12/24 17:24</pubDate>
+      <description>OpenAIがChatGPT向けに、「Skills」と呼ばれる新機能のテストを実施していることが報じられました。これはAnthropicがClaudeで提供している同名の機能に類似したもので、特定の能力やワークフロー、あるいは特定の分野に関する知識をAIに教え込むための、フォルダーベースの指示セットです。 OpenAI is reportedly testing Claude-like Skills for ChatGPT https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-reportedly-testing-claude-like-skills-for-chatgpt/ Skills are also coming to ChatGPT (codename &amp;quot;hazelnuts&amp;quot;), avail</description>
+    </item>
+    <item>
+      <title>Microsoft「2030年 脱C/C++」宣言の深層：AIとRustによる「1ヶ月100万行」書き換え構想と、その後の“火消し”が意味するもの | XenoSpectrum</title>
+      <link>https://xenospectrum.com/microsoft-rust-rewrite-ai-2030-research-reality/</link>
+      <pubDate>2025/12/24 22:13</pubDate>
+      <description>自分以外全部AI版のはてブみたいなの作ったらみんな使ってくれる？ 反対意見もいい感じに生成して、それに対する論破が星を集めて気持ち良くなれるようにしてさ こういうサービスって需要あるんかな</description>
+    </item>
+    <item>
+      <title>How Rob Pike got spammed with an AI slop “act of kindness”</title>
+      <link>https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/</link>
+      <pubDate>2025/12/27 10:36</pubDate>
+      <description>こんにちは、まじんです。 先日、こちらのGemini Canvasを使ったTipsが反響をいただきましたが、 今回もNotebookLMスライドを使ったTipsをご紹介いたします！ これから共有するプロンプトでGemを作成するだけで、 NotebookLMスライド（PDF）から… ① スピーカーノート付きPowerPoint ② ナレーション &amp;amp; 字幕 付き動画 が作れちゃいます。 しかも、API不要、無料Geminiでもいける。 Xで紹介したのですが、なかなか好評だったので NotebookLMスライドをGemに投げるだけで ① スピーカーノート付きPowerPoint ② ナレーション &amp;amp; 字幕 付き動画 を生成する &amp;quot;プロンプト&amp;quot; を編み出した。 API不要。 無料GeminiだけでOK。 pic.twitter.com/1ILrau58I8 — まじん (@Majin_AppShe</description>
+    </item>
+    <item>
+      <title>総務省｜報道資料｜「AIのセキュリティ確保のための技術的対策に係るガイドライン」（案） に対する意見募集</title>
+      <link>https://www.soumu.go.jp/menu_news/s-news/02cyber01_04000001_00337.html</link>
+      <pubDate>2025/12/26 18:25</pubDate>
+      <description>こんにちは。Algomaticの大塚です。 今回はDifyやn8nといったAIアプリケーションのWorkFlowを自動で作成する取り組みをご紹介します。 はじめに：ノーコードツールの限界 Dify、n8nといったノーコードツールは非エンジニアでも触れる点がプログラミングとの違いと言われています。しかし、実務の観点から見ると状況は異なります。 プロンプトを1行変更するだけでも、GUIの操作手順を覚える必要がある 作ったWorkFlowのテストは手動でやるしかない エラーが起きたら、どこが悪いのか特定するのに時間がかかる 結局、非エンジニアでも触れるはずのツールが、専門知識を持った人しか運用できない矛盾が生まれています。 社内の取り組み そんな課題を解決するために、社内でWorkFlowを自動で生成するシステムを開発しています。このシステムは自然言語からWorkFlowを自動生成するツールです</description>
+    </item>
+    <item>
+      <title>高階関数によるAI Agentのコンテキストエンジニアリング - Spicescode Tech Blog</title>
+      <link>https://tech-blog.localmet.com/entry/2025/12/26/194745</link>
+      <pubDate>2025/12/27 14:59</pubDate>
+      <description>この記事のポイント Android / iOS 版「Google マップ」アプリにおいて、Google AI「Gemini」をベースとする新機能「◆質問（この場所についてマップに質問する）」が、2025 年 12 月辺りより日本国内にてしれっと展開。表示しているスポットについて「Gemini」に質問できる AI 機能。「◆質問」ボタンをタップしつつ、“駐車場ある？” “露天風呂入れる？” “ラストオーダーの時間は？” など、あらかじめ用意されている質問提案から質問したりプロンプトを入力して質問し、回答を得ることが可能。 Google 地図サービス「Google マップ」の Android / iOS 版アプリにおいて、Google AI「Gemini」をベースとする新機能「◆質問（この場所についてマップに質問する）」が、2025 年 12 月辺りより日本国内にてしれっと展開開始されました。</description>
+    </item>
+    <item>
+      <title>ローコードAI</title>
+      <link>https://www.oreilly.co.jp//books/9784814401482/</link>
+      <pubDate>2025/12/27 11:17</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 「文系・未経験からセキュリティは無理」 この言葉を理由に、挑戦を諦めてしまう人は多いと思います。 ですが、少なくとも私はこの意見には賛成できません。 私は文系・未経験からIT業界に入り、 現在はセキュリティコンサルタントとして働いています。 このAI時代に AIの進化によって、 「この先、セキュリティの仕事はAIに奪われるのではないか」 と不安に感じている人は多いと思います。 特に、 文系出身 IT・セキュリティ未経験 プログラミングや数学が得意ではない こうした前提条件があると、 「今から目指して意味があるのか」と感じてしま</description>
+    </item>
+    <item>
+      <title>NPUだけでOpenAIのLLM「gpt-oss」が動く！　速度や消費電力を計測してみた</title>
+      <link>https://www.itmedia.co.jp/aiplus/articles/2512/29/news040.html</link>
+      <pubDate>2025/12/29 13:57</pubDate>
+      <description>「除夜の鐘」とは、人間にあるとされる108種類の煩悩（悩みや心の迷い、苦しみ）を鐘を1回撞くごとに1つずつ消し去り、清らかな心で新年を迎えるための日本の風習です。 今回、もうすぐ大晦日を迎えるにあたり、「除夜の鐘」をテーマに「業務効率化の難しさや悩み」を「煩悩」に例え、それを解決した108個のAI…</description>
+    </item>
+    <item>
       <title>GitHub - hkjarral/Asterisk-AI-Voice-Agent: An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology</title>
       <link>https://github.com/hkjarral/Asterisk-AI-Voice-Agent</link>
       <pubDate>2025/12/25 11:19</pubDate>
@@ -1849,51 +1891,6 @@
       <link>https://bookmark.hatenastaff.com/entry/2025/12/22/120000</link>
       <pubDate>2025/12/22 12:00</pubDate>
       <description>前回（12月16日）、「知財検討会のプリンシプルコード（仮称）（案）」をきっかけに、生成AIと処遇AIの混同について書いた。その後いくつか反応をもらったので、続きを書く。 前回のおさらい 前回の要点はこうだ。2022年までに作られたAI原則やガイドラインは、主に「処遇AI」（人を選別・審査・評価するAI）を念頭に置いていた。ところが2023年にChatGPTが爆発的に広まると、「生成AI」が主役になった。このとき、処遇AI向けの語彙──「追跡可能性」「透明性」「説明可能性」──がそのまま生成AIに流用された。これらは元々、なぜその人がその決定を受けたかを事後検証できるようにするための要請である。ところが生成AIの文脈では、生成物が何に由来するかという話にすり替わり、さらには学習段階まで遡って「学習していないことの証明」が求められるに至った。際限なく広がる「文書化」と「説明」の要求が燃え広が</description>
-    </item>
-    <item>
-      <title>郵便局の“AI年賀状”が攻めてる　軽い気持ちで試したら、新たな黒歴史が爆誕した</title>
-      <link>https://www.itmedia.co.jp/news/articles/2512/22/news095.html</link>
-      <pubDate>2025/12/22 13:52</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/56d93abdc6398ecea72c2deceeaed3d1fa488d2b/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2073%2F130%2Fg1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Antigravity 拡張機能紹介 6選 - Qiita</title>
-      <link>https://qiita.com/masakinihirota/items/23f4fe8ec7f96a2b5652</link>
-      <pubDate>2025/12/18 22:49</pubDate>
-      <description>この記事はLivetoon Tech Advent Calendar 2025の17日目の記事です。 本日はCTOの長嶋が、技術ではなくポエムを書きます。 毎回技術ネタ書いてると尽きるので・・・。 宣伝 今回のアドベントカレンダーでは、LivetoonのAIキャラクターアプリのkaiwaに関わるエンジニアが、アプリの話からLLM・合成音声・インフラ監視・GPU・OSSまで、幅広くアドベントカレンダーとして書いて行く予定です。 ぜひkaiwa使ってみてください。 この問いについて 「リーダーは技術者であるべきか」 テック業界で古今東西、繰り返し議論されてきたテーマだ。 技術がわかる人間がトップに立つべきか、それとも経営のプロに任せるべきか。 スティーブ・ジョブズはエンジニアではなかったが、プロダクトへの執着は誰よりも強かった。 一方でGoogleのラリー・ペイジやFacebookのザッカーバ</description>
-    </item>
-    <item>
-      <title>日本語の「渋い」はなぜ英訳しがたいのか　言語と思考の不思議なつながり | 「AI時代」にこそ考えたい</title>
-      <link>https://courrier.jp/news/archives/425919/</link>
-      <pubDate>2025/12/19 08:52</pubDate>
-      <description>こんにちは、Ubieの橋山です。 この記事は「Ubie 生成AI Advent Calendar 2025」12/20の投稿です。 本稿ではその続編として、この構想がどのように設計・実装されているかという具体的な試行錯誤についてお話しします。 目標設定時の情報収集を楽にしたいUbieには「変化進化会」という、目標設定や成長について所属組織のLeadと対話する場があります。その準備として、過去の活動を振り返る作業があるのですが、なんとかこれを効率化できないかというのが事の発端でした。 そこで、すでに社内で活用が進んでいた JIRA / Notion / Slack の情報が取得できるMCPサーバーを経由して、振り返りの情報を「よしなに」取得するワークフローを作りました。 MCPツールを使って社内の情報を収集するワークフロー（抜粋）情報の取得精度が低いしかし、出力された情報はおおまかにはその人</description>
-    </item>
-    <item>
-      <title>AI 駆動開発ライフサイクル(AI-DLC):ソフトウェアエンジニアリングの再構築 / AI-DLC Introduction</title>
-      <link>https://speakerdeck.com/kanamasa/ai-dlc-introduction</link>
-      <pubDate>2025/12/21 02:05</pubDate>
-      <description>【業界別】27卒就活生の「人気企業ランキング」発表！ IT系ではサイバーエージェントが急浮上【学情調べ】 12月15日 6:00</description>
-    </item>
-    <item>
-      <title>大ヒットゲーム『Clair Obscur: Expedition 33』、インディーゲームのアワードでもGOTY獲得するが「失格」に。開発中の生成AI利用が発覚したため - AUTOMATON</title>
-      <link>https://automaton-media.com/articles/newsjp/clair-obscur-expedition-33-genai-20251221-383841/</link>
-      <pubDate>2025/12/21 13:39</pubDate>
-      <description>関連キーワード OSS | オープンソース | ITガバナンス 「費用削減のために無償のオープンソースソフトウェア（OSS）を採用する」。プロジェクトの発足時はその方針で固まっていたはずだった。しかし、いざ具体的な運用設計に入ると、「何かあったときの責任」を恐れるあまり、雲行きが怪しくなっていく。気付けば要件定義書には「プロプライエタリ（商用）製品同等の24時間365日サポート」が必須項目として書き加えられ、サポート契約を結んだ結果、当初の費用削減計画は崩れ去っていた――。こうした話は決して珍しくない。日本のOSS活用現場は今、矛盾した要求に引き裂かれている。 OSSの商業的な普及促進を目指す団体Linux Foundationは2025年12月、調査レポート「日本のオープンソースの現状 2025」を発表した。調査によると、日本企業の約9割が、無償のOSSに対してトラブル発生時の「12時間</description>
-    </item>
-    <item>
-      <title>ローカル実行の常識！ LLM 量子化 ( Quantization ) の仕組みと手法を完全理解する - Qiita</title>
-      <link>https://qiita.com/fe2030/items/78e52eecc2d0e6da47c8</link>
-      <pubDate>2025/12/21 05:36</pubDate>
-      <description>日々進化する Gemini ですが、Gemini Drop を見ればリリースの内容を簡単に把握できます。定期的にチェックして、機能の発表やプロダクトに関するヒント、コミュニティで Gemini がどのように活用され、創作や調査に利用されているかをご確認ください。</description>
-    </item>
-    <item>
-      <title>Copilot memory early access for Pro and Pro+ - GitHub Changelog</title>
-      <link>https://github.blog/changelog/2025-12-19-copilot-memory-early-access-for-pro-and-pro/</link>
-      <pubDate>2025/12/21 09:50</pubDate>
-      <description>162ページのAIドリブン経営白書2026があまりにも長すぎる、解説が欲しいぞ！とリクエスト頂きましたので、著者が自分で解説し始めたシリーズの5回目。 そう、気付いてしまったんです。 もうすでに解説の方が長いことになってると言う矛盾😅 でも、気にせず頑張っていきたいと思います。 次は年内に5,000ダウンロードを目指してますので、応援の程よろしくお願いいたします📣 この記事で学べること組織のAI活用成熟度を測る「5つのフェーズ」 なぜフェーズ3が「経営関与の分水嶺」なのか AI時代に求められる人事制度の再設計 はじめに：しくじりの先にあるもの前回は、当社が経験した「3つのしくじり」をお伝えしました。 社内でAIが使われない ゼロリスク主義で止まる 「仕事を奪う」という誤解 3つの壁これらの壁を乗り越えた先に、何があるのでしょうか？ 今回は、組織がAI活用で目指すべきゴールと、そこに至る</description>
     </item>
   </channel>
 </rss>
