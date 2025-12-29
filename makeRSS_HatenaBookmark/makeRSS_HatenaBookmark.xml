@@ -5,6 +5,54 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Geminiにこっそり追加された「マークアップ」が、地味に神アップデートだった | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2512new-gemini-ai-photo-editing-tools/</link>
+      <pubDate>2025/12/28 10:35</pubDate>
+      <description>■ 代替可能性を欠く「AIプリンシプル・コード」——スチュワードシップ・コードの劣化コピーが日本のソフトローを破壊する 前々回の日記で触れた「プリンシプル・コード」がパブコメにかけられた。意見作成に向けてClaude Sonnet 4.5で分析してみた。結論パートはここから。長くて読めないなら、右上角の音声（NotebookLMによる音声解説）をどうぞ。 私：今巷で話題沸騰の「生成AIの適切な利活用等に向けた知的財産の保護及び透明性に関するプリンシプル・コード（仮称）（案）」を批判的に分析しましょう。まずは内容を把握してください。 https://www.kantei.go.jp/jp/singi/titeki2/ikenboshu_20251226.html Claude：[考え中...] 内容を把握します。URLをフェッチしますね。 [考え中...] 文字化けしていますね。PDFファイ</description>
+    </item>
+    <item>
+      <title>私のソフトウェア開発を一変させてしまった2025年のAIエージェントをふりかえる</title>
+      <link>https://blog.lai.so/agents-in-2025/</link>
+      <pubDate>2025/12/28 17:57</pubDate>
+      <description>第18回サイゼミ ここまでのあらすじ 佐藤雅彦について（LW） 佐藤雅彦って誰？ より一般的な「作り方を作る」 佐藤雅彦に固有のメタスタイル メタメタスタイルの開拓余地 フロクロPについて（フロクロさん） キュレーションとしての創作 ポイント①：蒐集趣味の質と量 ポイント②：言語学的なスキーム ポイント③：オタクとしての自負と趣味 第18回サイゼミ 2025年12月14日（日）に大門で第18回サイゼミを催した。 www.youtube.com今回は今をときめくボカロPのフロクロさんに来て頂き、前座の俺が佐藤雅彦の話をしてから、メインはフロクロさんに色々喋ってもらったり見せてもらったりする回だった。 比較的厳重にフィルター処理されたサイゼミ最初は3人でスタートしたサイゼミだがもう20人くらいの規模感にも慣れてきた気がする。 補足627：と言いつつ、会場の形がベストではなかった。レンタルスペー</description>
+    </item>
+    <item>
+      <title>【Google Antigravity】実践ガイド Part 2 - ワークフロー自動化とカスタムツールの作成</title>
+      <link>https://zenn.dev/shineos/articles/google-antigravity-workflow-automation</link>
+      <pubDate>2025/12/28 12:02</pubDate>
+      <description>機械学習の社会実装勉強会第54回 (https://machine-learning-workshop.connpass.com/event/379662/) の発表資料です。</description>
+    </item>
+    <item>
+      <title>生成AIで○○だけする人が見えていない「思考力がグングン高まる人」との大きな違い - STUDY HACKER（スタディーハッカー）｜社会人の勉強法＆英語学習</title>
+      <link>https://studyhacker.net/ai-thinking</link>
+      <pubDate>2025/12/28 19:30</pubDate>
+      <description>タイトルの通りです！ 「年末年始で生成AIを一気に詳しくなって、使いこなせるようになりたい！」という方はぜひご活用ください！ ■ 基礎編まずLLM/生成AIへの正しい向き合い方を知る</description>
+    </item>
+    <item>
+      <title>批判、炎上、和解……RelaxBeatsLab×Hizuru Saitoが語り合う、激動の2025年を経たAI音楽の行方</title>
+      <link>https://realsound.jp/tech/2025/12/post-2264006.html</link>
+      <pubDate>2025/12/28 21:02</pubDate>
+      <description>Table of Contents Intro Why I wrote this post The Map is not the territory This post will help you keep up in general Lore time - My Love and Hate relationship with Anthropic Timeline My Codex era Anthropic Redemption Arc + Regaining mandate of heaven Why Opus 4.5 feels goooood This post is not sponsored Pointers for the technically-lite The Evolution of Claude Code Quality of life improvements in</description>
+    </item>
+    <item>
+      <title>AI駆動開発を全力で試して得られた、10の実践テクニックと知見について</title>
+      <link>https://zenn.dev/sunagaku/articles/ai-development-best-practices-2025</link>
+      <pubDate>2025/12/29 12:48</pubDate>
+      <description>「除夜の鐘」とは、人間にあるとされる108種類の煩悩（悩みや心の迷い、苦しみ）を鐘を1回撞くごとに1つずつ消し去り、清らかな心で新年を迎えるための日本の風習です。 今回、もうすぐ大晦日を迎えるにあたり、「除夜の鐘」をテーマに「業務効率化の難しさや悩み」を「煩悩」に例え、それを解決した108個のAI…</description>
+    </item>
+    <item>
+      <title>【最新】Claude Code実装→Codexレビュー→修正…の往復を自動化する方法｜makaneko</title>
+      <link>https://note.com/makaneko_ai/n/n3cefcec49e2d</link>
+      <pubDate>2025/12/29 17:26</pubDate>
+      <description>「AI PC」や「Copilot+ PC」という単語を聞くようになってすでに1年は過ぎたところだが、ChatGPTのような高性能なLLM（大規模言語モデル）がローカルでも動くのか？　と問いにはあまり良い答えがなかったのがこれまでだった。そういうことをしたいなら外部GPUかMacを用意した方がいいと。NPUの性能としてうたわれる「1秒間にウン兆回の計算」とは何だったのか、と疑問に思う人もいるだろう。 しかし、最近になってようやく良い兆しが見え始めた。米AMDのNPU「Ryzen AI」で、ローカルLLM「gpt-oss 20B」を動作させられるソフトウェアが出てきた。gpt-ossといえば米OpenAIが2025年8月に公開したLLMで、デスクトップPC向けのハイエンドGPUでも実行できるファイルサイズでありながら数学のベンチマークでは同社のハイエンドLLM「o3」に匹敵するという触れ込み。</description>
+    </item>
+    <item>
+      <title>ChatGPTの力で｢片付ける気すら起きないほど荒れた部屋｣ が楽に綺麗になった話</title>
+      <link>https://www.gizmodo.jp/2025/12/clean-my-scattered-room-using-chatgpt-loi.html</link>
+      <pubDate>2025/12/29 15:51</pubDate>
+      <description>今年も年間を通して続いた趣味と言える趣味が増田の読むことしかなかったので、僕なりに一年を振り返ってみるよ。 1月例年のようにビール腹のおじさんが午前0時をお知らせし、願いを叶えてあげようというはてなの神からのご神託と共に新年が始まった。 でもなぜかどちらの日記も消えてしまっているよ。 ・ビール腹のおじさんが午前0時をお知らせします ・初詣は増田神社にお詣りしましょう あとは「〇〇くん係」をやっていたという増田が物議を醸したりしていたね。 ・【祝・介護終了！】　社会人３～４年目で　「「〇〇くん係」を２年間 2月セメントとコンクリートとアスファルトの違いを解説してくれるすごい増田が現れて騒然となったね。こういう知識ある人の雄弁な文章を読みたくて増田に浸っているなあと感じるよ。 ・素晴らしい疑問を本当にありがとう！！！セメント・コンクリート・アスフ.. 増田をブクマしまくる即ブクマbotに疑心暗</description>
+    </item>
+    <item>
       <title>ChatGPTにできる“お願い”がもっと強力に。新機能｢Apps｣の使い方</title>
       <link>https://www.gizmodo.jp/2025/12/how_to_use_chatgpt_apps.html</link>
       <pubDate>2025/12/24 17:24</pubDate>
@@ -1843,54 +1891,6 @@
           &lt;p class="entrylist-contents-thumb"&gt;
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/71102ef5d1591a4661baba6e8b944274311e6d67/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2072%2F125%2FC00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
-    </item>
-    <item>
-      <title>NotebookLMに新機能　表形式で出力できる「データテーブル」</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2073130.html</link>
-      <pubDate>2025/12/22 09:24</pubDate>
-      <description>今年も残すところあと少し。皆さんにとって、2025年はどのような一年でしたか？ はてなブックマークでは今年もたくさんのエントリーがブックマークされ盛り上がりました。 データで見る「あとで読む」 年末ということで、2021年・2022年・2023年・2024年に引き続き今年も「あとで読む」タグにフォーカスしたデータを集計しました。全ブックマークを対象にした「あとで読む」率、カテゴリー別「あとで読む」率、「あとで読む」が多いエントリーランキングを通して、2025年のはてなブックマークを振り返ってみましょう。 全ブックマークを対象にした「あとで読む」 率 カテゴリー別 「あとで読む」 率 「あとで読む」 タグが多いエントリーは？ トップ10ランキング 「あとで読む」タグの数が多かったエントリーランキング カテゴリー別「あとで読む」率の高かったエントリーランキング 気になった記事を気軽に保存できる</description>
-    </item>
-    <item>
-      <title>生成AI時代のソフトウェア開発</title>
-      <link>https://www.oreilly.co.jp//books/9784814401468/</link>
-      <pubDate>2025/12/22 14:56</pubDate>
-      <description>日本テレビが2026年1月8日深夜に、生成AIをフル活用したとうたうドラマ「TOKYO 巫女忍者」を関東ローカルで放送する。サイバーエージェントが技術協力する他、制作には映画「8番出口」に携わった映像プロダクションAOI Pro（東京都港区）が協力する。 同作は「江戸の風情が残りながらも“妖化（ようか）”の病がはびこる2026年の東京を舞台にした、新時代のアクションファンタジー」（日本テレビ）という。制作面ではサイバーエージェントのスタジオ「極AIお台場スタジオ」を活用。VFXは映画版8番出口に参加したTREE Digital Studio（東京都渋谷区）が手掛ける。実写に加え、巨大なLEDパネルを活用した撮影手法「バーチャルプロダクション」や生成AIを組み合わせて壮大な世界観を表現するとしている。 関連記事 Google、「Gemini」アプリに写真から音声付き動画を生成する機能追加 G</description>
-    </item>
-    <item>
-      <title>[地獄] OpenAI APIが不正使用された件 - Qiita</title>
-      <link>https://qiita.com/ShigemoriMasato/items/8d4c09a40235440d8c77</link>
-      <pubDate>2025/12/19 21:31</pubDate>
-      <description>ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード2025.12.19 19:0072,981 AJ Dellinger - Gizmodo US ［原文］ （ 中川真知子 ） ChatGPTを無料で使っている人、あるいは、日本を除く一部地域で提供されている月5ドルの｢ChatGPT Go｣を使っている人は、知らないうちに使っているAIが変わっているかもしれません。 OpenAIがChatGPTの仕様をサイレントダウングレード。無料ユーザーとGoユーザーは、デフォルトで最も軽量かつ低コストなモデルを使う形に切り替わりました。 この変更は、ChatGPTのリリースノートに記載されていた内容で、米メディアのWiredが発見して明らかになりました。 自動で｢賢いモデル｣に切り替わらなくなったこれまでChatGPTでは、質問の内容の難易度に応じて自動的に｢Thinking（推論能力の</description>
-    </item>
-    <item>
-      <title>LLM-as-a-Judge とルーブリック評価</title>
-      <link>https://zenn.dev/ubie_dev/articles/llm-as-a-judge-rubric-evaluation</link>
-      <pubDate>2025/12/20 11:46</pubDate>
-      <description>同僚に教えてもらった、Android 用ランチャーアプリ Niagara Launcher を使ってみたら気に入って、そろそろ1年ほど常用しているので今の使い方を備忘的にまとめておく。 紹介記事 いわゆる「ホーム画面アプリ」や「ランチャーアプリ」と呼ばれるジャンルのアプリである。公式サイトの謳い文句は「すっきりしたデザインで、片手操作に適したモダン&amp;amp;ミニマルなランチャーアプリ。」だそうです。 基本的な説明は既に色んな人が書いているので、レビュー記事を紹介するに留めます。 大画面スマホでも片手でアプリをサクサク起動できるランチャーアプリ「Niagara Launcher」レビュー - GIGAZINE 特徴 紹介記事 特徴 ホーム画面をシンプルに FAB から Google Keep メモ アイコンパック アプリ一覧とアプリ名の変更 アプリのスワイプメニューの編集 スワイプメニューにウィジェ</description>
-    </item>
-    <item>
-      <title>退職して博士進学してしまった結果...www｜akiraTOSEI</title>
-      <link>https://note.com/akira_tosei/n/nd0e47b30d9de</link>
-      <pubDate>2025/12/20 09:25</pubDate>
-      <description>Claude Code のバージョン 2.0.74 から LSP（Language Server Protocol）サポートが追加されました。LSP サポートにより、Claude Code はコードベースに対してシンボルの定義検索、参照検索、ホバー情報の取得などの操作が可能になります。この記事では Claude Code の LSP サポートの概要と使用方法を紹介します。 コーディングエージェントが LSP（Language Server Protocol）を扱えるようになることで、エージェントがより効率的にタスクを遂行できるようになります。文字列でコードベース全体を検索するのではなく、LSP を通じてコードの構造やシンボル情報にアクセスできるため、正確な情報を迅速に取得・編集できるためトークンと時間を大きく節約できます。このことはコーディングエージェントにセマンティックなコード検索・編集</description>
-    </item>
-    <item>
-      <title>8億ユーザーでも赤字拡大のOpenAIと売上11兆円宣言のAnthropic　AI覇権争いの”売上戦争”が幕開け（AMP［アンプ］） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/c4015b9f5aeb847c2e93e53314832d297cac3833</link>
-      <pubDate>2025/12/21 13:00</pubDate>
-      <description>この記事は「カンム Advent Calendar 2025」20日目の記事です。 こんにちは！カンムでプロダクトマネージャーをしている道川 (michiomochi)です。 みなさんは日々の仕事でドキュメントを書いているでしょうか？ ドキュメントにも種類があり、自分はPRD(プロダクト要件定義書)や社内の方針を伝えるものであったりいろいろなものを書いています。 昨今はAIが出てきており人間が1から文章を書くことも少なくなったのではないでしょうか。 今回は自分が最近実践しているAIを利用したドキュメントの書き方をお伝えします。 心構えAIを活用したドキュメント執筆を始める前に、重要な心構えがあります。 まず、AIが出力する文章は人間が読みやすいものとは限りません。また、AIは時として誤った情報を生成するため、最終的な内容の正確性は人間が責任を持って確認する必要があります。 そして最も重要な</description>
-    </item>
-    <item>
-      <title>【第5回】AI時代の組織戦略（後半）｜スドケン@ハック思考【勝手に未来想像シンクタンク】</title>
-      <link>https://note.com/sudoken/n/ncd43570b6f03</link>
-      <pubDate>2025/12/20 22:23</pubDate>
-      <description>官民による総額３兆円規模の国産ＡＩ（人工知能）開発計画の全容が判明した。来春にもソフトバンクなどの日本企業十数社が出資して新会社を設立し、国内最大規模のＡＩ基盤モデルの開発を目指す。ＡＩ開発は米中が性能面で大きくリードしており、官民を挙げて反転攻勢をかける。 【図】一目でわかる…「国産ＡＩ」開発のイメージ 経済産業省が今後実施する公募にソフトバンクなどが応じる方向で検討している。経産省は新会社に対し、２０２６年度から５年間で約１兆円を支援する。まずは２６年度予算案に関連費用として３０００億円超を盛り込む方針だ。ソフトバンクは２６年度から６年間でＡＩの開発・提供に使うデータセンターに２兆円を投じる。 新会社はソフトバンクが中心となって設立し、同社やＡＩ開発企業プリファードネットワークスのＡＩ技術者を中心に１００人規模が所属する見通し。まずは世界の主要ＡＩが達成する「１兆パラメーター」規模の基</description>
-    </item>
-    <item>
-      <title>「あとで読む」タグで振り返る2025年 〜今年の「あとで読む」、今年のうちに〜 - はてなブックマーク開発ブログ</title>
-      <link>https://bookmark.hatenastaff.com/entry/2025/12/22/120000</link>
-      <pubDate>2025/12/22 12:00</pubDate>
-      <description>前回（12月16日）、「知財検討会のプリンシプルコード（仮称）（案）」をきっかけに、生成AIと処遇AIの混同について書いた。その後いくつか反応をもらったので、続きを書く。 前回のおさらい 前回の要点はこうだ。2022年までに作られたAI原則やガイドラインは、主に「処遇AI」（人を選別・審査・評価するAI）を念頭に置いていた。ところが2023年にChatGPTが爆発的に広まると、「生成AI」が主役になった。このとき、処遇AI向けの語彙──「追跡可能性」「透明性」「説明可能性」──がそのまま生成AIに流用された。これらは元々、なぜその人がその決定を受けたかを事後検証できるようにするための要請である。ところが生成AIの文脈では、生成物が何に由来するかという話にすり替わり、さらには学習段階まで遡って「学習していないことの証明」が求められるに至った。際限なく広がる「文書化」と「説明」の要求が燃え広が</description>
     </item>
   </channel>
 </rss>
