@@ -5,6 +5,48 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>「調べれば調べるほど、1929年と現在は同じ」。世界恐慌を描く新著を出した、ベストセラー作家は語る | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/stock-market-bubble-andrew-ross-sorkin-1929-crash-book-ai-a/</link>
+      <pubDate>2025/12/24 21:17</pubDate>
+      <description>Goでフルスクラッチ実装したLLMエージェントによって、セキュリティアラート分析を自動化する方法を解説します。LangChainなどのフレームワークを使わず、LLM APIのみを使って実践的なエージェントを構築する手順を基礎から応用まで紹介します。</description>
+    </item>
+    <item>
+      <title>入社から8か月。AIファーストへ進化する令和トラベルで感じた変化と挑戦 | 令和トラベル Engineering Blog</title>
+      <link>https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20251226</link>
+      <pubDate>2025/12/26 10:51</pubDate>
+      <description>はじめに Google Cloud では、RAG を手軽に実現する手段として、Vertex AI Search や Vertex AI RAG Engine などのマネージドサービスが提供されています。あるいは、ベクトル検索エンジンである Vector Search を利用して、独自の RAG システムを構築することもできます。 業務システムとして利用する際は、これらのサービスを利用することで、スケーラビリティの高いシステムが容易に構築できますが、システム設計に関わるエンジニアとしては、そもそも RAG とはどのような仕組みで、どのような処理が裏側で行われているのかを理解しておくことも大切です。そこでこの記事では、前述の便利なサービスをあえて利用せず、自前の RAG システムを手作りすることで、RAG を構成するパーツや高品質な結果を返すための工夫を学びます。 RAG の仕組み はじめに、</description>
+    </item>
+    <item>
+      <title>AIを擬人化して「画策」「告白」などと表現するのは即刻やめるべきだ</title>
+      <link>https://japan.cnet.com/article/35241698/</link>
+      <pubDate>2025/12/28 14:18</pubDate>
+      <description>会議の議事録作成、企画書の下書き、得意先に送るメール—— 気づけば、生成AIに頼らなければ仕事が回らない日々。 たしかに業務は効率化されたものの、ふと「そういえば、自分で考えることが減ったかも……」と不安になったことはないでしょうか。 じつは、AIで思考停止する人と、むしろ考えが深まる人がいます。その違いはたった3つ。AIの回答への「向き合い方」、問いの「立て方」、そして「対話の重ね方」です。 本記事では、思考力を鈍らせないAIとの付き合い方を、専門家の知見とともに解説します。 1. AIの回答を「鵜呑みにするか・確かめるか」 ファクトチェックの練習法 2. AIへの問いは「そのまま聞くか・仮説を立てるか」 仮説を立てて問うコツ 3. AIを「答えの道具にするか・対話の相手にするか」 AIと対話を深めるヒント よくある質問（FAQ） Q1. 生成AIを使うと思考力は低下しますか？ Q2.</description>
+    </item>
+    <item>
+      <title>業務効率化の難しさや悩みを解決した「AI活用108選」をまとめました｜SmartBank</title>
+      <link>https://note.com/smartbankinc/n/n72958033f46e</link>
+      <pubDate>2025/12/29 14:54</pubDate>
+      <description>先日、VS Code の GitHub Copilot Chat の 3 つの基本モード「Ask」「Edit」「Agent」を実装レベルで深堀りした記事を書きました。実装を読み解くことで、「インテント」と呼ばれる単位でエージェントの振る舞いを制御している設計や、各モードがどのようにインテントを活用して Chat Completions API を呼び出しているかが明らかになりました。 本記事では、さらに GitHub Universe 2025 で発表された「Plan」モードについて、実装を読み解いていきます。前提とするのは、VS Code の GitHub Copilot Chat です。 なお、この記事では、2025 年 12 月 27 日時点のコードを参照しています（microsoft/vscode-copilot-chat: 233302c、microsoft/vscode: 1d</description>
+    </item>
+    <item>
+      <title>韓国の高齢者、AI搭載人形に癒やしとケアを見いだす</title>
+      <link>https://www.cnn.co.jp/tech/35241544.html</link>
+      <pubDate>2025/12/29 20:01</pubDate>
+      <description>人工知能（AI）の普及でデータセンターの市場は急拡大し、バリューチェーン全般で新たな企業が台頭している。CBインサイツのデータに基づいてデータバリューチェーンを7つの層に分け、45分野367社のマップを作成した。AIはデータセンター経済を一変させている。大規模言語モデル（LLM）の爆発的成長により、大都市の電力消費量に相当する電力容量がギガワット（GW）級のデータセンターの建設が相次いでいる。</description>
+    </item>
+    <item>
+      <title>2025年にブックマークしたページでよかったもの集めた - Really Saying Something</title>
+      <link>https://toya.hatenablog.com/entry/2025/12/30/005511</link>
+      <pubDate>2025/12/30 01:46</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>ソフトバンクG、DigitalBridgeを40億ドルで買収　人工超知能（ASI）ビジョン加速へ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2512/30/news032.html</link>
+      <pubDate>2025/12/30 08:03</pubDate>
+      <description>本記事は、Japan Digital Design Advent Calendar 2025 の6日目の記事になります。 みなさんこんにちは！三菱UFJフィナンシャル・グループ（以下MUFG）の戦略子会社であるJapan Digital Design（以下JDD）でMUFG AI Studio（以下M-AIS）に所属し、データサイエンティストをしている小林です。 この記事は、「JDDStudy #10 MUFGのDX子会社がみた生成AIの現在地」で発表したスライドをもとに、あらためて文章として噛み砕きながら書き起こしたものです。イベントに参加できなかった方にも内容が伝わるよう、当日の流れや補足説明も交えつつ、Text2SQL に取り組んで見えてきた内容をまとめています。 ここで扱う Text2SQL とは、ユーザーが自然言語で入力した質問を、LLMが自動的にSQLクエリへと変換し、必要なデ</description>
+    </item>
+    <item>
       <title>Cursorでプログラミング言語を学び直す方法——AI駆動学習の4ステップ | メルカリエンジニアリング</title>
       <link>https://engineering.mercari.com/blog/entry/20251223-ai-driven-learning/</link>
       <pubDate>2025/12/25 18:01</pubDate>
@@ -1846,48 +1888,6 @@
       <link>https://togetter.com/li/2641578</link>
       <pubDate>2025/12/22 19:57</pubDate>
       <description>本記事は、LLM・LLM活用 Advent Calendar 2025 21日目の記事です。 はじめに pytorchは、Meta社が開発した機械学習・深層学習のためのpythonライブラリです。ユーザーは、pytorchを使用することで、画像分類モデルや強化学習モデルをはじめとし、大規模言語モデルや拡散モデルなど、多種多様なニューラルネットワークモデルを構築することが可能です。 また、pytorch内部では、CPU、TPU、GPUといった様々なプロセッサ向けに最適化された処理が実装されており、これらのプロセッサ間を容易に切り替えて使用することが可能です。例えば、大規模言語モデルの推論処理をGPU上で行いたい場合は、以下のように記述します。このようにユーザーは、入力テンソルとモデルインスタンスに対して.to(&amp;quot;cuda&amp;quot;)をつけるだけで、GPUを使用した処理が実行可能です。GPUを使用した</description>
-    </item>
-    <item>
-      <title>グーグル、新高速モデル「Gemini 3 Flash」　2.5 Proより高性能・低コスト</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2072342.html</link>
-      <pubDate>2025/12/18 14:32</pubDate>
-      <description>生成AIの進化により、システム開発の生産性は劇的な転換点を迎えている。しかし小規模での成功事例は増える一方、大規模なエンタープライズシステムへの適用には依然として課題が残っている。この壁を突破すべく、トランスコスモス株式会社が独自の開発手法を確立した。2025年11月19日開催の「Developers X Summit 2025」で、同社上席常務執行役員で株式会社トランスコスモス・デジタル・テクノロジー代表取締役社長の所年雄氏が登壇し、工数を8割以上削減させたバイブコーディングのアプローチと、その実践に伴うスキル不足をAIエージェントで補完する仕組みを解説した。 「バイブコーディング」が叩き出す工数8割削減の秘訣とは トランスコスモスは、コールセンター事業を中核としながら、デジタルマーケティングやEC構築など幅広いBPO事業を展開する企業だ。トランスコスモス・デジタル・テクノロジーは、グル</description>
-    </item>
-    <item>
-      <title>Agent Skillsの運用を楽にし、Claude以外のAgentでも利用可能にするOSS『SkillPort』を作った話</title>
-      <link>https://zenn.dev/gotalab/articles/65cd3ff3cb9152</link>
-      <pubDate>2025/12/18 23:56</pubDate>
-      <description>生成AIを活用したQA工数削減の試み。スクエニと東大・松尾研究室の共同研究を紹介するセッションをレポート［CEDEC+KYUSHU 2025］ ライター：大陸新秩序 2025年11月29日，福岡・九州産業大学にてコンピューターエンターテイメント開発者向けのカンファレンス「CEDEC＋KYUSHU 2025」が開催された。本稿では，その中から「生成AIが切り開くゲームプレイAIの新境地とゲーム開発への活用」と題されたセッションをレポートする。 スクウェア・エニックスのAI＆エンジン開発ディビジョンに所属する狩野竜示氏と城所 憲氏，そして東京大学 松尾・岩澤研究室の奥村悠希氏の3名が登壇したこのセッションでは，ゲームAI研究の歴史と最新の研究，そしてスクウェア・エニックスと東京大学の共同研究による，ゲームプレイAIエージェントの実験結果などの解説が行われた。 スクウェア・エニックス AI＆エン</description>
-    </item>
-    <item>
-      <title>香港と深センのPC向けメモリ／ストレージ価格はどうなっている？　日本の状況と比べてみた</title>
-      <link>https://www.itmedia.co.jp/pcuser/articles/2512/19/news119.html</link>
-      <pubDate>2025/12/19 17:23</pubDate>
-      <description>AI開発企業のMistral AIが、スキャンしたドキュメントや手書き文字を認識してテキストデータに変換できるAIモデル「Mistral OCR 3」を発表しました。Mistral OCR 3の精度はエンタープライズ向けの文書処理ソリューションやAIを用いたOCRソリューションを上回り、読みにくい筆記体も認識できるとのことです。 Introducing Mistral OCR 3 | Mistral AI https://mistral.ai/news/mistral-ocr-3 Mistral OCR 3は、前モデルの「Mistral OCR 2」を大幅にアップグレードしたモデルで、筆記体や活字の上に注釈として書き込まれた手書きのコンテンツも正確に読み取ることが可能。また、密集したレイアウトや入力フォームなどの検出能力も改善され、さまざまな契約文書の読み取りにも適しているとのこと。さらに</description>
-    </item>
-    <item>
-      <title>Anthropic、エージェントスキルをオープンスタンダードとして公開 | gihyo.jp</title>
-      <link>https://gihyo.jp/article/2025/12/agent-skills-to-open-standard</link>
-      <pubDate>2025/12/20 04:18</pubDate>
-      <description>ChatGPT、無料版＆廉価プランがひっそりと実質ダウングレード2025.12.19 19:0072,981 AJ Dellinger - Gizmodo US ［原文］ （ 中川真知子 ） ChatGPTを無料で使っている人、あるいは、日本を除く一部地域で提供されている月5ドルの｢ChatGPT Go｣を使っている人は、知らないうちに使っているAIが変わっているかもしれません。 OpenAIがChatGPTの仕様をサイレントダウングレード。無料ユーザーとGoユーザーは、デフォルトで最も軽量かつ低コストなモデルを使う形に切り替わりました。 この変更は、ChatGPTのリリースノートに記載されていた内容で、米メディアのWiredが発見して明らかになりました。 自動で｢賢いモデル｣に切り替わらなくなったこれまでChatGPTでは、質問の内容の難易度に応じて自動的に｢Thinking（推論能力の</description>
-    </item>
-    <item>
-      <title>JAXoptで実践するDecision-focused Learning 〜機械学習×数理最適化の新たなアプローチ〜 - ENGINEERING BLOG ドコモ開発者ブログ</title>
-      <link>https://nttdocomo-developers.jp/entry/2025/12/17/090000_0</link>
-      <pubDate>2025/12/19 00:27</pubDate>
-      <description>こんにちは、Ubieの橋山です。 この記事は「Ubie 生成AI Advent Calendar 2025」12/20の投稿です。 本稿ではその続編として、この構想がどのように設計・実装されているかという具体的な試行錯誤についてお話しします。 目標設定時の情報収集を楽にしたいUbieには「変化進化会」という、目標設定や成長について所属組織のLeadと対話する場があります。その準備として、過去の活動を振り返る作業があるのですが、なんとかこれを効率化できないかというのが事の発端でした。 そこで、すでに社内で活用が進んでいた JIRA / Notion / Slack の情報が取得できるMCPサーバーを経由して、振り返りの情報を「よしなに」取得するワークフローを作りました。 MCPツールを使って社内の情報を収集するワークフロー（抜粋）情報の取得精度が低いしかし、出力された情報はおおまかにはその人</description>
-    </item>
-    <item>
-      <title>図で考える AI コーディングの最適化 - CADDi Tech Blog</title>
-      <link>https://caddi.tech/visual-thinking-ai-coding-optimization</link>
-      <pubDate>2025/12/20 09:17</pubDate>
-      <description>日本語の言葉で外国語に翻訳できないものといえば何だろうか。その翻訳しがたさはどこから来るのか。オーストラリアの言語学者が、言語と思考の関係をめぐる古典的な論争から最新の研究までを紹介しつつ、独自の見方を提示する。 英語以外の言語が堪能な人は、正確な英訳が不可能な言葉があることに気づいているだろう。 ある物が「渋い」と感動する日本のデザイナーは、その形容詞にぴったり当てはまる言葉が英語にないことをもどかしく思うかもしれない。 デンマーク語の「ヒュッゲ」は、何とも独特な趣の心地よさのことを指しており、それを説明する本が何冊も必要なほどだ。 ポルトガル語話者は、憧憬やもの悲しさ、哀愁が入り混じった「サウダージ」を英語で伝えるのに苦労するかもしれない。 ウェールズ語話者は、具体的にケルト文化やその伝統に対してますます憧れる気持ちを表す「ヒライス」を英訳するのにひどく手こずるかもしれない。</description>
-    </item>
-    <item>
-      <title>【Ubuntu日和】 【第83回】今からAI画像生成を始める人のためのComfyUIインストール方法</title>
-      <link>https://pc.watch.impress.co.jp/docs/column/ubuntu/2072923.html</link>
-      <pubDate>2025/12/20 08:41</pubDate>
-      <description>今後は、プロテスタント教理問答ボットにその他のキリスト教に関する文献データも追加し、回答の精度を高める。また、キリスト教系ミッションスクールや神学校での展開も想定する。なお、キリスト教AIの将来的な方向性は、キリスト教思想を専門とする芦名定道氏（関西学院大学客員教授／京都大学名誉教授）の助言のもと決める。 研究チームによると、キリスト教AIの開発には、生成AIの回答によってキリスト教思想に関する新たな解釈が生じるなど、学術的な可能性があるという。加えて、企業の従業員向けカウンセリングなど産業分野や、さまざまな宗教・宗派の教えを学んだAIによる総合的な解釈の提示といった宗教分野でも活用。さらなる構想として「世界各地の宗教的遺産と叡知によって薫陶を受けた伝統知AI」も視野に入れる。 熊谷教授とテラバースらの研究チームは2021年3月、仏教の教えに基づきさまざまな悩みに答えるチャットbot「ブッ</description>
     </item>
   </channel>
 </rss>
