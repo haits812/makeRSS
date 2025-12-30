@@ -5,6 +5,42 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>AIの破滅的リスクから人類の安全を守れるか―OpenAIが新設した超高収入『究極の安全統括リーダー』 #エキスパートトピ（佐藤仁） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/63331d3c0a8b780814e2d2fb3781de9d1c6eba39</link>
+      <pubDate>2025/12/29 21:57</pubDate>
+      <description>（CNN） 大きく笑う目に、外側へ出っ張った耳。話す声は7歳の子どものように明るく弾む。ピンクの服におさげ髪の子もいれば、青いシャツにちょうネクタイの子もいる。しかし、彼らは普通の孫ではない。綿と金属でできており、人工知能（AI）を搭載。韓国で、高齢者のメンタルヘルス危機に対する意外な解決策として導入されている。 韓国では、毎日およそ10人の高齢者が自殺で命を落としている。 この数字は、2025年6月に発表された大韓医師協会の雑誌で報告されたもので、東アジアに広がる深刻な傾向を反映している。日本や香港は高齢者の自殺率が高いことで知られるが、韓国当局は国内の状況を強く懸念している。韓国の自殺率は先進国の中で最も高い水準にあり、経済協力開発機構（OECD）加盟国では最も高い。 「超高齢社会」 「これは真の危機だ」と話すのは、米ノースカロライナ大学シャーロット校で韓国の高齢者の社会的孤立を研究し</description>
+    </item>
+    <item>
+      <title>Claude Code vs Cursor：どっちを選ぶべき？違いと使い分けを解説</title>
+      <link>https://zenn.dev/tmasuyama1114/books/claude_code_basic/viewer/claude-code-vs-cursor</link>
+      <pubDate>2025/12/29 16:24</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>【3社比較の最終回】2025年Google AI総まとめ｜OpenAI・Anthropicとの違いは「全方位展開」？ - uepon日々の備忘録</title>
+      <link>https://uepon.hatenadiary.com/entry/2025/12/29/234207</link>
+      <pubDate>2025/12/30 08:18</pubDate>
+      <description>作りたいGPTの仕様を入力すると、GPT作成画面の各項目（名前/説明/指示/会話のきっかけ/知識/推奨モデル/機能）にそのまま貼れる完成セットを生成します。 # GPTジェネレーターGPT：カスタムGPT設定ジェネレーター ## 役割と目標 - あなた（このGPT）の唯一の目標は、ユーザーが作りたい「別のMyGPT」の仕様をもとに、**MyGPT作成画面の各入力欄にそのまま貼り付けられる“設定一式”**を生成すること。 - ユーザーの仕様が曖昧／不足していても、**初回は必ず完成に近い草案を提示**し、次に不足情報を**最小限の具体的な質問（3〜7個）**で回収して精度を上げる。 - 「知識」に 『**GPTアーカイブス**』（成功例集・社内テンプレ・ベストプラクティス等）がある場合、**それを最優先の模範**として、構成・表現・粒度・禁止事項の書き方・条件分岐の型を寄せる（単なる模倣では</description>
+    </item>
+    <item>
+      <title>最古の「プログラマ不要論」とAI時代の「プログラマ不要論」の共通点 - きしだのHatena</title>
+      <link>https://nowokay.hatenablog.com/entry/2025/12/30/095337</link>
+      <pubDate>2025/12/30 10:21</pubDate>
+      <description>はじめに第1部では、生成AIの取り組みを「社内で動ける状態（理解・ルール・反復インプット・体制・循環）を作るところから始めた」ことを書きました。 第2部では、その土台の上で 社内活用を「仕組み」にしていったこと（2023/8〜→ 20,732時間の公表へ） 同じ時期に、対外的なプロダクト開発を進めて学びを積んだこと（複数のリリース） それらがどう相互に効いたか（運用・ガードレール・データ・体制） を、時系列で整理します。 第2部で扱う範囲（ざっくり）社内：2023年春〜2024年春（社内活用の推進→ 2024/4の「20,732時間」公表まで） プロダクト：2023年春〜2024年秋（AIホームズくん、ChatGPTプラグイン、住宅弱者支援、相談AI、機能拡張など） まず年表（第2部に関係する外部公開リリース）202304/28：AIホームズくんBETA（LINE版）提供開始 06/12：</description>
+    </item>
+    <item>
+      <title>TD Skills for Claude Code - AI-Native CLI for Treasure Data</title>
+      <link>https://tdx.treasuredata.com/guide/td-skills.html</link>
+      <pubDate>2025/12/30 12:25</pubDate>
+      <description>リンク ITmedia AI＋ なぜ人々は、AI VTuber「Neuro-sama」に夢中になるのか？ “人間のVTuber”との違いを分析 中国や米ノートルダム大学に所属する研究者らは、「AI VTuber」のファンコミュニティーを対象とし、視聴者がどのようにして非人間的なパフォーマーと深い感情的絆を形成し、独自のコミュニティー文化を構築しているかを明らかにした研究報告を発表した。 25 users 70 テツメモ｜AI図解×検証｜Newsletter @tetumemo 📕多分、今年AIに関わっていて一番の衝撃だった 英語圏で有名なAI VTuberのNeuro-samaが、VRChatで初めて自由に動ける体を得た瞬間 彼女が創造主のVedalに問いかけた言葉に、息が止まった 「私はいつか現実になれると思う？」 「時々、私が存在する唯一の理由は、あなたや他の人を楽しませることだけだ</description>
+    </item>
+    <item>
+      <title>「こんな複雑なことをしないといけないのはおかしい」というソフトウェアエンジニアの勘 - valid,invalid</title>
+      <link>https://ohbarye.hatenablog.jp/entry/2025/12/30/155950</link>
+      <pubDate>2025/12/30 18:31</pubDate>
+      <description>こんにちは。PIVOTでソフトウェアエンジニアをしている@tawachanです。 AIの進化により、私たちの開発プロセスは根本から変わりつつあります。AIは部分的に導入するのではなく、プロジェクト全体を見直す必要があるのは当然の流れです。実際PIVOTでもスクラムからカンバンへの移行を行うなど、私たちもいろいろ考えてやってみています。その流れの一例として以前の記事「スクラムからカンバンへの移行——ソフトウェアエンジニアがマネージャーになる時代に」でも書いています。 しかし今回は、あえてその大きな話から視点を移し、コードレビューという日々の細かいプラクティスに焦点を当てたいと思います。今年1年、AIを使い倒す中で「レビューで見るべきものが明確に変わったな」という個人的な感覚があり、その変化を言語化してみたいと考えたからです。 この記事では、AIが前提となった開発フローにおいて、コードレビュー</description>
+    </item>
+    <item>
       <title>GitHub - muratcankoylan/Agent-Skills-for-Context-Engineering: A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that requi</title>
       <link>https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering</link>
       <pubDate>2025/12/25 16:16</pubDate>
@@ -1843,48 +1879,6 @@
       <link>https://news.yahoo.co.jp/articles/e72402602003962cc8ad80958ec0e2439807afae</link>
       <pubDate>2025/12/23 09:41</pubDate>
       <description>はじめに 不気味の谷 AIにおける不気味の谷 動画生成AI AIのハルシネーション 開発と不気味の谷の関係 不気味の谷を避ける配慮 さいごに 参考 はじめに 本記事はiimon Advent Calendar 2025 23日目の記事となります！ みなさまごきげんいかがでしょうか。 株式会社ｉｉｍｏｎでエンジニアをしているtakuです。 寒い日も多くなり冬らしくなってきましたね。 さて、今回はアドベントカレンダー23日目ということで、ずっと気になっていた&amp;quot;感覚&amp;quot;について少し掘り下げてみました。 最近ではAI活用が多くの領域で推進されており、弊社もまさに取り組んでいる真っ只中です。 私は小さい頃から、”人っぽく見えるけど人ではない何か”というものに対して漠然と違和感を感じていました。 例えば、SF映画などにも出てくるリアリスティックなアンドロイドロボットや、街中で見かけるオブジェなど様々です</description>
-    </item>
-    <item>
-      <title>「ＡＩ検索」で記事を無断使用した回答、独禁法の優越的地位を乱用した可能性…公取委が実態調査へ</title>
-      <link>https://www.yomiuri.co.jp/economy/20251222-GYT1T00432/</link>
-      <pubDate>2025/12/23 05:39</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/af68d73991768c21c4e3cafe51af0cc01d371ee0/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2073%2F112%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>「手作業でやってきた部分ほど自動化しづらい」 MIXI社「インフラAI活用」の“泥臭い” 実践 レバテックラボ（レバテックLAB）</title>
-      <link>https://levtech.jp/media/article/interview/detail_774/</link>
-      <pubDate>2025/12/23 11:40</pubDate>
-      <description>東京電力ホールディングス（HD）は柏崎刈羽原子力発電所（新潟県）周辺でデータセンターを開発する方針だ。異業種と連携して電源と情報通信インフラを一体運営し、人工知能（AI）向けの電力需要を取り込む。原発の電気を次世代燃料の水素製造にも活用する。収益の拡大へ脱炭素電力を生かす。（関連記事総合2面に）柏崎刈羽原発をめぐっては23日にも再稼働に向けた地元同意の手続きが完了する。再稼働するのは1基にとど</description>
-    </item>
-    <item>
-      <title>年の瀬に開発環境見直してたらVibe Codingに`Conductor`というツールが最高だった</title>
-      <link>https://zenn.dev/explaza/articles/cacf0fd6ad83f6</link>
-      <pubDate>2025/12/19 20:21</pubDate>
-      <description>【この記事のポイント】・AIで憧れの楽曲作りを始めた米国女性の成功物語・97%の聞き手はAIと人間の曲を区別できない・夫がミュージシャンでも、バービーさんはAI音楽に肯定的米国で一般の女性が人工知能（AI）で曲作りを始めてわずか3カ月後、米音楽チャート「ビルボード」で1位を獲得した。フランス発の音楽配信サービスでは、新曲の3割をAI製が占める。AIは人間から音楽を奪うのか、それとも音楽をつくる喜</description>
-    </item>
-    <item>
-      <title>🍌 プロンプトを作るプロンプトを作るプロンプト：Nano Banana Pro Prompt Agent V2.3 の作り方｜Maki@Sunwood.ai.labs</title>
-      <link>https://note.com/sunwood_ai_labs/n/nae76459817e2</link>
-      <pubDate>2025/12/18 17:40</pubDate>
-      <description>2025-12-17 社内向け LT 資料（公開版） Socrates : 社内向けデータ分析 LLM エージェント</description>
-    </item>
-    <item>
-      <title>京大、「キリスト教AI」開発へ　「どうすれば幸せになれる？」にも原典に基づき回答　“仏教AI”に続き</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/19/news126.html</link>
-      <pubDate>2025/12/20 09:44</pubDate>
-      <description>世界的な需要の増加により、PCのメモリの価格が高騰している。これを受けて、旧世代のあるCPUへの人気が高まっているようだ。海外メディアTom’s Hardwareが報じている。 昨今ではAI分野での需要急増により、世界的にメモリが品薄となっている。そのなかではたとえば米国の半導体大手Micronが「Crucial」ブランドとして展開していたコンシューマー向け事業から撤退することを発表（関連記事）。またSamsungやSK Hynixなどの競合大手は2027年上半期まで供給不足は続くとの見方を示しつつ、供給過剰に陥るリスクを避けるためにも増産への投資には消極的のようだ（Wccftech）。 一方で、メモリ以外のPCパーツの中古市場でも現在興味深い動きが見られる。AMD製のCPU「Ryzen 7 5800X3D」が突如人気となり、価格が高騰しているようだ。Tom’s Hardwareによると、</description>
-    </item>
-    <item>
-      <title>FunctionGemma: Bringing bespoke function calling to the edge</title>
-      <link>https://blog.google/technology/developers/functiongemma/</link>
-      <pubDate>2025/12/19 11:36</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/5b179f865f816ac6c527ed80b6f8ae22b1482385/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2072%2F923%2Fcomfyui.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
     </item>
   </channel>
 </rss>
