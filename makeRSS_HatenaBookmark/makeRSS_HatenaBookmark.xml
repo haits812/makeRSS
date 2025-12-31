@@ -5,6 +5,42 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>2025年 バイブコーディングで作ったもの10本｜鈴木慎吾 / TSUMIKI INC.</title>
+      <link>https://note.com/shingo2000/n/n929151fab425</link>
+      <pubDate>2025/12/25 14:01</pubDate>
+      <description>散々言われていることだと思いますが、何度でも言いたいことなので、改めて記事にすることにしました。 APIをそのままMCPサーバーにするのは止めてください 何故ダメか 何故ダメかの説明として、よく「APIとMCPはレイヤーが違うから〜」とか説明されているのを見ますが、個人的にはそんなことはどうでも良くて、普通に実害があるからダメです。主に以下の2点が問題です。 AIのコストが高くなる AIの応答精度が悪くなる 特に1はめちゃくちゃ困ります。 逆に言うと、これらの問題が発生しないように考慮されていれば、私的にはAPIをMCPサーバーにしてもOKです。 では何故、深く考えずにAPIをそのままMCPサーバーにするとAIのコストが高くなるのか、もう少し深堀りして見ましょう。 AIエージェントの処理 問題を把握する前に、いわゆるAIエージェントがMCPサーバーのツールを使う時の処理を理解しておきましょ</description>
+    </item>
+    <item>
+      <title>Google、画像生成「Nano Banana」で試したい13の活用事例とプロンプトを紹介 | HelenTech</title>
+      <link>https://helentech.jp/news-80142/</link>
+      <pubDate>2025/12/30 11:20</pubDate>
+      <description>SystemMessage(subtype=&amp;#39;init&amp;#39;, data={&amp;#39;type&amp;#39;: &amp;#39;system&amp;#39;, &amp;#39;subtype&amp;#39;: &amp;#39;init&amp;#39;, &amp;#39;cwd&amp;#39;: &amp;#39;/workspaces/workspace/1224_claude-agent_agentcore/qiita/claude-agent&amp;#39;, &amp;#39;session_id&amp;#39;: &amp;#39;2f147c74-0488-471c-a0f7-c9a913b649ee&amp;#39;, &amp;#39;tools&amp;#39;: [&amp;#39;Task&amp;#39;, &amp;#39;TaskOutput&amp;#39;, &amp;#39;Bash&amp;#39;, &amp;#39;Glob&amp;#39;, &amp;#39;Grep&amp;#39;, &amp;#39;ExitPlanMode&amp;#39;, &amp;#39;Read&amp;#39;, &amp;#39;Edit&amp;#39;, &amp;#39;Write&amp;#39;, &amp;#39;NotebookEdit&amp;#39;, &amp;#39;WebFetch&amp;#39;, &amp;#39;TodoWrite&amp;#39;, &amp;#39;KillShell&amp;#39;, &amp;#39;AskUserQuestion&amp;#39;, &amp;#39;Skill&amp;#39;, &amp;#39;SlashCommand&amp;#39;,</description>
+    </item>
+    <item>
+      <title>α世代1000人のリアル　未来は明るい？AI信頼する？　中学生1123人に聞いた《ビジュアル解説》 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/telling/DGXZTS00018350U5A111C2000000/</link>
+      <pubDate>2025/12/31 07:41</pubDate>
+      <description>Meet exe.dev, modern VMs AI Agent で開発をしてると，デスクトップ環境とモバイル環境を行き来しつつ，隙間時間や移動時間を活用しつつ AI に指示を出し続けたりコードを調整したりするということをしたくなる．方向転換してしまったっぽいけどomnaraのようなプロジェクトや，@ryot_a_raiくんがやってた Tailscale + MagicDNS + siteboon/claudecodeui みたいなアプローチも良さそうだと思っていたがしっくりはきてなかった． 加えて AI で軽いツールや自動化などを簡単に作れるようになってもそれらをどこで動かすかという問題が未だにある．Web app 公開したり，Cron ジョブで定期実行させたり，Webhook 受けたりなどなど，デスクトップ PC だけじゃ完結しないやつ．インターネットに公開するとなるとドメインとか認</description>
+    </item>
+    <item>
+      <title>GitHub - timescale/pg-aiguide: MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.</title>
+      <link>https://github.com/timescale/pg-aiguide</link>
+      <pubDate>2025/12/30 20:54</pubDate>
+      <description>Oikonです。普段はClaude Codeの話をX(Twitter)でしています。 激動の2025年がもうすぐ終わるということで、Claude Codeについてまとめようと思いました。個人的に2025年はAIエージェントが大きく飛躍した年であり、私にとってはClaude Codeの年でした。 Claude CodeのCHANGELOGの更新自体は合計176回ありましたが、少なくともv1.0.xからは全て確認・検証をしています。 バージョン系列 リリース数(2025/12/30時点) 1年を通してClaude Codeと向き合ってきて、自分なりに今年感じたことを整理したいと思います。あくまで私個人の考えであることをご留意いただければ幸いです。 初めてClaude Codeを使った衝撃 Claude Codeに出会う前 私がClaude Codeを触ったのは、ベータリリースの2025年2月.</description>
+    </item>
+    <item>
+      <title>「LLM Compressor」を試す</title>
+      <link>https://zenn.dev/kun432/scraps/684a4538655341</link>
+      <pubDate>2025/12/30 23:28</pubDate>
+      <description>52 things I learned this year 海外では有名なトム・ウィットウェル氏の「52 things I learned this year」。 毎年、その年に学んだことがらをデータや統計を交えながら52個紹介するという定番の年末まとめ記事。 2025年版もMediumにその記事があがってました。 ・52 things I learned in 2025 by Tom Whitwell medium.com ・・・ということで、ねじまきブログでもパクりオマージュしてみました。 元ネタのブログは きちんとデータや統計に言及しているんですが、 僕のあえて肌感覚で学んだことを中心に雑多に書いてみました。 なんとなく合っているものもあるし、外れているものもあると思いますが、 そこは&amp;quot;人間らしさ&amp;quot;ってことで愛でてあげてください。 「なぜ52個なんだろう？」とChatGPTに聞いてみ</description>
+    </item>
+    <item>
+      <title>生成AIがシステム丸ごと開発　NTTデータ、IT人材不足に抜本策 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC254OB0V21C25A2000000/</link>
+      <pubDate>2025/12/31 18:14</pubDate>
+      <description>みんなが誤解している（？）DGX Sparkの意味 2025年後半の話題のハードウェアは、アップルの新製品でもWindowsの新型機でもない。NVIDIAのデスクトップサイズのAIスーパーコンピュータ「DGX Spark」だった（少なくともAI開発者界隈では）。とにかくとっても小さい。実は私も最初その程度の理解だった。しかし、実機に触れてみて、その意味を理解した（いま頃？）。そして、さらにこのマシンのスペックだけから見えない真価は、これがAI時代の「Apple II」というべきものだということだ。 Apple IIとは、1977年に登場し、「パソコン」の原点となったマシンである。それまでコンピューターといえば、企業や大学の奥深くに鎮座する神聖な存在だった。個人が自由に触れる機会などまずない。それが、自分の部屋の、自分の机の上にやってきた。しかも、Raspberry Piみたいな基板ではなく</description>
+    </item>
+    <item>
       <title>止まらない「Linux」の進化と、限界が近い「Firefox」--2026年のオープンソース界を展望</title>
       <link>https://japan.zdnet.com/article/35242191/</link>
       <pubDate>2025/12/30 10:21</pubDate>
@@ -1840,42 +1876,6 @@
       <link>https://www.nikkei.com/article/DGKKZO93385370T21C25A2MM8000/</link>
       <pubDate>2025/12/23 03:54</pubDate>
       <description>就職活動で企業に提出する「エントリーシート」をAI＝人工知能を使って作成する学生が増えています。その一方で、企業の間では、学生の記述内容が似かよったものになり選考が難しいとして、エントリーシートを廃止…</description>
-    </item>
-    <item>
-      <title>OpenAI、「あなたの1年間のChatGPTまとめ」ロールアウト</title>
-      <link>https://www.itmedia.co.jp/news/articles/2512/23/news061.html</link>
-      <pubDate>2025/12/23 08:31</pubDate>
-      <description>OpenAIが2025年10月にリリースしたウェブブラウザ「ChatGPT Atlas」にはAIエージェントが組み込まれており、情報収集やメール処理などの作業をAIに実行させることができます。そんなChatGPT Atlasのセキュリティを強化するべく、OpenAIのレッドチームは「有害なプロンプトインジェクション攻撃の手法を自動で編み出すAI」を構築して新型の攻撃手法を探索しています。 Continuously hardening ChatGPT Atlas against prompt injection attacks | OpenAI https://openai.com/index/hardening-atlas-against-prompt-injection/ AIシステムに対する攻撃手法の1つとして、不正なプロンプトを含むファイルなどをAIに読み込ませて意図しない動作を引き</description>
-    </item>
-    <item>
-      <title>勝手に輝いていた増田ブコメ大賞2025 - 誰かの肩の上</title>
-      <link>https://daydollarbotch.hatenablog.com/entry/2025/12/23/194714</link>
-      <pubDate>2025/12/23 19:48</pubDate>
-      <description>北米で人気のSNS、RedditのPythonチャンネルでは、年末に「新着有望ライブラリを紹介するスレッド」が立ち上がります。今回の記事では、2025年版から、今年新しくリリースされたたくさんのPythonライブラリのうち、有望なものを紹介したいと思います。 新しいライブラリを紹介することが目的なので、numpyやpandasのような定番ライブラリは含まれていません。一般用途／AI・ML・Dataそれぞれ上位5ライブラリについて、「どんな背景で生まれ、どんな場面で役立つのか」が具体的に伝わるよう、概要を掘り下げて解説します。 6位以下については、後ろの方に概略を紹介しています。みなさんの知らない有望なライブラリがきっとたくさんありますので、最後まで読んでみてくださいね。 一般用途上位5ライブラリまずは一般用途のライブラリから。一般用途のライブラリ群は、派手な新機能よりも、型・可読性・制御・</description>
-    </item>
-    <item>
-      <title>YouTube、AIで作った「偽の予告編」で計10億再生の2チャンネルを削除</title>
-      <link>https://japan.cnet.com/article/35241861/</link>
-      <pubDate>2025/12/19 14:24</pubDate>
-      <description>アップル株（AAPL）には、困難が待ち受けているかもしれない。 過去3年間で同社の株価は2倍以上に上昇し、2022年末の約130ドルから現在の過去最高値に近い275ドル付近まで上昇した。しかし、この期間中の売上高は比較的に横ばいのままだ。利益率はわずかに向上したものの、その改善は最小限にとどまっているためだ。 株価が2倍になったのは、PER（株価収益率）も2倍になったからだ。これを好ましいものだろうか？　我々はそうは思わない。以下でさらに詳しく説明しよう。 アップルの売上成長は鈍化している。過去3会計年度で、売上高は年間わずか約2.4％しか増加していない。今年のiPhone 17への買い替えサイクルによる押し上げ効果は一時的なものであり、長期的なトレンドではないと予想されている。 確かに、営業利益率は2022年の30.3％から現在の31.9％に上昇しているが、これは主に需要の改善ではなく製</description>
-    </item>
-    <item>
-      <title>【ゆる解説】AIが人間を騙しはじめた！？／LLMの「デセプション」とは／ハルシネーションとの違いは／不倫暴露で脅迫？！</title>
-      <link>https://www.youtube.com/watch?v=_cw3mGdIil0</link>
-      <pubDate>2025/12/20 10:04</pubDate>
-      <description>関連キーワード OSS | オープンソース | ITガバナンス 「費用削減のために無償のオープンソースソフトウェア（OSS）を採用する」。プロジェクトの発足時はその方針で固まっていたはずだった。しかし、いざ具体的な運用設計に入ると、「何かあったときの責任」を恐れるあまり、雲行きが怪しくなっていく。気付けば要件定義書には「プロプライエタリ（商用）製品同等の24時間365日サポート」が必須項目として書き加えられ、サポート契約を結んだ結果、当初の費用削減計画は崩れ去っていた――。こうした話は決して珍しくない。日本のOSS活用現場は今、矛盾した要求に引き裂かれている。 OSSの商業的な普及促進を目指す団体Linux Foundationは2025年12月、調査レポート「日本のオープンソースの現状 2025」を発表した。調査によると、日本企業の約9割が、無償のOSSに対してトラブル発生時の「12時間</description>
-    </item>
-    <item>
-      <title>経産省 国産AI開発へ 来年度から5年間 1兆円規模の支援検討へ | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/na-k10015009831000</link>
-      <pubDate>2025/12/21 17:41</pubDate>
-      <description>AIとの連携により、タグ付けや詳細などのプロパティが作成できるファイル共有サーバー「Seafile」がオープンソースで公開されています。 Seafile - Open Source File Sync and Share Software https://www.seafile.com/en/home/ 今回は、Google CloudでUbuntu 24.04.3 LTSのインスタンスを作成しDockerを利用して構築します。Setup community editionを参考に、コンソールを起動してrootユーザーとして操作します。AI拡張機能を利用する場合は、メタデータサーバーと合わせて追加します。 mkdir /opt/seafile cd /opt/seafile wget -O .env https://manual.seafile.com/13.0/repo/docker/c</description>
-    </item>
-    <item>
-      <title>OpenAI、「ChatGPT Atlas」のインジェクション対策について説明　「完全に解決されることはまずない」</title>
-      <link>https://www.itmedia.co.jp/news/articles/2512/23/news067.html</link>
-      <pubDate>2025/12/23 12:42</pubDate>
-      <description>OpenAIはChatGPTの利用履歴を振り返る新機能「Your Year with ChatGPT」（「あなたの1年間のChatGPTまとめ）」の提供を開始した。2025年のChatGPTとの会話内容や統計を振り返るというものだ。現在は英語圏を中心に順次展開されており、利用にはメモリ機能や履歴の設定、一定のアクティビティ基準を満たす必要がある。</description>
     </item>
   </channel>
 </rss>
