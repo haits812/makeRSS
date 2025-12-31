@@ -5,6 +5,54 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>【Google Antigravity】実践ガイド Part 1 - 日本語環境でのプロンプトと設定の最適解</title>
+      <link>https://zenn.dev/shineos/articles/google-antigravity-japanese-optimization</link>
+      <pubDate>2025/12/24 07:23</pubDate>
+      <description>散々言われていることだと思いますが、何度でも言いたいことなので、改めて記事にすることにしました。 APIをそのままMCPサーバーにするのは止めてください 何故ダメか 何故ダメかの説明として、よく「APIとMCPはレイヤーが違うから〜」とか説明されているのを見ますが、個人的にはそんなことはどうでも良くて、普通に実害があるからダメです。主に以下の2点が問題です。 AIのコストが高くなる AIの応答精度が悪くなる 特に1はめちゃくちゃ困ります。 逆に言うと、これらの問題が発生しないように考慮されていれば、私的にはAPIをMCPサーバーにしてもOKです。 では何故、深く考えずにAPIをそのままMCPサーバーにするとAIのコストが高くなるのか、もう少し深堀りして見ましょう。 AIエージェントの処理 問題を把握する前に、いわゆるAIエージェントがMCPサーバーのツールを使う時の処理を理解しておきましょ</description>
+    </item>
+    <item>
+      <title>「余力」から「基礎スキル」へ繋ぐ!生成AIで回すコードレビューのループ</title>
+      <link>https://zenn.dev/coconala/articles/4238bf7aec9275</link>
+      <pubDate>2025/12/26 09:11</pubDate>
+      <description>機械学習の社会実装勉強会第54回 (https://machine-learning-workshop.connpass.com/event/379662/) の発表資料です。</description>
+    </item>
+    <item>
+      <title>「Google Discover」AIプレビュー日本展開開始</title>
+      <link>https://jetstream.blog/2025/12/28/google-discover-ai-preview-japan-rollout/</link>
+      <pubDate>2025/12/28 07:45</pubDate>
+      <description>2025年は「AIの年」だった。米誌『TIME』が「今年の人」に「AIの設計者たち」を選んだことがそれを象徴している。他方で、2026年はAIの転機の年になるだろうという見方がある。懸念事項として注目されているのが「AIの2026年問題」だ。本稿では、2025年におけるAIの現在地を振り返るとともに、2026年問題にどう向き合うべきかなどについて解説する。 【画像付き記事全文はこちら】 【2025年】TIME誌に見る「AIの現在地」　米誌『TIME』は12月11日、年末恒例の「パーソン・オブ・ザ・イヤー（今年の人）」に、AI関連企業の経営者らを総称して「AIの設計者たち」として選出した。これは、AIが社会や経済の一分野を超え、政治・安全保障・文化にまで及ぶ基盤的技術になったという判断を示すものだ。 表紙の写真は2つある。1つは「AI」という文字が巨大な構築物になっており、工事現場で多くの人</description>
+    </item>
+    <item>
+      <title>業務の煩悩を祓うAI活用術108選 / AI 108 Usages</title>
+      <link>https://speakerdeck.com/smartbank/ye-wu-nofan-nao-wofu-uaihuo-yong-shu-108xuan</link>
+      <pubDate>2025/12/29 12:48</pubDate>
+      <description>キャラクターAIをもっと自由に扱えないか。そんなニーズに応えるように「SillyTavern（シリー・タバーン／直訳すると、おバカな居酒屋）」というLLM用のフロントエンドアプリが人気を集めています。欧米圏や中国で、数百万ユーザーを抱えていると推測されています。キャラクターAIの人格や世界観を、LLMでできるだけ自由に扱えるように、様々な機能の開発が続けられています。さらに、ユーザー間でキャラクターAIのデータが活発に交換されるエコシステムも登場しています。カウンターカルチャーとして成長を続ける、キャラクターAIの世界をご紹介します。 SillyTavernの仕組みとカスタマイズ性 SillyTavernはあくまで多数の機能を搭載したLLMのフロントエンドアプリです。バックエンドは、ChatGPTやGeminiなどにAPI経由で接続したり、ローカルLLM用のアプリ「LM Studio」とい</description>
+    </item>
+    <item>
+      <title>ChatGPTで『GPTを作るGPT』の作り方！GPTを量産してAIをさらに活用</title>
+      <link>https://zenn.dev/safubuki/articles/turtle-20251224-gpt2gpt</link>
+      <pubDate>2025/12/29 22:06</pubDate>
+      <description>ソフトバンクグループ（以下、ソフトバンクG）は12月29日、デジタルインフラに投資する米資産運用会社DigitalBridge Groupを買収することで最終合意したと発表した。ソフトバンクGがDigitalBridgeの発行済み普通株式の全てを、1株当たり16ドルの現金で間接的に取得する。取引の総企業価値は約40億ドルで、規制当局の承認などを条件に2026年後半の完了を見込む。 DigitalBridgeは、2013年創業のフロリダ州のボカラトンに拠点を置き、データセンターやセルタワー、光ファイバー網、エッジインフラなどのデジタルインフラに投資する企業。2025年時点でポートフォリオ企業は45社以上に及び、その1社であるVantage Data Centersは、米テキサス州で250億ドル規模、1.4GW級の「Frontier」データセンターキャンパス建設を進めている。 ソフトバンクGは</description>
+    </item>
+    <item>
+      <title>画像をプロンプトにして、さらに画像にする</title>
+      <link>https://zenn.dev/beef_and_rice/articles/7d061e2b95a062</link>
+      <pubDate>2025/12/30 10:23</pubDate>
+      <description>こんにちは。PIVOTでソフトウェアエンジニアをしている@tawachanです。 AIの進化により、私たちの開発プロセスは根本から変わりつつあります。AIは部分的に導入するのではなく、プロジェクト全体を見直す必要があるのは当然の流れです。実際PIVOTでもスクラムからカンバンへの移行を行うなど、私たちもいろいろ考えてやってみています。その流れの一例として以前の記事「スクラムからカンバンへの移行——ソフトウェアエンジニアがマネージャーになる時代に」でも書いています。 しかし今回は、あえてその大きな話から視点を移し、コードレビューという日々の細かいプラクティスに焦点を当てたいと思います。今年1年、AIを使い倒す中で「レビューで見るべきものが明確に変わったな」という個人的な感覚があり、その変化を言語化してみたいと考えたからです。 この記事では、AIが前提となった開発フローにおいて、コードレビュー</description>
+    </item>
+    <item>
+      <title>PlayStation 5(PS5)をゲットしたらプレイすべき10のゲーム</title>
+      <link>https://gigazine.net/news/20251229-best-playstation-5-games-2025/</link>
+      <pubDate>2025/12/29 23:55</pubDate>
+      <description>時折、「やりたいことに対してこんな複雑なことをしないといけないのはおかしい」という感覚がはたらく。ソフトウェアエンジニアの勘といってもいい。 FizzBuzz Enterprise Editionはプログラマジョークとして解されるが、実際のエンジニアリングではもっと微妙な形で表れる。たとえば設計やコードレビューの最中に「こうしたらどうなるだろうか」と思いつき、提案を実装した結果として管理すべき状態やコード量が減ったりする。(関連: 状態、結合、複雑性、コード量の順に最適化する - valid,invalid) あるいはシステム要件や仕様について話す中で表出することも多い。「新しい画面を作ってこういう情報を見せたい」であったり「ツールAと双方向に同期して検索したい」といった言葉からよくよく要求を聞いてみると、既存機能で代替ができたり、大仰なインテグレーションは不要だと気づく。 不要な仕事を減</description>
+    </item>
+    <item>
+      <title>インターネットだった - Letter from Kyoto</title>
+      <link>https://lfk.hatenablog.com/entry/2025/12/30/230726</link>
+      <pubDate>2025/12/30 23:21</pubDate>
+      <description>SystemMessage(subtype=&amp;#39;init&amp;#39;, data={&amp;#39;type&amp;#39;: &amp;#39;system&amp;#39;, &amp;#39;subtype&amp;#39;: &amp;#39;init&amp;#39;, &amp;#39;cwd&amp;#39;: &amp;#39;/workspaces/workspace/1224_claude-agent_agentcore/qiita/claude-agent&amp;#39;, &amp;#39;session_id&amp;#39;: &amp;#39;2f147c74-0488-471c-a0f7-c9a913b649ee&amp;#39;, &amp;#39;tools&amp;#39;: [&amp;#39;Task&amp;#39;, &amp;#39;TaskOutput&amp;#39;, &amp;#39;Bash&amp;#39;, &amp;#39;Glob&amp;#39;, &amp;#39;Grep&amp;#39;, &amp;#39;ExitPlanMode&amp;#39;, &amp;#39;Read&amp;#39;, &amp;#39;Edit&amp;#39;, &amp;#39;Write&amp;#39;, &amp;#39;NotebookEdit&amp;#39;, &amp;#39;WebFetch&amp;#39;, &amp;#39;TodoWrite&amp;#39;, &amp;#39;KillShell&amp;#39;, &amp;#39;AskUserQuestion&amp;#39;, &amp;#39;Skill&amp;#39;, &amp;#39;SlashCommand&amp;#39;,</description>
+    </item>
+    <item>
       <title>AIの破滅的リスクから人類の安全を守れるか―OpenAIが新設した超高収入『究極の安全統括リーダー』 #エキスパートトピ（佐藤仁） - エキスパート - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/expert/articles/63331d3c0a8b780814e2d2fb3781de9d1c6eba39</link>
       <pubDate>2025/12/29 21:57</pubDate>
@@ -1831,54 +1879,6 @@
       <link>https://zenn.dev/selllous/articles/diy_llm_kernel</link>
       <pubDate>2025/12/22 17:55</pubDate>
       <description>2025年12月19日、中国の大手テクノロジー企業であるAlibabaのAIモデルであるQwenシリーズに、画像を複数のRGBAレイヤーに分解できるAIモデル「Qwen-Image-Layered」が新たに登場しました。 Qwen-Image-Layered: Layered Decomposition for Inherent Editablity https://qwen.ai/blog?id=qwen-image-layered 🎨 Qwen-Image-Layered is LIVE — native image decomposition, fully open-sourced! ✨ Why it stands out ✅ Photoshop-grade layering Physically isolated RGBA layers with true native edit</description>
-    </item>
-    <item>
-      <title>NVIDIA、72GBメモリ版「RTX PRO 5000 Blackwell」を提供開始</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2073277.html</link>
-      <pubDate>2025/12/22 18:28</pubDate>
-      <description>ウェブブラウザのFirefoxはAI機能を強化する取り組みを進めていますが、ユーザーコミュニティからの反対意見を受け、AI機能を完全に無効化するAIキルスイッチの開発に取り組んでいることを明かしました。 Firefox will add an AI &amp;quot;kill switch&amp;quot; after community pushback | TechSpot https://www.techspot.com/news/110668-firefox-add-ai-kill-switch-after-community-pushback.html 2025年12月、Mozillaの新CEOにFirefoxの開発チームを率いてきたアンソニー・エンゾー＝デメオ氏が就任しました。 Mozillaの新CEOがこれからのFirefoxを語る、「最高のブラウザ」を最優先しつつAIの統合も - GIGAZINE エンゾ</description>
-    </item>
-    <item>
-      <title>Agent Skillsがハーネスの垣根を超える日</title>
-      <link>https://speakerdeck.com/gotalab555/agent-skillsgahanesunoyuan-gen-wochao-eruri</link>
-      <pubDate>2025/12/22 13:48</pubDate>
-      <description>東京電力ホールディングス（HD）は柏崎刈羽原子力発電所（新潟県）周辺でデータセンターを開発する方針だ。異業種と連携して電源と情報通信インフラを一体運営し、人工知能（AI）向けの電力需要を取り込む。原発の電気を次世代燃料の水素製造にも活用する。収益の拡大へ脱炭素電力を生かす。送電網の整備負担減らす柏崎刈羽原発をめぐっては23日にも再稼働に向けた地元同意の手続きが完了する。再稼働するのは7基のう</description>
-    </item>
-    <item>
-      <title>楽天、7000億パラメータの日本語LLM「Rakuten AI 3.0」発表──GENIAC支援で開発、国内最大規模 | Ledge.ai</title>
-      <link>https://ledge.ai/articles/rakuten_ai_3_0_japanese_llm_700b_geniac</link>
-      <pubDate>2025/12/22 10:49</pubDate>
-      <description>ノーコードで業務自動化AIエージェントを作成できる「Google Workspace Studio」提供開始：「Google Apps Script」を使った拡張にも対応 Googleは、Google Workspace向けのAIエージェント設計ツール「Google Workspace Studio」の一般提供を開始した。ノーコードで日常業務や複雑なワークフローを自動化できるという。</description>
-    </item>
-    <item>
-      <title>AIはブランドを無効にする　星野リゾート、変革への備え - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOCD279Y30X21C25A0000000/</link>
-      <pubDate>2025/12/21 12:14</pubDate>
-      <description>文部科学省は22日、高校の必修科目「数学Ⅰ」の内容を見直し、人工知能（AI）の仕組みやデータサイエンスの理解に必要な基礎的な内容を新たに盛り込む案を示した。AIが急速に普及するなか、文系・理系を問わず全ての高校生に学んでもらう。次期学習指導要領について議論する中央教育審議会の作業部会で見直し案を提示した。2032年度から高校に導入予定の次期指導要領から適用する見通しだ。高校の数学は現在、Ⅰ、</description>
-    </item>
-    <item>
-      <title>NotebookLM × ChatGPT × Fish Audio で「三行で終わる世界」を作った話</title>
-      <link>https://zenn.dev/acntechjp/articles/b2f8969bc97e94</link>
-      <pubDate>2025/12/22 19:10</pubDate>
-      <description>50万文字の日本語長文を書いた。 長文なので、当然ながら全体的につながっている。書きながら、あれはどうだっけというようなことが頻繁に起きてかなり困った。なので脳のリソースを維持するため、色々工夫をしたんだけど、その中で「誤字を気にしない」というのがある。 私は誤字が多い。だからこれを気にすることで脳が浪費される。なんとかするために、『AIを使って校正できるようにした』のだが、この時点ではこまめに校正することで脳の負荷を減らすという方針であった。しかしこまめに校正している時点で脳に負荷が発生しているので、完全に諦めるという手法を採用することとなった。これは良くて、脳のリソースが節約できた。 誤字を放置したまま他人に原稿を渡すと、誤字が大量にある文書の修正を人に押し付けるという道義的な問題が発生するが、こちらは AI に押し付けることでクリアした。原稿を書いている時は、 AI が大量の文書を一</description>
-    </item>
-    <item>
-      <title>LLMは人格を持つか？ペルソナ推定に関して - Insight Edge Tech Blog</title>
-      <link>https://techblog.insightedge.jp/entry/llm-persona-estimation</link>
-      <pubDate>2025/12/23 09:32</pubDate>
-      <description>Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</description>
-    </item>
-    <item>
-      <title>【UX検定】UX検定基礎で学んだ、「まずユーザーを知る」ことの大切さ - SEN PRODUCT BLOG</title>
-      <link>https://productblog.sencorp.co.jp/entry/2025/12/23/093000</link>
-      <pubDate>2025/12/23 09:58</pubDate>
-      <description>エンジニアの又川です。 皆さんは LLM (大規模言語モデル) の 「特殊トークン」 をご存知でしょうか？ ChatGPT や Claude などを使っていると意識することは少ないかもしれませんが、実はモデルの内部では 「ここからユーザの発話だよ」「ここで思考を始めるよ」 といった制御情報を伝えるための特別なトークンが使われています。 この記事では、 GPT-1 や BERT、GPT-2 といった黎明期の Transformer モデルから始まり、 T5 のようなテキスト補完から脱却した Transformer モデル、 GPT-3 のような初期の LLM、 InstructGPT のような指示追従型 LLM、 GPT-3.5 Turbo のようなチャット機能付き LLM、 GPT-4 のようなマルチモーダル LLM、そして GPT-5.2 のような思考機能付き LLM (Reasonin</description>
-    </item>
-    <item>
-      <title>「ＡＩ検索」で記事を無断使用した回答、独禁法の優越的地位を乱用した可能性…公取委が実態調査へ（読売新聞オンライン） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/e72402602003962cc8ad80958ec0e2439807afae</link>
-      <pubDate>2025/12/23 09:41</pubDate>
-      <description>はじめに 不気味の谷 AIにおける不気味の谷 動画生成AI AIのハルシネーション 開発と不気味の谷の関係 不気味の谷を避ける配慮 さいごに 参考 はじめに 本記事はiimon Advent Calendar 2025 23日目の記事となります！ みなさまごきげんいかがでしょうか。 株式会社ｉｉｍｏｎでエンジニアをしているtakuです。 寒い日も多くなり冬らしくなってきましたね。 さて、今回はアドベントカレンダー23日目ということで、ずっと気になっていた&amp;quot;感覚&amp;quot;について少し掘り下げてみました。 最近ではAI活用が多くの領域で推進されており、弊社もまさに取り組んでいる真っ只中です。 私は小さい頃から、”人っぽく見えるけど人ではない何か”というものに対して漠然と違和感を感じていました。 例えば、SF映画などにも出てくるリアリスティックなアンドロイドロボットや、街中で見かけるオブジェなど様々です</description>
     </item>
   </channel>
 </rss>
