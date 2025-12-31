@@ -5,6 +5,30 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>やはりお前らのSkillsの解釈はまちがっている。</title>
+      <link>https://zenn.dev/nuits_jp/articles/2025-12-30-interpretation-of-agent-skills</link>
+      <pubDate>2025/12/30 18:31</pubDate>
+      <description>Claude Code のツール検索ツールを有効にすることで、MCP ツールの定義を事前にコンテキストウィンドウに読み込まず、必要に応じて動的にツールを検索・呼び出しできます。これにより、多数の MCP ツールをインストールしている場合でもトークン使用量を大幅に削減できる可能性があります。この記事では Claude Code のツール検索ツールの概要と使用方法を紹介します。 Claude のツール検索ツール は Claude がすべてのツール定義を事前にコンテキストウィンドウに読み込むのではなく、必要に応じてツールを検索・呼び出すことができる機能です。これにより、不必要なツール定義がコンテキストウィンドウに含まれてコンテキストを圧迫する問題を回避できます。 2025 年 12 月現在、環境変数 ENABLE_TOOL_SEARCH=true を有効にすることで実験的に Claude Cod</description>
+    </item>
+    <item>
+      <title>【今年一番の衝撃】VRで初めて&amp;quot;身体&amp;quot;を得たAI VTuberが、創造主に言った。「私は本物になりたい…」｜テツメモ｜tetumemo｜Newsletter</title>
+      <link>https://note.com/tetumemo/n/n4c5b77cdedc8</link>
+      <pubDate>2025/12/30 20:52</pubDate>
+      <description>SystemMessage(subtype=&amp;#39;init&amp;#39;, data={&amp;#39;type&amp;#39;: &amp;#39;system&amp;#39;, &amp;#39;subtype&amp;#39;: &amp;#39;init&amp;#39;, &amp;#39;cwd&amp;#39;: &amp;#39;/workspaces/workspace/1224_claude-agent_agentcore/qiita/claude-agent&amp;#39;, &amp;#39;session_id&amp;#39;: &amp;#39;2f147c74-0488-471c-a0f7-c9a913b649ee&amp;#39;, &amp;#39;tools&amp;#39;: [&amp;#39;Task&amp;#39;, &amp;#39;TaskOutput&amp;#39;, &amp;#39;Bash&amp;#39;, &amp;#39;Glob&amp;#39;, &amp;#39;Grep&amp;#39;, &amp;#39;ExitPlanMode&amp;#39;, &amp;#39;Read&amp;#39;, &amp;#39;Edit&amp;#39;, &amp;#39;Write&amp;#39;, &amp;#39;NotebookEdit&amp;#39;, &amp;#39;WebFetch&amp;#39;, &amp;#39;TodoWrite&amp;#39;, &amp;#39;KillShell&amp;#39;, &amp;#39;AskUserQuestion&amp;#39;, &amp;#39;Skill&amp;#39;, &amp;#39;SlashCommand&amp;#39;,</description>
+    </item>
+    <item>
+      <title>DifyのRAG検索を廃止して独自検索APIを構築した話</title>
+      <link>https://zenn.dev/lnkiai/articles/8670759333075f</link>
+      <pubDate>2025/12/31 01:49</pubDate>
+      <description>SystemMessage(subtype=&amp;#39;init&amp;#39;, data={&amp;#39;type&amp;#39;: &amp;#39;system&amp;#39;, &amp;#39;subtype&amp;#39;: &amp;#39;init&amp;#39;, &amp;#39;cwd&amp;#39;: &amp;#39;/workspaces/workspace/1224_claude-agent_agentcore/qiita/claude-agent&amp;#39;, &amp;#39;session_id&amp;#39;: &amp;#39;2f147c74-0488-471c-a0f7-c9a913b649ee&amp;#39;, &amp;#39;tools&amp;#39;: [&amp;#39;Task&amp;#39;, &amp;#39;TaskOutput&amp;#39;, &amp;#39;Bash&amp;#39;, &amp;#39;Glob&amp;#39;, &amp;#39;Grep&amp;#39;, &amp;#39;ExitPlanMode&amp;#39;, &amp;#39;Read&amp;#39;, &amp;#39;Edit&amp;#39;, &amp;#39;Write&amp;#39;, &amp;#39;NotebookEdit&amp;#39;, &amp;#39;WebFetch&amp;#39;, &amp;#39;TodoWrite&amp;#39;, &amp;#39;KillShell&amp;#39;, &amp;#39;AskUserQuestion&amp;#39;, &amp;#39;Skill&amp;#39;, &amp;#39;SlashCommand&amp;#39;,</description>
+    </item>
+    <item>
+      <title>exe.dev - AI時代のVM Hostingサービス</title>
+      <link>https://www.deeeet.com/writing/exe-dev</link>
+      <pubDate>2025/12/31 10:20</pubDate>
+      <description>10コマ必要と言ったのに11コマとっている。 これは、最後のGraduate Algorithm（唯一の必修、修了にはB以上をとることが必須）が、かなり大変な授業として悪名高く、短縮学期である夏学期に履修すると爆死するのではないかという懸念があったからだ。 代わりに新設された授業であるDatabase System Implementationをとることで、時間調整と好奇心の充足を両立させた。（もともとDBに関しては何かしら勉強したいと思っていたので、ちょうどよかった） 最終GPAは 3.81 だった。入学当初は最大値である4を狙っていたが、実力及ばず達成できなかった。 ただ、ChatGPTに「一般的に優秀とされるGPAはいくつ？」と聞いたら3.8以上がトップ層ということだったので、とりあえず及第点ということで自分を納得させた。 コース全体の感想 11個の授業を取ってきたが、基本的にはどれ</description>
+    </item>
+    <item>
       <title>2025年に使い始めて良かったツール10選 - Qiita</title>
       <link>https://qiita.com/takumi3488/items/3e398ae230e94144a20e</link>
       <pubDate>2025/12/28 17:41</pubDate>
@@ -1852,30 +1876,6 @@
       <link>https://qwen.ai/blog?id=qwen-image-layered</link>
       <pubDate>2025/12/22 16:34</pubDate>
       <description>この記事自体がアニメ化されました 「この記事を読んだあなたも、2日後には—— 何かを、作っているかもしれない。」 プロローグ 私は、絵が描けない。 正確には、棒人間すらまともに描けない。 脚本も書けない。声優でもない。 それでも——漫画動画を作りたかった。 そして、それができてしまった。 たった2日で。 これは、不可能が可能になった——2025年12月の話。 第1章：衝撃 ── NotebookLMのスライド生成機能 ある日、NotebookLMに「スライド生成」という機能が追加されているのに気づいた。 試しに使ってみた。 ……は？ なにこれ。 アニメ調のイラストが、スライドとして自動生成される。しかもクオリティが異常に高い。 「これ……漫画作れるんじゃないか？」 その瞬間、私の中で何かが動き出した。 第2章：構想 ── ChatGPT GPT-5.2との壁打ち 漫画を作るには、まずストー</description>
-    </item>
-    <item>
-      <title>GPT-1 から GPT-5.2 まで: LLM の特殊トークン徹底解説【2025年12月最新】</title>
-      <link>https://blog.asial.co.jp/6429/</link>
-      <pubDate>2025/12/23 09:59</pubDate>
-      <description>こんにちは。 InsightEdgeのShin Andrewです。 目次 はじめに 1. LLMにペルソナを持たせる 2. LLMにユーザのペルソナを推定させる まとめ この記事は、Insight Edge Advent Calendar 2025 23日目の記事です。 はじめに LLMを特定シナリオに合わせてペルソナを持たせる、ないしはユーザのペルソナを推定させるペルソナ推定（persona estimation）が近来注目されています。一律的な回答を超えて、様々な状況で様々なユーザにカスタマイズできることがメリットで、既に実際のサービスで幅広く用いられております。ペルソナ推定は大きく分けてLLMにペルソナを持たせるロールプレイング（role-playing）と、LLMにユーザのペルソナを推定させて的確に対応させるパーソナライゼーション（personalization）にわけることができ</description>
-    </item>
-    <item>
-      <title>不気味の谷から考える：違和感とユーザー体験 - iimon TECH BLOG</title>
-      <link>https://tech.iimon.co.jp/entry/2025/12/23</link>
-      <pubDate>2025/12/23 10:17</pubDate>
-      <description>はじめまして。 もうすぐクリスマスですね🎄✨ 最近、登山グッズを少しずつ集めることにハマっているえだまめです。 今回、 SEN Advent Calendar 2025の23日目の記事を担当します！ adventar.org はじめに 簡単に自己紹介すると、 これまでエンジニアとして約3年働き、現在は実務経験5ヶ月ほどの新米UIUXデザイナーとして働いています。 そんな私が、2025/11/22にUX検定基礎を受験し、 限られた期間の中で試行錯誤しながら合格できたので、 今回はその振り返り体験記を書いていこうと思います。 正直に言うと、私は資格勉強がかなり苦手です。 暗記は続かないし、テキストを読むだけの勉強はすぐに挫折してしまいます。 それでも今回、ChatGPTを活用することで理解を重視した学習に切り替えた結果、 なんとかUX検定に合格することができました。 ただ、今回のUX検定で一</description>
-    </item>
-    <item>
-      <title>生成AIが作った・編集した動画を見破れる ～「Gemini」アプリに「SynthID」の検出機能／アップロードしてたずねるだけ</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2073112.html</link>
-      <pubDate>2025/12/22 10:09</pubDate>
-      <description>生成ＡＩ（人工知能）を使った検索サービスについて、公正取引委員会が近く実態調査を始める方針であることがわかった。大手ＩＴ企業が報道機関の許可なしにニュース記事をＡＩの回答に使っている点などについて、独占禁止法の優越的地位の乱用などにあたる可能性もあるとみて実態を調べる。 【図解】一目でわかる…「ＡＩ検索」の仕組みと問題点 調査対象は米グーグルや米マイクロソフト、米新興企業パープレキシティ、ＬＩＮＥヤフーなどＡＩ検索を提供する事業者。対話型ＡＩサービス「チャットＧＰＴ」を提供する米オープンＡＩなども含まれる可能性がある。</description>
-    </item>
-    <item>
-      <title>就活エントリーシート 廃止の動きも AI利用で記述が似かよる | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/na-k10015010831000</link>
-      <pubDate>2025/12/23 07:32</pubDate>
-      <description>【読売新聞】　生成ＡＩ（人工知能）を使った検索サービスについて、公正取引委員会が近く実態調査を始める方針であることがわかった。大手ＩＴ企業が報道機関の許可なしにニュース記事をＡＩの回答に使っている点などについて、独占禁止法の優越的地</description>
     </item>
   </channel>
 </rss>
