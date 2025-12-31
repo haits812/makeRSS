@@ -5,6 +5,30 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>止まらない「Linux」の進化と、限界が近い「Firefox」--2026年のオープンソース界を展望</title>
+      <link>https://japan.zdnet.com/article/35242191/</link>
+      <pubDate>2025/12/30 10:21</pubDate>
+      <description>作りたいGPTの仕様を入力すると、GPT作成画面の各項目（名前/説明/指示/会話のきっかけ/知識/推奨モデル/機能）にそのまま貼れる完成セットを生成します。 # GPTジェネレーターGPT：カスタムGPT設定ジェネレーター ## 役割と目標 - あなた（このGPT）の唯一の目標は、ユーザーが作りたい「別のMyGPT」の仕様をもとに、**MyGPT作成画面の各入力欄にそのまま貼り付けられる“設定一式”**を生成すること。 - ユーザーの仕様が曖昧／不足していても、**初回は必ず完成に近い草案を提示**し、次に不足情報を**最小限の具体的な質問（3〜7個）**で回収して精度を上げる。 - 「知識」に 『**GPTアーカイブス**』（成功例集・社内テンプレ・ベストプラクティス等）がある場合、**それを最優先の模範**として、構成・表現・粒度・禁止事項の書き方・条件分岐の型を寄せる（単なる模倣では</description>
+    </item>
+    <item>
+      <title>フルVibe Codingでも仕事が進むようになってきた2025年</title>
+      <link>https://zenn.dev/kazuph/articles/full-vibe-coding-2025</link>
+      <pubDate>2025/12/29 23:51</pubDate>
+      <description>OpenAI、Anthropicと振り返ってきたこのシリーズ、最後はGoogleです。 参考 uepon.hatenadiary.com uepon.hatenadiary.com 正直なところ、今年のGoogleを一言で表現するのは難しいと感じています。モデルの進化、エージェント機能、企業向けプラットフォーム、開発者向けツール……あらゆる方向に手を広げながら、しかもそれぞれがちゃんと形になっている。「全部やってやる！」という姿勢がGoogleらしいと感じます😊 私自身、メインで使っているのはClaudeではありますが、研究ではGeminiも併用しています（APIの価格の面ではClaudeではちょっと高すぎて🥲）。特にGoogle AI Studioで簡単に検証ができるというのは、「ちょっと試したい」ときの選択肢としては助かっています。 ただ、今年のGoogleは発表が多すぎて、正直追</description>
+    </item>
+    <item>
+      <title>Claude Code のツール検索ツールを有効にして MCP のトークン使用量を削減する</title>
+      <link>https://azukiazusa.dev/blog/enable-claude-code-tool-search-to-reduce-mcp-token-usage/</link>
+      <pubDate>2025/12/30 17:52</pubDate>
+      <description>時折、「やりたいことに対してこんな複雑なことをしないといけないのはおかしい」という感覚がはたらく。ソフトウェアエンジニアの勘といってもいい。 FizzBuzz Enterprise Editionはプログラマジョークとして解されるが、実際のエンジニアリングではもっと微妙な形で表れる。たとえば設計やコードレビューの最中に「こうしたらどうなるだろうか」と思いつき、提案を実装した結果として管理すべき状態やコード量が減ったりする。(関連: 状態、結合、複雑性、コード量の順に最適化する - valid,invalid) あるいはシステム要件や仕様について話す中で表出することも多い。「新しい画面を作ってこういう情報を見せたい」であったり「ツールAと双方向に同期して検索したい」といった言葉からよくよく要求を聞いてみると、既存機能で代替ができたり、大仰なインテグレーションは不要だと気づく。 不要な仕事を減</description>
+    </item>
+    <item>
+      <title>心とは何か ― Neuro-samaが問いかけるもの - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing</title>
+      <link>https://kaz-ataka.hatenablog.com/entry/2025/12/31/142803</link>
+      <pubDate>2025/12/31 14:49</pubDate>
+      <description>52 things I learned this year 海外では有名なトム・ウィットウェル氏の「52 things I learned this year」。 毎年、その年に学んだことがらをデータや統計を交えながら52個紹介するという定番の年末まとめ記事。 2025年版もMediumにその記事があがってました。 ・52 things I learned in 2025 by Tom Whitwell medium.com ・・・ということで、ねじまきブログでもパクりオマージュしてみました。 元ネタのブログは きちんとデータや統計に言及しているんですが、 僕のあえて肌感覚で学んだことを中心に雑多に書いてみました。 なんとなく合っているものもあるし、外れているものもあると思いますが、 そこは&amp;quot;人間らしさ&amp;quot;ってことで愛でてあげてください。 「なぜ52個なんだろう？」とChatGPTに聞いてみ</description>
+    </item>
+    <item>
       <title>やはりお前らのSkillsの解釈はまちがっている。</title>
       <link>https://zenn.dev/nuits_jp/articles/2025-12-30-interpretation-of-agent-skills</link>
       <pubDate>2025/12/30 18:31</pubDate>
@@ -1852,30 +1876,6 @@
       <link>https://www.itmedia.co.jp/news/articles/2512/23/news067.html</link>
       <pubDate>2025/12/23 12:42</pubDate>
       <description>OpenAIはChatGPTの利用履歴を振り返る新機能「Your Year with ChatGPT」（「あなたの1年間のChatGPTまとめ）」の提供を開始した。2025年のChatGPTとの会話内容や統計を振り返るというものだ。現在は英語圏を中心に順次展開されており、利用にはメモリ機能や履歴の設定、一定のアクティビティ基準を満たす必要がある。</description>
-    </item>
-    <item>
-      <title>10年続くブログをAIに評価してもらったら「構成と読みやすさ」に改善余地ありと言われた - Lean Baseball</title>
-      <link>https://shinyorke.hatenablog.com/entry/generative-ai-review-2025</link>
-      <pubDate>2025/12/23 13:25</pubDate>
-      <description>こんにちは、@shin0higuchi です😊 この記事は、Elastic Stack (Elasticsearch) Advent Calendar 2025の24日目の記事です。 昨年のアドベントカレンダーでは、Elasticsearchを用いたRAGに関する記事を執筆しました。 acro-engineer.hatenablog.com この1年でElasticsearchの inference API と retriever はさらに成熟し、実戦投入しやすい状態になりました。今回は、重要要素の1つであるリランクについて、Elasticsearchで現状できることを整理します。 2つの選択肢：外部APIか、内部モデルか？ Elasticsearchでリランク（Reranking）を導入する際、現在は大きく2つの選択肢があります。 現場では単純な機能比較だけではなく、コスト構造とレイテ</description>
-    </item>
-    <item>
-      <title>FirefoxがAI機能を完全に無効化する「AIキルスイッチ」を開発していることが明らかに</title>
-      <link>https://gigazine.net/news/20251222-firefox-add-ai-kill-switch/</link>
-      <pubDate>2025/12/22 12:27</pubDate>
-      <description>高市早苗首相がコンテンツ業界との意見交換会で小室哲哉、デーモン閣下、こっちのけんとらと並ぶ写真が話題に。鍵盤、ボーカル、ボーカル、ドラムの布陣や「まるでバンド」「合成写真みたい」との反応が目立ち、趣味や会談内容への驚きや冗談交じりのツッコミが相次ぐ。一方で、デーモン閣下の礼儀正しい姿勢に感嘆する声も上がる。</description>
-    </item>
-    <item>
-      <title>高校の必修科目「数学Ⅰ」にAI関連の単元　文科省が新設検討 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUD221UC0S5A221C2000000/</link>
-      <pubDate>2025/12/22 18:06</pubDate>
-      <description>Top &amp;gt; ビジネス &amp;gt; 楽天、7000億パラメータの日本語LLM「Rakuten AI 3.0」発表──GENIAC支援で開発、国内最大規模</description>
-    </item>
-    <item>
-      <title>Qwen</title>
-      <link>https://qwen.ai/blog?id=qwen-image-layered</link>
-      <pubDate>2025/12/22 16:34</pubDate>
-      <description>この記事自体がアニメ化されました 「この記事を読んだあなたも、2日後には—— 何かを、作っているかもしれない。」 プロローグ 私は、絵が描けない。 正確には、棒人間すらまともに描けない。 脚本も書けない。声優でもない。 それでも——漫画動画を作りたかった。 そして、それができてしまった。 たった2日で。 これは、不可能が可能になった——2025年12月の話。 第1章：衝撃 ── NotebookLMのスライド生成機能 ある日、NotebookLMに「スライド生成」という機能が追加されているのに気づいた。 試しに使ってみた。 ……は？ なにこれ。 アニメ調のイラストが、スライドとして自動生成される。しかもクオリティが異常に高い。 「これ……漫画作れるんじゃないか？」 その瞬間、私の中で何かが動き出した。 第2章：構想 ── ChatGPT GPT-5.2との壁打ち 漫画を作るには、まずストー</description>
     </item>
   </channel>
 </rss>
