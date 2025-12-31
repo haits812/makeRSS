@@ -5,6 +5,63 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>2025年に使い始めて良かったツール10選 - Qiita</title>
+      <link>https://qiita.com/takumi3488/items/3e398ae230e94144a20e</link>
+      <pubDate>2025/12/28 17:41</pubDate>
+      <description>Table of Contents Intro Why I wrote this post The Map is not the territory This post will help you keep up in general Lore time - My Love and Hate relationship with Anthropic Timeline My Codex era Anthropic Redemption Arc + Regaining mandate of heaven Why Opus 4.5 feels goooood This post is not sponsored Pointers for the technically-lite The Evolution of Claude Code Quality of life improvements in</description>
+    </item>
+    <item>
+      <title>NTT島田明社長、2026年は「AIファースト企業に変身」 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC116VG0R11C25A2000000/</link>
+      <pubDate>2025/12/29 07:21</pubDate>
+      <description>&lt;/p&gt;
+          &lt;p class="entrylist-contents-thumb"&gt;
+               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/1bf0bb50756d87224b3135ae851f64f5d7813955/height=288;version=1;width=512/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--Rnq3sWVc--%2Fg_center%252Ch_280%252Cl_fetch%3AaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci9lMWY1NGUzYmRiLnBuZw%3D%3D%252Cw_200%2Fv1627283836%2Fdefault%2Fog-base-book_yz4z02.jpg%3F_a%3DBACAGSGT');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
+          </description>
+    </item>
+    <item>
+      <title>NotebookLM×Geminiで編集可能スライドを作成！現場DX時短術【初心者向け】｜尾辻和孝</title>
+      <link>https://note.com/kazu_note_1987/n/n414c851a183d</link>
+      <pubDate>2025/12/29 22:31</pubDate>
+      <description>リンク ITmedia AI＋ なぜ人々は、AI VTuber「Neuro-sama」に夢中になるのか？ “人間のVTuber”との違いを分析 中国や米ノートルダム大学に所属する研究者らは、「AI VTuber」のファンコミュニティーを対象とし、視聴者がどのようにして非人間的なパフォーマーと深い感情的絆を形成し、独自のコミュニティー文化を構築しているかを明らかにした研究報告を発表した。 25 users 70 テツメモ｜AI図解×検証｜Newsletter @tetumemo 📕多分、今年AIに関わっていて一番の衝撃だった 英語圏で有名なAI VTuberのNeuro-samaが、VRChatで初めて自由に動ける体を得た瞬間 彼女が創造主のVedalに問いかけた言葉に、息が止まった 「私はいつか現実になれると思う？」 「時々、私が存在する唯一の理由は、あなたや他の人を楽しませることだけだ</description>
+    </item>
+    <item>
+      <title>AI時代のコードレビュー ― 何を見るべきか、何は見なくてよくなったか</title>
+      <link>https://zenn.dev/pivotmedia/articles/ai-era-code-review</link>
+      <pubDate>2025/12/30 11:35</pubDate>
+      <description>TD Skills for Claude Code ​TD Skills are pre-built Claude Code plugins that enhance AI assistance for Treasure Data workflows. Getting Started Launch Claude Code with tdx claude to get all TD Skills pre-installed and ready to use. Available Skills ​SQL Skills (sql-skills) ​Query writing, optimization, and engine-specific assistance. View on GitHub SkillDescription</description>
+    </item>
+    <item>
+      <title>学会・講演で使えるAIスライド【実践編】（コピペできるプロンプトあり）｜genkAIjokyo|ChatGPT/Claudeで論文作成と科研費申請</title>
+      <link>https://note.com/genkaijokyo/n/n656e47760043</link>
+      <pubDate>2025/12/30 13:34</pubDate>
+      <description>Claude Codeで提供が始まり、Codex CLIやGitHub Copilotでも相次いでサポートされたAgent Skills（以後Skills）機能。とても素晴らしい機能だと思います。 ただ、MCPのときにも思ったのですが、Anthropicは新しい機能のプロモーションがとても上手です。上手すぎて結果、過大に受け取って誤解する人を多数生んでいると思います。 本稿ではSkillsの誤解と、本来の特徴について、簡潔に整理しておきたいと思います。 何がまちがっているか？ よく見かける説明はつぎのような内容です。 これまで汎用的であったエージェントに、ドメイン固有の専門知識や、ワークフロー、ベストプラクティスを与えることで、特定の用途に特化したスペシャリストに変革します。 この説明だけではSkillsの本質的な利点を正確に捉えていません。 これだけなら、多くのエージェントでつぎのような</description>
+    </item>
+    <item>
+      <title>2025年のAIエージェント開発の到達点はClaude Code on Bedrock AgentCoreかもしれない - Qiita</title>
+      <link>https://qiita.com/moritalous/items/bd4e1cdfadb80b04065a</link>
+      <pubDate>2025/12/30 16:08</pubDate>
+      <description>2025年に発売5周年を迎えたPlayStation 5(PS5)は、累計販売台数8410万台を記録しており、さまざまなジャンルのゲームをプレイ可能です。そんなPS5向けゲームで、2025年に発売された新作タイトルのうちプレイすべき10タイトルを、海外メディアのオススメタイトルから厳選してみました。 The Best PS5-Exclusive Games Of 2025 - GameSpot https://www.gamespot.com/gallery/the-best-ps5-exclusive-games-of-2025/2900-7324/ Best PS5 games: the 27 top PlayStation 5 titles to play right now | TechRadar https://www.techradar.com/best/best-ps5-ga</description>
+    </item>
+    <item>
+      <title>製造業の異常検知を体系的に学ぶ「まるごと学べる異常検知の実践知」 | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/book-anomaly-detection/</link>
+      <pubDate>2025/12/30 23:33</pubDate>
+      <description>2年前から参加しているDiscordサーバーのスレッドに、主催の人がここのリンクを貼って話題に挙げてくれた。その投稿に返事をしたら、Discord上の僕とこのブログの僕が一致してなかったみたいで、驚かれた。まさか同一人物だったとは、的なやつ。 てっきり誰かから僕のことを聞いてここにたどり着き、話題に挙げてもらったんだと思っていた。まさか知らず知らずのうちにたどり着いていたとは…。今どきそんなことあるのか。 10年ほど前は、はてなブログのユーザー同士で実際に会って話したりしたこともあったけど、その頃に知り合った人はもうほとんど姿を消した。YouTuberになった人もいれば、本業が忙しくなった人、SNSに注力している人もいる。でもだいたいの人はWeb上からいなくなった。なんだろう、そういう周期みたいなものがある。 僕のネット活動は2chに始まり、テキストサイト、ブログ、mixi、ニコニコ動画、</description>
+    </item>
+    <item>
+      <title>ジョージア工科大学のコンピュータサイエンス修士課程を修了しました</title>
+      <link>https://zenn.dev/magurotuna/articles/reflect-on-my-journey-with-omscs</link>
+      <pubDate>2025/12/31 00:20</pubDate>
+      <description>はじめに こんにちは、高校生エンジニアのいのりです。 先日、DifyでRAGを使った社内ナレッジ検索システムを構築していましたが、最終的にDifyのRAG検索は使わず、Cloudflare Workers + D1で独自の検索APIを構築する構成に切り替えました。 いきなり「RAG遅いからやめた！」という話に見えがちなんですが、動機はもう少し現実的です。 前回の記事では「データ量が少ないならフロントエンドで検索して、その結果をDifyに注入すれば爆速」というアプローチを紹介しました。 あれは公開情報（交通ルールなど）ならめちゃくちゃ強い一方で、社内ナレッジ だと話が変わります。 そもそも フロントにデータを置いた時点で、閲覧・抜き取りができる（DevToolsで見れる） さらに、ユーザー入力やプロンプトインジェクション経由で 意図しない文脈に混ぜられて漏洩する リスクが上がる &amp;quot;検索結果（</description>
+    </item>
+    <item>
+      <title>Claude Codeの全てのCHANGELOGを追ってきて</title>
+      <link>https://zenn.dev/oikon/articles/claude-code-2025</link>
+      <pubDate>2025/12/31 09:19</pubDate>
+      <description>Meet exe.dev, modern VMs AI Agent で開発をしてると，デスクトップ環境とモバイル環境を行き来しつつ，隙間時間や移動時間を活用しつつ AI に指示を出し続けたりコードを調整したりするということをしたくなる．方向転換してしまったっぽいけどomnaraのようなプロジェクトや，@ryot_a_raiくんがやってた Tailscale + MagicDNS + siteboon/claudecodeui みたいなアプローチも良さそうだと思っていたがしっくりはきてなかった． 加えて AI で軽いツールや自動化などを簡単に作れるようになってもそれらをどこで動かすかという問題が未だにある．Web app 公開したり，Cron ジョブで定期実行させたり，Webhook 受けたりなどなど，デスクトップ PC だけじゃ完結しないやつ．インターネットに公開するとなるとドメインとか認</description>
+    </item>
+    <item>
       <title>【Google Antigravity】実践ガイド Part 1 - 日本語環境でのプロンプトと設定の最適解</title>
       <link>https://zenn.dev/shineos/articles/google-antigravity-japanese-optimization</link>
       <pubDate>2025/12/24 07:23</pubDate>
@@ -1819,66 +1876,6 @@
       <link>https://news.web.nhk/newsweb/na/na-k10015010831000</link>
       <pubDate>2025/12/23 07:32</pubDate>
       <description>【読売新聞】　生成ＡＩ（人工知能）を使った検索サービスについて、公正取引委員会が近く実態調査を始める方針であることがわかった。大手ＩＴ企業が報道機関の許可なしにニュース記事をＡＩの回答に使っている点などについて、独占禁止法の優越的地</description>
-    </item>
-    <item>
-      <title>ソフトウェアエンジニアの本質は“課題解決”なのか？ - mtx2s’s blog</title>
-      <link>https://mtx2s.hatenablog.com/entry/2025/12/22/195731</link>
-      <pubDate>2025/12/23 10:16</pubDate>
-      <description>東京電力ホールディングス（HD）は柏崎刈羽原子力発電所（新潟県）周辺でデータセンターを開発する方針だ。異業種と連携して電源と情報通信インフラを一体運営し、人工知能（AI）向けの電力需要を取り込む。原発の電気を次世代燃料の水素製造にも活用する。収益の拡大へ脱炭素電力を生かす。（関連記事総合2面に）柏崎刈羽原発をめぐっては23日にも再稼働に向けた地元同意の手続きが完了する。再稼働するのは1基にとど</description>
-    </item>
-    <item>
-      <title>AIブラウザ「ChatGPT Atlas」では「勝手に辞職メールを送信」など有害な攻撃を次々に編み出す自動ハッキングAIを使ってセキュリティが強化されている</title>
-      <link>https://gigazine.net/news/20251223-chatgpt-atlas-prompt-injection-attacks/</link>
-      <pubDate>2025/12/23 11:02</pubDate>
-      <description>株式会社MIXI 執行役員 CTO 開発本部長 吉野 純平 2008年、新卒エンジニアとして株式会社ミクシィ（現MIXI）に入社。SNS「mixi」のインフラ・アプリ運用を担当し、「モンスターストライク」では、急拡大するトラフィックを支えるためハイブリッド構成の構築を主導した。2023年より、執行役員CTOとして全社の技術戦略を統括。障害対応用にApple Watchを買ったことがある。 X：@junpei_y オンプレミス、ハイブリッド、競輪場。 MIXI社が抱えるインフラは事業の多角化に伴い、複雑かつ広範囲に広がっています。主要サービスを振り返ると、SNS「mixi」のオンプレミスサーバに始まり、「モンスターストライク」ではハイブリッドクラウド、「家族アルバム みてね」ではクラウドネイティブ。そして競輪・オートレース投票サービス「TIPSTAR」では、全国の競輪場に無数の物理回線やサー</description>
-    </item>
-    <item>
-      <title>Slackワークフロー使いこなせてる？進化したトリガーとリストで実現するハック - エムスリーテックブログ</title>
-      <link>https://www.m3tech.blog/entry/2025/12/20/120000</link>
-      <pubDate>2025/12/20 12:20</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/71102ef5d1591a4661baba6e8b944274311e6d67/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2072%2F125%2FC00.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>[Revised] You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models</title>
-      <link>https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude</link>
-      <pubDate>2025/12/22 09:48</pubDate>
-      <description>前回（12月16日）、「知財検討会のプリンシプルコード（仮称）（案）」をきっかけに、生成AIと処遇AIの混同について書いた。その後いくつか反応をもらったので、続きを書く。 前回のおさらい 前回の要点はこうだ。2022年までに作られたAI原則やガイドラインは、主に「処遇AI」（人を選別・審査・評価するAI）を念頭に置いていた。ところが2023年にChatGPTが爆発的に広まると、「生成AI」が主役になった。このとき、処遇AI向けの語彙──「追跡可能性」「透明性」「説明可能性」──がそのまま生成AIに流用された。これらは元々、なぜその人がその決定を受けたかを事後検証できるようにするための要請である。ところが生成AIの文脈では、生成物が何に由来するかという話にすり替わり、さらには学習段階まで遡って「学習していないことの証明」が求められるに至った。際限なく広がる「文書化」と「説明」の要求が燃え広が</description>
-    </item>
-    <item>
-      <title>【Google Gemini】マジで使うGemを5つ紹介</title>
-      <link>https://zenn.dev/mavericks/articles/my-favorite-google-gems</link>
-      <pubDate>2025/12/22 06:05</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/56d93abdc6398ecea72c2deceeaed3d1fa488d2b/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2073%2F130%2Fg1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>日テレ、「生成AIフル活用」ドラマ放送へ　映画「8番出口」制作プロダクションやサイバーエージェントが協力</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/22/news079.html</link>
-      <pubDate>2025/12/22 12:32</pubDate>
-      <description>ITmedia NEWSにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia NEWS Weekly Top10」。今回は12月13～19日までの7日間について集計し、まとめた。 先週のアクセスランキングは、メモリとストレージの「GB」の違いについて、漫画で分かりやすく解説した記事が上位だった。 さて、すっかり年末だ。今週はクリスマスだし、それが終わればお正月。年賀状を出す人は、準備に追われているだろう。 ただ昨今は年賀状じまいをする人も多い。筆者もまだ準備できておらず、「我が家も、もういいかなあ」と思っていた……のだが、日本郵便が先日始めた、年賀状需要喚起キャンペーンに心をつかまれてしまった。 「#Geminiで年賀状」が攻めすぎ　黒歴史が生成された その名も「#Geminiで年賀状」だ。ユーザーがアップロードした写真を、GoogleのAI「Gemini」で編集</description>
-    </item>
-    <item>
-      <title>画像生成AI「Nano Banana Pro」で判明した“ストーリーボード革命” (1/5)</title>
-      <link>https://ascii.jp/elem/000/004/361/4361720/</link>
-      <pubDate>2025/12/22 15:17</pubDate>
-      <description>生成AIの登場により、ソフトウェア開発のあり方は劇的に変化しました。次々と新しいツールが登場し、これまでの常識が覆される中で、急速に進化するAIにどう対応していくか―本書は現場の開発者に向けて書かれた実践的なガイドです。著者は多様なAIツールを徹底的に検証し、コード生成、UI/UXデザイン、コードレビュー、テスト、ドキュメント作成など、開発工程全体におけるAI活用の可能性と限界を明らかにしています。また、将来のツール評価に役立つ指針も提示し、進化し続けるAI時代を生き抜くエンジニア、デザイナー、プロダクトマネージャーにとって必携の一冊となっています。 訳者まえがき はじめに 1章　コード生成とオートコンプリート 1.1　コード生成ツールの種類 1.2　ユースケース 1.3　ブラウザベースのツール 1.3.1　ChatGPT 1.3.2　Google Gemini 1.4　IDEベースのツー</description>
-    </item>
-    <item>
-      <title>Agent Skillsに全部賭ける価値はあるか</title>
-      <link>https://zenn.dev/tkithrta/articles/f07b7b8cdb7d0c</link>
-      <pubDate>2025/12/22 13:37</pubDate>
-      <description>各AI企業はAIにトレンドやニュースを扱わせるために最新の情報を学習させていますが、一方でAIが生成した誤情報を別のAIが学習してまき散らす悪循環が発生するなど、新しい情報で汚染されてしまうケースもあります。チューリッヒ大学の研究者らが発表した「Ranke-4B」は、タイムスタンプ付きデータのみを使用した「History-LLMs」プロジェクトの一環としてリリースされており、100年以上前の社会における知識や見解などを表現できるAIとして構築されています。 history-llms/ranke-4b/prerelease_notes.md at main · DGoettlich/history-llms · GitHub https://github.com/DGoettlich/history-llms/blob/main/ranke-4b/prerelease_notes.md Gi</description>
-    </item>
-    <item>
-      <title>LLMのCUDAカーネルを自作しよう!</title>
-      <link>https://zenn.dev/selllous/articles/diy_llm_kernel</link>
-      <pubDate>2025/12/22 17:55</pubDate>
-      <description>2025年12月19日、中国の大手テクノロジー企業であるAlibabaのAIモデルであるQwenシリーズに、画像を複数のRGBAレイヤーに分解できるAIモデル「Qwen-Image-Layered」が新たに登場しました。 Qwen-Image-Layered: Layered Decomposition for Inherent Editablity https://qwen.ai/blog?id=qwen-image-layered 🎨 Qwen-Image-Layered is LIVE — native image decomposition, fully open-sourced! ✨ Why it stands out ✅ Photoshop-grade layering Physically isolated RGBA layers with true native edit</description>
     </item>
   </channel>
 </rss>
