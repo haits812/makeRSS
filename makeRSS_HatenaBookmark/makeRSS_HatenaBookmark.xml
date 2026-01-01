@@ -5,6 +5,18 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>【2025年版】 Amazon Bedrock AgentCoreまとめ資料を公開します！ | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/amazon-bedrock-agentcore-2025-summary/</link>
+      <pubDate>2025/12/31 16:44</pubDate>
+      <description>2025年12月、科学界に静かな、しかし地殻変動レベルの衝撃を与える論文がMIT（マサチューセッツ工科大学）の研究チームによって発表された。タイトルは『Universally Converging Representations of Matter Across Scientific Foundation Models（科学基盤モデル全体における物質表現の普遍的収束）』。 この研究が示唆する事実は、驚くべきものだ。化学式を読むAI、原子の3D座標を計算するAI、タンパク質配列を解析するAI――これら全く異なる「言語」と「目」を持つAIたちが、学習を進めた果てに、物質に対して「全く同じ内部イメージ」を持ち始めているというのである。 これは、異なる言語を話す人々が、辞書なしで「真理」という名の同じ概念に到達したことに等しい、まさに衝撃的な結末だ。 科学AIの「バベルの塔」崩壊と、共通言語の発見</description>
+    </item>
+    <item>
+      <title>Obsidian+GPT: 抑うつ症状を前提としたタスク管理【2025-12-31】 - 二千三百五十五年</title>
+      <link>https://obsolete.hatenadiary.com/entry/2025/12/31/141424</link>
+      <pubDate>2025/12/31 17:42</pubDate>
+      <description>ソフトバンクグループ（SBG）の2025年の株式売買代金は48兆円を超え、東証トップの大商いだった。米国に人工知能（AI）インフラを構築する「スターゲート」計画に始まり、米オープンAIへの巨額出資、ロボット事業の買収など矢継ぎ早のAI投資が耳目を集めた。孫正義会長兼社長の「AI総賭け」の姿勢は26年も続くことになる。SBGは31日、オープンAIへの追加出資分225億ドル（約3兆5000億円）の</description>
+    </item>
+    <item>
       <title>『じゃあ、つく』『ひらやすみ』原作者はどう見た？ 谷口菜津子・真造圭伍と語る / オカヤイヅミの「うちで飲みませんか？」 | NiEW（ニュー）</title>
       <link>https://niewmedia.com/series/okaya/2512taniguchi_shinzo_edski_wrski/6/?loader=1</link>
       <pubDate>2025/12/23 19:50</pubDate>
@@ -1858,18 +1870,6 @@
       <link>https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20251224</link>
       <pubDate>2025/12/24 10:36</pubDate>
       <description>この記事は、Insight Edge Advent Calendar 2025の24日目の記事です！ 生成AIを活用した人事評価のモチベーション 今日はクリスマスイブですね！妻へのプレゼントに毎年悩む Insight Edge CTOの猪子です。 マネージャの仕事の中で、 「一番精神的に重い仕事」は何かと聞かれたら、多くの人が「人事評価」と答えるのではないでしょうか。 人事評価の中には以下の悩みが有るかと思います。 日常業務の合間に大量の評価資料を読む 評価の妥当性に悩む フィードバックで相手の人生に影響を与える責任 一方で、生成AI・AIエージェントを活用して、「人事評価」を効率化・活用していきたいという思いを持っているマネージャは多いかと思います。 では、評価という重要な責務を持つ仕事を、どこまでAIに任せてよいのか？ 本記事では、その問いに対して行った 人事評価 × AI の境界実験</description>
-    </item>
-    <item>
-      <title>セキュリティ未経験の新卒が2ヶ月でセキュリティスキルの基礎を身につけた話 #NTTドコモ - ENGINEERING BLOG ドコモ開発者ブログ</title>
-      <link>https://nttdocomo-developers.jp/entry/2025/12/19/090000_7</link>
-      <pubDate>2025/12/19 19:21</pubDate>
-      <description>Visaプリペイドカードが発行できて、アプリだけでも使用できます金融系・フィンテックのプロダクトデザインでは、UIの見た目以上に「言葉の正確さ」や「表記ルール」が重要になります。 何故ならば、”エンドユーザーのお金を直に扱う事業”だからです。トラブルにならないような表現方法と、デザインとして楽しく＆身近に感じてもらうようなエッセンスのバランスが必要だなと日々感じています。 ただ、スタートアップというフィールドは 表記ルールが人に依存していたり 例「担当デザイナーでボタンのCTA（Call To Action）が絶妙に違うやん」 ドメイン知識が属人化していたり 例「え、そんなルールあったんですか？知らんかった」 デザインの最終確認を毎回PM頼りになっていたり 例「PMの〇〇さんがチェックしてくれるし、なんとかなるだろ〜」 といった状態になりがちです笑（笑っている場合ではない） 実際に、PMの</description>
-    </item>
-    <item>
-      <title>機微情報OK！Open Notebookの仕組みと構築手順 - NotebookLM相当をローカルで実現 - Qiita</title>
-      <link>https://qiita.com/ntaka329/items/705fd24bfd07dab21550</link>
-      <pubDate>2025/12/21 10:51</pubDate>
-      <description>日々進化する Gemini ですが、Gemini Drop を見ればリリースの内容を簡単に把握できます。定期的にチェックして、機能の発表やプロダクトに関するヒント、コミュニティで Gemini がどのように活用され、創作や調査に利用されているかをご確認ください。</description>
     </item>
   </channel>
 </rss>
