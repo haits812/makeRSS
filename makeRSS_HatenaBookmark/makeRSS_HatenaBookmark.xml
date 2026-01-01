@@ -5,6 +5,36 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>巨大テックが日本に急接近…「フィジカルAI」元年、産業界に地殻変動が起きる ニュースイッチ by 日刊工業新聞社</title>
+      <link>https://newswitch.jp/p/47944</link>
+      <pubDate>2025/12/29 17:11</pubDate>
+      <description>Motivation AIにより開発速度が上がっている一方で、その品質保証を人間が担う部分で律速になる課題がある。 大量に作成されたPRのレビュー、人手で行うQAなどに代表される品質保証をどのように省力化するかが問題となる中、 品質を保証し得る必要十分なテストケースを作成し、それを通過していることをもって保証する方法があると考えている。 ここで、必要十分なテストケースの定義を「テストカバレッジが100%に限りなく近いこと」と定義し、 そのテストケースを効率的に自動生成することはできないかと考えた。 Go のコードカバレッジ計測ツールが抱える課題 「Go の」とは書いているが、他言語も含め一般的なコードカバレッジツール全般に言える話だと思う。 計測粒度の課題 Go が提供するコードカバレッジの計測手段は、Go 1.25 現在で大きく2通りある。 ひとつは go test を使って計測する方法</description>
+    </item>
+    <item>
+      <title>【2026年 最新版】AWS 生成AIサービスの全体像を整理する — Bedrockから話題のAI IDE「Kiro」まで - Qiita</title>
+      <link>https://qiita.com/toshikun_study/items/95186d02b7d0455b23ca</link>
+      <pubDate>2025/12/31 16:02</pubDate>
+      <description>これは私が、2025年の総括として、今自分で運用している作業習慣をまとめたものです。私の少々特異な精神・社会的状況を当然前提としていますが / ので、健康な人間の役に立つかもしれませんし、不健康な人間の役に立たないかもしれません。ただ万人に伝えたいことがあるとすれば、世の中にはこういうやりようが存在しているよ、ということと、精神的不調があるなら早めに精神科に行こうということとだけです。 「やるべきことも、やりたいと思うことも何もない。　(中略)　何の役にも立たない自分を自覚したとき、私は初めて自由になれた……誰の期待に応えることもできない、何より自分自身の期待にさえ。そうなって初めて、私には本当の自由が生まれたのです」 『機動戦士Gundam GQuuuuuuX』 2025年最新のアニメが提示する&amp;quot;大人&amp;quot; まえがき 抑うつ症状を前提としたタスク管理 Obsidian: 第二の脳 作業のぬか</description>
+    </item>
+    <item>
+      <title>2026年、副業で「月15万円」を稼ぐAIを活用する不労所得のアイデア3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/88112</link>
+      <pubDate>2025/12/31 17:09</pubDate>
+      <description>The Grid is Old and TiredNearly two years ago, we were the first to predict a looming power crunch. In our report AI Datacenter Energy Dilemma - Race for AI Datacenter Space, we forecasted AI Power Demand in the US to grow from ~3GW in 2023 to over 28GW by 2026 – a pressure that would overwhelm America’s supply chains. Our prediction proved very accurate. The chart below tells the story: in Texas</description>
+    </item>
+    <item>
+      <title>個人開発の進捗報告が面倒なので、GitHub ActionsとAIで「勝手にデモ動画を作る」仕組みを構築した - Qiita</title>
+      <link>https://qiita.com/rinfo4080/items/1d36c56604aac6ed007c</link>
+      <pubDate>2025/12/31 23:49</pubDate>
+      <description>爆速でキャッチアップしよう！Amazon Bedrock AgentCore/Strands Agentsのre:Inventアップデート情報まとめ！</description>
+    </item>
+    <item>
+      <title>炭酸ガスレーザーを使って従来の10倍もの長距離で放射性物質を検出することに科学者が成功 - GIGAZINE</title>
+      <link>https://gigazine.net/news/20260101-h100-desktop-home/</link>
+      <pubDate>2006/08/14 22:37</pubDate>
+      <description>はじめに RAG（Retrieval-Augmented Generation）システムを構築していると、「なぜか精度が上がらない」という壁にぶつかることがあります。 本記事では、社内規程文書を対象としたRAGシステムで、回答精度を73.3%から100%に改善した過程を紹介します。検証した複数のチャンキング戦略の中で、意外にも最もシンプルな解決策が最も効果的だったという結果になりました。 また、「Re-rankingを導入すれば精度が上がる」と思っていたのですが、逆に精度が下がるという予想外の結果も得られました。その理由についても考察します。 プロジェクト構成 技術スタック レイヤー 技術</description>
+    </item>
+    <item>
       <title>【2025年版】 Amazon Bedrock AgentCoreまとめ資料を公開します！ | DevelopersIO</title>
       <link>https://dev.classmethod.jp/articles/amazon-bedrock-agentcore-2025-summary/</link>
       <pubDate>2025/12/31 16:44</pubDate>
@@ -1837,39 +1867,6 @@
       <link>https://www.watch.impress.co.jp/docs/news/2073808.html</link>
       <pubDate>2025/12/23 21:59</pubDate>
       <description>AIの進化によって、一からプログラムを入力しなくても自然言語でAIに指示してコーディングを行う「バイブコーディング」が可能になりました。OpenAIのGPT-5.2-Codex、AnthropicのClaude Code、GoogleのGemini CLI、Mistral AIのMistral Vibe CLIという4つのコーディングエージェントに地雷探しゲーム「マインスイーパー」を開発させた結果を、テクノロジー系メディアのArs Technicaが公開しています。 We asked four AI coding agents to rebuild Minesweeper—the results were explosive - Ars Technica https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-</description>
-    </item>
-    <item>
-      <title>Kaggle Solution Search</title>
-      <link>https://compsearch.dev/</link>
-      <pubDate>2025/12/23 19:27</pubDate>
-      <description>この記事は、LayerX Tech Advent Calendar 2025 の 23 日目の記事です。 tech.layerx.co.jp こんにちは。バクラク事業部 BizOps部 データグループの@civitaspoです。今年は子どもたちが入手困難なものをサンタさんにお願いしなかったので、心穏やかな気持ちでサンタさんを家に迎え入れることができそうです。 はじめに 今年も本日を入れて残り9日となりました。本記事では、データ基盤の2025年を締めくくるために、この1年でデータ基盤に起こった変化を振り返ります。 2023年の振り返りは以下の記事でまとめました。 tech.layerx.co.jp 一方で、2024年のまとめはなぜか書き忘れていました…😢 そのため本記事では、2024年後半から2025年にかけて起きたイベントやシステムの変化を軸に、データ基盤がどのような前提のもとで使われる</description>
-    </item>
-    <item>
-      <title>掛け声だけではない「AIオールイン」の実態。「現場のAI活用」発信とDeNAの2025年AI振り返り | フルスイング by DeNA</title>
-      <link>https://fullswing.dena.com/archives/100181/</link>
-      <pubDate>2025/12/23 11:57</pubDate>
-      <description>AIエージェントへの期待は、例えばこんなイメージだろう。 領収書を渡して「これ処理しといて」と言えば、あとは秘書のようによしなにやってくれる。確認が必要なときだけ聞いてくる。税理士に丸投げするような体験──。 本松氏は、この期待に冷や水を浴びせる。 チャットで20項目を聞かれる地獄 「経費精算には最大で20項目の入力が必要だ。90%の業務は6項目で済むかもしれない。でも100%の業務を回そうとすると、入力項目が20個に増える。AIエージェントがフロントになったとしても、この20項目分の情報はやっぱり必要になる」 問題は、その情報をどう集めるかだ。 「20項目のうち13項目をチャットベースでいちいち聞かれるのは、あまりいい体験じゃない。それだったらWebのUIで入れた方がいい」 SaaSのUIは、一見すると入力項目が多くて面倒に見える。だがそれは「業務に必要な情報を網羅的に入力できる」ように</description>
-    </item>
-    <item>
-      <title>Windows 11のNVMeドライバー有効化でSSD性能が最大85%向上へ - ギャズログ | GAZ:Log</title>
-      <link>https://gazlog.com/entry/windows11-nvme-native-driver-ssd-performance-boost/</link>
-      <pubDate>2025/12/23 22:17</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/521a796fc0648db0e99819489fd7765db33cb639/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2073%2F359%2FPhoto01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>2025年に読んだ技術書トップ10</title>
-      <link>https://zenn.dev/hiromichinomata/articles/1abd716dfba46f</link>
-      <pubDate>2025/12/24 04:22</pubDate>
-      <description>こんにちは。希望あふれる優しいデジタル社会を未来に残していきたいtakkyyです。バクラク勤怠・バクラク給与などHCM領域*の事業責任者をしています。*HCM：Human Capital Management（人的資本マネジメント） 前職のスタートアップにて事業責任者を任せていただき、LayerX入社後は新規事業立ち上げから事業責任者という役割を担っています。決して経験が長いわけではありませんが、事業責任者を目指す中で意識していたことが誰かにとって意味あるものになればと思い言語化してみます。（MECEではない点はご容赦ください） 新規事業立ち上げに関する内容はこちらにもまとめております💁 特に、事業責任者を目指す20代・30代前半のみなさまにとって刺激や気づきとなる何かをお届けできれば幸いです。 01 目標設定を変える「事業責任者・PMMを目指しているのですが何をしたら良いですか？」とい</description>
-    </item>
-    <item>
-      <title>PMがAI x ローコードツール（Retool）で業務システムを作ってみた | 令和トラベル Engineering Blog</title>
-      <link>https://engineering.reiwatravel.co.jp/blog/Advent-Calendar-20251224</link>
-      <pubDate>2025/12/24 10:36</pubDate>
-      <description>この記事は、Insight Edge Advent Calendar 2025の24日目の記事です！ 生成AIを活用した人事評価のモチベーション 今日はクリスマスイブですね！妻へのプレゼントに毎年悩む Insight Edge CTOの猪子です。 マネージャの仕事の中で、 「一番精神的に重い仕事」は何かと聞かれたら、多くの人が「人事評価」と答えるのではないでしょうか。 人事評価の中には以下の悩みが有るかと思います。 日常業務の合間に大量の評価資料を読む 評価の妥当性に悩む フィードバックで相手の人生に影響を与える責任 一方で、生成AI・AIエージェントを活用して、「人事評価」を効率化・活用していきたいという思いを持っているマネージャは多いかと思います。 では、評価という重要な責務を持つ仕事を、どこまでAIに任せてよいのか？ 本記事では、その問いに対して行った 人事評価 × AI の境界実験</description>
     </item>
   </channel>
 </rss>
