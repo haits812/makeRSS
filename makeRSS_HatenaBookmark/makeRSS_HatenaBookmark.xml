@@ -5,6 +5,18 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>LLMに書かせるときの技術書執筆ガイドラインの試行錯誤 - 氾濫原</title>
+      <link>https://lowreal.net/2025/12/27/2</link>
+      <pubDate>2025/12/27 16:16</pubDate>
+      <description>キュー / higashi hikari @sputniktomboy TikTokで見かけた海外で流行しているというChatGPTを使った振り返りが面白かったよ　プロンプトは以下　「あなたの記録している私の2025年の全会話ログから私の最大の強みと逆に無意識に避けていた課題を心理学的な観点から鋭く言語化してください」 2025-12-29 20:59:14 キュー / higashi hikari @sputniktomboy 私は、「自分が欲しいものを、欲しいと言い切ることができていない」「適応力と内省力が高く欲求の直接表現を回避する傾向にある」という結果だった　欲望を昇華せずに正面から掴みに行った方が良いそうです　それは確かにそうです 2025-12-29 21:04:45</description>
+    </item>
+    <item>
+      <title>2025年12月時点の「ぼくがいまやっている最強の開発方法」 - Qiita</title>
+      <link>https://qiita.com/mokemokechicken/items/e63081de6a379905ecf5</link>
+      <pubDate>2026/01/01 16:19</pubDate>
+      <description>五十嵐 @biz_fx50 海外のレストランで写真なしメニューに当たったときの最適解。 AIに「このメニューを翻訳して、料理を視覚化して」と投げるだけ。 AIは仕事だけじゃなく、生活の不便も消してくれる。 pic.x.com/Jqtfc7rflM 2025-12-29 12:48:52 喫茶マウンテン/Kano Shinjl @wakuwakumaunten はじめまして。 喫茶マウンテンの三代目です 管理栄養士持ってます 投資は日本株のみやってます 撮影依頼等はこのアカウントか直接電話で対応します。よろしくお願いします。 マウンテンのLINEは現在ありませんよ</description>
+    </item>
+    <item>
       <title>巨大テックが日本に急接近…「フィジカルAI」元年、産業界に地殻変動が起きる ニュースイッチ by 日刊工業新聞社</title>
       <link>https://newswitch.jp/p/47944</link>
       <pubDate>2025/12/29 17:11</pubDate>
@@ -1855,18 +1867,6 @@
       <link>https://monoist.itmedia.co.jp/mn/articles/2512/23/news026.html</link>
       <pubDate>2025/12/23 14:37</pubDate>
       <description>中国の北京に拠点を置くAI企業のZ.aiがコーディング特化のAIモデル「GLM-4.7」を2025年12月22日にリリースしました。GLM-4.7はモデルデータを無料で公開するオープンモデルでありながら、一部のテストでGemini 3.0 ProやGPT-5.1 highを超える性能を示しています。 GLM-4.7: Advancing the Coding Capability https://z.ai/blog/glm-4.7 GLM-4.7は前世代のGLM-4.6と比べて大幅な性能向上を実現しており、生成するウェブページなどのUI品質も向上したとのこと。以下は前世代のGLM-4.6に「桜が目立つ庭園と仏塔を含むボクセルアートを単一のHTMLファイルで描画して」というプロンプトを入力した結果です。 同じプロンプトをGLM-4.7に入力した結果が以下。GLM-4.7の成果物の方が圧倒的に</description>
-    </item>
-    <item>
-      <title>パスワードマネージャの1PasswordとCursorが提携、1PasswordからCursorのAIエージェントにシークレットを安全に提供</title>
-      <link>https://www.publickey1.jp/blog/25/1passwordcursor1passwordcursorai.html</link>
-      <pubDate>2025/12/23 22:21</pubDate>
-      <description>Microsoft 365 Copilotを全社導入した内田洋行では、利用拡大が進む一方、ユーザー間の利用格差が課題となっていた。社内データ分析と実践から見えた原因を基に、5つの鉄則と具体的解決策を紹介する。 生成AIサービス「Microsoft 365 Copilot」（Copilot）は、使い慣れた業務アプリから自在に呼び出せることから、簡単に使える生成AIとして高い支持を集めている。内田洋行でも約1年半前に導入以降、利用は順調に拡大している。払い出しライセンスは600を超え（さらに「Microsoft 365」ライセンスでのCopilot利用者も550人を超える）で、アクティブ率は約95％。月1回以上の利用者は約500人、月間利用回数はおよそ3万8000回に上る。 一方で、社内でのCopilot活用を推進する太田浩史氏（内田洋行 エンタープライズエンジニアリング事業部）は現状を十分と</description>
-    </item>
-    <item>
-      <title>LINEヤフー川邊会長退任へ　「為すべき事は済んだ」</title>
-      <link>https://www.watch.impress.co.jp/docs/news/2073808.html</link>
-      <pubDate>2025/12/23 21:59</pubDate>
-      <description>AIの進化によって、一からプログラムを入力しなくても自然言語でAIに指示してコーディングを行う「バイブコーディング」が可能になりました。OpenAIのGPT-5.2-Codex、AnthropicのClaude Code、GoogleのGemini CLI、Mistral AIのMistral Vibe CLIという4つのコーディングエージェントに地雷探しゲーム「マインスイーパー」を開発させた結果を、テクノロジー系メディアのArs Technicaが公開しています。 We asked four AI coding agents to rebuild Minesweeper—the results were explosive - Ars Technica https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-</description>
     </item>
   </channel>
 </rss>
