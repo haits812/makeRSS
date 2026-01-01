@@ -5,6 +5,54 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>『じゃあ、つく』『ひらやすみ』原作者はどう見た？ 谷口菜津子・真造圭伍と語る / オカヤイヅミの「うちで飲みませんか？」 | NiEW（ニュー）</title>
+      <link>https://niewmedia.com/series/okaya/2512taniguchi_shinzo_edski_wrski/6/?loader=1</link>
+      <pubDate>2025/12/23 19:50</pubDate>
+      <description>こんにちは。Algomaticの大塚です。 今回はDifyやn8nといったAIアプリケーションのWorkFlowを自動で作成する取り組みをご紹介します。 はじめに：ノーコードツールの限界 Dify、n8nといったノーコードツールは非エンジニアでも触れる点がプログラミングとの違いと言われています。しかし、実務の観点から見ると状況は異なります。 プロンプトを1行変更するだけでも、GUIの操作手順を覚える必要がある 作ったWorkFlowのテストは手動でやるしかない エラーが起きたら、どこが悪いのか特定するのに時間がかかる 結局、非エンジニアでも触れるはずのツールが、専門知識を持った人しか運用できない矛盾が生まれています。 社内の取り組み そんな課題を解決するために、社内でWorkFlowを自動で生成するシステムを開発しています。このシステムは自然言語からWorkFlowを自動生成するツールです</description>
+    </item>
+    <item>
+      <title>AIエージェントにSOLID原則を叩き込んでやろうじゃないか - KAYAC Engineers&amp;#39; Blog</title>
+      <link>https://techblog.kayac.com/2025/12/24/100000</link>
+      <pubDate>2025/12/24 11:52</pubDate>
+      <description>機械学習の社会実装勉強会第54回 (https://machine-learning-workshop.connpass.com/event/379662/) の発表資料です。</description>
+    </item>
+    <item>
+      <title>Vedal Breaks Down With Neuro in VR… This Was Beautiful</title>
+      <link>https://www.youtube.com/watch?v=XLtCHZt77qg</link>
+      <pubDate>2025/12/28 20:39</pubDate>
+      <description>ChatGPTの力で｢片付ける気すら起きないほど荒れた部屋｣ が楽に綺麗になった話2025.12.29 10:00165,729 かみやまたくみ 2023年3月22日の記事を編集して再掲載しています。 ※この記事は編集部がChatGPTと触れ合った思い出を記録するものです。 非常に忙しく、気づけば我が家は汚部屋状態。めちゃくちゃすぎて掃除にとりかかる気にさえなりません。でも、これをなんとかしないとまともに仕事はできなさそう。 そこでふと思いつきました。対話型AIサービス｢ChatGPT｣ならなんとかしてくれるのでは？ 会話ログを載せるとどうしても長くなってしまうので、最初に結論を書きます。すごい楽に掃除が進みました。 ｢能率的なやり方｣が一瞬で出てくる→やるだけ最初は｢ChatGPTが適切な回答をするために必要な情報が得られるように、私に質問してください｣と伝えました。前提として、自分は掃</description>
+    </item>
+    <item>
+      <title>ChatGPTに2025年の振り返りをしてもらうのが面白い「自分の最大の強み、無意識に避けていた課題を言語化」</title>
+      <link>https://togetter.com/li/2644909</link>
+      <pubDate>2025/12/30 13:41</pubDate>
+      <description>SystemMessage(subtype=&amp;#39;init&amp;#39;, data={&amp;#39;type&amp;#39;: &amp;#39;system&amp;#39;, &amp;#39;subtype&amp;#39;: &amp;#39;init&amp;#39;, &amp;#39;cwd&amp;#39;: &amp;#39;/workspaces/workspace/1224_claude-agent_agentcore/qiita/claude-agent&amp;#39;, &amp;#39;session_id&amp;#39;: &amp;#39;2f147c74-0488-471c-a0f7-c9a913b649ee&amp;#39;, &amp;#39;tools&amp;#39;: [&amp;#39;Task&amp;#39;, &amp;#39;TaskOutput&amp;#39;, &amp;#39;Bash&amp;#39;, &amp;#39;Glob&amp;#39;, &amp;#39;Grep&amp;#39;, &amp;#39;ExitPlanMode&amp;#39;, &amp;#39;Read&amp;#39;, &amp;#39;Edit&amp;#39;, &amp;#39;Write&amp;#39;, &amp;#39;NotebookEdit&amp;#39;, &amp;#39;WebFetch&amp;#39;, &amp;#39;TodoWrite&amp;#39;, &amp;#39;KillShell&amp;#39;, &amp;#39;AskUserQuestion&amp;#39;, &amp;#39;Skill&amp;#39;, &amp;#39;SlashCommand&amp;#39;,</description>
+    </item>
+    <item>
+      <title>“人型ロボット”で世界を目指す中国の野望 「日本が笑っていられるのも今だけ」との声も（2025年12月30日掲載）｜日テレNEWS NNN</title>
+      <link>https://news.ntv.co.jp/category/international/841462ccc5434e888f2e40d323064b1f</link>
+      <pubDate>2025/12/31 14:53</pubDate>
+      <description>NTTデータグループは2026年度中にIT（情報技術）システム開発をほぼ生成AI（人工知能）が担う技術を導入する。開発工程をAIに適した形にし、人による作業を減らす。国内を中心に深刻なIT業界の人材不足を解消する抜本策となり、システム業界が労働集約型の事業モデルから転換する契機となる。開発工程そのものについて、人ではなく生成AIに合わせて単純にする「AIネーティブ開発」と呼ぶ手法を取り入れる。</description>
+    </item>
+    <item>
+      <title>ソフトバンクG孫正義氏「AIに総賭け」の1年　売買代金48兆円の大商い - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC12ABZ0S5A211C2000000/</link>
+      <pubDate>2025/12/31 07:44</pubDate>
+      <description>2025年12月、科学界に静かな、しかし地殻変動レベルの衝撃を与える論文がMIT（マサチューセッツ工科大学）の研究チームによって発表された。タイトルは『Universally Converging Representations of Matter Across Scientific Foundation Models（科学基盤モデル全体における物質表現の普遍的収束）』。 この研究が示唆する事実は、驚くべきものだ。化学式を読むAI、原子の3D座標を計算するAI、タンパク質配列を解析するAI――これら全く異なる「言語」と「目」を持つAIたちが、学習を進めた果てに、物質に対して「全く同じ内部イメージ」を持ち始めているというのである。 これは、異なる言語を話す人々が、辞書なしで「真理」という名の同じ概念に到達したことに等しい、まさに衝撃的な結末だ。 科学AIの「バベルの塔」崩壊と、共通言語の発見</description>
+    </item>
+    <item>
+      <title>How AI Labs Are Solving the Power Crisis: The Onsite Gas Deep Dive</title>
+      <link>https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power</link>
+      <pubDate>2025/12/31 11:26</pubDate>
+      <description>これは私が、2025年の総括として、今自分で運用している作業習慣をまとめたものです。私の少々特異な精神・社会的状況を当然前提としていますが / ので、健康な人間の役に立つかもしれませんし、不健康な人間の役に立たないかもしれません。ただ万人に伝えたいことがあるとすれば、世の中にはこういうやりようが存在しているよ、ということと、精神的不調があるなら早めに精神科に行こうということとだけです。 「やるべきことも、やりたいと思うことも何もない。　(中略)　何の役にも立たない自分を自覚したとき、私は初めて自由になれた……誰の期待に応えることもできない、何より自分自身の期待にさえ。そうなって初めて、私には本当の自由が生まれたのです」 『機動戦士Gundam GQuuuuuuX』 2025年最新のアニメが提示する&amp;quot;大人&amp;quot; まえがき 抑うつ症状を前提としたタスク管理 Obsidian: 第二の脳 作業のぬか</description>
+    </item>
+    <item>
+      <title>RAGの精度が73%から100%に向上した話 ─ チャンキング戦略の比較検証</title>
+      <link>https://zenn.dev/oharu121/articles/efd3d038afc6da</link>
+      <pubDate>2026/01/01 09:08</pubDate>
+      <description>爆速でキャッチアップしよう！Amazon Bedrock AgentCore/Strands Agentsのre:Inventアップデート情報まとめ！</description>
+    </item>
+    <item>
       <title>ただのブラウザだと思ってた。「全部わかってくれる」Atlasの体験が別次元すぎた | ライフハッカー・ジャパン</title>
       <link>https://www.lifehacker.jp/article/2512-workhack-ai-chatgpt-atlas/</link>
       <pubDate>2025/12/27 12:26</pubDate>
@@ -1822,57 +1870,6 @@
       <link>https://qiita.com/ntaka329/items/705fd24bfd07dab21550</link>
       <pubDate>2025/12/21 10:51</pubDate>
       <description>日々進化する Gemini ですが、Gemini Drop を見ればリリースの内容を簡単に把握できます。定期的にチェックして、機能の発表やプロダクトに関するヒント、コミュニティで Gemini がどのように活用され、創作や調査に利用されているかをご確認ください。</description>
-    </item>
-    <item>
-      <title>GitHub - ashishpatel26/500-AI-Agents-Projects: The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrat</title>
-      <link>https://github.com/ashishpatel26/500-AI-Agents-Projects</link>
-      <pubDate>2025/12/23 06:06</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/18de25350bf4c8edb12ec4f6c339b1a8c16e6344/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2073%2F358%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>NVFP4: 4ビットの浮動小数点でLLMを学習する仕組み - エムスリーテックブログ</title>
-      <link>https://www.m3tech.blog/entry/4bit_float_llm</link>
-      <pubDate>2025/12/23 10:09</pubDate>
-      <description>Claude Code Meetup Tokyo LT登壇資料</description>
-    </item>
-    <item>
-      <title>Figma Makeとは？徹底解説します！ | iret.media</title>
-      <link>https://iret.media/180978</link>
-      <pubDate>2025/12/23 15:17</pubDate>
-      <description>「Claude Code」は、CLI上で動くLLMによるAIエージェントツールです。この記事は12月5日に発売された『Claude CodeによるAI駆動開発入門』に書ききれなかった応用的な内容や最新のアップデートについて解説します。書籍をあわせて読むとさらに理解が深まることでしょう。 コンテキストウィンドウを制するものは開発を制する Claude Codeの「コンテキストウィンドウ」とはなんでしょうか。 Anthropicの公式ドキュメントから答えると「LLMが新しいテキストを生成する際に参照できるテキストの全体量と、生成する新しいテキストを合わせたもの」です[1]。 簡単に言うと、コンテキストウィンドウの中身は、セッションの中のユーザーのメッセージ（プロンプト）とClaudeのレスポンスを合わせたものです。 下記のコンテキストウィンドウの概念図をご覧ください。 コンテキストウィンドウの</description>
-    </item>
-    <item>
-      <title>The AI workspace that works for you. | Notion</title>
-      <link>https://mango-garlic-eff.notion.site/Claude-Code-Meetup-Tokyo-Q-A-2d1e9c0d01e880538ffef01d86b19c9b</link>
-      <pubDate>2025/12/23 11:03</pubDate>
-      <description>行政デジタルトランスフォーメーション（DX）を進める名古屋市は、庁内のファイルサーバ運用を抜本的に見直した。同市は従来、各部署が個別に管理するネットワーク接続型ストレージ（NAS）を組み合わせてファイルサーバを運用してきた。この運用を見直し、職員約2万人が利用するデータインフラとして、全庁で共通利用するファイルサーバを新たに構築した。 「ファイルサーバは部署ごとのNASで足りる」という前提が崩れた 名古屋市は庁内のファイルサーバとして、部署単位でNASを導入・管理しており、結果として百数十台のNASが散在していた。NASごとに管理方法やセキュリティ設定が異なっていたことから、ファイルサーバ全体の運用が複雑化し、庁内横断のデータ活用や、共通のセキュリティポリシー適用が難しくなっていた。 行政DXの推進に伴い、名古屋市はインターネット接続を可能にする次期ネットワークモデルの移行を進めている。こ</description>
-    </item>
-    <item>
-      <title>コーディングに強い中国産AI「GLM-4.7」が登場、一部テストでGemini 3.0 Proを超えるオープンモデル</title>
-      <link>https://gigazine.net/news/20251223-glm-4-7-coding-ai/</link>
-      <pubDate>2025/12/23 12:17</pubDate>
-      <description>北米で人気のSNS、RedditのPythonチャンネルでは、年末に「新着有望ライブラリを紹介するスレッド」が立ち上がります。今回の記事では、2025年版から、今年新しくリリースされたたくさんのPythonライブラリのうち、有望なものを紹介したいと思います。 新しいライブラリを紹介することが目的なので、numpyやpandasのような定番ライブラリは含まれていません。一般用途／AI・ML・Dataそれぞれ上位5ライブラリについて、「どんな背景で生まれ、どんな場面で役立つのか」が具体的に伝わるよう、概要を掘り下げて解説します。 6位以下については、後ろの方に概略を紹介しています。みなさんの知らない有望なライブラリがきっとたくさんありますので、最後まで読んでみてくださいね。 一般用途上位5ライブラリまずは一般用途のライブラリから。一般用途のライブラリ群は、派手な新機能よりも、型・可読性・制御・</description>
-    </item>
-    <item>
-      <title>AI活用100本ノック（DeNA）</title>
-      <link>https://downloads.ctfassets.net/7mrdlclm9xss/m7XsAz2M3bT8WoDrfmYn3/8ee77c25f48de5dab3b792b428df5495/AI_100tips_slide.pdf</link>
-      <pubDate>2025/12/23 14:32</pubDate>
-      <description>なぜフィジカルAIの象徴がヒューマノイドなのか＠2025国際ロボット展：2025国際ロボット展レポート（後編）（1/3 ページ） 「2025国際ロボット展（iREX2025）」では、ヒューマノイドがこれまでになく注目を集めた。本稿では前後編の2回にわたって、会場横断でヒューマノイドの動向をレポートする。前編では中国勢を中心に紹介した。今回の後編では、日本勢の動向にスポットを当てる。 世界最大級の産業用ロボット見本市「2025国際ロボット展（iREX2025）」（2025年12月3～6日、東京ビッグサイト）において、これまでになく注目を集めたのが「ヒューマノイドロボット」（ヒト型ロボット、以下ヒューマノイド）だ。特に中国を中心としたヒューマノイドメーカーが数多く出展し、さまざまなデモンストレーションで来場者の関心を呼んだ。 本稿では前後編の2回にわたって、ヒューマノイドにフォーカスし、会場全</description>
-    </item>
-    <item>
-      <title>ビジネスモデル3.0図鑑 #全文公開チャレンジ｜図解総研</title>
-      <link>https://note.com/bizgram/n/n5bde4d5402d1</link>
-      <pubDate>2025/12/23 14:13</pubDate>
-      <description>2025年の良ブコメ*1。 基本的に1つ目のリンクが元記事（増田）、2つ目以降がブコメです。 過去の記事はこちら。 勝手に輝いていた増田ブコメ大賞 2019年上半期 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞 2019年下半期 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2020 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2021 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2022 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2023 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2024 - 誰かの肩の上 一般ネタ 婚活パーティーで「趣味は何ですか？」と聞かれると わかる、私も日本の作家の本はほとんど原書で読んでいる - nomitori のブックマーク 美味しそうな響きのスポーツを知りたい【追記】 カリカリに揚げたクリケットが結局いちばんうまい - Knoa</description>
-    </item>
-    <item>
-      <title>2025年、Claude Code と 1 人で 40 万行規模のフルスタック＋インフラを構築した話（あみださん）</title>
-      <link>https://zenn.dev/shusuke_o/articles/f63e1bf61363b8</link>
-      <pubDate>2025/12/23 16:07</pubDate>
-      <description>対象読者 Agent Skills が気になっているけど、まだ触れていない方 公式ドキュメントを読む前に、まず動かしてみたい方 細かい仕組みより「とりあえず作れる」を優先したい方 はじめに Claude Code には「Agent Skills」という機能があります。 Anthropic が開発した 「エージェントに新しい機能や専門知識を提供するためのフォーマット」 で、2025年12月にオープンスタンダードとしてリリースされ、Codex や Cursor など他の主要なAIツールでもサポートされはじめています。 Agent Skills は、Claude Code と skill-creator を使えば簡単に作ることができます。この記事では skill-creator のインストール方法と使い方を紹介します。 ちなみに skill-creator 自体もスキルで作られているので、「スキ</description>
     </item>
   </channel>
 </rss>
