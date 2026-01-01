@@ -5,6 +5,42 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>ただのブラウザだと思ってた。「全部わかってくれる」Atlasの体験が別次元すぎた | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2512-workhack-ai-chatgpt-atlas/</link>
+      <pubDate>2025/12/27 12:26</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>2025年のAIエージェント開発の到達点はClaude Code on Bedrock AgentCoreかもしれない - Qiita</title>
+      <link>https://qiita.com/moritalous/items/bd4e1cdfadb80b04065a?utm_campaign=post_article&amp;amp;utm_medium=twitter&amp;amp;utm_source=twitter_share</link>
+      <pubDate>2025/12/30 17:02</pubDate>
+      <description>製造業における異常検知の各種ユースケースとその実装に向けた具体的な理論を解説した本。異常検知を実装する人にも導入する人にもオススメの書籍です。 「異常検知…全製造業の夢なのでは…」 製造業におけるAI活用の最も有名なユースケースは「外観検査」と「異常検知」だと思っているのですが、その異常検知について、理論面含めて真正面から解説してくれる本がこの「まるごと学べる異常検知の実践知」。 実践と名がついているだけあり、詳細な理論だけではなく、製造業の現場における活用やユースケースまで丁寧に触れられている全431ページの力作です。 定価3600円なので若干値が張りますが、この情報量はオライリーだと余裕で5000円は超えてくるぐらいのボリュームだと思います。異常検知を実装する人もサービス導入する人にもどちらにも非常にオススメな書籍なので、このブログでは書評という形で内容を紹介させていただきます。 この</description>
+    </item>
+    <item>
+      <title>2025年に学んだ52のことがら - 世界のねじを巻くブログ</title>
+      <link>https://www.nejimakiblog.com/entry/52-things-i-learned-in-2025-this-year</link>
+      <pubDate>2025/12/31 09:18</pubDate>
+      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
+    </item>
+    <item>
+      <title>Gemini の Nano Banana Pro のマークアップ機能で図の部分修正が楽になるのか試してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/gemini-nano-banana-pro-markup-feature/</link>
+      <pubDate>2025/12/31 08:15</pubDate>
+      <description>公式ブログ。2024年8月なのでちょっと古め。 Dia によるまとめ。 LLM Compressorは、vLLM向けにモデルを圧縮して推論を速くする統合ツールだよ。 ウチ的にまとめると、これマジで「重いモデルをキュッと軽くして、GPUの速いコアでぶん回す」ための新ツールだし、実運用のレイテンシとかスループットをガチで改善するやつ。テンション上がる〜✨ まずはキーアイデア LLM Compressorは、量子化やスパース化みたいな「モデル圧縮」のベストプラクティスをひとつのライブラリに集約。GPTQ・SmoothQuant・SparseGPT・RTNとかをHugging Faceモデルに対してサクッと適用できて、出力されたチェックポイントをvLLMがネイティブに読んで高速推論できるのがポイントだもん。 重さを減らすだけじゃなく、GPUのINT8/FP8の速いテンソルコアを使える形に「アクティ</description>
+    </item>
+    <item>
+      <title>異なるAIたちが全て同じ「真理」に辿り着いた：MITが解明した科学モデルの驚くべき収束と、その先に待つ“物理的現実”の発見 | XenoSpectrum</title>
+      <link>https://xenospectrum.com/mit-study-scientific-ai-convergence-universal-matter-representation/</link>
+      <pubDate>2025/12/31 15:07</pubDate>
+      <description>2025年は中国で、人型ロボットの飛躍的な進化を目の当たりにした1年だったといえる。2025年の中国の流行語トップ10に、人工知能＝AIを搭載したロボットを意味する「具身智能＝エンボディドAI」がランクインしたほか、春には北京でロボットによる“マラソン大会”が開かれ、中国各地から集められた人型ロボットが約20キロメートルを走り抜いた。 走るだけでは飽き足らず、夏には人型ロボットによる“運動会”が開催され、サッカーやボクシングなどのスポーツで技を競い合った。ヒトを上回る見事な走りを見せたロボットもいた一方で、様々なハプニングが続出したことも話題となった。マラソンを完走できたのは20体のうち、わずか6体。転倒して腕が取れたり、故障して動きが止まってしまったり、ドタバタ劇が繰り広げられた。 専門家は「失敗もあったが、しっかり動かして完走したロボットもあった。エンターテインメントとして見せる姿勢が</description>
+    </item>
+    <item>
+      <title>2025年 Amazon Bedrock AgentCoreまとめ</title>
+      <link>https://speakerdeck.com/yuu551/2025nian-amazon-bedrock-agentcorematome</link>
+      <pubDate>2025/12/31 19:36</pubDate>
+      <description>ソフトバンクグループ（SBG）の2025年の株式売買代金は48兆円を超え、東証トップの大商いだった。米国に人工知能（AI）インフラを構築する「スターゲート」計画に始まり、米オープンAIへの巨額出資、ロボット事業の買収など矢継ぎ早のAI投資が耳目を集めた。孫正義会長兼社長の「AI総賭け」の姿勢は26年も続くことになる。SBGは31日、オープンAIへの追加出資分225億ドル（約3兆5000億円）の</description>
+    </item>
+    <item>
       <title>2025年 バイブコーディングで作ったもの10本｜鈴木慎吾 / TSUMIKI INC.</title>
       <link>https://note.com/shingo2000/n/n929151fab425</link>
       <pubDate>2025/12/25 14:01</pubDate>
@@ -1837,45 +1873,6 @@
       <link>https://zenn.dev/shusuke_o/articles/f63e1bf61363b8</link>
       <pubDate>2025/12/23 16:07</pubDate>
       <description>対象読者 Agent Skills が気になっているけど、まだ触れていない方 公式ドキュメントを読む前に、まず動かしてみたい方 細かい仕組みより「とりあえず作れる」を優先したい方 はじめに Claude Code には「Agent Skills」という機能があります。 Anthropic が開発した 「エージェントに新しい機能や専門知識を提供するためのフォーマット」 で、2025年12月にオープンスタンダードとしてリリースされ、Codex や Cursor など他の主要なAIツールでもサポートされはじめています。 Agent Skills は、Claude Code と skill-creator を使えば簡単に作ることができます。この記事では skill-creator のインストール方法と使い方を紹介します。 ちなみに skill-creator 自体もスキルで作られているので、「スキ</description>
-    </item>
-    <item>
-      <title>GPT-5.2-Codex・Claude Code・Gemini CLI・Mistral Vibeにマインスイーパーを開発させるとこうなる</title>
-      <link>https://gigazine.net/news/20251223-ai-coding-agent-test-minesweeper/</link>
-      <pubDate>2025/12/23 17:42</pubDate>
-      <description>パスワードマネージャの1PasswordとCursorが提携、1PasswordからCursorのAIエージェントにシークレットを安全に提供 人間の開発者と同じようにAIエージェントがさまざまなコードやデータを保持し、それらをコンパイラやビルドツール、テストツールなどを操作して開発を行うようになると、AIエージェントに対して適切な権限を付与するためのIDやパスワードなどのシークレットを付与する必要が生じます。 AIエージェントへのプロンプトや設定ファイルにこうしたシークレットを記述することは、セキュリティの面で望ましくありません。 今回の1PasswordとCursorの提携により、1PasswordはAIエージェントに対しても安全なシークレットの保存と提供を行うパスワードマネージャの機能を提供します。 以下はプレスリリースからの説明の引用です。 1Password has partner</description>
-    </item>
-    <item>
-      <title>「復帰」ではなく「変容」だった半年間</title>
-      <link>https://zenn.dev/dress_code/articles/eb8d9afcd86391</link>
-      <pubDate>2025/12/24 00:09</pubDate>
-      <description>この記事は、LayerX Tech Advent Calendar 2025 の 23 日目の記事です。 tech.layerx.co.jp こんにちは。バクラク事業部 BizOps部 データグループの@civitaspoです。今年は子どもたちが入手困難なものをサンタさんにお願いしなかったので、心穏やかな気持ちでサンタさんを家に迎え入れることができそうです。 はじめに 今年も本日を入れて残り9日となりました。本記事では、データ基盤の2025年を締めくくるために、この1年でデータ基盤に起こった変化を振り返ります。 2023年の振り返りは以下の記事でまとめました。 tech.layerx.co.jp 一方で、2024年のまとめはなぜか書き忘れていました…😢 そのため本記事では、2024年後半から2025年にかけて起きたイベントやシステムの変化を軸に、データ基盤がどのような前提のもとで使われる</description>
-    </item>
-    <item>
-      <title>拝啓、事業責任者を目指すみなさんへ。｜takkyy | LayerX - AI×HR</title>
-      <link>https://note.com/takkyy07/n/nf6976775ddf9</link>
-      <pubDate>2025/12/22 17:16</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/521a796fc0648db0e99819489fd7765db33cb639/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2073%2F359%2FPhoto01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>「Skills？MCP？インストラクション？」仕組みからわかる GitHub Copilot のカスタマイズ戦略ガイド</title>
-      <link>https://zenn.dev/openjny/articles/91e88d7914e5bc</link>
-      <pubDate>2025/12/21 21:06</pubDate>
-      <description>ノーコードで業務自動化AIエージェントを作成できる「Google Workspace Studio」提供開始：「Google Apps Script」を使った拡張にも対応 Googleは、Google Workspace向けのAIエージェント設計ツール「Google Workspace Studio」の一般提供を開始した。ノーコードで日常業務や複雑なワークフローを自動化できるという。</description>
-    </item>
-    <item>
-      <title>GitHub - google/A2UI</title>
-      <link>https://github.com/google/A2UI</link>
-      <pubDate>2025/12/22 01:19</pubDate>
-      <description>観光業で人工知能（AI）時代への備えが本格化してきた。星野佳路・星野リゾート代表は「AIの普及でブランド力は効かなくなる」とみて、18億円かけて消費者のAI利用に対応した予約システムの構築に踏み切った。日本政府観光局（JNTO）もAI時代に向けた情報発信の準備を始めた。うまく活用すれば訪日客の地方分散に役立つという。AIは旅をどう変えるのだろう。星野リゾートは新予約システムを「FleBOL（フ</description>
-    </item>
-    <item>
-      <title>柏崎刈羽にデータセンター　東電計画、電源と一体　AI需要狙い収益改善 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGKKZO93385370T21C25A2MM8000/</link>
-      <pubDate>2025/12/23 03:54</pubDate>
-      <description>就職活動で企業に提出する「エントリーシート」をAI＝人工知能を使って作成する学生が増えています。その一方で、企業の間では、学生の記述内容が似かよったものになり選考が難しいとして、エントリーシートを廃止…</description>
     </item>
   </channel>
 </rss>
