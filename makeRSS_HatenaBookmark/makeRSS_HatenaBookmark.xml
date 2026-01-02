@@ -5,6 +5,60 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>「COBOL人材がいない」、基幹システムのレガシー継承に向けた模索が進む</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/26/news022.html</link>
+      <pubDate>2025/12/26 10:00</pubDate>
+      <description>Claude Codeで提供が始まり、Codex CLIやGitHub Copilotでも相次いでサポートされたAgent Skills（以後Skills）機能。とても素晴らしい機能だと思います。 ただ、MCPのときにも思ったのですが、Anthropicは新しい機能のプロモーションがとても上手です。上手すぎて結果、過大に受け取って誤解する人を多数生んでいると思います。 本稿ではSkillsの誤解と、本来の特徴について、簡潔に整理しておきたいと思います。 何がまちがっているか？ よく見かける説明はつぎのような内容です。 これまで汎用的であったエージェントに、ドメイン固有の専門知識や、ワークフロー、ベストプラクティスを与えることで、特定の用途に特化したスペシャリストに変革します。 この説明だけではSkillsの本質的な利点を正確に捉えていません。 これだけなら、多くのエージェントでつぎのような</description>
+    </item>
+    <item>
+      <title>高木浩光＠自宅の日記 - 日本のAI規制体系における構造的混乱：AI事業者ガイドラインに起因する問題の連鎖</title>
+      <link>http://takagi-hiromitsu.jp/diary/20251230.html</link>
+      <pubDate>2025/12/31 16:23</pubDate>
+      <description>The Grid is Old and TiredNearly two years ago, we were the first to predict a looming power crunch. In our report AI Datacenter Energy Dilemma - Race for AI Datacenter Space, we forecasted AI Power Demand in the US to grow from ~3GW in 2023 to over 28GW by 2026 – a pressure that would overwhelm America’s supply chains. Our prediction proved very accurate. The chart below tells the story: in Texas</description>
+    </item>
+    <item>
+      <title>酒井邦嘉 著『デジタル脳クライシス』より。ＡＩが子どもの考える力を奪うことを教育現場は理解できているか？ - 田舎教師ときどき都会教師</title>
+      <link>https://www.countryteacher.tokyo/entry/2026/01/01/024310</link>
+      <pubDate>2026/01/01 02:43</pubDate>
+      <description>はじめに 「今週の進捗どうなってる？」 個人開発や少人数のチーム開発をしていると、この質問に答えるための資料作りで週末が潰れること、ありませんか？ コードは書けても、変更内容を非エンジニア（PMやクライアント）にわかるように説明するのは、正直かなりカロリーを使います。 「Gitのコミットログを見るだけで、勝手に誰かが解説動画を作ってくれればいいのに……」 そんな怠惰な願望を叶えるために、年末年始を使って**「PRをマージしたら、AIが勝手に解説動画を生成してSlackに投げる」**ワークフローを組んでみました。これが意外と実用的だったので共有します。 全体アーキテクチャ やっていることはシンプルです。 Trigger: main ブランチへのマージを検知 Analyze: OpenAI API (GPT-4o) が git diff を読んで「変更点の要約」を台本化 Generate: A</description>
+    </item>
+    <item>
+      <title>小データの予測から意思決定へ：転職を機に研究仮説を総括する</title>
+      <link>https://zenn.dev/akira_t/articles/from-prediction-to-decision</link>
+      <pubDate>2026/01/01 01:58</pubDate>
+      <description>はじめに RAG（Retrieval-Augmented Generation）システムを構築していると、「なぜか精度が上がらない」という壁にぶつかることがあります。 本記事では、社内規程文書を対象としたRAGシステムで、回答精度を73.3%から100%に改善した過程を紹介します。検証した複数のチャンキング戦略の中で、意外にも最もシンプルな解決策が最も効果的だったという結果になりました。 また、「Re-rankingを導入すれば精度が上がる」と思っていたのですが、逆に精度が下がるという予想外の結果も得られました。その理由についても考察します。 プロジェクト構成 技術スタック レイヤー 技術</description>
+    </item>
+    <item>
+      <title>〈DeNA南場会長の直言〉日本勢が世界で勝つために必要なこと。｢AIはバブルではない｣…海外マネー呼び､勝たせる試合にスタートアップを巻き込む</title>
+      <link>https://toyokeizai.net/articles/-/926049</link>
+      <pubDate>2026/01/01 09:10</pubDate>
+      <description>AI（人工知能）はコンサルティング業務のあり方を変えている。Getty Images; Alyssa Powell/BIAI（人工知能）がコンサルタント業界に史上最大の人材刷新を迫っている。 企業が大規模なAI主導の変革プロジェクトへ移行する中、ボストン・コンサルティング・グループ（BCG）やマッキンゼー（McKinsey）、PwCといったコンサルティング会社における理想的なコンサルタント像は変わりつつある。 デロイト（Deloitte）米国法人の元AI責任者、ガート・デ・ゲイター（Gert De Geyter）氏はBusiness Insiderに対し、「クライアントに単なるコンサルタントの大群の派遣を提案する手法はもはや通用しません」と語った。 7月に同社を退社しAIスタートアップのテラゴニア（Teragonia）に参画したデ・ゲイター氏によれば、企業は「純粋な従来型コンサルタント」で</description>
+    </item>
+    <item>
+      <title>2025: The year in LLMs</title>
+      <link>https://simonwillison.net/2025/Dec/31/the-year-in-llms/</link>
+      <pubDate>2026/01/01 12:10</pubDate>
+      <description>五十嵐 @biz_fx50 海外のレストランで写真なしメニューに当たったときの最適解。 AIに「このメニューを翻訳して、料理を視覚化して」と投げるだけ。 AIは仕事だけじゃなく、生活の不便も消してくれる。 pic.x.com/Jqtfc7rflM 2025-12-29 12:48:52 喫茶マウンテン/Kano Shinjl @wakuwakumaunten はじめまして。 喫茶マウンテンの三代目です 管理栄養士持ってます 投資は日本株のみやってます 撮影依頼等はこのアカウントか直接電話で対応します。よろしくお願いします。 マウンテンのLINEは現在ありませんよ</description>
+    </item>
+    <item>
+      <title>Claude Codeライトユーザー目線で、万人受けする便利設定を紹介 - Qiita</title>
+      <link>https://qiita.com/minorun365/items/3711c0de2e2558adb7c8</link>
+      <pubDate>2026/01/01 22:03</pubDate>
+      <description>明けましておめでとうございます！ノウチです！ （大晦日にnoteを書いていたら、いつの間にか年が明けてました） 大晦日なので、2025年の振り返りをしてみたいと思います。年末になると「今年何やったっけ？」とぼんやり考えてしまうのですが、改めて整理してみると、思った以上にいろいろあった1年でした。 生成AIを活用したプロジェクトを4つ担当できた年仕事の面では、今年はありがたいことに大きなAI企画を4つ担当させていただきました。 4月には、JR東日本企画さんとの新サービス「チアアドちゃん AI審査」をリリースしました。生成AIを使って、広告デザインの内容を事前審査するというサービスで、このプロジェクトではプロジェクトマネージャーとして参加しつつ、AI担当としてAI審査のフロー設計や技術選定も担当しています。</description>
+    </item>
+    <item>
+      <title>Geminiの「Gem」機能のTips集(1/3)：基本編｜榎本大貴 / LITALICO研究所所長</title>
+      <link>https://note.com/enomotod/n/na943723d9b20</link>
+      <pubDate>2026/01/01 22:54</pubDate>
+      <description>概要 本記事では、 「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」 という実証実験について紹介します。 リマインダーも、ToDo管理も、コーチングサービスも続かない。 理由はシンプルで、守らなくても痛くないから。 そこで本記事では、 CLI型Agentに「コーチング役」を与え 1日の行動を自己申告し悪習慣を検知した際に Pavlok（電気刺激可能なウェアラブル）を通じて 物理的な罰 を与える という、やや狂気じみた構成を 最小実装 で試しました。 結果として、 「物理刺激権限を付与する前提のAgent設計にすることで人は大きく変われる」 という強い手応えがあり、構想・実装・効果を共有します。 想定読者 自堕落な生活を是正したいけど治せない方 習慣化アプリ・リマインダー・ToDo管理に何度も挫折してきた方 「結局、人は痛い目を見ないと</description>
+    </item>
+    <item>
+      <title>東大大学院の難関AI講座を修了したスーパー中学生に会ってみると…海沿いの村に住む普通の女の子だった 「データサイエンスは “起業して戦うための武器” 」 | TBS NEWS DIG</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/2349530</link>
+      <pubDate>2026/01/01 08:42</pubDate>
+      <description>AWSの最新機能をフルに生かした、フルスタックのAIエージェントWebアプリを作ってみましょう。 フロントエンド： React on Amplify Gen2 バックエンド： Strands Agents on Bedrock AgentCore 完成するアプリのデモは以下から誰でも試せます。 https://main.d32c8uilwurx3w.amplifyapp.com/ AWS Amplify Gen2はとにかく「サーバーレスで安い」「マネージドで楽」なのがメリットです。 フロントエンド苦手な方のために、とにかく不要なファイルやコードを削って、手順数もとことん減らし、認知負荷を大きく下げています。 事前準備 アカウント作成 AWSアカウントを作成 GitHubアカウントを作成 Claudeの利用申請 AWSアカウントにサインイン（https://console.aws.amazo</description>
+    </item>
+    <item>
       <title>LLMに書かせるときの技術書執筆ガイドラインの試行錯誤 - 氾濫原</title>
       <link>https://lowreal.net/2025/12/27/2</link>
       <pubDate>2025/12/27 16:16</pubDate>
@@ -1810,63 +1864,6 @@
       <link>https://zenn.dev/lluminai_tech/articles/4ce39df484ae56</link>
       <pubDate>2025/12/23 20:27</pubDate>
       <description>こんにちは。希望あふれる優しいデジタル社会を未来に残していきたいtakkyyです。バクラク勤怠・バクラク給与などHCM領域*の事業責任者をしています。*HCM：Human Capital Management（人的資本マネジメント） 前職のスタートアップにて事業責任者を任せていただき、LayerX入社後は新規事業立ち上げから事業責任者という役割を担っています。決して経験が長いわけではありませんが、事業責任者を目指す中で意識していたことが誰かにとって意味あるものになればと思い言語化してみます。（MECEではない点はご容赦ください） 新規事業立ち上げに関する内容はこちらにもまとめております💁 特に、事業責任者を目指す20代・30代前半のみなさまにとって刺激や気づきとなる何かをお届けできれば幸いです。 01 目標設定を変える「事業責任者・PMMを目指しているのですが何をしたら良いですか？」とい</description>
-    </item>
-    <item>
-      <title>ATMがセックス求めてきたらホラーだよ</title>
-      <link>https://anond.hatelabo.jp/20251224031653</link>
-      <pubDate>2025/12/24 08:25</pubDate>
-      <description>2025年に読んだ技術書まとめ 1年で200冊以上本を読んだ 例年1日1冊以上のペースで本を読んでいました。今年は意図的に実装を増やしてインプットを減らす作戦が功を奏し、200冊ちょっとの本を読んだようです。読んだ技術書の中で面白かったものトップ10を紹介します。 10. グランドマスター三冠のKaggleノートブック開発術 AIエージェントブームで機械学習復習しておくとご利益あるかと思い購入。幅広くまとまっているのがいいですね。 類書にThe Kaggle Workbook 著名コンテストに学ぶ！競技トップレベルの思考と技術があります。 広義の競プロ繋がりだとAtCoder Heuristic First-step Vol.2も気になっています。 9. 7日間でハッキングをはじめる本 TryHackMeを使って身体で覚える攻撃手法と脆弱性 ここ数年AIの発達で翻訳が楽になり一部日本企業の</description>
-    </item>
-    <item>
-      <title>巨人の肩に乗る</title>
-      <link>https://zenn.dev/ymd/articles/084336a54fb6d5</link>
-      <pubDate>2025/12/24 12:50</pubDate>
-      <description>Linux Daily Topics Firefoxを“モダンAIブラウザ”に ―Mozilla新CEOの就任メッセージにブラックボックス化を懸念する声 Chromeなど最近のモダンブラウザはAI機能がデフォルトでオンになっており、クエリを入力するたびに「AIによる概要」が最初に示されることが多い。しかし機能面に加え、プライバシーや信頼性の観点から「ブラウザにAI機能は不要」と思っているユーザも少なくなく、そうしたユーザにとってFirefoxは貴重な存在であるといえる。また、ソースコードも開発プロセスもオープンに公開されているFirefoxは、Linuxユーザにとっても日々の活動を支えるためのもっとも重要なソフトウェアコンポーネントだといっていい。そのFirefoxが現在、Mozillaの新CEO就任に伴って“⁠モダンAIブラウザ⁠”への方針変更が示されたことから、多くのユーザの間で不安と</description>
-    </item>
-    <item>
-      <title>DuckDB をつかってローカルなRAGを実装する</title>
-      <link>https://zenn.dev/ohtaman/articles/build-local-rag</link>
-      <pubDate>2025/12/22 09:00</pubDate>
-      <description>各AI企業はAIにトレンドやニュースを扱わせるために最新の情報を学習させていますが、一方でAIが生成した誤情報を別のAIが学習してまき散らす悪循環が発生するなど、新しい情報で汚染されてしまうケースもあります。チューリッヒ大学の研究者らが発表した「Ranke-4B」は、タイムスタンプ付きデータのみを使用した「History-LLMs」プロジェクトの一環としてリリースされており、100年以上前の社会における知識や見解などを表現できるAIとして構築されています。 history-llms/ranke-4b/prerelease_notes.md at main · DGoettlich/history-llms · GitHub https://github.com/DGoettlich/history-llms/blob/main/ranke-4b/prerelease_notes.md Gi</description>
-    </item>
-    <item>
-      <title>AI生成画像には「歴史的背景」がない。アーティストは形の奥にある物語を知っている（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2025/12/22/4790.html</link>
-      <pubDate>2025/12/22 12:16</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/af68d73991768c21c4e3cafe51af0cc01d371ee0/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2073%2F112%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>Claude Codeのコンテキストウィンドウを完全に理解する | gihyo.jp</title>
-      <link>https://gihyo.jp/article/2025/12/get-started-claude-code-05</link>
-      <pubDate>2025/12/23 11:01</pubDate>
-      <description>OpenAI、「ChatGPT Atlas」のインジェクション対策について説明　「完全に解決されることはまずない」 米OpenAIは12月22日（現地時間）、AI統合型Webブラウザ「ChatGPT Atlas」での「プロンプトインジェクション攻撃」対策について説明した。プロンプトインジェクションは長期的課題で、Web上の詐欺やソーシャルエンジニアリングが巧妙化し続けるのと同様に「完全に解決されることはまずない」としている。 ChatGPT Atlasは、10月に公開された、Webページを閲覧し、クリックやキーストロークなどをユーザーの代わりにブラウザ内で実行する「ブラウザエージェント」を中核とする機能で、同社は「これまでにリリースした中で最も汎用的なエージェント機能の1つ」と位置付けている。 プロンプトインジェクションは、エージェントが処理するコンテンツ内に悪意ある指示を埋め込み、ユーザ</description>
-    </item>
-    <item>
-      <title>Elasticsearchのリランク最新事情 - Taste of Tech Topics</title>
-      <link>https://acro-engineer.hatenablog.com/entry/2025/12/23/070000</link>
-      <pubDate>2025/12/23 15:36</pubDate>
-      <description>この記事では、Figmaの生成AIツール「Figma Make」の機能や使い方について、基礎から応用まで体系的に解説します。プロンプトによるデザイン生成だけでなく、コードの書き出しや外部ツールとの連携など、実務で役立つ活用法を網羅しました。 これからFigma Makeを使い始める方や、デザイン業務の効率化を目指す方の参考になれば幸いです！ Figma MakeとはFigma Makeは、デザインツールのFigmaが提供する生成AIツールの一つです。最大の特徴は、自然言語による指示（プロンプト）を入力するだけで、UIデザインやインタラクティブなプロトタイプ、さらには実際に動作するフロントエンドのコードを自動生成できる点にあります。 デザイナーが静的なデザインを作り、エンジニアがそれをコードに書き起こすという、一連の手間が削減され、アイデアを瞬時に「動く形」で確認・検証できるようになります。</description>
-    </item>
-    <item>
-      <title>名古屋市が悩んだ「分散NAS」の限界と、全庁統合でHDD／SSD階層化を選んだ理由</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2512/23/news028.html</link>
-      <pubDate>2025/12/23 10:38</pubDate>
-      <description>pyspa Advent Calendar 202512/23のコンテンツです. 去年は「転職したやで」的な報告でネタが固まっていたのですが. 今年は決定的なネタに不足しており, 「近況報告」「技術ネタ」「書籍ネタ（これは前のエントリー）」から選ぼうと思っていましたが！？ shinyorke.hatenablog.com 職歴をAIに読み込ませて色々やった*1この話の続きで, 10年以上継続している老舗個人技術ブログである「Lean Baseball（このブログ）」をAIに評価してもらう 今年の記事の評価を客観的にしてもらう 上記の結果を公開することで「自分のブログのレベルを客観的に評価」「読み手にとっては一つのベンチマークとしてもらう」とかすると面白そう！ ...と, たった今思いついた&amp;amp;やったら案外楽しかったのでこちらでやってみようと思います. なお, 執筆はAIじゃなくて自分で書いて</description>
-    </item>
-    <item>
-      <title>2025年Python界の注目ライブラリ20選 #こまPy｜Atsushi Shibata</title>
-      <link>https://note.com/shibats/n/n53e6776f3dfa</link>
-      <pubDate>2025/12/23 11:31</pubDate>
-      <description>A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.</description>
-    </item>
-    <item>
-      <title>なぜフィジカルAIの象徴がヒューマノイドなのか＠2025国際ロボット展</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2512/23/news026.html</link>
-      <pubDate>2025/12/23 14:37</pubDate>
-      <description>中国の北京に拠点を置くAI企業のZ.aiがコーディング特化のAIモデル「GLM-4.7」を2025年12月22日にリリースしました。GLM-4.7はモデルデータを無料で公開するオープンモデルでありながら、一部のテストでGemini 3.0 ProやGPT-5.1 highを超える性能を示しています。 GLM-4.7: Advancing the Coding Capability https://z.ai/blog/glm-4.7 GLM-4.7は前世代のGLM-4.6と比べて大幅な性能向上を実現しており、生成するウェブページなどのUI品質も向上したとのこと。以下は前世代のGLM-4.6に「桜が目立つ庭園と仏塔を含むボクセルアートを単一のHTMLファイルで描画して」というプロンプトを入力した結果です。 同じプロンプトをGLM-4.7に入力した結果が以下。GLM-4.7の成果物の方が圧倒的に</description>
     </item>
   </channel>
 </rss>
