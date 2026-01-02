@@ -5,6 +5,48 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>【GitHub Copilot】*.agent.md を使って、好きなときにさまざまな人格を呼び出そう！【てぇてぇ】</title>
+      <link>https://zenn.dev/huyu_kotori/articles/2025-12-27-call-personalities-using-agent-md</link>
+      <pubDate>2025/12/31 20:47</pubDate>
+      <description>【まとめ】2025年の学び年間サブスクは罠。AI情勢はすぐ変わる 「最強モデル1つ」より「適材適所」 「入り口」で体験が大きく変わる 魔改造は無駄になる。「軽さ」こそ正義 Gitを制する者がAIコーディングを制す ログとTDDだけで8割の問題は解決する 雑にしゃべり、AIに整理させると効率いい 「AIは賢いから大丈夫」は危険 拡張機能を詰めすぎると低脳に AIコーディングは「ディレクション」 2025年は「AIコーディング元年」と言っても過言ではないくらい、大きな変化がありました。Claude Codeの登場により、AIが自律的な作業をおこなえるようになり、非エンジニアでもかなりコーディングがしやすくなりました。 私自身、非エンジニアではありますが暇さえあればAIコーディングで何かを作るように。もはや「これなしでは考えられない」くらいの存在です。 この1年を振り返り、AIコーディングをより</description>
+    </item>
+    <item>
+      <title>マッキンゼー、PwC、デロイトといったトップコンサルティング会社がエンジニアの採用を急ぐ理由…そして他の全社員にAIを学ばせる方法 | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/2512-how-ai-is-changing-consulting-talent-at-mckinsey-pwc-deloitte/</link>
+      <pubDate>2025/12/31 22:47</pubDate>
+      <description>NVIDIAのハイエンドGPU「H100」やAI処理チップ「GH200」は基本的にデータセンター向けに販売されている製品で、個人での入手は困難です。そんなH100やGH200を搭載したサーバーを非常に安い価格で購入して自宅用AIデスクトップPCに仕立て上げた記録をAI研究者のDavid Noel Ng氏が公開しています。 Building a High-End AI Desktop | David Noel Ng https://dnhkng.github.io/posts/hopper/ H100やGH200を搭載したサーバーは1台当たり1000万円を超える価格で取引されています。ところが、David氏は2025年初頭にRedditで「H100とGH200を2基ずつ搭載したサーバー」が1万ユーロ(約180万円)という非常に安い価格で売られているのを発見しました。販売されていたサーバーのス</description>
+    </item>
+    <item>
+      <title>写真なしメニューはAIに、メニューの料理を視覚化してもらうのが最適解 喫茶マウンテン「これうちのメニューでもできるんか？」</title>
+      <link>https://togetter.com/li/2646125</link>
+      <pubDate>2026/01/01 17:22</pubDate>
+      <description>コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。 https://help.toyokeizai.net/hc/ja/articles/33846290888345 ✕</description>
+    </item>
+    <item>
+      <title>Secure by Design 原則 日本語訳 - セキュア・バイ・デザインなソフトウェアのための原則とアプローチ</title>
+      <link>https://zenn.dev/tomtwinkle/articles/33bf277ea526c4</link>
+      <pubDate>2025/12/31 17:25</pubDate>
+      <description>31st December 2025 This is the third in my annual series reviewing everything that happened in the LLM space over the past 12 months. For previous years see Stuff we figured out about AI in 2023 and Things we learned about LLMs in 2024. It’s been a year filled with a lot of different trends. The year of “reasoning” The year of agents The year of coding agents and Claude Code The year of LLMs on th</description>
+    </item>
+    <item>
+      <title>田んぼ不要で年6回も収穫。ミニ＆スピーディなお米で稲作の歴史は変わるのか？</title>
+      <link>https://www.gizmodo.jp/2026/01/rice-factory-0gi.html</link>
+      <pubDate>2026/01/01 15:44</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 生成AIを使った開発手法がいろいろ出てきましたね。 私は普段、Webアプリケーション（TypeScript で client/server）、MCP Server on Cloud Run、バッチ処理（Python）などを作ることが多いです。そんな私が現在やっている「生成AIを使った開発方法」を共有します。最適解は人それぞれですが、参考になれば幸いです。 ※ たぶん3ヶ月後にはまた違うやり方になっている気がします。 私の開発方法の変遷 2025年初め: Claude Code をメインに使用 2025年8月頃: Spec Dr</description>
+    </item>
+    <item>
+      <title>AWS製AI統合・仕様駆動型IDE「Kiro」.kiro作成ベストプラクティス - Qiita</title>
+      <link>https://qiita.com/tatsuoNakano/items/17e702f0fd1407882ad8</link>
+      <pubDate>2026/01/01 12:05</pubDate>
+      <description>軽くてパワフルで、できれば雑に扱える値段のノートPCがほしいThinkpad X1 Carbon (Gen10,2022年モデル)をこれまで愛用していたが、4Kモデルにしたのでバッテリの持ちが悪くて困っていた。 別に持っていたM2 Macbookを深センのサービスでSSD増設して持ち歩くことも考えた。 深圳来たのでMacBook のssd増設。店の前通りがかったら、やってるな。2TBに増設。古いの取ってきれいにしてるところ。あとは仕上げをごろうじろだなー。 pic.twitter.com/9oaAdNT8UL — Hiroo Yamagata (@hiyori13) November 14, 2025 が、ハードウェアの商売をしてるとwindowsソフト使って客先で試す、とかのことが多いので、普段はwindowsのほうが便利だ。 ちょうどROSの開発などで、ネイティブのLinuxマシンが一</description>
+    </item>
+    <item>
+      <title>【新年のビッグセール到来！】Go・TypeScript・Rust・Terraform・AI・英語＆資格 - 2026年の開発現場で生きる技術をUdemyで学ぶ！ - はてなニュース</title>
+      <link>https://hatenanews.com/articles/2026/01/02/103000</link>
+      <pubDate>2026/01/02 10:40</pubDate>
+      <description>RAGの精度評価をRagasで自動化してみた：いつまで「目視確認」で消耗してるの？ はじめに：「なんとなく動く」からの脱却 RAG（Retrieval-Augmented Generation）アプリケーション開発における最大の敵は、開発者自身の「主観」だ。 「いくつか質問してみたけど、いい感じに回答してくれている気がする」 「プロンプトを変えたら、なんとなく良くなった気がする」 PoC（概念実証）段階ではこれでも許されるが、プロダクション運用やチーム開発において「気がする」は通用しない。上司やクライアントからの「で、精度は何％なの？」という問いに、数字で答えられなければエンジニアとしての信頼に関わる。 そこで導入するのが、**「LLM-as-a-Judge（LLMを用いてLLMを評価する）」**フレームワークである Ragas だ。この記事では、Ragasを用いてRAGの精度を定量的に計</description>
+    </item>
+    <item>
       <title>「COBOL人材がいない」、基幹システムのレガシー継承に向けた模索が進む</title>
       <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/26/news022.html</link>
       <pubDate>2025/12/26 10:00</pubDate>
@@ -1822,48 +1864,6 @@
       <link>https://gigazine.net/news/20251224-debt-settlement-scam/</link>
       <pubDate>2025/12/24 08:29</pubDate>
       <description>本記事は、Ubie Tech Advent Calendar 2025 23日目の記事です。 はじめに はじめまして、11月にUbieにSREとして入社したumiyosh(海野嘉和)といいます。40代後半での転職になりますが、変化の激しさや実現しようとしている世界観に毎日ワクワクしながら過ごしています。何歳になっても新しい世界に飛び込むのは楽しいものです。 現在はオンボーディングをうけつつSRE業務をやりつつシステムの全体像を理解しようとしています。 オンボーディングを手厚くやってもらえたというのもあり、システム理解や業務理解は進みましたが、それでもやはり複数のサービスが複雑に絡み合う現代のシステムにおいては、その理解は一筋縄では行かないというのが正直なところです。 一方で今回の転職では、以前なら「ドキュメントを読みまくり」「人に聞きまくり」「実験or業務しまくる」ことで埋めていたギャップ</description>
-    </item>
-    <item>
-      <title>あらゆるアプリにAIテキスト編集を ～「Copilot Actions for Text Editing」が発表／「Copilot Vision」で共有したアプリのテキストに「Copilot」アプリがリライト提案</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2073473.html</link>
-      <pubDate>2025/12/23 13:05</pubDate>
-      <description>本記事は 仮想通貨 Advent Calendar 2025 の24日目の記事です。 はじめに はじめまして、ymdと申します。普段は、株や暗号資産の分析をし、マーケットが盛り上がったときに落ちているお金を拾っています。 今年のAdvent Calendarを眺めていると、DEXの分析やLLMを活用した自動トレード戦略作成など、非常に有益な記事が目白押しです。 これらを見て思い出したのが、ニュートンの「巨人の肩に乗る」という言葉。本記事では、この精神に倣い、AIの力と先人の知見という2つの「肩」を借りながら、お金拾いの方法を探っていきます。 AIの肩に乗る AI駆動開発の3つのアプローチ AIを活用した開発には、大きく3つの方向性があります： 情報収集の自動化：論文や API ドキュメントの要約 戦略生成の自動化：複数のアプローチを並行生成 コーディングの自動化：コードそのものを AI に</description>
-    </item>
-    <item>
-      <title>画像生成＆編集AI「Qwen-Image-Edit-2511」登場、人物やオブジェクトの一貫性が向上＆人気LoRAを内蔵してさらに高品質化</title>
-      <link>https://gigazine.net/news/20251224-qwen-image-edit-2511/</link>
-      <pubDate>2025/12/24 13:21</pubDate>
-      <description>井二かけるの追い解説 「こうしす！」シリーズ新編「ざおでんDX」の第4回。テーマは「クラウド破産」です。 生成AIが急速に普及しているけれど…… この1年で生成AI（人工知能）を用いたコーディングエージェントが急速に普及しています。 当初はおばかなコード補完しかできない、ありがた迷惑な機能だったのに、今ではチャット形式で「○○を作って」というだけで、それなりのものを実装できるようになりました。ダルい作業もお任せで、もはや開発業務に欠かせない存在となりつつあります。そんな中、登場したのが「バイブ（雰囲気）コーディング」という、いわばノリで開発する開発スタイルです。 これまで「アプリを開発しちゃってるオレ♪」のような軽いノリで開発できるノーコード／ローコード開発ツールは多々ありました。バイブコーディングが興味深いのは、必ずしもそうした専門のツールを使う必要がないという点です。 技術者が使用する</description>
-    </item>
-    <item>
-      <title>Macで人気のコマンドランチャー「Raycast」がWindowsに対応、β期間はAI機能がタダ／拡張機能で機能を拡充できる柔軟さが魅力</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2073823.html</link>
-      <pubDate>2025/12/24 14:18</pubDate>
-      <description>アップルはMacユーザーに対し、グーグルのChromeの使用をやめ、代わりに自社ブラウザーのSafariを使うよう警告している。「Chromeとは異なり、Safariは真にプライバシー保護に役立ちます」と同社はいう。Chrome利用者への警告はこれだけではない。マイクロソフトもWindowsユーザーにまったく同じことを言っている。 こうした警告には、明らかにマーケティングの狙いがある。アップルはユーザーにSafariを使い続けてもらいたいし、マイクロソフトはEdgeの控えめな市場シェアを伸ばしたい。だが、Digitainによる新たな報告書がこの話に刺激を加えたようだ。ユーザーのプライバシーという点で、主流ブラウザーの中ではChromeが最悪だと警告している。これより悪いのは、ChatGPT Atlas（2025年12月23日現在、macOS版のみ存在）だけだった。 Windows Repo</description>
-    </item>
-    <item>
-      <title>【アドベントカレンダー2025】Jira のコンテキストを Copilot に読ませようとして MCP サーバーを自作したが「ツールの引力」には勝てなかった話 - ぐるなびをちょっと良くするエンジニアブログ</title>
-      <link>https://developers.gnavi.co.jp/entry/adventcalendar-251224-2/</link>
-      <pubDate>2025/12/24 16:40</pubDate>
-      <description>こんにちは。Elasticsearchテクニカルコンサルタントの江見です。 この記事は、Elastic Stack (Elasticsearch) Advent Calendar 2025の24日目の記事です。 ログの検索、売上データ、ユーザの行動履歴など、業務システムでタイムスタンプの範囲検索はほぼ必須の機能になります。 特に日単位で範囲指定をする場合は、yyyy-MM-ddのように日付のみを指定するのが人間にとっては直感的にわかりやすいと思います。 Elasticsearchで範囲検索を行う場合は、rangeクエリを使用するのが一般的ですが、yyyy-MM-ddの形式のままrangeクエリを使用した場合に 「ヒットするはずのドキュメントが返ってこない」「余分なドキュメントが返ってくる」などのケースが発生しがちです。 今回はyyyy-MM-ddでrangeクエリを使用した場合の挙動につい</description>
-    </item>
-    <item>
-      <title>Conductor - Run a team of coding agents on your Mac</title>
-      <link>https://www.conductor.build/</link>
-      <pubDate>2025/12/20 22:08</pubDate>
-      <description>はじめに こんちくわ。ZOZOTOWN のレコメンド機能を管掌するチームでエンジニアリングマネージャーをやっている棚本（@i6tsux）です。 この記事では、映画好きが勢いだけで雑に作った 「今の気分に合う映画をおすすめするアプリ」 の話をつらつらと書いてゆきます。 背景 / 課題 映画が好きで、ほぼ毎日なにかしら観ています。 そんな中で 「見たいと思える映画に出会うのは、意外と難しい」 と感じます。 しかも、時間をかけて選んだはずなのに、 いざ観はじめると 「うーん、なんかハマらないなぁ」 となってしまうことも珍しくありません。 これが結構つらい。 やりたいこと やりたいことはすごくシンプルで、 今の自分が「観たい」と思える映画に出会えること 観はじめて「やっぱ違ったかも」とならないこと この2つを満たすことです。 振り返ってみると、 「わ〜、これは良いかったな、、、！」と思える作品は、</description>
-    </item>
-    <item>
-      <title>Agent Skillsを一番かんたんに作る方法（Claude Code + skill-creator）</title>
-      <link>https://zenn.dev/aun_phonogram/articles/475f3cca8f40a3</link>
-      <pubDate>2025/12/23 09:21</pubDate>
-      <description>インディーゲームアワード「Indie Game Award」を運営する米Six One Indieが12月22日までに、人気ゲーム「Clair Obscur: Expedition 33」（クレールオブスキュール：エクスペディション33）に与えた賞を剥奪した。18日（現地時間）の表彰式で最優秀賞など2つの賞を贈ったものの、規定で禁止している生成AIの利用が同日に発覚。賞を撤回したという。 Clair Obscur: Expedition 33はフランスのゲームスタジオSandfall Interactiveが手掛けるRPG。同スタジオのデビュー作でもあり、スタッフ30人未満という少規模な開発体制ながら大作ゲームに伯仲する演出やプレイフィールが話題になり、累計販売本数は10月時点で500万本を突破。「Golden Joystick Awards 2025」「The Game Awards 2</description>
-    </item>
-    <item>
-      <title>RAGの精度を上げる自己評価付き検索の設計 — Self-RAGで「検索＋自己採点」を回す</title>
-      <link>https://zenn.dev/lluminai_tech/articles/4ce39df484ae56</link>
-      <pubDate>2025/12/23 20:27</pubDate>
-      <description>こんにちは。希望あふれる優しいデジタル社会を未来に残していきたいtakkyyです。バクラク勤怠・バクラク給与などHCM領域*の事業責任者をしています。*HCM：Human Capital Management（人的資本マネジメント） 前職のスタートアップにて事業責任者を任せていただき、LayerX入社後は新規事業立ち上げから事業責任者という役割を担っています。決して経験が長いわけではありませんが、事業責任者を目指す中で意識していたことが誰かにとって意味あるものになればと思い言語化してみます。（MECEではない点はご容赦ください） 新規事業立ち上げに関する内容はこちらにもまとめております💁 特に、事業責任者を目指す20代・30代前半のみなさまにとって刺激や気づきとなる何かをお届けできれば幸いです。 01 目標設定を変える「事業責任者・PMMを目指しているのですが何をしたら良いですか？」とい</description>
     </item>
   </channel>
 </rss>
