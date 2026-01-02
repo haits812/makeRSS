@@ -5,6 +5,54 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>僕が20年で39億稼いだコピーライティングノウハウを全部AIに喰わせたら自分より遥かに稼ぐAIが爆誕して、絶望した件について｜和佐大輔公式note</title>
+      <link>https://note.com/daisukewasa/n/nc2df921024e4</link>
+      <pubDate>2025/12/29 04:16</pubDate>
+      <description>ComfyUIで画像生成をしているのだけど、どうもうまくプロンプトが思い浮かばない。 よくよく考えると、普段から、画像を言語で表すことをやっていないので、そういうことをいきなりやれと言われても出来ない。 そこで、画像をプロンプトにしてみる。ComfyUI-Easy-Useというカスタムノードをインストールする。 Image To Prompt というノードがあるので、それを使う。 適当だけど、それっぽい。 さらに、出てきたプロンプトから画像を作る。速度優先のためQwen-Image-Lightning-4stepsを3ステップで出している。 再現できてる。 二郎系ラーメンを食べさせてみる。 there is a plate of food with meat and rice on it, a large sphere of red energy, shibari, low angle p</description>
+    </item>
+    <item>
+      <title>2025年、AIコーディングをガチって学んだこと10選｜makaneko</title>
+      <link>https://note.com/makaneko_ai/n/n606488728c4e</link>
+      <pubDate>2025/12/31 22:16</pubDate>
+      <description>新卒から11年勤めたNECを退職し、2025年9月にPreferred Networks（PFN）に移りました。これまでデータサイエンスの実務と、社会人博士などを通じた機械学習研究を続けつつ、数理最適化の事業化にも取り組んできました（披露宴の席次も数理最適化で決めました）。 本記事では総括として、当時よく耳にした「小データでは機械より人が強い」という言説を出発点に、なぜそう見えるのか考えた研究の流れと、意思決定へ軸足を移してきた経緯を振り返ります。 TL;DR 実世界のデータ分析の現場は小データであることが多く、「小データでは人の方が強い」と言われがち その理由として3つの仮説（常識力・補助情報・意思決定志向）を立てて研究した 常識力：転移学習として定式化できるが、先行研究との差別化が難しかった。基盤モデルの成功からこの説自体はある程度妥当か 補助情報：予測時の入力と出力以外を学習に用いる</description>
+    </item>
+    <item>
+      <title>RAGの精度評価をRagasで自動化してみた 〜 いつまで「目視確認」で消耗してるの？</title>
+      <link>https://zenn.dev/duo3/articles/6516058c60385b</link>
+      <pubDate>2025/12/31 16:44</pubDate>
+      <description>こんにちは、とまだです。 「AIに仕事を奪われるのでは？」「プログラミングを学んでも意味がなくなるのでは？」 そんな不安を感じている方も多いのではないでしょうか。 今回伝えたいことの要点は、AI時代にエンジニアに求められるスキルが「実装力」から「上位スキル」へシフトしているということです。 具体的には、要件定義力・言語化力・レビュー力といった、より抽象度の高いスキルの重要性が増しています。 一言で言えば、エンジニアの役割が「実装者」から「テックリード」へと変化しているということになります。 この記事では、具体的にどのようなスキルの重要性が上がったのか、そして今から何を学べばよいのかを、私の実体験を交えて解説します。 忙しい人のために要約 この記事のポイントを簡潔にまとめます。 AI時代は「上位スキル（要件定義・言語化力・レビュー力・俯瞰力）」の重要性が増した エンジニアの役割は「実装者」か</description>
+    </item>
+    <item>
+      <title>AIエージェント時代、正直しんどい話</title>
+      <link>https://zenn.dev/ryo369/articles/d02561ddaacc62</link>
+      <pubDate>2026/01/02 10:05</pubDate>
+      <description>生成ＡＩ（人工知能）が人びとの職場や生活に急速に入り込んでいる。ＡＩをはじめとする技術と人が共に生きる世界を、３７年前に描いた漫画家がいる。「攻殻機動隊　ＴＨＥ　ＧＨＯＳＴ　ＩＮ　ＴＨＥ　ＳＨＥＬＬ…</description>
+    </item>
+    <item>
+      <title>【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した - Qiita</title>
+      <link>https://qiita.com/motoya0118/items/da163b7f7b53fc445f63?utm_campaign=post_article&amp;amp;utm_medium=twitter&amp;amp;utm_source=twitter_share</link>
+      <pubDate>2026/01/02 07:13</pubDate>
+      <description>時間にゆとりのある年始は、自身の技術を見直し、次のステップへ備える絶好の機会です。 AIの登場により、かつて以上に変化のスピードとアップデートのサイクルが加速した開発環境のなかで、存在感を発揮し続けるために重要なのは、やはり「学びを止めない」姿勢でしょう。 本特集では、現場で必須となる定番技術と、いまのうちに知っておきたい新しい技術を両軸で紹介します。GoやTypeScript、Rustといった主要言語をはじめ、コンテナ技術やTerraformなどモダンな開発基盤、そして注目を集めるObservabilityの概念まで、Udemyの実践講座を通じて体系的に学べる内容を厳選しました。さらに、英語や資格学習といった「やっておかなければならないけれど後回しにしがち」な領域の講座も取り上げています。 オンライン学習プラットフォーム「Udemy」が1月10日まで実施する新年のビッグセールでは、対象講</description>
+    </item>
+    <item>
+      <title>Geminiの「Gem」機能のTips集(2/3)：応用編（知識機能、ハルシネーション抑制、自己点検、引用マーカー排除）｜榎本大貴 / LITALICO研究所所長</title>
+      <link>https://note.com/enomotod/n/n478915d143dd</link>
+      <pubDate>2026/01/02 11:32</pubDate>
+      <description>研究者たちは、ボットのキャラクターをアメリカの代表的な選挙調査「アメリカ国民選挙研究（American National Election Studies）」のデータをもとに作ったと述べている。これによって各ボットは、年齢、性別、収入、学歴、支持政党、政治的考え方、宗教、個人的な興味など現実の世界の分布を反映したキャラクターになっていた。 さらに研究者たちは、この実験をメタ（Meta）の言語モデルLlama-3.2-8Bと中国のAI企業DeepSeekの言語モデルR1を使って再現したところ、同じような傾向が見られたとしている。 この研究はアムステルダム大学で計算社会科学を専門とする助教のペッター・トーンベルグ（Petter Törnberg）と、同大学の研究エンジニア、マイク・ラルーイ（Maik Larooij）が主導した。 研究者やOpenAI、メタ、DeepSeek各社は、Busine</description>
+    </item>
+    <item>
+      <title>AGIは来ない、バブルは続かない──スタンフォード大 HAI研究所が示す2026年のAI、過剰期待の時代は終わり、評価フェーズへ | Ledge.ai</title>
+      <link>https://ledge.ai/articles/stanford_hai_ai_2026_evaluation_phase</link>
+      <pubDate>2026/01/02 03:00</pubDate>
+      <description>東大大学院の難関AI講座を修了したスーパー中学生に会ってみると…海沿いの村に住む普通の女の子だった 「データサイエンスは “起業して戦うための武器” 」 教える側だったのが、いつしか娘に追い抜かれていた、そう語る進さんは笑顔でした。挑戦者としては敗北宣言、しかし親としての喜びが表れていました。何より、学びのプロセスを通して、キヨラさんには技術以上の大きな変化があったと進さんは目を細めます。 「抜かれた」と謙遜する進さん。AI、半導体などに高度な知識を持つ 父・進さん： 「彼女は、分からないものを大人に聞けるようになった。大学生たちにも『ここ、分からないんだよね』と教えを乞うことができない、ということがなくなった」 共に学ぶ仲間であり、ライバルでもある父の存在。「小さなAIラボ」は知識だけでなく、彼女の心を成長させる場所でもあったと振り返りました。 “起業し戦う武器”を手にした15歳。夢は…</description>
+    </item>
+    <item>
+      <title>半導体業界は前例のない「ギガサイクル」に突入、AIの大規模な発展によりコンピューティング・メモリ・ネットワーク・ストレージの経済性が同時に高まる</title>
+      <link>https://gigazine.net/news/20260102-giga-cycle/</link>
+      <pubDate>2026/01/02 17:11</pubDate>
+      <description>リンク 日本経済新聞 生成AIがシステム丸ごと開発 NTTデータ、IT人材不足に抜本策 - 日本経済新聞 NTTデータグループは2026年度中にIT（情報技術）システム開発をほぼ生成AI（人工知能）が担う技術を導入する。開発工程をAIに適した形にし、人による作業を減らす。国内を中心に深刻なIT業界の人材不足を解消する抜本策となり、システム業界が労働集約型の事業モデルから転換する契機となる。開発工程そのものについて、人ではなく生成AIに合わせて単純にする「AIネーティブ開発」と呼ぶ手法を取り入れる。 291 users 166 g68式イラスト投降用 -鷹乃 梁- @g68illust @nikkei AIで効率化できる「単純な」構造は、AIを使わなくても「開発用ツールを自作」して今でもコードの自動作成はできる。 問題は、クライアントの明確な仕様・要件定義が曖昧だったりすること。 折衝担当が</description>
+    </item>
+    <item>
       <title>【GitHub Copilot】*.agent.md を使って、好きなときにさまざまな人格を呼び出そう！【てぇてぇ】</title>
       <link>https://zenn.dev/huyu_kotori/articles/2025-12-27-call-personalities-using-agent-md</link>
       <pubDate>2025/12/31 20:47</pubDate>
@@ -1816,54 +1864,6 @@
           &lt;p class="entrylist-contents-thumb"&gt;
                &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f69e7df4579714051db18090be329508af087607/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2074%2F073%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
           </description>
-    </item>
-    <item>
-      <title>AIエージェント × 人の褌でトレード戦略を爆誕させる｜どりらん</title>
-      <link>https://note.com/drillan/n/n7379c02632c9</link>
-      <pubDate>2025/12/25 02:51</pubDate>
-      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? この投稿は、私が所属するKDDIテクノロジーで行っているアドベントカレンダーの12月23日分の記事となります。他の記事はこちらです。 本エントリーはGoogleが公開しているNotebookLMを用いて、60ページを超える登壇資料を作成した記録を残したものとなります。取り組みから得られた知見や、苦労した点を共有したくてエントリーさせてもらいました。 なお、本稿は嶋是一個人の見解に基づくものであり、所属団体およびその組織の総意を代表するものではありません。また本文中に引用されている自動生成されたスライドは、生成過程の説明のためのスライドサ</description>
-    </item>
-    <item>
-      <title>69社のAI駆動開発ツール 導入・活用方法 まとめ - Findy Tools</title>
-      <link>https://findy-tools.io/articles/ai-review2025/179</link>
-      <pubDate>2025/12/25 08:34</pubDate>
-      <description>今年３月１日に８０歳で死去したタレント・みのもんたさんが、来年１月１日放送のフジテレビ系クイズ番組「クイズ＄ミリオネア」（午後５時）にＡＩの姿で登場する。２４日に同局が発表した。「ファイナルアンサー？」という決めセリフで一世を風靡した初代司会者・みのさん。２代目司会者・二宮和也との２ショットが実現する。</description>
-    </item>
-    <item>
-      <title>表彰式当日に生成AIの利用発覚→賞を剥奪──人気インディーゲーム「Expedition 33」巡り海外アワードで騒動</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/22/news098.html</link>
-      <pubDate>2025/12/23 09:17</pubDate>
-      <description>2025年の良ブコメ*1。 基本的に1つ目のリンクが元記事（増田）、2つ目以降がブコメです。 過去の記事はこちら。 勝手に輝いていた増田ブコメ大賞 2019年上半期 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞 2019年下半期 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2020 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2021 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2022 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2023 - 誰かの肩の上 勝手に輝いていた増田ブコメ大賞2024 - 誰かの肩の上 一般ネタ 婚活パーティーで「趣味は何ですか？」と聞かれると わかる、私も日本の作家の本はほとんど原書で読んでいる - nomitori のブックマーク 美味しそうな響きのスポーツを知りたい【追記】 カリカリに揚げたクリケットが結局いちばんうまい - Knoa</description>
-    </item>
-    <item>
-      <title>実務で使い倒したので cc-sdd の仕様駆動開発プロセスを丁寧に解説してみた</title>
-      <link>https://zenn.dev/tmasuyama1114/articles/cc_sdd_whole_flow</link>
-      <pubDate>2025/12/23 15:49</pubDate>
-      <description>Microsoft 365 Copilotを全社導入した内田洋行では、利用拡大が進む一方、ユーザー間の利用格差が課題となっていた。社内データ分析と実践から見えた原因を基に、5つの鉄則と具体的解決策を紹介する。 生成AIサービス「Microsoft 365 Copilot」（Copilot）は、使い慣れた業務アプリから自在に呼び出せることから、簡単に使える生成AIとして高い支持を集めている。内田洋行でも約1年半前に導入以降、利用は順調に拡大している。払い出しライセンスは600を超え（さらに「Microsoft 365」ライセンスでのCopilot利用者も550人を超える）で、アクティブ率は約95％。月1回以上の利用者は約500人、月間利用回数はおよそ3万8000回に上る。 一方で、社内でのCopilot活用を推進する太田浩史氏（内田洋行 エンタープライズエンジニアリング事業部）は現状を十分と</description>
-    </item>
-    <item>
-      <title>【特集】 AI巡るメモリ争奪戦――2026年はPC、スマホに“冬”が到来</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2073359.html</link>
-      <pubDate>2025/12/24 06:27</pubDate>
-      <description>※ 2025年7月1日〜12月時点のデータ（GitHub MCPツールにて集計） 弊社チームメンバーが書いた記事によると、Dress Codeでは1年間でリポジトリ規模が合計約130万行に成長し、年間3,900件以上のPRがマージされているそうです。 この圧倒的なスピード感の中で振り落とされず、ついていけるようになったのは大きな成長でした。 やりきったと感じた瞬間 フロントエンドからバックエンドまで一気通貫でプロダクトリリースをやりきった時、ようやく「人並みに成果を出せるようになった」と感じました。 具体的には、2025年10月にリリースした「ネットワーク管理/Networks」のプロダクト開発を担当しました。 今見ると改善したいところがたくさんありますが、リリースまで持っていけたこと、チームのスピードに追いつけたこと、他のメンバーのフォローなく完遂できたことが自信につながりました。 アン</description>
-    </item>
-    <item>
-      <title>評価プロセスを生成AIで （半）自動化する！人事評価 x AIの境界実験 - Insight Edge Tech Blog</title>
-      <link>https://techblog.insightedge.jp/entry/personnel-evaluation-by-ai</link>
-      <pubDate>2025/12/24 09:07</pubDate>
-      <description>ATMがセックス求めてきたらホラーだよ</description>
-    </item>
-    <item>
-      <title>Firefoxを“モダンAIブラウザ”に ―Mozilla新CEOの就任メッセージにブラックボックス化を懸念する声 | gihyo.jp</title>
-      <link>https://gihyo.jp/article/2025/12/daily-linux-251223</link>
-      <pubDate>2025/12/23 18:23</pubDate>
-      <description>QAエンジニア Osuからバトンを受け、「PMがAI x ローコードツールで業務システムを作ってみた」というテーマで執筆しました ✍</description>
-    </item>
-    <item>
-      <title>「実は借金を簡単に返済できる方法があるのに銀行はそのことを知られたくない」という大嘘のAI動画で情報弱者を狙い撃ちにする詐欺が急増</title>
-      <link>https://gigazine.net/news/20251224-debt-settlement-scam/</link>
-      <pubDate>2025/12/24 08:29</pubDate>
-      <description>本記事は、Ubie Tech Advent Calendar 2025 23日目の記事です。 はじめに はじめまして、11月にUbieにSREとして入社したumiyosh(海野嘉和)といいます。40代後半での転職になりますが、変化の激しさや実現しようとしている世界観に毎日ワクワクしながら過ごしています。何歳になっても新しい世界に飛び込むのは楽しいものです。 現在はオンボーディングをうけつつSRE業務をやりつつシステムの全体像を理解しようとしています。 オンボーディングを手厚くやってもらえたというのもあり、システム理解や業務理解は進みましたが、それでもやはり複数のサービスが複雑に絡み合う現代のシステムにおいては、その理解は一筋縄では行かないというのが正直なところです。 一方で今回の転職では、以前なら「ドキュメントを読みまくり」「人に聞きまくり」「実験or業務しまくる」ことで埋めていたギャップ</description>
     </item>
   </channel>
 </rss>
