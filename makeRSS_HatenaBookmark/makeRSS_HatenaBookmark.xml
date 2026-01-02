@@ -5,6 +5,18 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>「AIで何ができる？」を毎日考えていたら、1年で働き方が変わった話｜ノウチ</title>
+      <link>https://note.com/memonouchi/n/n50445cb6be76</link>
+      <pubDate>2026/01/01 18:11</pubDate>
+      <description>田んぼ不要で年6回も収穫。ミニ＆スピーディなお米で稲作の歴史は変わるのか？2026.01.01 15:0031,251 小暮ひさのり 2026年6月23日の記事を編集して再掲載しています。 これが、未来の稲作…なのか？ 2025年あたりから始まった令和の米騒動、まだ落ち着きは見せません。やはり、お米が無いのは僕らにとって死活問題。お米の安定供給は今後も大きな課題となるはずです。 そんな中、ちょっと興味深いニュースを見つけました。 Image: 株式会社あゆち株式会社あゆちはお米を室内で栽培・収穫する水耕栽培技術を開発。新品種『みずのゆめ稲』を使った実証が成功したと発表。 つまり、野菜プラントみたいな感じで、お米もプラント生産というわけですね。室内環境での無農薬育成で、天候や虫害にも左右されないため、安定生産が見込めるとしています。 冷害も気にしなくていいですし、急な大雨で田んぼの様子を見に</description>
+    </item>
+    <item>
+      <title>Geminiの「Gem」機能のTips集(3/3)：実践編（共有・管理、改善、トラブルシューティング）｜榎本大貴 / LITALICO研究所所長</title>
+      <link>https://note.com/enomotod/n/n83e1219edad0</link>
+      <pubDate>2026/01/02 11:32</pubDate>
+      <description>SLM のメリットは ローカルで動くからプライバシーが守れる API コストがかからん レスポンスが速い オフラインでも使える 「LLM じゃないと精度が出んやろ」って思うかもしれんけど、特定のタスクに特化させれば SLM でも十分な性能が出る。ファインチューニングと組み合わせると、コスパ最強の AI システムが作れるで VLM（Vision Language Model） 画像とテキストを両方理解するマルチモーダルモデル。写真を見せて「これ何？」って聞くと答えてくれるやつ GPT-5.2、Gemini 3 Pro、Claude Opus 4.5 などが代表例。画像を入力として受け取り、テキストで説明したり、画像に基づいた質問に答えたりできる VLM の活用例 UI のスクリーンショットからコードを生成 グラフや図表の内容を解説 商品画像から説明文を自動生成 手書きメモのデジタル化 よく使</description>
+    </item>
+    <item>
       <title>僕が20年で39億稼いだコピーライティングノウハウを全部AIに喰わせたら自分より遥かに稼ぐAIが爆誕して、絶望した件について｜和佐大輔公式note</title>
       <link>https://note.com/daisukewasa/n/nc2df921024e4</link>
       <pubDate>2025/12/29 04:16</pubDate>
@@ -1849,21 +1861,6 @@
       <link>https://tech-lab.sios.jp/archives/50797</link>
       <pubDate>2025/12/23 19:06</pubDate>
       <description>Xが12月24日（木）、投稿された画像をAI編集するボタンを実装した。 WebブラウザからXにアクセスし、タイムライン上の投稿の画像にマウスオーバーするとボタンが表示。クリックしてプロンプト（指示文）を入力することで、投稿画像を元にした画像を生成できる。 Grokを活用したXの「画像編集ボタン」Xには、イーロン・マスクさんが率いるxAI社が開発したチャットAIボット「Grok」が搭載されている。 Grokは2023年11月に発表され、2024年8月には画像生成機能を搭載。同年12月からは無料ユーザーも利用できるようになっている。 その後、Grokは独自のプラットフォームとしてもサービスを拡大。 今回ブラウザ版のXに実装されたAI画像編集機能は、以前よりスマートフォン版で提供されていたもので、Grokの技術を活用した機能となっている。 画像編集ボタンを表示させない設定は見当たらない画像編集ボ</description>
-    </item>
-    <item>
-      <title>Geminiが安い、「Google AI Pro」セール中　年額3万4800円→1万4500円に　新規ユーザー向け</title>
-      <link>https://www.itmedia.co.jp/aiplus/articles/2512/24/news121.html</link>
-      <pubDate>2025/12/24 19:47</pubDate>
-      <description>2025年12月24日 18:00更新 Galen Hunt氏はLinkedinnに補足を追加しています。Hunt氏によると、彼のプロジェクトはあくまでプログラミング言語間での移行を可能にする先行研究を目的としているとのことで、将来的にWindows 11などにRustが全適用されるわけではないと補足説明をしています。 MicrosoftのWindows 11をはじめとする多くのソフトウェアは、1985年に登場した初代WindowsからCおよびC++言語で開発されています。カーネル部分は主にC言語、GUIコンポーネントはC++で記述されていますが、MicrosoftはこのCおよびC++言語で書かれたプログラムについて、AIを使って2030年までにすべてをRustへ書き換えることを目指しているようです。 MicrosoftがWindows 11含むすべてのプログラムからCとC++言語を廃止を</description>
-    </item>
-    <item>
-      <title>「知能爆発」へ“10年以内”の現実味──オックスフォード大の哲学者MacAskill氏らの警告、AIが「数年で1世紀分」の技術進歩を起こし得る | Ledge.ai</title>
-      <link>https://ledge.ai/articles/intelligence_explosion_10_years_warning</link>
-      <pubDate>2025/12/24 19:24</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/f69e7df4579714051db18090be329508af087607/height=288;version=1;width=512/https%3A%2F%2Fpc.watch.impress.co.jp%2Fimg%2Fpcw%2Flist%2F2074%2F073%2F01.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
     </item>
   </channel>
 </rss>
