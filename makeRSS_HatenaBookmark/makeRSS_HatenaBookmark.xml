@@ -5,6 +5,30 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>Claude Codeにハンズオンを作ってもらって「現場で活用するためのAIエージェント実践入門」の4章を学習した - $shibayu36-&amp;gt;blog;</title>
+      <link>https://blog.shibayu36.org/entry/2025/12/29/175531</link>
+      <pubDate>2025/12/29 18:19</pubDate>
+      <description>10コマ必要と言ったのに11コマとっている。 これは、最後のGraduate Algorithm（唯一の必修、修了にはB以上をとることが必須）が、かなり大変な授業として悪名高く、短縮学期である夏学期に履修すると爆死するのではないかという懸念があったからだ。 代わりに新設された授業であるDatabase System Implementationをとることで、時間調整と好奇心の充足を両立させた。（もともとDBに関しては何かしら勉強したいと思っていたので、ちょうどよかった） 最終GPAは 3.81 だった。入学当初は最大値である4を狙っていたが、実力及ばず達成できなかった。 ただ、ChatGPTに「一般的に優秀とされるGPAはいくつ？」と聞いたら3.8以上がトップ層ということだったので、とりあえず及第点ということで自分を納得させた。 コース全体の感想 11個の授業を取ってきたが、基本的にはどれ</description>
+    </item>
+    <item>
+      <title>触ってきたプログラミング言語雑感</title>
+      <link>https://zenn.dev/hironori_ueno/articles/e78adfebaf1229</link>
+      <pubDate>2026/01/01 11:41</pubDate>
+      <description>はじめに Part 2では、ワークフローとカスタムツールによる個人の生産性向上に焦点を当てました。 シリーズ最終回となる今回は、 「チーム開発」 でのAntigravity活用についてです。複数人でエージェントを使う場合、ルールがバラバラだとコードの品質やスタイルに不整合が生じます。 「みんなで同じルールを守る」「新人もベテランも同じ品質で開発する」ためのガバナンス設計を解説します。 1. ルールの階層構造と共有 Antigravityのルール設定は、Gitリポジトリを通じてチーム全体で共有・同期することができます。 画像：共有ルールが各開発者に配布される仕組み 推奨されるディレクトリ構成 チームで運用する場合、専用の「ルールリポジトリ」を作るか、モノレポのルートに設定を置くのが一般的です。 基本的に .agent/ ディレクトリは Git にコミットして共有します（シークレットを除く）。</description>
+    </item>
+    <item>
+      <title>怒涛の24ユースケース紹介｜今話題のAgent Skillsを一挙に実践紹介 - Qiita</title>
+      <link>https://qiita.com/masayan1126/items/168fb1f8550265cc42aa</link>
+      <pubDate>2026/01/01 11:42</pubDate>
+      <description>研究者たちは、ボットのキャラクターをアメリカの代表的な選挙調査「アメリカ国民選挙研究（American National Election Studies）」のデータをもとに作ったと述べている。これによって各ボットは、年齢、性別、収入、学歴、支持政党、政治的考え方、宗教、個人的な興味など現実の世界の分布を反映したキャラクターになっていた。 さらに研究者たちは、この実験をメタ（Meta）の言語モデルLlama-3.2-8Bと中国のAI企業DeepSeekの言語モデルR1を使って再現したところ、同じような傾向が見られたとしている。 この研究はアムステルダム大学で計算社会科学を専門とする助教のペッター・トーンベルグ（Petter Törnberg）と、同大学の研究エンジニア、マイク・ラルーイ（Maik Larooij）が主導した。 研究者やOpenAI、メタ、DeepSeek各社は、Busine</description>
+    </item>
+    <item>
+      <title>AI発ネットミームを大人は知らない　創作は「工業化」されゆくのか：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASTDV4J2LTDVUCVL00XM.html</link>
+      <pubDate>2026/01/03 09:14</pubDate>
+      <description>はじめに 統計検定1級取得後も学び続ける必要性を感じた背景 私は，製造業のデータ分析チームでリーダーをしている，データ分析の実務家・中間管理職である。 2023年に統計検定1級を取ったが，AI・データサイエンス分野の進化が激しく，普段の業務でデータ分析の手法を間違えずに使っていくためには，基礎と応用の両面を統計検定1級取得後も学び続ける必要があると感じた。 この記事を書く目的 これまでは，読書した後にノートにメモを残していたが，読み返したり検索したりするうえで電子化が必要だと感じた。また，統計検定1級を目指したり，私のような悩みを抱えている方の参考になるかもしれないと思ったりしたため，ブログを読書メモに書くこととした。 これまで作成した読書メモ一覧がかなり増えてきたため，2026年1月現在の情報をもとに，いったん数理統計・データサイエンスのおすすめ書籍ガイドにまとめることとした。なお，主観</description>
+    </item>
+    <item>
       <title>LLM×Playwright×VS Code でテスト仕様書が自動生成される仕組み - Qiita</title>
       <link>https://qiita.com/rairaii/items/a0cf6d8d29b0693cbc40</link>
       <pubDate>2025/12/27 07:40</pubDate>
@@ -1826,30 +1850,6 @@
       <link>https://prtimes.jp/main/html/rd/p/000000080.000016440.html</link>
       <pubDate>2025/12/24 02:53</pubDate>
       <description>こんにちは、「チームまじん」のやまじん です。 グループカレンダーでは多くのスキをいただき、ありがとうございます。 前回のやまじん記事はコチラ👇️ 今回は 「やまじん自身が業務効率化のために作って、愛用しているプロンプト」 を、こっそり共有させていただこうと思います。 これは Gemini 3 Pro（最新モデル） が来たからこそ実現できた、待望のプロンプトです。 なぜこのプロンプトを作ったのか？私は普段、仕事でデータ分析を行う機会が非常に多いのですが、これまでずっと「帯に短し襷に長し」な状況にモヤモヤしていました。 Excel・スプレッドシートを中心に、Looker Studioやその他BIツールを使ったり、データが読み込めそうであればGeminiにまとめてもらったりしていますが、それぞれ一長一短で以下のような不満がありました。 🛑 既存ツール（Excel/BI等）の 悩み 自分で分</description>
-    </item>
-    <item>
-      <title>Pythonを書くなら、Ruffのルールページは最高の教材だと思う（AI時代の学び方）</title>
-      <link>https://zenn.dev/layerx/articles/28498105e81a4f</link>
-      <pubDate>2025/12/24 07:12</pubDate>
-      <description>20年以上断続的にこのブログを書き継いできたインフラコモンズ代表の今泉大輔です。NVIDIAのフィジカルAIの世界が日本の上場企業多数に時価総額増大の事業機会を1つだけではなく複数与えることを確信してこの名前にしました。ネタは無限にあります。何卒よろしくお願い申し上げます。 日本でジョン・キンダーバーグの【ゼロトラスト思想】に基づくゼロトラストアーキテクチャを本格的に導入しようとすると、手がけたSIerの絶対数が圧倒的に少ないため、消去法的にインドのAWAインテグレーター最大手（彼らは国際的な最大手です）であり、Amazon AWSからも公式に最大手AWSインテグレーターとして認められているTSC、Infosys、WiproなどのAWSに頭抜けて強いプレイヤーに依頼しないと、まず導入が進みません。色んな調査をかけてわかった事実です。 AWSが公式に配布している以下のようなゼロトラストアーキ</description>
-    </item>
-    <item>
-      <title>『【特集】 AI巡るメモリ争奪戦――2026年はPC、スマホに“冬”が到来』へのコメント</title>
-      <link>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/topic/feature/2073359.html</link>
-      <pubDate>2025/12/24 16:50</pubDate>
-      <description>AI企業のMiniMaxがマルチモーダルモデル「MiniMax M2.1」を発表しました。「エージェント時代の最強オープンソースモデル」をうたっており、一部のベンチマークではGemini 3 ProやClaude 4.5 Sonnetを上回るスコアを記録しています。 MiniMax M2.1: Significantly Enhanced Multi-Language Programming, Built for Real-World Complex Tasks - MiniMax News https://www.minimax.io/news/minimax-m21 MiniMax M2.1 is officially live🚀 Built for real-world coding and AI-native organizations — from vibe builds to</description>
-    </item>
-    <item>
-      <title>Xに画像をAI編集するボタンが実装　他人の画像も簡単に加工できてしまう</title>
-      <link>https://kai-you.net/article/94220</link>
-      <pubDate>2025/12/24 19:10</pubDate>
-      <description>こんにちは、カカクコムCTOの京和です。 この記事は 食べログアドベントカレンダー2025 の24日目の記事です🎅🎄 2025年、食べログはサービス開始から20周年を迎えました。本記事では食べログのサービス黎明期を当時の私の視点で振り返りつつ、20周年を経て、AI時代のこれからについて書きたいと思います。 食べログ黎明期の振り返り 食べログは今から20年前、2005年3月にサービスを開始しました。 当初は現在のような検索・予約サイトではなく、「レストランの口コミサイト」としてスタートしました。 時代を感じる当時の食べログトップページ そして2025年、食べログは日本の誰もが知る日本最大級のグルメサイトへと成長し、20周年を迎えることができました。20周年を記念したムービーが公開されていますので、既に見たことがある人も、まだ見たことがない人もぜひご覧ください。 私は2007年から2012</description>
-    </item>
-    <item>
-      <title>[追記] MicrosoftがWindows 11含むコード類からC/C++を全廃。2030年までにAIでRustへ書き換え - ギャズログ | GAZ:Log</title>
-      <link>https://gazlog.com/entry/microsoft-c-language-to-rust-by-ai/</link>
-      <pubDate>2025/12/24 13:07</pubDate>
-      <description>こんにちは、サイオステクノロジーの遠藤です。 クラウドAPIを使わず、手元のノートPCでLLMを動かしたいと思ったことはありませんか？ 2025年現在、軽量で高性能なモデルが続々と登場し、一般的なノートPCでも実用的なLLMを動かせるようになりました。本記事では、ノートPCで動作する主要なローカルLLMモデルを公式ソースをもとに徹底比較し、導入時の注意点まで解説します。 ローカルLLMとは？なぜ今注目されているのか ローカルLLMとは、クラウドサービスを介さず、自分のPC上で直接動作させる大規模言語モデルのことです。利用することで以下のようなメリットを得ることが出来ます。 プライバシー保護: データが外部サーバーに送信されない オフライン利用: インターネット接続なしで利用可能 コスト削減: API利用料が発生しない カスタマイズ性: ファインチューニングや独自の設定が可能 レイテンシ:</description>
     </item>
   </channel>
 </rss>
