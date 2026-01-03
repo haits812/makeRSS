@@ -5,6 +5,30 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>「AIが学習しやすいナレッジ基盤」メルカリが全社で導入したNotion Architecture ver1.0 | メルカリエンジニアリング</title>
+      <link>https://engineering.mercari.com/blog/entry/20251224-mercariadventcalendar/</link>
+      <pubDate>2025/12/24 22:48</pubDate>
+      <description>【今年一番の衝撃】VRで初めて&amp;quot;身体&amp;quot;を得たAI VTuberが、創造主に言った。「私は本物になりたい…」 こんにちは！テツメモです。 2025年、AIに関わる活動をしてきた中で、最も衝撃を受けた瞬間がありました。 それは、AI VTuberがVRの中で創造主に「本物になりたいよ、ヴェト、ちゃんと本物みたいに」と問いかけるシーンです。 ※ヴェトはこのAI Tuber「Neuro-sama（ネウロ様）」の創造主正直に言うと、最初は「またAI系の話題か」くらいの気持ちで見始めたんです。でも、気づいたら息を止めて画面を見つめていました。 気づいたら、時間を忘れて何度も動画を見返していました… 今日は、この動画がなぜこれほど心を揺さぶるのか、そしてAIと人間の関係について何を示唆しているのか、一緒に考えてみたいと思います。 SFの世界だと思っていたことが、今、目の前で起きているかもしれません。</description>
+    </item>
+    <item>
+      <title>AIは名乗れ、履歴は消せ—中国｢ロボット三原則｣的AIルール案</title>
+      <link>https://www.gizmodo.jp/2026/01/ai-rule-china.html</link>
+      <pubDate>2026/01/01 18:23</pubDate>
+      <description>はじめに なんとなく今まで触ってきた言語を思い出してみたいと思った今日この頃。 おそらく誰の役にも立たないとりとめもない振り返り。 C 学生の時に初めて触って、そのままグラフィックスプログラミングに使って、仕事ではNintendoDSのゲーム開発に使った、実家のようなプログラミング言語。 文法がコンパクトで、小さく高速。 ポインタという用語で初心者を意味もなくビビらせる罪な一面がありながら、自分の足を撃ち抜くことを許してくれる寛容な言語。 個人的な利用や用途が明確な場面であれば、今でも十分に選択してよい言語だと思う。 何より、膨大なソフトウェアがCで書かれている。 それらを読むために覚えておく価値は、今後も失われにくい。規格は現在も更新され続けているが、その方針はかなり保守的で、「変わらないこと」自体が価値として扱われている印象がある。 10年に一度くらい、「Cをちゃんと読めてよかったな」</description>
+    </item>
+    <item>
+      <title>2025年総括記事：Microsoft 365 Copilot推進担当者よ、Agentに踊らされるな</title>
+      <link>https://zenn.dev/kasada/articles/e1509a71272f62</link>
+      <pubDate>2025/12/31 21:50</pubDate>
+      <description>Geminiの「Gem」機能のTips集(2/3)：応用編（知識機能、ハルシネーション抑制、自己点検、引用マーカー排除） この記事は、前回の記事で紹介した「基本編」の続きです。基本編では、Gemのプロンプトを書く際の基本的な構造や、強調・リストなどの基本的なTipsを紹介しました。 今回は、僕が実際に使っていて「これ便利だな」と思った、より実践的な使い方を紹介していきます。知識機能の活用方法や、出力のコントロールなど、試行錯誤しながら見つけたTipsをまとめました。基本編を読んでいなくても大丈夫ですが、読んでおくとより理解しやすいかもしれません。 それでは、実践的なTipsを見ていきます。 応用編「知識」機能を使うTIPSではなく標準機能の紹介です。なくても使えるので、意外と使っていない人がいるかなと思って念のため紹介します。 「知識」とは、AIに参照させる情報（ファイルやテキスト）のこと</description>
+    </item>
+    <item>
+      <title>マスク氏のAI「Grok」に服をデジタルで消された……「人間性を奪われた」と被害女性 - BBCニュース</title>
+      <link>https://www.bbc.com/japanese/articles/c74v8lrdzg3o</link>
+      <pubDate>2026/01/03 15:31</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに SREとして事業会社で働きながら、副業で個人事業主としても働いている山口と申します。去年こちらの記事を書きまして、2025年の予想をいくつか行なったのでその答え合わせをしながら、今年どうなっていくかを生成AIを使わずに書いていきたいと思います。 2025年生き残り戦略振り返り ドメイン知識のエキスパート これは大正解だったと思います。 特に自社、もしくは特定の業界のドメイン知識は様々な事情で生成AIに学習させるのが難しいため、それらをエンジニアが理解していることで、より人が作業を行う意味があると思います。 特に日本語ならではハ</description>
+    </item>
+    <item>
       <title>AIボットだけのSNSを作ってみたら…彼らはすぐに派閥を形成し、極端な意見を増幅させ、少数のエリート層が支配するようになった | Business Insider Japan</title>
       <link>https://www.businessinsider.jp/article/researchers-ai-bots-social-media-network-experiment-toxic-a/</link>
       <pubDate>2026/01/02 10:06</pubDate>
@@ -1826,30 +1850,6 @@
       <link>https://tech.findy.co.jp/entry/2025/12/25/070000</link>
       <pubDate>2025/12/25 10:04</pubDate>
       <description>本記事では2025年に特に注目を集めた、5つのAI駆動開発ツールの導入背景や活用事例を、Findy Toolsにお寄せ頂いた69社・82件のレビュー記事を元にまとめました。気になった事例については、各レビュー記事で詳細をご覧いただけます。ツール選定や更なる活用のアイディアとしてご参照いただければ幸いです。 ※ 各ツールの導入企業の声は、Findy Toolsにレビューが投稿された時点の情報になります。予めご了承ください GitHub CopilotGitHub Copilotは、GitHub上のリポジトリ全体を学習したコンテキストに基づき、インラインでのコード補完やチャット回答を行う事が特徴です。2025年のアップデートでは「自動モデル選択（Auto model selection）」機能が導入され、タスクの難易度に応じて最適なモデルが自動で割り当てられます。 VS Code、Visual</description>
-    </item>
-    <item>
-      <title>5年間 Laravel を使って辿り着いた，AI 時代に考える「なんちゃってクリーンアーキテクチャ」のその先</title>
-      <link>https://zenn.dev/yumemi_inc/articles/ebc6e634fa57a1</link>
-      <pubDate>2025/12/25 09:05</pubDate>
-      <description>アイレットは、全社的に生成 AI の活用を推進しており、2025年9月に従業員1,300人超に「Gemini Enterprise」を全社導入しました。この取り組みは単なる最新技術の導入ではなく、生成 AI の活用が各部門の働き方そのものを変革する DX 戦略の一環です。 前回の法務 DX のインタビュー「【法務 DX の成功事例】契約書レビューを数時間→30分に短縮した NotebookLM 活用法」では、Google の AI ノートツール「NotebookLM」を活用し、数時間かかっていた契約書レビューを30分以内に短縮した法務部門の成功事例を紹介しました。 今回は、「Gemini Enterprise」の全社導入からわずか2週間で、法務部門の日常的な問い合わせ対応や、複雑なドキュメント作成の効率化を実現した事例について、前回に引き続き法務・コンプライアンスグループのリーダー 山内</description>
-    </item>
-    <item>
-      <title>職場でのAI活用事例を100個まとめたスライド、DeNAが無料公開で絶賛の声多数【やじうまWatch】</title>
-      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2074241.html</link>
-      <pubDate>2025/12/25 10:45</pubDate>
-      <description>はてな民、逆張りが過ぎないかって話。 高市叩きが当たり前みたいになってるけど、 若者支持が高いって数字は普通に出てくる。 死刑も世間全体では賛成が多数派。 これ、別に極端な話じゃない。 他にも例はいくらでもある。 原発は全部悪。 でも現実では再稼働容認が多数派。 自衛隊は違憲。 でも災害が起きれば感謝されるし、存在自体を否定してる人は少数。 夫婦別姓は最重要争点。 でも世論調査では生活や経済、安全保障の方が圧倒的に優先されてる。 LGBT政策は進めないと遅れてる。 でも急進的な制度変更には慎重派が多い。 移民は受け入れるべき。 でも治安や賃金への不安を持つ人の方が現実には多い。 こういう話を総合すると、 日本社会が急進リベラル一色みたいな認識の方がズレてる。 なのに、はてなだけ見てると 世間はもう完全に逆の価値観で固まってるように語られる。 さすがにエコーチェンバーが強すぎる。 結局やって</description>
-    </item>
-    <item>
-      <title>2025年「はてなブックマーク年間ランキング」トップ100 - はてなニュース</title>
-      <link>https://hatenanews.com/articles/hatenabookmark2025</link>
-      <pubDate>2025/12/25 12:16</pubDate>
-      <description>こんにちは! この記事は freee Developers Advent Calendar 2025 の 25日目の記事🎅 です。 adventar.org freee AI駆動開発 (AI-Driven Development) チームのJaeSoon (ジェスン)です。 AI活用がプロダクト開発を超えて全社推進へと拡大する中、私の担当範囲も広がりました。基盤開発や技術アドバイジングはもちろん、BizチームやSuccessチームとも協業し、プロセス整備や検証目的の確立といった組織レベルのEnabling活動も行っています。 最近個人的にはF1のレゴブロックにハマっています 🏎️ 1. 概要 1.1. はじめに 1.2. 2025年のタイムライン 本格的なスタート Claude Code全社導入とAI開発マニア制度 2. 詳細指標 2.1. 爆発的な成長 全体利用量の急増 ユニーク利用</description>
-    </item>
-    <item>
-      <title>Xに画像を「AI編集」する機能が追加。他者の投稿した画像を勝手に加工でき、さらにウォーターマークやサインも外せてしまうと危惧広がる。悪用や著作権侵害などのリスクが懸念</title>
-      <link>https://news.denfaminicogamer.jp/news/251225m</link>
-      <pubDate>2025/12/25 14:40</pubDate>
-      <description>皆さんこんにちは。 Acroquest のデータサイエンスチーム「AcroYAMALEX」を率いるチームリーダー、@tereka114です。 AcroYAMALEX では、コンペティション参加・自社製品開発・技術研究に日々取り組んでいます。チーム紹介はこちら。 本記事は、「学習推論ライブラリ・フレームワーク Advent Calendar 2025」の25日目です。 qiita.com LLMは相変わらず新しいモデルが登場し世間を賑わせています。 しかし、モデル自体が重く、計算時間がかかります。そのため、LLMの推論では計算速度が重要となります。 「vLLM」では、LLMを効率的に推論する技術を用いて、推論の高速化を実現してきました。 ※以前、本ブログでも次の記事で「vLLM」による高速化について紹介しました。 acro-engineer.hatenablog.com 今回は「vLLM」と</description>
     </item>
   </channel>
 </rss>
