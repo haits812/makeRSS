@@ -5,6 +5,36 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>AIボットだけのSNSを作ってみたら…彼らはすぐに派閥を形成し、極端な意見を増幅させ、少数のエリート層が支配するようになった | Business Insider Japan</title>
+      <link>https://www.businessinsider.jp/article/researchers-ai-bots-social-media-network-experiment-toxic-a/</link>
+      <pubDate>2026/01/02 10:06</pubDate>
+      <description>概要 本記事では、 「自分の意思では生活習慣を改善できない人間が、AI Agentに“罰”を与える権限を渡したらどうなるか」 という実証実験について紹介します。 リマインダーも、ToDo管理も、コーチングサービスも続かない。 理由はシンプルで、守らなくても痛くないから。 そこで本記事では、 CLI型Agentに「コーチング役」を与え 1日の行動を自己申告し悪習慣を検知した際に Pavlok（電気刺激可能なウェアラブル）を通じて 物理的な罰 を与える という、やや狂気じみた構成を 最小実装 で試しました。 結果として、 「物理刺激権限を付与する前提のAgent設計にすることで人は大きく変われる」 という強い手応えがあり、構想・実装・効果を共有します。 想定読者 自堕落な生活を是正したいけど治せない方 習慣化アプリ・リマインダー・ToDo管理に何度も挫折してきた方 「結局、人は痛い目を見ないと</description>
+    </item>
+    <item>
+      <title>統計検定1級取得後に読んだ 数理統計・データサイエンスのおすすめ書籍ガイド - jiku log</title>
+      <link>https://stern-bow.hatenablog.com/entry/2026/01/02/120000</link>
+      <pubDate>2026/01/02 17:17</pubDate>
+      <description>この記事は、人間が書きAIが推敲した文書になります 現在、App Store の Review 待ちの時間を利用して記事にまとめている。 iOS、Android アプリをそれぞれネイティブで開発する上で使い分けが決まってきた。 現在課金している or 無料プランで使用しているツール 以下のようなものがある。（スポンサー表記も含めて）. Devin (Cognition AIからライセンス提供いただいている) Claude Code (Claude Code Max Plan を契約している、 Credit を気軽に受け取ったりもしている) ChatGPT (現在はPlus Plan である、主にCodex CLI目的で使用している) Cursor (20ドルプラン) GitHub Copilot (会社が契約しているものを個人でも使用できるようになっているため、利用している) 各ツールの使</description>
+    </item>
+    <item>
+      <title>2026元日、Playwright MCPに触れて気づいた、LLM時代のブラウザ自動化の新しいパラダイム</title>
+      <link>https://zenn.dev/nossa/articles/8d90efd840934f</link>
+      <pubDate>2026/01/03 10:07</pubDate>
+      <description>大人の知らないブームが、昨年、世界中の子どもたちの間で広がった。　「トゥントゥントゥンサフール」「ウディンディンディンディンマディン～」　土曜日の昼下がり、東京・大塚の山下書店に、呪文のような言葉を…</description>
+    </item>
+    <item>
+      <title>Agent Skillsを業務プロダクトに導入してはいけない</title>
+      <link>https://zenn.dev/ncdc/articles/206fbad44d1dba</link>
+      <pubDate>2026/01/03 13:02</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? あなたのコードレビュー、ギスギスしていませんか？ 「このコード、全然ダメだけど指摘したら角が立つかな…」 「先輩からのレビューコメント、怖くて開くのが憂鬱…」 「自分のタスクで手一杯なのに、レビュー依頼が溜まっていく…」 開発現場において、コードレビューは品質担保の要ですが、同時に 「コミュニケーションの課題」 や 「時間の圧迫」 が最も起きやすい場所でもあります。 そこで提案したいのが、　「コードレビューにAIを挟む（介在させる）」 というアプローチです。 AI（ChatGPTやClaude、GitHub Copilotなど）を単なる</description>
+    </item>
+    <item>
+      <title>PythonでGPU計算やってみた話 ― 沼にハマった記録</title>
+      <link>https://zenn.dev/ryo369/articles/2d1d24d7d24c16</link>
+      <pubDate>2026/01/03 12:50</pubDate>
+      <description>フ米実業家イーロン・マスク氏が率いる人工知能（AI）新興企業xAIの対話型生成AI「グロック」のロゴを表示するスクリーン（2025年1月15日撮影）。（c）Lionel BONAVENTURE/AFP 【1月3日 AFP】米実業家イーロン・マスク氏が率いる人工知能（AI）新興企業xAIの対話型生成AI「Grok」は2日、子どもや女性の写真をエロチックな画像に変換しているとのユーザーからの苦情を受け、人工知能（AI）ツールの不具合の修正に取り組んでいると発表した。 GrokはX（旧ツイッター）への投稿で、「セーフガードに不具合があることを確認しており、急ぎ修正している」「CSAM（児童性的虐待コンテンツ）は違法で、禁止されている」と述べた。 昨年12月下旬にGrokに「画像編集」機能が追加されて以来、児童性的虐待に対する苦情がXに寄せられるようになった。 この機能を使えば、X上のあらゆる画像</description>
+    </item>
+    <item>
       <title>Claude Codeにハンズオンを作ってもらって「現場で活用するためのAIエージェント実践入門」の4章を学習した - $shibayu36-&amp;gt;blog;</title>
       <link>https://blog.shibayu36.org/entry/2025/12/29/175531</link>
       <pubDate>2025/12/29 18:19</pubDate>
@@ -1820,36 +1850,6 @@
       <link>https://news.denfaminicogamer.jp/news/251225m</link>
       <pubDate>2025/12/25 14:40</pubDate>
       <description>皆さんこんにちは。 Acroquest のデータサイエンスチーム「AcroYAMALEX」を率いるチームリーダー、@tereka114です。 AcroYAMALEX では、コンペティション参加・自社製品開発・技術研究に日々取り組んでいます。チーム紹介はこちら。 本記事は、「学習推論ライブラリ・フレームワーク Advent Calendar 2025」の25日目です。 qiita.com LLMは相変わらず新しいモデルが登場し世間を賑わせています。 しかし、モデル自体が重く、計算時間がかかります。そのため、LLMの推論では計算速度が重要となります。 「vLLM」では、LLMを効率的に推論する技術を用いて、推論の高速化を実現してきました。 ※以前、本ブログでも次の記事で「vLLM」による高速化について紹介しました。 acro-engineer.hatenablog.com 今回は「vLLM」と</description>
-    </item>
-    <item>
-      <title>M365 Copilot、社内95％が使っても利用格差はなぜ起きる？　やって分かった定着の鉄則</title>
-      <link>https://kn.itmedia.co.jp/kn/articles/2512/23/news044.html</link>
-      <pubDate>2025/12/23 11:18</pubDate>
-      <description>ツールが進化するにつれ、より大きな単位で設計を考えられるようになりました。以下、各時代の詳細を紹介します。 GitHub Copilot Tab 補完時代 開発初期は GitHub Copilot の Tab 補完を主に使っていました。使い始めた当初は、今ほど一度に多くのコードが補完されず、精度も高くなかった記憶があります。 このときに気にしていたことは、関数単位でのプログラム設計です。適切な粒度と責務を意識し、適切な命名をすることを心がけていました。 あまりにも大きな役割の関数を作ろうとすると、意図しない機能が実装されてしまったり、関数内部で既存の実装と同様のコードが重複して生成されることが多発しました。 命名に関しては、内部実装まで透ける命名が重要です。例えば、ミリ秒単位で処理する関数を作ってもらいたいときは delayMs のように、命名に Ms をつけます。これは書籍「リーダブルコ</description>
-    </item>
-    <item>
-      <title>AIで得た情報｢自ら確認｣は10代で7割　60代は5割、電通調べ - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUC19CNH0Z11C25A2000000/</link>
-      <pubDate>2025/12/23 09:10</pubDate>
-      <description>AIの進化によって、一からプログラムを入力しなくても自然言語でAIに指示してコーディングを行う「バイブコーディング」が可能になりました。OpenAIのGPT-5.2-Codex、AnthropicのClaude Code、GoogleのGemini CLI、Mistral AIのMistral Vibe CLIという4つのコーディングエージェントに地雷探しゲーム「マインスイーパー」を開発させた結果を、テクノロジー系メディアのArs Technicaが公開しています。 We asked four AI coding agents to rebuild Minesweeper—the results were explosive - Ars Technica https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-</description>
-    </item>
-    <item>
-      <title>チャットで経費精算？　それ、たぶん地獄だ――ラクスCAIOが語る&amp;quot;AIエージェント万能論&amp;quot;への違和感</title>
-      <link>https://www.itmedia.co.jp/business/articles/2512/23/news048.html</link>
-      <pubDate>2025/12/23 14:17</pubDate>
-      <description>日本新聞協会は23日、政府が2026年夏に「知的財産推進計画2026」をまとめるのに向け内閣府に提出した意見を公表した。生成AI（人工知能）による記事の無断収集について、ニュースサイトによる拒否表示の尊重を法的義務にするよう求めた。利用者が質問すると、生成AIがインターネット上の様々な引用元から情報を探し出し、組み合わせて回答する「検索拡張生成（RAG）」が急速に普及している。RAGはニュース</description>
-    </item>
-    <item>
-      <title>生成AIとオブザーバビリティ基盤をつないで事象分析を加速しよう</title>
-      <link>https://zenn.dev/ubie_dev/articles/1e983361cb053b</link>
-      <pubDate>2025/12/23 23:36</pubDate>
-      <description>Linux Daily Topics Firefoxを“モダンAIブラウザ”に ―Mozilla新CEOの就任メッセージにブラックボックス化を懸念する声 Chromeなど最近のモダンブラウザはAI機能がデフォルトでオンになっており、クエリを入力するたびに「AIによる概要」が最初に示されることが多い。しかし機能面に加え、プライバシーや信頼性の観点から「ブラウザにAI機能は不要」と思っているユーザも少なくなく、そうしたユーザにとってFirefoxは貴重な存在であるといえる。また、ソースコードも開発プロセスもオープンに公開されているFirefoxは、Linuxユーザにとっても日々の活動を支えるためのもっとも重要なソフトウェアコンポーネントだといっていい。そのFirefoxが現在、Mozillaの新CEO就任に伴って“⁠モダンAIブラウザ⁠”への方針変更が示されたことから、多くのユーザの間で不安と</description>
-    </item>
-    <item>
-      <title>散らばる情報を一元化！『Obsidian×AI 自分だけの知識のデータベースをつくる情報収集・活用テクニック』、発売</title>
-      <link>https://prtimes.jp/main/html/rd/p/000000080.000016440.html</link>
-      <pubDate>2025/12/24 02:53</pubDate>
-      <description>こんにちは、「チームまじん」のやまじん です。 グループカレンダーでは多くのスキをいただき、ありがとうございます。 前回のやまじん記事はコチラ👇️ 今回は 「やまじん自身が業務効率化のために作って、愛用しているプロンプト」 を、こっそり共有させていただこうと思います。 これは Gemini 3 Pro（最新モデル） が来たからこそ実現できた、待望のプロンプトです。 なぜこのプロンプトを作ったのか？私は普段、仕事でデータ分析を行う機会が非常に多いのですが、これまでずっと「帯に短し襷に長し」な状況にモヤモヤしていました。 Excel・スプレッドシートを中心に、Looker Studioやその他BIツールを使ったり、データが読み込めそうであればGeminiにまとめてもらったりしていますが、それぞれ一長一短で以下のような不満がありました。 🛑 既存ツール（Excel/BI等）の 悩み 自分で分</description>
     </item>
   </channel>
 </rss>
