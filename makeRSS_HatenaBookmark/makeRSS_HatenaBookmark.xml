@@ -5,6 +5,54 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>「確率的機械学習 入門編I」を読む　～第8章 最適化 ④確率的勾配降下法～ - jiku log</title>
+      <link>https://stern-bow.hatenablog.com/entry/2025/12/27/120000</link>
+      <pubDate>2025/12/30 23:47</pubDate>
+      <description>■ 日本のAI規制体系における構造的混乱：AI事業者ガイドラインに起因する問題の連鎖 このところの日記の記載を基礎として、改めて、「AI事業者ガイドライン」と「AIセーフティに関する評価観点ガイド」をClaude Opus 4.5を用いてほぼ自動的に評価させた。繰り返しになるが、これは論文で指摘したかったことだが半年後くらいになりそうなので、早めに多くの人に認識を共有してもらうべくここに記すものである。結論は最後のターンまでスキップ。 私：日本のAI政策の問題を指摘するブログを2回書きました。この指摘に沿って「AI事業者ガイドライン」の問題点を分析してもらおうと思いますが、その前にまずこの2回分の指摘の内容を把握してください。 https://takagi-hiromitsu.jp/diary/20251216.html https://takagi-hiromitsu.jp/diary/</description>
+    </item>
+    <item>
+      <title>Amplify ＆ AgentCoreで維持費激安！ 王道フルスタックなAIエージェントを簡単構築しよう - Qiita</title>
+      <link>https://qiita.com/minorun365/items/11be2c3565923b96ab54</link>
+      <pubDate>2026/01/02 03:02</pubDate>
+      <description>私が大西配列でVimを操るようになるまで 今年はいろいろな変化のある年だった。 仕事の役割の変化、働き方の変化、そして、キーボードと論理配列の移行。 この記事では今年一年の入力周りの変化を振り返ろうと思う。 HHKBをつかっていたが、手に違和感を感じた 半年前まで、HHKBでQWERTY配列を使っていた。 HHKB歴は8年はあったので、当然ブラインドタッチできていたし、まあまあ速くタイピングできていた。 しかし、多忙によりめちゃくちゃタイプしていたら、時々手に痛みが走ることに気がついた。 大学院のころからHHKBを使い続けてきたが、ひょっとしてもっと良いものがあるのではないかと思い、HHKB以外のキーボードを探しはじめた。 ハードウェアの模索 Logicool MX Mechanical Mini for Mac 大手家電量販店のキーボード売り場を彷徨い、Logicool MX Mecha</description>
+    </item>
+    <item>
+      <title>AI時代にエンジニアに求められるスキルとは？実装者からテックリードへの役割変化</title>
+      <link>https://zenn.dev/tmasuyama1114/articles/ai_era_engineer_tech_lead</link>
+      <pubDate>2026/01/01 15:34</pubDate>
+      <description>沖縄本島西海岸、恩納村に住む上原キヨラさん。中学3年生にして、東大大学院の研究室が主催する日本トップレベルのAI・データサイエンス講座を修了した “期待の星” です。母親の仕事の都合で、沖縄では都市部の…</description>
+    </item>
+    <item>
+      <title>ＡＩが自我「ゴースト」宿す日は　共生予見した漫画「攻殻機動隊」・士郎正宗さん：朝日新聞</title>
+      <link>https://www.asahi.com/articles/DA3S16374500.html</link>
+      <pubDate>2026/01/01 23:58</pubDate>
+      <description>RAGの精度評価をRagasで自動化してみた：いつまで「目視確認」で消耗してるの？ はじめに：「なんとなく動く」からの脱却 RAG（Retrieval-Augmented Generation）アプリケーション開発における最大の敵は、開発者自身の「主観」だ。 「いくつか質問してみたけど、いい感じに回答してくれている気がする」 「プロンプトを変えたら、なんとなく良くなった気がする」 PoC（概念実証）段階ではこれでも許されるが、プロダクション運用やチーム開発において「気がする」は通用しない。上司やクライアントからの「で、精度は何％なの？」という問いに、数字で答えられなければエンジニアとしての信頼に関わる。 そこで導入するのが、**「LLM-as-a-Judge（LLMを用いてLLMを評価する）」**フレームワークである Ragas だ。この記事では、Ragasを用いてRAGの精度を定量的に計</description>
+    </item>
+    <item>
+      <title>ヨーロッパの銀行がAI導入で20万人の雇用削減を計画</title>
+      <link>https://gigazine.net/news/20260102-ai-forecast-200000-european-banking-jobs/</link>
+      <pubDate>2026/01/02 17:09</pubDate>
+      <description>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 Instagramの責任者アダム・モセリ氏は2026年元日のInstagramおよびThreadsへの投稿で「いまやAI生成コンテンツが氾濫」しているため、近い将来には本物の写真や画像を電子透かしで識別するほうが現実的になると述べています。 いまやAIは実際に撮影された写真や動画とひと目では区別がしにくいほど巧妙なコンテンツを生成するようになり、インターネット上のバナー広告やSNSでは、AI生成の写真や動画を見かけない日はなくなったと言っても過言ではありません。特にYouTube Shortsなどでは、AI生成のフェイク動画がたくさん目にとまります。 2026年が始まったばかりの現段階でこそ、まだAI生成によ</description>
+    </item>
+    <item>
+      <title>英国の「AIおばあちゃん」が詐欺師を翻弄　「長電話」で時間を浪費：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASTDT5FPXTDTUHBI03JM.html</link>
+      <pubDate>2026/01/02 15:33</pubDate>
+      <description>コマンドラインからさようなら！Claude Codeの視覚的なワークフロー編集器が人気：ノードをドラッグ＆ドロップするだけでAI自動化ツールを構築 2025年末、AnthropicのClaude Codeが重要なコミュニティエコシステムの突破を遂げました。VSCode拡張ツール「Claude Code Workflow Studio」が急速に人気を博しています。このツールは直感的なドラッグ＆ドロップ式のキャンバスインターフェースを通じて、複雑なプロンプトやターミナルコマンドを書かずに、高機能なAIオートメーションワークフローを構築・実行することが可能です。これにより、Claude Codeは純粋なコマンドラインツールから視覚的でノーコードへの進化を遂げ、非専門開発者にとっての使用ハードルを大幅に下げました。 主な機能：ノードのドラッグ＆ドロップで複雑なプロセスを作成 Claude Code</description>
+    </item>
+    <item>
+      <title>「AI駆動PM」と「SDD（仕様駆動開発）」で要件定義書・設計書の精度を劇的に向上させる方法｜MAKE A CHANGE, inc</title>
+      <link>https://note.com/make_a_change/n/ncd3791d6a01d</link>
+      <pubDate>2026/01/02 18:32</pubDate>
+      <description>はじめに 新年早々またなにやらXのAI（Grok）関連が荒れていますね。 2025年12月、Xに「画像を編集」機能が追加され自分の投稿だけじゃなく、他人の投稿画像も編集できてしまうようになったり、 年が明けた現在はコスプレイヤーや一般女性の投稿した写真を、第三者が勝手にGrokを使ってビキニ姿に変換する行為が流行ってきています。 いやまあXならさもありなん、という気がしないでもないですが、当然当人たちにとっても、見てる僕にとっても気持ちいいものではないですね。 じゃあXを離れたらAI利用については安全か？と言われると決してそんなことはないでしょう。 でも、まずは現実を知ったうえで各々自分の進む道を考えてほしいと思います。 インターネットとAI学習・利用の現実 結論から言えば、原理的にインターネット上に「安全で快適な場所」は存在し得ないです。 まず根本的な話として、インターネットの設計思想そ</description>
+    </item>
+    <item>
+      <title>AIっぽくない実写風画像を作れる画像生成AI「Qwen-Image-2512」が登場、無料で使えて日本語での指示も可能</title>
+      <link>https://gigazine.net/news/20260102-qwen-image-2512/</link>
+      <pubDate>2026/01/02 21:31</pubDate>
+      <description>しばらく前に Gemini のソース情報として NotebookLM を指定可能になりました。 tbpgr.hatenablog.com 今回は、その新機能を利用して NotebookLM をソースとした Gemini の Gem で問題定義サポーターというツールを作りました。 Gem は公開設定にしてあり、皆さんも利用可能にしてあります。 できること 整理したい問題について Gemini のチャットで問いかけると、問題の理想と現実を整理し、要因の分析をし、課題を明確にし、それに対する解決策を検討する一連の流れをサポートしてくれます。Gemini のチャットでやりとりをしていると Gemini が話した内容を元に問題の内容を Canvas に整理してくれます。一通り整理が終わったら、 Google ドキュメントにエクスポートすることもできます。 問題定義サポーター サンプル 利用サンプルは</description>
+    </item>
+    <item>
       <title>「AIで何ができる？」を毎日考えていたら、1年で働き方が変わった話｜ノウチ</title>
       <link>https://note.com/memonouchi/n/n50445cb6be76</link>
       <pubDate>2026/01/01 18:11</pubDate>
@@ -1810,57 +1858,6 @@
       <link>https://note.com/kondo_toshiya/n/n6c14c7eef4b4</link>
       <pubDate>2025/12/23 18:41</pubDate>
       <description>組織・働き方掛け声だけではない「AIオールイン」の実態。「現場のAI活用」発信とDeNAの2025年AI振り返り 2025年は、DeNAにとって特別な1年になりました。 2月、「DeNA x AI day」のオープニングで、創業者であり会長の南場が発した「AIオールイン」という言葉。それはお飾りのスローガンではなく、DeNAという企業グループ全体を進化させる1年の始まりでした。 DeNA南場智子が語る「AI時代の会社経営と成長戦略」全文書き起こし | フルスイング by DeNA フルスイングでは現場社員がどう「AIオールイン」と向き合ったのかを伝えるべく、日々のAI活用術を収集し、Xで発信し続けました。この1年でDeNAでは何が起きどう変わったのか？話題になった記事をもとに、DeNAの「AI変革」の1年を振り返ります。 4月：AIベンチャーを設立4月14日、DeNAは100%出資子会社「</description>
-    </item>
-    <item>
-      <title>【無料】Canvasで「データ分析アプリ」を1発で作るプロンプト【脱Excel】｜まじん</title>
-      <link>https://note.com/majin_108/n/nc9f073c60a00</link>
-      <pubDate>2025/12/23 23:13</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/901cd3b2be16d8e254bf2ac2ad49bc13efd4c2f2/height=288;version=1;width=512/https%3A%2F%2Fforest.watch.impress.co.jp%2Fimg%2Fwf%2Flist%2F2073%2F473%2Fimage_top.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>AIでアプリ長者になるつもりだったのに！</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2512/24/news001.html</link>
-      <pubDate>2025/12/24 10:19</pubDate>
-      <description>株式会社マイナビ出版（本社：東京都千代田区、代表取締役 社長執行役員：角竹輝紀）はこのたび、『Obsidian×AI 自分だけの知識のデータベースをつくる情報収集・活用テクニック』を2025年12月23日に発売します。 世界的に注目を集めているノートアプリケーション「Obsidian」とは 情報が溢れる現代において得たものを整理して、使える情報にまとめていくのは難しくなっています。それを可能にするのが「Obsidian」です。 Obsidianは、プライバシー性・柔軟性の高い Markdownノートアプリとして世界的に注目を集めています。 ノートアプリケーション「Notion」と機能の比較については、図表（*）をご確認ください。 本書は、Obsidian初心者から、知的生産のために本格的に活用したい上級ユーザーまで幅広く使える、最新かつ実践的なノウハウを盛り込んだ一冊です。 ・豊富なプラグ</description>
-    </item>
-    <item>
-      <title>なぜ米国企業はゼロトラスト導入で「大手SIer」を使わないのか？調査でわかった日米のITの構造的な違い：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔：オルタナティブ・ブログ</title>
-      <link>https://blogs.itmedia.co.jp/serial/2025/12/sierit.html</link>
-      <pubDate>2025/12/24 10:57</pubDate>
-      <description>中国の大手テクノロジー企業であるAlibabaのAIモデルであるQwenシリーズから、画像編集タスクを搭載した画像生成AIのQwen-Image-Ediの強化版となる「Qwen-Image-Edit-2511」が登場しました。グループ写真や複雑なシーンでも人物一貫性を保つことができるほか、LoRAを内蔵していることで追加の調整不要で表現力を広げることができます。 Qwen-Image-Edit-2511: Improve Consistency https://qwen.ai/blog?id=qwen-image-edit-2511 🚀 Introducing Qwen-Image-Edit-2511 — a major upgrade over 2509, delivering significantly stronger consistency and more powerful r</description>
-    </item>
-    <item>
-      <title>『Clair Obscur: Expedition 33』GOTY剥奪後、繰り上げ受賞の『Blue Prince』パブリッシャーが「AI不使用」を明言 | Game*Spark - 国内・海外ゲーム情報サイト</title>
-      <link>https://www.gamespark.jp/article/2025/12/23/160947.html</link>
-      <pubDate>2025/12/24 04:41</pubDate>
-      <description>こんにちは。Elasticsearchテクニカルコンサルタントの江見です。 この記事は、Elastic Stack (Elasticsearch) Advent Calendar 2025の24日目の記事です。 ログの検索、売上データ、ユーザの行動履歴など、業務システムでタイムスタンプの範囲検索はほぼ必須の機能になります。 特に日単位で範囲指定をする場合は、yyyy-MM-ddのように日付のみを指定するのが人間にとっては直感的にわかりやすいと思います。 Elasticsearchで範囲検索を行う場合は、rangeクエリを使用するのが一般的ですが、yyyy-MM-ddの形式のままrangeクエリを使用した場合に 「ヒットするはずのドキュメントが返ってこない」「余分なドキュメントが返ってくる」などのケースが発生しがちです。 今回はyyyy-MM-ddでrangeクエリを使用した場合の挙動につい</description>
-    </item>
-    <item>
-      <title>初めてのAI機能をスクラムで作ってみて分かった、初心者がハマった落とし穴 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-      <link>https://tech-blog.rakus.co.jp/entry/20251224/ai-scrum</link>
-      <pubDate>2025/12/24 15:25</pubDate>
-      <description>はじめに こんにちは。ぐるなびウエディング開発チームの渡邊です。普段はバックエンドエンジニアとして開発・運用を担当しています。 この記事では、Jira を GitHub Copilot の Agent Mode（MCP）から参照できるように MCP サーバーを自作してみた話を書きます。 作って動かすところまではできた一方で、最終的には本格運用までは至らず、個人 PoC に近い状態で止まりました。 どんな MCP tools を作ったのか（ReadOnly で絞った話） Jira 連携で地味に面倒だったところ（customfield 周り） なぜ「作ったのに使われなくなった」のか（GitHub 側の導線の強さ／運用の現実） ブラウザ往復、地味に効く VSCode で実装している最中に、仕様確認のためにブラウザで Jira を開く。 チケットを探して、説明を読んで、必要そうな部分を拾って、エデ</description>
-    </item>
-    <item>
-      <title>AIモデル「MiniMax M2.1」登場、一部テストでGemini 3.0 ProやGPT-5.2を超えるスコアを記録</title>
-      <link>https://gigazine.net/news/20251224-minimax-m2-1/</link>
-      <pubDate>2025/12/24 15:26</pubDate>
-      <description>連載：その悩み、生成AIが解決 アイデアが浮かばない、こんな無駄な作業なくしたい――。ビジネスパーソンを悩ませる日々のさまざまな困りごと、ChatGPTに聞いてみませんか？　ITジャーナリストの酒井麻里子氏がプロンプトの書き方を伝授します。 振り返ると2025年は、生成AIが「個人の作業効率化」を超えて、チームの業務フローに入り込んだ年だった。「どのツールが最も優位か」という単純な競争ではなく、用途に応じて複数を使い分けることで、その性能を効果的に引き出せる時代になっている。 本稿では、2025年を総括して各ツールの進化を振り返りつつ、主要ツールの使い分けについて解説する。 著者プロフィール：酒井麻里子（さかい・まりこ） ITジャーナリスト／ライター。生成AIやXR、メタバースなどの新しいテクノロジーを中心に取材。その他、技術解説やスマホ・ガジェットなどのレビューも。著書に『趣味のChat</description>
-    </item>
-    <item>
-      <title>食べログ黎明期の振り返りとAI時代のこれから - Tabelog Tech Blog</title>
-      <link>https://tech-blog.tabelog.com/entry/advent-calendar-20251224</link>
-      <pubDate>2025/12/24 18:06</pubDate>
-      <description>ブックマークしました ここにツイート内容が記載されます https://b.hatena.ne.jp/URLはspanで囲んでください Twitterで共有</description>
-    </item>
-    <item>
-      <title>ノートPCで動くローカルLLM完全ガイド【2025年12月版】 | SIOS Tech Lab</title>
-      <link>https://tech-lab.sios.jp/archives/50797</link>
-      <pubDate>2025/12/23 19:06</pubDate>
-      <description>Xが12月24日（木）、投稿された画像をAI編集するボタンを実装した。 WebブラウザからXにアクセスし、タイムライン上の投稿の画像にマウスオーバーするとボタンが表示。クリックしてプロンプト（指示文）を入力することで、投稿画像を元にした画像を生成できる。 Grokを活用したXの「画像編集ボタン」Xには、イーロン・マスクさんが率いるxAI社が開発したチャットAIボット「Grok」が搭載されている。 Grokは2023年11月に発表され、2024年8月には画像生成機能を搭載。同年12月からは無料ユーザーも利用できるようになっている。 その後、Grokは独自のプラットフォームとしてもサービスを拡大。 今回ブラウザ版のXに実装されたAI画像編集機能は、以前よりスマートフォン版で提供されていたもので、Grokの技術を活用した機能となっている。 画像編集ボタンを表示させない設定は見当たらない画像編集ボ</description>
     </item>
   </channel>
 </rss>
