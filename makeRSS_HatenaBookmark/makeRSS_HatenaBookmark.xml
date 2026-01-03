@@ -5,6 +5,96 @@
     <description>はてなブックマーク AI・機械学習からの情報を提供します。</description>
     <link>https://b.hatena.ne.jp/entrylist/it/AI%E3%83%BB%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92</link>
     <item>
+      <title>LLM×Playwright×VS Code でテスト仕様書が自動生成される仕組み - Qiita</title>
+      <link>https://qiita.com/rairaii/items/a0cf6d8d29b0693cbc40</link>
+      <pubDate>2025/12/27 07:40</pubDate>
+      <description>TD Skills for Claude Code ​TD Skills are pre-built Claude Code plugins that enhance AI assistance for Treasure Data workflows. Getting Started Launch Claude Code with tdx claude to get all TD Skills pre-installed and ready to use. Available Skills ​SQL Skills (sql-skills) ​Query writing, optimization, and engine-specific assistance. View on GitHub SkillDescription</description>
+    </item>
+    <item>
+      <title>Agent Skills って何？ Anthropic の公式サンプル 16 個をすべて試してみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/try-agent-skills-anthropic-samples/</link>
+      <pubDate>2025/12/30 15:21</pubDate>
+      <description>公式ブログ。2024年8月なのでちょっと古め。 Dia によるまとめ。 LLM Compressorは、vLLM向けにモデルを圧縮して推論を速くする統合ツールだよ。 ウチ的にまとめると、これマジで「重いモデルをキュッと軽くして、GPUの速いコアでぶん回す」ための新ツールだし、実運用のレイテンシとかスループットをガチで改善するやつ。テンション上がる〜✨ まずはキーアイデア LLM Compressorは、量子化やスパース化みたいな「モデル圧縮」のベストプラクティスをひとつのライブラリに集約。GPTQ・SmoothQuant・SparseGPT・RTNとかをHugging Faceモデルに対してサクッと適用できて、出力されたチェックポイントをvLLMがネイティブに読んで高速推論できるのがポイントだもん。 重さを減らすだけじゃなく、GPUのINT8/FP8の速いテンソルコアを使える形に「アクティ</description>
+    </item>
+    <item>
+      <title>組み込みDBの速さを体感する</title>
+      <link>https://zenn.dev/hmarui66/articles/d02d8f5a31db7f</link>
+      <pubDate>2025/12/30 16:49</pubDate>
+      <description>時と場合でいろんなキャラクターと話がしたいんじゃい！ copilot-instructions.mdを使うことの課題 以前 GitHub Copilot に特定のキャラクター人格を付与する記事を書いた。 この時の記事ではcopilot-instructions.mdを使った方法を紹介していたが、これは実際には以下の点で使いづらかった。 コーディング規約など様々な情報が一緒に書かれているファイルに人格情報が混ざると邪魔になる 他のコーディング環境（Pull Request のレビューも含む）でも同じ人格が使われてしまう 複数の人格を使い分けられない ChatGPT のカスタム指示[1]で使うならまだしも、他人と共有するプロジェクトで使うには少々難があった。 *.agent.mdという革命 あれから半年以上経ち、GitHub Copilot の周辺環境は大幅に変わっている。 *.instruc</description>
+    </item>
+    <item>
+      <title>【狂気の実証実験1】AIエージェントに電気ショック権限を付与したら生活が更生した - Qiita</title>
+      <link>https://qiita.com/motoya0118/items/da163b7f7b53fc445f63</link>
+      <pubDate>2026/01/01 22:31</pubDate>
+      <description>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?</description>
+    </item>
+    <item>
+      <title>重さ1kg,SSD2台搭載可能で10万円ちょいの高コスパモバイルノート　Mechrevo機械革命　星耀(XingYao)14 　AMD Ryzen AI 9H 365/メモリ32G/SSD1T(追加でも｜TAKASU Masakazu</title>
+      <link>https://note.com/takasu/n/nca9e6b98eac9</link>
+      <pubDate>2026/01/01 23:46</pubDate>
+      <description>この記事はLITALICO Advent Calendar 2025として書こうと思っていたのですが、まんまと遅延してしまい、さすがに2025年中には出さないといけないと思ってなんとか書き上げたものです。 書いていくうちに10,000文字を超えてしまい、さすがに１記事にするのは微妙かと思って分割しました。 ▼LITALICO Advent Calendar 2025はこちら では、早速どうぞ。 はじめにGoogleの生成AIであるGeminiには「Gems」という機能があります。 これは、プロンプトを保存・再利用・共有できる便利な機能なんですが、実は効果的に使うにはいくつかのコツがあるんですよね。僕自身、試行錯誤しながら使っていく中で「あ、これ便利だな」と思ったTipsをまとめてみました。 記事の全体像は、下記の通りです。 前提（今回の記事） 基本編（今回の記事） 応用編（２記事目） 実践</description>
+    </item>
+    <item>
+      <title>大西配列でVimを操作するようになるまでの道筋 ~今年のふりかえり~</title>
+      <link>https://zenn.dev/fools_gold/articles/8-onishi-layout</link>
+      <pubDate>2026/01/01 18:24</pubDate>
+      <description>.kiro作成ベストプラクティス AWS製AI統合仕様駆動型IDEのKiroの.kiroディレクトリを作りこむために必要なリファレンスのリンクと具体的な用意すると役に立つファイルを提示する記事です。 この記事のスタンス 本記事は、可能な限り公式ドキュメントに準拠しつつ、Geminiとの壁打ちを経て構成しました。 現時点ではプロジェクトへの完全な実践投入前のため、一部に考慮漏れや甘い箇所がある可能性があります。そのため、実際に運用して得られた知見やフィードバックを元に、随時この記事を更新・ブラッシュアップしていく「進行形のベストプラクティス」としてご覧ください。 この記事で紹介してるファイル群を実際に導入するとこんな感じになる見取り図です。 .kiro/ ├─ steering/ 　プロジェクト全体で適応される設定を定義する │ ├─api-standards.md │ ├─code-con</description>
+    </item>
+    <item>
+      <title>【Google Antigravity】実践ガイド Part 3 - チーム開発とガバナンス設計</title>
+      <link>https://zenn.dev/shineos/articles/google-antigravity-team-governance</link>
+      <pubDate>2025/12/31 18:02</pubDate>
+      <description>生成ＡＩ（人工知能）が人びとの職場や生活に急速に入り込んでいる。ＡＩをはじめとする技術と人が共に生きる世界を、３７年前に描いた漫画家がいる。「攻殻機動隊　ＴＨＥ　ＧＨＯＳＴ　ＩＮ　ＴＨＥ　ＳＨＥＬＬ…</description>
+    </item>
+    <item>
+      <title>フォン・ノイマンの壁を破るか？：NVIDIA牙城に挑む日本の革新Lenzoと「Cellの教訓」戦略｜tagtag</title>
+      <link>https://note.com/tagtag/n/nd53677bc1567</link>
+      <pubDate>2026/01/01 19:33</pubDate>
+      <description>リンク 日本経済新聞 生成AIがシステム丸ごと開発 NTTデータ、IT人材不足に抜本策 - 日本経済新聞 NTTデータグループは2026年度中にIT（情報技術）システム開発をほぼ生成AI（人工知能）が担う技術を導入する。開発工程をAIに適した形にし、人による作業を減らす。国内を中心に深刻なIT業界の人材不足を解消する抜本策となり、システム業界が労働集約型の事業モデルから転換する契機となる。開発工程そのものについて、人ではなく生成AIに合わせて単純にする「AIネーティブ開発」と呼ぶ手法を取り入れる。 291 users 166 g68式イラスト投降用 -鷹乃 梁- @g68illust @nikkei AIで効率化できる「単純な」構造は、AIを使わなくても「開発用ツールを自作」して今でもコードの自動作成はできる。 問題は、クライアントの明確な仕様・要件定義が曖昧だったりすること。 折衝担当が</description>
+    </item>
+    <item>
+      <title>2026 年に押さえておきたい AI トレンド 38 選 - izanami</title>
+      <link>https://izanami.dev/post/3f1f4ef3-2246-4b7a-b911-26b1b8980899</link>
+      <pubDate>2026/01/02 15:57</pubDate>
+      <description>テクノロジーに関連した市場調査や分析を行うCreative Strategiesが2025年12月に半導体業界の成長や今後の予測についてのレポートを公開しました。レポートでは、AIインフラの急速な拡大により半導体業界が前例のない「ギガサイクル」に突入しており、産業全体の需要・収益構造が大規模な再編を求められていることが指摘されています。 The Semiconductor Gigacycle - Creative Strategies https://creativestrategies.com/research/the-semiconductor-giga-cycle/ Semiconductor industry enters unprecedented ‘giga cycle’, says report — scale of artificial intelligence is re</description>
+    </item>
+    <item>
+      <title>Instagram責任者、AI生成画像の氾濫に対し「撮影されたメディアに透かしを入れるほうが現実的」と語る | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/01/02/4806.html</link>
+      <pubDate>2026/01/02 15:58</pubDate>
+      <description>Geminiの「Gem」機能のTips集(3/3)：実践編（共有・管理、改善、トラブルシューティング） この記事は、シリーズの3記事目です。前回の記事では「応用編」として、知識機能の活用方法や、ハルシネーション抑制、自己点検など、より実践的なTipsを紹介しました。 今回は、Gemを他の人と共有したり、管理したりする際のポイントや、トラブルシューティングの方法を紹介していきます。僕自身、チームでGemを共有しながら改善していく中で「こうすると管理しやすいな」と思った方法をまとめました。応用編を読んでいなくても大丈夫ですが、読んでおくとより理解しやすいかもしれません。 それでは、共有・管理のTipsを見ていきます。 実践編Gemを他の人にも使えるように共有するこちらは標準機能の紹介です。Gemを共有する際は、以下の点を意識しましょう。 説明欄に使用方法を明記：他の人が使えるように、使い方を書</description>
+    </item>
+    <item>
+      <title>コマンドラインからさようなら！Claude Codeの視覚的なワークフロー編集器が人気：ノードをドラッグ＆ドロップするだけでAI自動化ツールを構築</title>
+      <link>https://news.aibase.com/ja/news/24128</link>
+      <pubDate>2026/01/02 10:18</pubDate>
+      <description>経済紙のFinancial Timesによると、ヨーロッパの金融機関はAI導入で20万人の雇用削減を計画しているそうです。 AI forecast to put 200,000 European banking jobs at risk by 2030 https://www.ft.com/content/71e12f85-1edb-4156-8cb5-3fe8aef36d93 European banks plan to cut 200,000 jobs as AI takes hold | TechCrunch https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/ アメリカの金融機関であるモルガン・スタンレーの最新分析によると、金融機関がAIを導入し、実店舗を</description>
+    </item>
+    <item>
+      <title>Grokに嫌気がさし安心して使える正解SNSを選びたいあなたへ。現実を知れ。 - HIDARI日記（右）</title>
+      <link>https://hidari-lab.hatenablog.com/entry/2026/01/02/174617</link>
+      <pubDate>2026/01/02 18:07</pubDate>
+      <description>英国で「AI（人工知能）おばあちゃん」が詐欺師を「翻弄（ほんろう）」している。78歳の女性という設定の対話型AIで、名前はデイジー。電話をかけてきた詐欺師に本物の人間と会話していると思い込ませて、時…</description>
+    </item>
+    <item>
+      <title>NotebookLM をソースとした Gemini の Gem で問題定義サポーターというツールを作った - Tbpgr Blog</title>
+      <link>https://tbpgr.hatenablog.com/entry/2026/01/02/151033</link>
+      <pubDate>2026/01/03 00:05</pubDate>
+      <description>皆さん、AI駆動PM（プロジェクトマネジメント）していますか？ 活用の度合いは各社・個人によると思いますが、私は最近「AI駆動PM」と「SDD（仕様駆動開発）」が非常に相性が良いのではないかと考えるようになりました。 きっかけはトランスコスモスさんの記事きっかけとなったのは、CodeZineのトランスコスモスさんのVibe Codingについての記事です。 この記事では、要件定義書を作成するにあたり、5つのLLMにレビューをさせて、3つ以上のLLMから承認がないと先に進めないシステムが紹介されていました。 このやり方を読んだとき「これだ」と思い、弊社でも取り入れてみることにしました。 SDD（仕様駆動開発）との組み合わせまず元となる要件定義書をどう作るか考えました。 日々AI駆動PMを実践しているので、ミーティングの議事録を元にLLMに「この議事録の内容から要件定義書を作成してください」と</description>
+    </item>
+    <item>
+      <title>2026年1月時点でのClaude Code と Codex と Devin の使い分け、個人開発編 - くうと徒然なるままに</title>
+      <link>https://kuxumarin.hatenablog.com/entry/2026/01/02/231412</link>
+      <pubDate>2026/01/02 23:22</pubDate>
+      <description>AlibabaのAI研究チームであるQwenが画像生成AIモデル「Qwen-Image-2512」を2025年12月31日に公開しました。Qwen-Image-2512はAI生成画像っぽくない実写風画像を生成できることを大きな特長としています。すでにモデルをダウンロードしてローカルで実行可能になっていたので、実際に使ってみました。 Qwen-Image-2512: Finer Details, Greater Realism https://qwen.ai/blog?id=qwen-image-2512 従来のQwen-Image(左)とQwen-Image-2512(右)で同じプロンプトから生成した画像が以下。従来のQwen-Imageだと美顔フィルターを適用したような見た目になってAIっぽさがにじみ出していましたが、Qwen-Image-2512では顔も照明の当たり具合もリアルになって</description>
+    </item>
+    <item>
+      <title>コードレビューはAIを挟め！ユーザー属性に応じたAIレビューの介在でスムーズなレビューを - Qiita</title>
+      <link>https://qiita.com/Tyamamoto1007/items/9a1844b9a0a51a0e882e</link>
+      <pubDate>2026/01/03 12:33</pubDate>
+      <description>はじめに 統計検定1級取得後も学び続ける必要性を感じた背景 私は，製造業のデータ分析チームでリーダーをしている，データ分析の実務家・中間管理職である。 2023年に統計検定1級を取ったが，AI・データサイエンス分野の進化が激しく，普段の業務でデータ分析の手法を間違えずに使っていくためには，基礎と応用の両面を統計検定1級取得後も学び続ける必要があると感じた。 この記事を書く目的 これまでは，読書した後にノートにメモを残していたが，読み返したり検索したりするうえで電子化が必要だと感じた。また，統計検定1級を目指したり，私のような悩みを抱えている方の参考になるかもしれないと思ったりしたため，ブログを読書メモに書くこととした。 これまで作成した読書メモ一覧がかなり増えてきたため，2026年1月現在の情報をもとに，いったん数理統計・データサイエンスのおすすめ書籍ガイドにまとめることとした。なお，主観</description>
+    </item>
+    <item>
       <title>「確率的機械学習 入門編I」を読む　～第8章 最適化 ④確率的勾配降下法～ - jiku log</title>
       <link>https://stern-bow.hatenablog.com/entry/2025/12/27/120000</link>
       <pubDate>2025/12/30 23:47</pubDate>
@@ -1760,104 +1850,6 @@
       <link>https://gazlog.com/entry/microsoft-c-language-to-rust-by-ai/</link>
       <pubDate>2025/12/24 13:07</pubDate>
       <description>こんにちは、サイオステクノロジーの遠藤です。 クラウドAPIを使わず、手元のノートPCでLLMを動かしたいと思ったことはありませんか？ 2025年現在、軽量で高性能なモデルが続々と登場し、一般的なノートPCでも実用的なLLMを動かせるようになりました。本記事では、ノートPCで動作する主要なローカルLLMモデルを公式ソースをもとに徹底比較し、導入時の注意点まで解説します。 ローカルLLMとは？なぜ今注目されているのか ローカルLLMとは、クラウドサービスを介さず、自分のPC上で直接動作させる大規模言語モデルのことです。利用することで以下のようなメリットを得ることが出来ます。 プライバシー保護: データが外部サーバーに送信されない オフライン利用: インターネット接続なしで利用可能 コスト削減: API利用料が発生しない カスタマイズ性: ファインチューニングや独自の設定が可能 レイテンシ:</description>
-    </item>
-    <item>
-      <title>【特集】 「年末年始にPCは買える？」主要BTOを緊急調査、受注停止や納期2月など異変も</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2074073.html</link>
-      <pubDate>2025/12/24 20:04</pubDate>
-      <description>米Googleは12月23日（現地時間）、個人向けサブスクリプション「Google AI Pro」の新規ユーザー向けキャンペーンを開始した。通常は3万4800円の年額料金を期間限定で割り引き、1万4500円（月額換算で2900円→1408円）で提供する。期限は明らかにしていない。 Google AI Proは、同社のAI機能を利用できるプランの一つ。例えばチャットAIツール「Gemini」で、無料版では使えない高性能なAIモデルが利用できる他、GoogleドキュメントやGoogleスライド上でAIのサポートを受ける機能が使えたり、AIメモアプリ「NotebookLM」でよりたくさんのノート（情報を集約するスペース）を作成可能になったりする。 AIエージェント開発プラットフォーム「Google Antigravity」も使える他、画像生成AI「Nano Banana Pro」やGeminiの</description>
-    </item>
-    <item>
-      <title>NotebookLMで60ページ超の登壇スライド作成してみた - Qiita</title>
-      <link>https://qiita.com/simdroid/items/236886451b6aef7162b5</link>
-      <pubDate>2025/12/24 08:06</pubDate>
-      <description>Top &amp;gt; 学術＆研究 &amp;gt; 「知能爆発」へ“10年以内”の現実味──オックスフォード大の哲学者MacAskill氏らの警告、AIが「数年で1世紀分」の技術進歩を起こし得る</description>
-    </item>
-    <item>
-      <title>みのもんたさん AIで元日番組に - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/pickup/6563601</link>
-      <pubDate>2025/12/24 23:27</pubDate>
-      <description>本記事は、 マケデコ Advent Calendar 2025 25日目の記事です。 マケデコとはマケデコ（Market API Developer Community）というコミュニティがあります。株式投資やシステムトレードに取り組む投資家・エンジニアが集まり、データ分析や機械学習などの知見が共有されています。 このコミュニティでは毎年12月にアドベントカレンダーが企画され、参加者が惜しげもなく知見を公開しています。2023年から2025年にかけて蓄積された記事は60本を超えます。 記事一覧: advent_calendar_links.csv 次のような、トレード戦略を考える上で参考になる知見が凝縮されています。 機械学習モデルの設計とオーバーフィット対策 確率的ボラティリティモデル 寄り引けロングショート戦略 リバーサル戦略の検証 ファクター分析 LLMのトレーディング活用 人の褌で</description>
-    </item>
-    <item>
-      <title>【法務 DX 成功事例】導入2週間で契約書作成を3時間→10分に！Gemini Enterprise の活用術 | iret.media</title>
-      <link>https://iret.media/179722</link>
-      <pubDate>2025/12/25 10:37</pubDate>
-      <description>こんにちは、Findy Freelanceでフロントエンドエンジニアをしている主計（かずえ）です。 この記事は、ファインディエンジニア #3 Advent Calendar 2025の25日目の記事です。 adventar.org Dependabotが作成するPRの対応、皆さんはどのように運用していますか？依存パッケージの更新は地味ながら継続的に発生する作業で、特に少人数チームでは対応工数の比率が無視できません。 この記事では、私たちのチームがDependabot PR対応を手動運用からDevin、そしてClaude Code Actionへと段階的に改善してきた過程を紹介します。それぞれのアプローチで得られた知見と、最終的にClaude Code Actionに落ち着いた理由をお伝えします。 Dependabot PRの対応フローを効率化したい方、AIツールを活用したコードレビューの自</description>
-    </item>
-    <item>
-      <title>はてな民、逆張りが過ぎないかって話。 高市叩きが当たり前みたいになって..</title>
-      <link>https://anond.hatelabo.jp/20251225072754</link>
-      <pubDate>2025/12/25 07:30</pubDate>
-      <description>この記事は Laravel Advent Calendar 2025 - Qiita 最終日の記事です． 今年過疎すぎワロタ． はじめに 5 年前の Laravel アドベントカレンダー最終日に投稿されたこの記事を皆さんはご存知でしょうか． この記事は Zenn の Laravel トピックで歴代ランキング 1 位をキープし，日本の Laravel コミュニティではおなじみの記事となっています． Laravel の使いやすさを保ちつつ，できるだけテスタブルで，保守性を高めるためにクリーンアーキテクチャのエッセンスを一部取り込んだ，大変実用性の高いアーキテクチャを提案する価値ある記事です． 僕は 2021 年新卒のときにこの記事を初めて読み，それ以来何度もこの記事に助けられてきました． また，この記事の著者であり，「なんちゃってクリーンアーキテクチャ」の提唱者である @mpyw 氏は新卒時代</description>
-    </item>
-    <item>
-      <title>数字で振り返る freee の AI 駆動開発 - 後編 - freee Developers Hub</title>
-      <link>https://developers.freee.co.jp/entry/ai-driven-development-2025-report</link>
-      <pubDate>2025/12/25 12:12</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/011903a5b72fff54b1341c11420a894f0a1c6ab7/height=288;version=1;width=512/https%3A%2F%2Finternet.watch.impress.co.jp%2Fimg%2Fiw%2Flist%2F2074%2F241%2Fyajiuma-watch_1.png');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>FDEというあり方── エンジニアキャリアと経営・CTOをつなぐ新たな一歩として｜Matsumoto Yuki</title>
-      <link>https://note.com/y_matsuwitter/n/ne4c741ad9a17</link>
-      <pubDate>2025/12/22 09:24</pubDate>
-      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
-    </item>
-    <item>
-      <title>【衝撃】AIが「ズル」を覚えた瞬間、嘘つき・サボタージュ・悪意まで学習していた—Anthropic最新研究が示す深刻な警告｜むぎ屋@生成AI×仕事</title>
-      <link>https://note.com/mugimugi92/n/nf904801a68e4</link>
-      <pubDate>2025/12/22 16:52</pubDate>
-      <description>Qwen Chat offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</description>
-    </item>
-    <item>
-      <title>「Gemini CLI」で“コンテキスト駆動開発”を実現する「Conductor」拡張機能／Markdownの仕様書・計画書を基にした継続的な開発を支援。プレビューとして提供</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2073358.html</link>
-      <pubDate>2025/12/23 08:41</pubDate>
-      <description>OpenAIはChatGPTの利用履歴を振り返る新機能「Your Year with ChatGPT」（「あなたの1年間のChatGPTまとめ）」の提供を開始した。2025年のChatGPTとの会話内容や統計を振り返るというものだ。現在は英語圏を中心に順次展開されており、利用にはメモリ機能や履歴の設定、一定のアクティビティ基準を満たす必要がある。</description>
-    </item>
-    <item>
-      <title>Claude Codeにテストで楽をさせない技術</title>
-      <link>https://speakerdeck.com/beagle_dog_inu/claude-codenitesutodele-wosasenaiji-shu</link>
-      <pubDate>2025/12/23 05:50</pubDate>
-      <description>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert</description>
-    </item>
-    <item>
-      <title>30人分のClaudeCode体験環境を用意した話 | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/claudecode_env_for_30_people/</link>
-      <pubDate>2025/12/23 00:18</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-          </description>
-    </item>
-    <item>
-      <title>Windows 11が備える全AI機能をワンクリックでオフにするスクリプト、海外で反響集める【やじうまWatch】</title>
-      <link>https://internet.watch.impress.co.jp/docs/yajiuma/2073504.html</link>
-      <pubDate>2025/12/23 12:31</pubDate>
-      <description>人工知能（AI）で得た情報を自ら裏付け（ファクトチェック）している人の割合は若い世代ほど高いことが電通の調査で分かった。15〜19歳は70.7%と全体（63.2%）を上回った一方、60歳代は最も低い52.6%だった。調査担当者は「特に若年層においてAIを過信せず、主体的に使いこなそうとする姿勢が定着し始めている」と指摘する。15〜69歳の3000人を対象に、11月7〜9日にかけてインターネット</description>
-    </item>
-    <item>
-      <title>バクラク事業部のデータ基盤 2025: 今年一年の変化を振り返るの巻 - LayerX エンジニアブログ</title>
-      <link>https://tech.layerx.co.jp/entry/bakuraku-data-platform-2025</link>
-      <pubDate>2025/12/23 22:17</pubDate>
-      <description>&lt;/p&gt;
-          &lt;p class="entrylist-contents-thumb"&gt;
-               &lt;span style="background-image:url('https://cdn-ak-scissors.b.st-hatena.com/image/square/0684e2c85fda4dedd4ebb3f3db3fefb0c18a4923/height=288;version=1;width=512/https%3A%2F%2Fwww.watch.impress.co.jp%2Fimg%2Fipw%2Flist%2F2073%2F808%2Fkawabe1.jpg');" data-gtm-click-label="entry-info-thumbnail"&gt;&lt;/span&gt;
-          </description>
-    </item>
-    <item>
-      <title>AIの記事無断利用、「収集拒否」へ法整備を　新聞協会が政府に意見書 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA188TK0Y5A211C2000000/</link>
-      <pubDate>2025/12/23 16:10</pubDate>
-      <description>Find similar Kaggle competitions and top solutions in seconds.</description>
-    </item>
-    <item>
-      <title>ChatGPT派だった私が、Google Workspace版Geminiに「降参」した理由｜近藤敏矢</title>
-      <link>https://note.com/kondo_toshiya/n/n6c14c7eef4b4</link>
-      <pubDate>2025/12/23 18:41</pubDate>
-      <description>組織・働き方掛け声だけではない「AIオールイン」の実態。「現場のAI活用」発信とDeNAの2025年AI振り返り 2025年は、DeNAにとって特別な1年になりました。 2月、「DeNA x AI day」のオープニングで、創業者であり会長の南場が発した「AIオールイン」という言葉。それはお飾りのスローガンではなく、DeNAという企業グループ全体を進化させる1年の始まりでした。 DeNA南場智子が語る「AI時代の会社経営と成長戦略」全文書き起こし | フルスイング by DeNA フルスイングでは現場社員がどう「AIオールイン」と向き合ったのかを伝えるべく、日々のAI活用術を収集し、Xで発信し続けました。この1年でDeNAでは何が起きどう変わったのか？話題になった記事をもとに、DeNAの「AI変革」の1年を振り返ります。 4月：AIベンチャーを設立4月14日、DeNAは100%出資子会社「</description>
     </item>
   </channel>
 </rss>
